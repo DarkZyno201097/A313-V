@@ -13,8 +13,8 @@ sửa chữa cho cả khối (`CLAUDE.md` §4.8).
 ## 2. Current Project State
 
 - Repo: https://github.com/DarkZyno201097/A313-V — **PRIVATE**.
-- Branch `main`. `origin/main` = `0085cd7` (commit đầu tiên). Local có thêm
-  1 commit sửa 4.1 (PHAN-TICH, CLAUDE.md, README.md, file này) chưa push.
+- Branch `main`, đồng bộ với `origin/main`. Lịch sử: `0085cd7` (commit đầu) →
+  `ce764e9` (sửa 4.1) → commit cập nhật checkpoint này. Đã push và kiểm 2026-10-20.
 - 110 file, 132,0 MB thô; file lớn nhất 6,6 MB (`1.BVTK .../BVTK-A313-V_HS dau A.pdf`).
 - Commit identity (cấu hình local của repo): `Chanh Dinh
   <86103313+DarkZyno201097@users.noreply.github.com>` (email noreply vì tài
@@ -31,7 +31,7 @@ sửa chữa cho cả khối (`CLAUDE.md` §4.8).
 - `git init -b main`, `core.quotepath false`, commit `0085cd7`, `gh repo create A313-V --private --push`.
 - Việc 4.1 (phần chữ): người dùng duyệt diff → đã ghi vào `PHAN-TICH_...md`
   50 chỗ sửa + 1 dòng chèn đầu §10.4; cập nhật trạng thái 4.1 trong
-  `CLAUDE.md`, `README.md`. Commit cục bộ cùng file này, **chưa push**.
+  `CLAUDE.md`, `README.md`. Commit `ce764e9`, đã push (người dùng xác nhận).
 
 ## 4. Important Decisions
 
@@ -58,8 +58,10 @@ sửa chữa cho cả khối (`CLAUDE.md` §4.8).
   `__pycache__/`, `.claude/`, `History/`, `__Previews/`; 0 `.doc/.docx/.log/.pyc/~$*`.
 - PDF TMKT: 57 trang = `ComputeStatistics` của Word; lớp text 87 440 ký tự
   (3 665 Cyrillic); `.docx` gốc giữ nguyên kích thước và ngày sửa.
-- Sau push: `gh repo view` → `visibility: PRIVATE`; `git ls-remote` = HEAD local;
+- Sau push lần 1: `gh repo view` → `visibility: PRIVATE`; `git ls-remote` = HEAD local;
   cây remote 110 blob; collaborator chỉ chủ repo; truy cập ẩn danh HTTP 404.
+- Sau push lần 2 (`ce764e9`): `ls-remote` = HEAD local, 111 blob, vẫn PRIVATE,
+  ẩn danh 404, working tree sạch.
 - BV.25 ghi đúng chuỗi `2,05ΩM, 1%` (pdfplumber: BVTK trang 31,
   `BVTK-A313-V.06.pdf` trang 4).
 - Bản vá 4.1: mọi chuỗi cũ khớp đúng 1 lần/dòng (assert); quét lại chỉ còn
@@ -72,7 +74,6 @@ Commit `0085cd7` trên `origin/main` là bản sạch, private, đủ tài liệ
 
 ## 8. Unfinished Work
 
-- Push commit 4.1 lên `origin/main` — chờ người dùng xác nhận.
 - 4.1 còn lại: rà §5.2 và §10.4 so với Rev. B — **không có bản Rev. B** trong thư mục.
 - 4.2 dời `tmp/pdfs/review/` → `Phan-bien/`; B08 thiếu bảng số; 2 câu hỏi `~5V/400Hz`;
   tấm .05; phân tích toàn khối (§4.8).
@@ -85,5 +86,6 @@ Commit `0085cd7` trên `origin/main` là bản sạch, private, đủ tài liệ
 
 ## 10. Exact Next Step
 
-Người dùng xác nhận → `git push` commit 4.1 → kiểm `git ls-remote` = HEAD.
-Sau đó mở phiên cloud cho §4.8 (phân tích toàn khối) hoặc làm 4.2.
+Mở phiên cloud trên repo `A313-V` cho `CLAUDE.md` §4.8 (phân tích toàn khối,
+hướng sửa chữa), bắt đầu từ `A313 original/A-313-2.pdf` (tìm hỏng hóc) và
+SchDoc các tấm; hoặc làm 4.2 (dời `tmp/pdfs/review/` → `Phan-bien/`).
