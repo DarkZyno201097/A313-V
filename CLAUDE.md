@@ -120,7 +120,8 @@ Vin/Vo** (bài B08-1a+ trở đi) — chưa tính được gain/offset/độ tuy
   **Cập nhật 2026-10-20** (`PHAN-TICH_TOAN-KHOI_A313-V.md` §2.5): BV.01, TMKT §4/§6.5
   và phụ lục đầu cắm chỉ ra **biến thế trên sát-xi** (`Tp1`), sơ cấp 3Ш4/55 (~36 V ФА)
   và 3Ш4/56 (~36 V ФС qua cầu chì 4 A), thứ cấp → DC11.A5. Không bản vẽ nào vẽ biến
-  thế ⇒ vẫn phải đo (việc H2).
+  thế ⇒ vẫn phải đo (việc H2). Khối gốc A-313-3 cũng tạo `УПР. МОД 1/2` từ 5 V 400 Hz
+  pha AC (`A-313-3.HDSDKT.pdf` §2.2.2, trang PDF 49) — cùng nguồn lưới.
 
 ### 4.7. Chưa làm: phân tích tấm **A313-V.05**
 

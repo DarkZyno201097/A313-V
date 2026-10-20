@@ -5,6 +5,10 @@
 thế hồ sơ gốc A32. Tấm .06 đã có phân tích riêng (`PHAN-TICH_A313-V.06_KHUECH-DAI-TIN-HIEU-RA.md`,
 Rev. C) — ở đây chỉ tóm tắt và nối vào toàn khối.
 
+**Rev. A1 (cùng ngày):** bổ sung hai điểm đối chiếu với khối gốc A-313-3 ([A3] §2.2.2, trang PDF
+45 và 49): tầng chuyển mạch K nằm trên tấm tích phân (§3.3, §6 U21) và tín hiệu điều chế
+`УПР. МОД 1/2` lấy từ 5 V 400 Hz pha AC (§2.5, §6 U1).
+
 > ⚠ Mọi kết luận "cấp linh kiện" lấy từ **SchDoc vẽ lại** đều là ứng viên. Chỗ nào đã đối chiếu
 > được với BVTK/TMKT thì ghi ✅; chỗ chỉ có một nguồn ghi ◐; chỗ các nguồn mâu thuẫn ghi ⚠ và có
 > mặt trong bảng §6. Trước khi hàn/thay linh kiện theo bảng này, đo nguội xác nhận trên tấm thật.
@@ -240,6 +244,15 @@ ngoài và kênh vào 12a/12б (chuẩn 45° của A-313-3: "các cửa vào 12a
 5 V 400 Hz", [A3] §2.3) có trên .02 (DC3.A14, DC3.B15) nhưng không có trên 3Ш3 ⇒ rất có thể cũng
 lấy từ biến thế này (◐ — cần đo thông mạch, §5 việc H2).
 
+**Đối chiếu khối gốc A-313-3** ([A3] §2.2.2, trang PDF 49): các bộ khuếch đại cửa ra (Y10, tương
+đương .06) "điều chế tín hiệu bằng tần số 400 Hz **của pha AC**" và "các tín hiệu điều khiển
+`УПР. МОД. 1`, `УПР. МОД 2` được tạo ra từ **điện áp 5 V 400 Hz**" ⇒ trong khối gốc, chuẩn
+5 V 400 Hz cũng lấy từ lưới 36 V giữa pha A và pha C — **cùng sơ cấp** với biến thế của A313-V
+(3Ш4/55–56). Đây là thêm một căn cứ cho kết luận ở trên, vẫn không thay phép đo H2. Trong A313-V,
+3Ш3B/50–51 còn mang tên `Упр мод 1`/`Упр мод 2` nhưng phụ lục để trống đích (`tmkt_3Sh_pinout.csv`,
+assert trong `tk_connectors.py`), còn .06 tự tạo М/М̄ từ DC11.A5 ⇒ hai chân này có thể chỉ là di sản
+bảng chân A-313 (◐, kiểm thông mạch khi làm H11).
+
 ---
 
 ## 3. TỪNG TẤM
@@ -297,6 +310,11 @@ Cây mux (`mux_tree_02.csv`, cả 48 đầu vào đều qua đúng 3 tầng):
 | L2 (chọn nhóm) | `Упр. T1…T4` (SchDoc `upr. t1…4`) | U1 (a/б kênh 1–8), U13 (a/б 9–16), U3 (PK1–8), U15 (PK9–16) |
 | L3 | ⚠ SchDoc nối cổng vào net `−23V/contr cod ttl` | U2 (kênh 1–8 cả a/б/PK), U14 (kênh 9–16) |
 
+Khối gốc chỉ có ba tầng t → T → K, và **tầng K nằm trên tấm tích phân** ([A3] §2.2.2, trang PDF 45),
+tương ứng U4/U5/U6 của .03 (§3.3). Vì vậy U2/U14 trên .02 là một tầng thêm so với khối gốc. Nếu cổng
+của nó nối cứng −23 V (luôn đóng) như SchDoc vẽ thì đó có thể là chủ ý thiết kế, nhưng nhãn
+`contr cod ttl` trên cùng net vẫn phải kiểm (◐, §5 H3, H10).
+
 **Bộ chia vào** (tính trong `tk_mux_tree.py`): kênh thường 5 kΩ/5 kΩ ⇒ **0,5** ⇒ 8 V đỉnh vào cho
 4 V tại mux (khớp "8 V" của [TMKT]/[GA]; [HDSD] ghi 12 V là chép từ A-313-7 vốn chia 3:1). Kênh
 **12a: 10 kΩ/5 kΩ = 1/3; 12б: 10,15 kΩ/5 kΩ = 0,330** — kênh chuẩn nội được thiết kế riêng.
@@ -331,8 +349,10 @@ DC3.B24/C24/A25/B25 (cũng ra 3Ш3/55–62); nguồn theo bảng §2.2.
 `Упр АП` (tự chỉnh), `Упр НУ` (quy không), `Упр ИНТ` (tích phân), mức −23/+3,5 V do .02 cấp.
 **ЦУС** (điện trở số) U27, U29, U31, U32 do `РМ 8р–15р` (2 bit/vỏ, ✅ SchDoc = [TMKT]) chỉnh hằng
 số thời gian rãnh sin để mã kênh chuẩn 12 bằng 45° (mã ghi ở `ОЗУ 227₈`, [A1] §2.5.1). Chọn nguồn
-vào U4/U5/U6 theo `Упр К1…К4`: đầu ra mux .02 hoặc 3 kênh trực tiếp **К1…К3** (3Ш3/46–54) — ◐
-logic chọn chưa dò (§6 U21). So sánh lệnh đơn: T1 → `Вых. Комп. РК` (DC5.A5; ◐ tên phía .01 chưa
+vào U4/U5/U6 theo `Упр К1…К4`: đầu ra mux .02 hoặc 3 kênh trực tiếp **К1…К3** (3Ш3/46–54). Đây
+đúng là cấu trúc gốc: [A3] §2.2.2 (trang PDF 45) ghi chuyển mạch vào ba tầng do t1–t4, T1–T4,
+K1–K4 điều khiển, "tầng thứ ba của bộ chuyển mạch được bố trí ở tấm mạch các bộ tích phân". Mạch
+chọn chi tiết vẫn chưa dò (§6 U21). So sánh lệnh đơn: T1 → `Вых. Комп. РК` (DC5.A5; ◐ tên phía .01 chưa
 khớp được, [GA] có nêu đường này).
 
 **Linh kiện** (BV.13 = SchDoc): 10 × 140УД1Б (U33…U40, U61, U62), 25 × 168КТ2 (19 Б + 6 В),
@@ -589,7 +609,7 @@ Mọi phép đo ghi kèm điện áp nguồn, nhiệt độ, tải, phiên bản
 
 | # | Nội dung | Nguồn A | Nguồn B | Ảnh hưởng | Cách chốt |
 |---|---|---|---|---|---|
-| U1 | Nguồn gốc & biên độ ~5 V/400 Hz | TMKT/BV.01/phụ lục: biến thế sát-xi, sơ cấp ФА–ФС ~36 V | không bản vẽ nào vẽ biến thế; rms/đỉnh chưa đo | thời điểm М/xung400Hz (.06); kênh chuẩn 12 | H2 |
+| U1 | Nguồn gốc & biên độ ~5 V/400 Hz | TMKT/BV.01/phụ lục: biến thế sát-xi, sơ cấp ФА–ФС ~36 V; [A3] tr. 49: khối gốc tạo `УПР. МОД` từ 5 V 400 Hz pha AC | không bản vẽ nào vẽ biến thế; rms/đỉnh chưa đo | thời điểm М/xung400Hz (.06); kênh chuẩn 12 | H2 |
 | U2 | Biên độ vào tương tự | TMKT, GA: 8 V; bộ chia 0,5 (SchDoc, BV.09) | HDSD §3.2.4: 12 V | chọn mức thử ATE .02 | đo trên máy bay/khối tốt |
 | U3 | Trị số R16…R94 (.02) | BV.09: 64 × 160 Ω | SchDoc: 5 kΩ; kênh 12: 10 kΩ, 10,15 kΩ | tải СКТ 320 Ω vs 10 kΩ; tỷ số kênh 12 | H4 |
 | U4 | Phân công module nguồn | BV.33 = SchDoc = GA (U2 PTN78020A −6,3 V; U5 THN30-2422; U6 TEN40-2411N) | TMKT §6.7 (U3 PTN04050A; U5 TEN40; U6 TEN25-2422) | thay thế linh kiện | nhìn nhãn module |
@@ -609,7 +629,7 @@ Mọi phép đo ghi kèm điện áp nguồn, nhiệt độ, tải, phiên bản
 | U18 | Nhãn chồng trong SchDoc | `.02`: `-23V/contr cod ttl`, `GND/a`; `.04`: `30/GND/a/общий провод`, `-20V/-23V`; `.03`: `GND/OT` | — | netlist sai ở các net đó | H3, H10 |
 | U19 | Khả năng tải đầu ra DC .05 | A2 Hình 104: tải ≥ 3 kΩ | SchDoc: kéo lên 330 kΩ chỉ cấp ≈ 26 µA ở 4 V, tải 3 kΩ cần ≈ 1,33 mA (`numbers.json: out_05`) | ra DC có thể không đạt khi tải thấp, hoặc còn tầng đệm chưa thấy | H13 + BV.18 400 dpi |
 | U20 | .05: 57 vỏ, giải thích được 56 (24 L1 + 6 L2 + 2 L3 + 24 tầng lặp) | — | — | 1 vỏ (có thể ô `Выход б`) | dò BV.18 |
-| U21 | Logic chọn nguồn vào .03 (U4/U5/U6, `Упр К1…К4`) | TMKT: không nói | SchDoc: có 3 kênh trực tiếp К1–К3 | cây §4.3.1 dòng cuối | dò BV.10 |
+| U21 | Mạch chọn chi tiết của tầng K trên .03 (U4/U5/U6, `Упр К1…К4`) và quan hệ với tầng U2/U14 của .02 | [A3] tr. 45: tầng K của chuyển mạch vào nằm trên tấm tích phân (vai trò đã rõ) | SchDoc: có 3 kênh trực tiếp К1–К3; TMKT không nói | cây §4.3.1 hai dòng cuối | dò BV.10, H10 |
 | U22 | Ánh xạ .02/.06/.09 ↔ Y12/Y13, Y10, Y16 của A-313-3 | theo tên chức năng | — | chỉ ảnh hưởng tra cứu tài liệu gốc | — |
 | U23 | Netlist tấm trung gian .09 | BV.38 nhãn vector, không OCR | liên kết suy theo tên | §2.4 | H11 hoặc OCR trên máy làm việc |
 | U24 | Mã `860` (Hình 108) | — | — | — | tài liệu A-313-2A |

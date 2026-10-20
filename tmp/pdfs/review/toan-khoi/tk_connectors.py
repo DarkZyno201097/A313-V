@@ -87,6 +87,8 @@ def main():
     assert key[('3Ш4', 2)]['signal'] == 'Выход РК1' and key[('3Ш4', 2)]['dc'] == 'DC13'
     assert 'biến thế' in key[('3Ш4', 55)]['dest'] and '400' in key[('3Ш4', 55)]['signal']
     assert key[('3Ш3B', 55)]['signal'] == 'Uоп ~5В'
+    assert [key[('3Ш3B', n)]['signal'] for n in (50, 51)] == ['Упр мод 1', 'Упр мод 2']
+    assert not key[('3Ш3B', 50)]['dest'] and not key[('3Ш3B', 51)]['dest']  # destination left blank in TMKT
     for c in ('3Ш3', '3Ш3B', '3Ш4', '3Ш4B'):
         got = sorted(r['pin'] for r in rows if r['connector'] == c)
         assert got == list(range(1, 68)), (c, len(got), sorted(set(range(1, 68)) - set(got)))
