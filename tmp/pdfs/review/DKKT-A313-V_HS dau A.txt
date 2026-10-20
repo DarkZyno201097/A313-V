@@ -1,0 +1,1154 @@
+PAGE 1
+QUÂN CHỦNG PHÒNG KHÔNG - KHÔNG QUÂN
+VIỆN KỸ THUẬT
+THIẾT BỊ MÁY TÍNH DẪN ĐƯỜNG A313-V
+ĐIỀU KIỆN KỸ THUẬT
+07MB.A313-V.ĐK
+HÀ NỘI - 2019
+PAGE 2
+QUÂN CHỦNG PHÒNG KHÔNG - KHÔNG QUÂN
+VIỆN KỸ THUẬT
+PHÊ DUYỆT
+Ngày tháng năm 2019
+THIẾT BỊ MÁY TÍNH DẪN ĐƯỜNG A313-V
+ĐIỀU KIỆN KỸ THUẬT
+07MB.A313-V.ĐK
+Ngày tháng năm 2019
+VIỆN TRƯỞNG
+Đại tá Nguyễn Hữu Đoàn
+HÀ NỘI - 2019
+PAGE 3
+
+PAGE 4
+MỤC LỤC
+Mục Nội dung Trang
+Mở đầu 4
+1 Phạm vi áp dụng 5
+2 Yêu cầu kỹ thuật 5
+2.1 Yêu cầu chung 5
+2.2 Chỉ tiêu kỹ thuật 6
+3 Quy tắc nghiệm thu 8
+3.1 Thứ tự kiểm tra sản phẩm 8
+3.2 Dạng kiểm tra 8
+3.3 Điều kiện kiểm tra 8
+3.4 Các phương tiện đo, kiểm tra 9
+4 Phương pháp kiểm tra 9
+4.1 Kiểm tra yêu cầu chung 9
+4.2 Kiểm tra chỉ tiêu kỹ thuật 9
+4.3 Kiểm tra khả năng làm việc bằng bằng thiết bị 9
+chuyên dụng ПС17-318, ПС17-319
+4.4 Kiểm tra khả năng làm việc bằng thiết bị chuyên 12
+dụng PS17-320V
+5 Xử lý chung 20
+6 Bảo quản, vận chuyển, bảo hành 20
+6.1 Bảo quản và vận chuyển 20
+6.2 Bảo hành 21
+Phụ lục A 22
+Phụ lục B 23
+Phụ lục C 25
+Phụ lục D 26
+THIẾT BỊ MÁY TÍNH DẪN ĐƯỞNG A313-V
+S.đ Slg Số tài liệu Chữ ký Ngày 07MB.A313-V.ĐK
+ĐIỀU KIỆN
+PTr.Phòng Nguyễn Văn Biển
+KỸ THUẬT
+Thiết kế Nguyễn M. Cường Tờ số: Số tờ: 26
+Kiểm tra Bùi Cao Ninh
+VIỆN KỸ THUẬT PK-KQ
+K.T.T.C Nguyễn M. Cường
+PAGE 5
+Mở đầu
+Điều kiện kỹ thuật này áp dụng đối với thiết bị máy tính dẫn đường A313-V
+sử dụng trên máy bay Su-27 được Viện Kỹ thuật PK-KQ thiết kế, chế tạo.
+Điều kiện kỹ thuật thiết bị máy tính dẫn đường A313-V do Viện Kỹ thuật
+PK-KQ biên soạn và đề nghị Quân chủng PK-KQ ban hành.
+THIẾT BỊ MÁY TÍNH DẪN ĐƯỞNG A313-V
+S.đ Slg Số tài liệu Chữ ký Ngày 07MB.A313-V.ĐK
+ĐIỀU KIỆN
+PTr.Phòng Nguyễn Văn Biển
+KỸ THUẬT
+Thiết kế Nguyễn M. Cường Tờ số: Số tờ: 26
+Kiểm tra Bùi Cao Ninh
+VIỆN KỸ THUẬT PK-KQ
+K.T.T.C Nguyễn M. Cường
+PAGE 6
+1. Phạm vi áp dụng
+Điều kiện kỹ thuật này quy định yêu cầu kỹ thuật và phương pháp kiểm tra
+thiết bị máy tính dẫn đường A313-V sau sản xuất.
+2. Yêu cầu kỹ thuật
+2.1. Yêu cầu chung
+2.1.1. Hồ sơ, lý lịch, tài liệu
+- Tài liệu TMKT-HDSD đầy đủ, đúng quy định;
+- Hồ sơ sản xuất được lập và đăng ký đúng quy định;
+- Lý lịch đúng quy định, có xác nhận của Thủ trưởng đơn vị.
+2.1.2. Yêu cầu về đồng bộ
+Các chi tiết đồng bộ kèm theo đúng, đủ như đăng kí trong lý lịch.
+2.1.3. Yêu cầu về ngoại quan
+- Hình thức, mẫu mã phải đảm bảo tính thẩm mỹ, chắc chắn;
+- Ký hiệu, số hiệu khắc trên nhãn, mác phải đủ, rõ nét, dễ đọc và đúng quy định
+nêu trong Phụ lục A.
+- Tên của thiết bị được ghi rõ ràng trên mặt trên của thiết bị;
+- Các đèn tín hiệu, đầu cắm ở trước mặt thiết bị phải được kí hiệu đầy đủ, rõ
+ràng.
+- Các dây dẫn điện nối các panel với nhau và nối đến các chân cắm của các đầu
+cắm được hàn cố định, chắc chắn, bó gọn gàng, có vỏ bọc;
+- Các Panel được cố định chắc chắn vào khung, vỏ bằng các vít cố định.
+2.1.4. Yêu cầu về nguyên vật liệu
+Các panel chức năng trong thiết bị máy tính dẫn đường A313-V sử dụng các
+nguyên vật liệu có các tham số, chỉ tiêu kỹ thuật nêu trong Phụ lục B.
+2.1.5. Yêu cầu về lắp ráp và tổng lắp
+THIẾT BỊ MÁY TÍNH DẪN ĐƯỞNG A313-V
+S.đ Slg Số tài liệu Chữ ký Ngày 07MB.A313-V.ĐK
+ĐIỀU KIỆN
+PTr.Phòng Nguyễn Văn Biển
+KỸ THUẬT
+Thiết kế Nguyễn M. Cường Tờ số: Số tờ: 26
+Kiểm tra Bùi Cao Ninh
+VIỆN KỸ THUẬT PK-KQ
+K.T.T.C Nguyễn M. Cường
+PAGE 7
+2.1.5.1. Các yêu cầu về lắp các linh kiện trong khối
+- Các panel xử lý tín hiệu và panel chuyển mạch được cố định chắc chắn, các
+mối hàn bóng chắc;
+2.1.5.2. Yêu cầu về mối hàn, mối nối và các bộ phận dẫn điện khác
+- Các mối hàn, mối nối phải chắc chắn, đảm bảo tiếp xúc tốt. Mối hàn phải
+tròn, bóng và không có khuyết tật;
+- Các mối hàn, mối nối phải cách phần vỏ kim loại trên 5 mm (trừ các trường
+hợp đặc biệt có chỉ dẫn riêng);
+- Các dây dẫn điện phải có vỏ bọc cách điện;
+- Một dây dẫn không có nhiều hơn 02 mối nối.
+2.1.5.3. Yêu cầu về tổng lắp
+- Thiết bị phải có kết cấu cơ khí chắc chắn, tháo lắp các panel dễ dàng, thuận tiện;
+- Thiết bị máy tính dẫn đường A313-V phải đảm bảo khả năng lắp lẫn với thiết
+bị A313 (gồm khối A313-2A và A313-3) do Liên bang Nga chế tạo trên máy bay
+Su-27.
+2.2. Chỉ tiêu kỹ thuật
+Các chỉ tiêu kỹ thuật chính của thiết bị dẫn đường A313-V được quy định
+trong bảng 1.
+Bảng 1. Tham số kỹ thuật
+TT Tham số Đơn vị Yêu cầu
+1 Khối lượng kg ≤ 10
+2 Kích thước (dài x rộng x cao) mm 436 x 156 x 195
+3 Số lượng các điểm được chương trình hóa:
+- Số sân bay (АЭР); 5
+- Các điểm trung gian trong hành trình bay (ППМ); 9
+- Các đài chỉ chuẩn (РМ). 5
+THIẾT BỊ MÁY TÍNH DẪN ĐƯỞNG A313-V
+S.đ Slg Số tài liệu Chữ ký Ngày 07MB.A313-V.ĐK
+ĐIỀU KIỆN
+PTr.Phòng Nguyễn Văn Biển
+KỸ THUẬT
+Thiết kế Nguyễn M. Cường Tờ số: Số tờ: 26
+Kiểm tra Bùi Cao Ninh
+VIỆN KỸ THUẬT PK-KQ
+K.T.T.C Nguyễn M. Cường
+PAGE 8
+TT Tham số Đơn vị Yêu cầu
+4 Số lượng tham số của mỗi điểm dẫn đường 4
+5 Dung lượng bộ nhớ:
+- Bộ nhớ cố định (ROM); MB 8192 từ 18 bít
+- Bộ nhớ tạm thời (RAM); MB 768 từ 18 bít
+- Bộ nhớ bán cố định (EEPROM). MB 256 từ 18 bít
+6 Tín hiệu vào:
+- Tín hiệu tương tự 8V/400Hz từ các biến thế sin cos; kênh 11
+- Tín hiệu tương tự từ các truyền cảm điện áp tương đối; kênh 4
+- Tín hiệu mã nối tiếp; kênh Có
+- Lệnh đơn (+27V, hở mạch); lệnh 16
+- Lệnh đơn mức logic TTL. lệnh 8
+7 Tín hiệu ra:
+- Tín hiệu tương tự cung cấp cho biến thế sin cos kênh 8
+4V/400Hz;
+- Tín hiệu tương tự tỷ lệ theo góc sin cos ±4V; kênh 8
+- Tín hiệu tương tự tỷ lệ tuyến tính, mức 4V; kênh 16
+- Tín hiệu mã nối tiếp; kênh Có
+- Lệnh đơn (+27V, hở mạch); lệnh 16
+- Lệnh đơn colector hở (chập mát, hở mạch). lệnh 16
+8 Khi làm việc trong thành phần tổ hợp dẫn đường Tương đương với thiết
+ПНК-10, thiết bị phải đảm bảo các chế độ hoạt bị A313 (gồm A313-2A
+động của hệ thống đúng theo các yêu cầu của quy và A313-3) do Liên
+trình sử dụng. bang Nga chế tạo.
+9 Thời gian chuẩn bị làm việc giây 3
+10 Dòng điện tiêu thụ:
++ Điện áp +27V; A ≤ 11
++ Điện áp ~36V/400Hz. A ≤ 0,7
+THIẾT BỊ MÁY TÍNH DẪN ĐƯỞNG A313-V
+S.đ Slg Số tài liệu Chữ ký Ngày 07MB.A313-V.ĐK
+ĐIỀU KIỆN
+PTr.Phòng Nguyễn Văn Biển
+KỸ THUẬT
+Thiết kế Nguyễn M. Cường Tờ số: Số tờ: 26
+Kiểm tra Bùi Cao Ninh
+VIỆN KỸ THUẬT PK-KQ
+K.T.T.C Nguyễn M. Cường
+PAGE 9
+3. Quy tắc nghiệm thu
+3.1. Thứ tự kiểm tra sản phẩm
+3.1.1. Kiểm tra yêu cầu chung
+- Kiểm tra hồ sơ, lý lịch, tài liệu;
+- Kiểm tra tính đồng bộ;
+- Kiểm tra ngoại quan sản phẩm;
+- Kiểm tra chỉ tiêu, tham số kỹ thuật của nguyên vật liệu;
+- Kiểm tra quá trình lắp ráp và tổng lắp.
+3.1.2. Kiểm tra chỉ tiêu kỹ thuật chính của thiết bị máy tính dẫn đường A313-V
+3.1.3. Kiểm tra khả năng làm việc bằng thiết bị chuyên dụng ПС17-318, ПС17-319
+3.1.3. Kiểm tra khả năng làm việc bằng thiết bị chuyên dụng ПС17-320V
+3.2. Dạng kiểm tra
+Kiểm tra sản phẩm theo kế hoạch. Nếu xuất hiện hỏng hóc phải sửa chữa,
+khắc phục hoặc thay thế các chi tiết khác. Khi sản phẩm hoàn thiện mới được
+nghiệm thu.
+3.3. Điều kiện kiểm tra
+3.3.1. Điều kiện môi trường
+- Nơi để thiết bị máy tính dẫn đường A313-V và các phương tiện kiểm tra phải
+khô ráo, thoáng mát, không gần các nguồn phát thải chất ăn mòn;
+- Nhiệt độ không khí: Từ 15oC đến 30oC;
+- Độ ẩm tương đối của không khí: Không lớn hơn 85%.
+3.3.2. Điều kiện đảm bảo
+- Mặt nền bằng phẳng, chắc chắn;
+- Triển khai trong nhà, đảm bảo đủ ánh sáng;
+- Điện áp DCV: (27  3)V; ACV ~36V/400Hz.
+THIẾT BỊ MÁY TÍNH DẪN ĐƯỞNG A313-V
+S.đ Slg Số tài liệu Chữ ký Ngày 07MB.A313-V.ĐK
+ĐIỀU KIỆN
+PTr.Phòng Nguyễn Văn Biển
+KỸ THUẬT
+Thiết kế Nguyễn M. Cường Tờ số: Số tờ: 26
+Kiểm tra Bùi Cao Ninh
+VIỆN KỸ THUẬT PK-KQ
+K.T.T.C Nguyễn M. Cường
+PAGE 10
+3.4. Các phương tiện đo, kiểm tra
+Khi tiến hành kiểm tra các tham số kỹ thuật của thiết bị máy tính dẫn đường
+A313-V phải sử dụng các phương tiện đo, kiểm tra quy định trong bảng 2.
+Bảng 2. Danh mục phương tiện đo, kiểm tra
+Đặc tính kỹ thuật
+Tên, ký hiệu
+STT Sai số hoặc
+phương tiện đo, kiểm tra Phạm vi đo
+cấp chính xác
+1 Đồng hồ điện đa năng - Điện trở: Đến 50 M  1,2 %
+- Điện áp một chiều: Đến 1000 V  1,05 %
+- Dòng điện một chiều: Đến 10 A  2,2 %
+2 Máy hiện sóng - Điện áp: Đến 300 V  3 %
+- Tần số: Đến 100 MHz  2,5 %
+3 Bàn kiểm tra ПС17-318, Theo quy trình kiểm tra Theo nội dung
+ПС17-319, ПС17-320V quy trình kiểm tra
+CHÚ THÍCH: Các phương tiện đo, kiểm tra trên phải được kiểm định và còn thời hạn hiệu lực kiểm
+định. Cho phép dùng các phương tiện đo, kiểm tra có cấp chính xác bằng hoặc cao hơn.
+4. Phương pháp kiểm tra
+4.1. Kiểm tra yêu cầu chung
+Kiểm tra hồ sơ, lý lịch, tài liệu, đồng bộ, ngoại quan, nguyên vật liệu, lắp ráp
+và tổng lắp của của thiết bị máy tính dẫn đường A313-V phải đạt yêu cầu theo
+Mục 2.1.
+4.2. Kiểm tra chỉ tiêu kỹ thuật
+Kiểm tra các chỉ tiêu kỹ thuật, kết quả phải đạt yêu cầu theo quy định tại Mục 2.2.
+4.3. Kiểm tra khả năng làm việc bằng thiết bị chuyên dụng ПС17-318,
+ПС17-319
+Kiểm tra khả năng làm việc của máy tính dẫn đường A313-V bằng thiết bị
+chuyên dụng ПС17-318, ПС17-319, kết quả phải đạt yêu cầu theo các nội dung
+trong bảng 3.
+THIẾT BỊ MÁY TÍNH DẪN ĐƯỞNG A313-V
+S.đ Slg Số tài liệu Chữ ký Ngày 07MB.A313-V.ĐK
+ĐIỀU KIỆN
+PTr.Phòng Nguyễn Văn Biển
+KỸ THUẬT
+Thiết kế Nguyễn M. Cường Tờ số: Số tờ: 26
+Kiểm tra Bùi Cao Ninh
+VIỆN KỸ THUẬT PK-KQ
+K.T.T.C Nguyễn M. Cường
+PAGE 11
+Bảng 3. Trình tự kiểm tra thiết bị A313-V bằng thiết bị chuyên dụng
+ПС17-318, ПС17-319
+TT Nội dung, các bước tiến hành Yêu cầu kỹ thuật
+1 Kiểm tra trạng thái làm việc của thiết bị A313-V ở chế độ kiểm tra (Контроль)
+1.1 Kiểm tra trạng thái kỹ thuật của thiết bị A313-V
+ở chế độ tự kiểm tra theo phiếu công nghệ số
+208-ЕУ1.247.199 РЭ:
+- Bật nguồn, cung cấp nguồn điện cho thiết bị - Sau 3 giây sau khi bật nguồn,
+A313-V (thông qua thiết bị ПС17-318, ПС17- đèn ОТКАЗ trên thiết bị A313-
+319), kiểm tra trạng thái làm việc của thiết bị 6M phải tắt.
+A313-V.
+- Ấn phím КОНТР trên thiết bị A313-6M, kiểm - Trên ô thông tin sẽ hiển thị mã
+tra mã báo kết quả kiểm tra trên ô thông tin. T777000.
+2 Kiểm tra tính năng và các tham số kỹ thuật của thiết bị A313-V ở các chế độ
+làm việc
+2.1 Kiểm tra tính năng nhập chương trình bay của Việc nhập chương trình bay phải
+thiết bị A313-V: đảm bảo ổn định theo đúng yêu
+- Thực hiện nhập chương trình bay theo phiếu cầu.
+công nghệ số 210 ЕУ1.247.199 РЭ.
+- Nhập các điểm ППМ, АЭР, РМ theo các tham số
+trong bảng số 205 trang 234 của tài liệu
+ЕУ1.247.199 РЭ.
+2.2 Kiểm tra dữ liệu chương trình bay đã nhập vào Dữ liệu đầy đủ và chính xác.
+thiết bị A313-V:
+Thao tác hiển thị tự động chương trình bay theo
+phiếu công nghệ số 219 ЕУ1.247.199 РЭ.
+2.3 Kiểm tra tính năng lưu giữ thông tin của bộ nhớ Dữ liệu thông tin về thời gian tại
+RAM của thiết bi A313-V: Tắt nguồn cung cấp thời điểm tắt máy gần nhất được
+cho thiết bị A313-V. Sau thời gian lớn hơn 10 lưu giữ tốt trong bộ nhớ RAM.
+giây bật lại thiết bị, kiểm tra dữ liệu thông tin Thiết bị A313-V đếm thời gian
+thời gian được lưu giữ trong bộ nhớ RAM. tiếp tục từ thời gian này.
+2.4 Kiểm tra tính năng nhập thời gian tức thời vào thiết Thời gian được nhập và hiển thị
+bị A313-V theo phiếu công nghệ số 211 đúng trên ô thông tin ИНФ.
+ЕУ1.247.199 РЭ.
+2.5 Kiểm tra tính năng thay đổi điểm dẫn đường từ Các điểm dẫn đường thay đổi
+bảng điều khiển theo phiếu công nghệ số 214 theo đúng thao tác chọn.
+ЕУ1.247.199 РЭ.
+THIẾT BỊ MÁY TÍNH DẪN ĐƯỞNG A313-V
+S.đ Slg Số tài liệu Chữ ký Ngày 07MB.A313-V.ĐK
+ĐIỀU KIỆN
+PTr.Phòng Nguyễn Văn Biển
+KỸ THUẬT
+Thiết kế Nguyễn M. Cường Tờ số: Số tờ: 26
+Kiểm tra Bùi Cao Ninh
+VIỆN KỸ THUẬT PK-KQ
+K.T.T.C Nguyễn M. Cường
+PAGE 12
+TT Nội dung, các bước tiến hành Yêu cầu kỹ thuật
+2.6 Kiểm tra tính năng thay đổi phương pháp điều Chế độ được chọn hiển thị đúng
+khiển chuyến bay từ bảng điều khiển theo phiếu trong ô hông tin РЕЖИМ.
+công nghệ số 215 ЕУ1.247.199 РЭ.
+2.7 Kiểm tra tính năng đặt cự ly vòng theo phiếu Cự ly cần đặt hiển thị đúng trong
+công nghệ số 216 ЕУ1.247.199 РЭ. ô thông tin Д10.
+2.8 Kiểm tra độ chính xác mã hóa ở chế độ kiểm tra Kết quả mã hóa được ghi ở ô
+(góc bằng 45º). nhớ 0013 với độ chính xác mã
+8
+hóa theo yêu cầu.
+2.9 Kiểm tra nhận các lệnh đơn PK-1  PK-16. Các lệnh đơn PK-1PK-16 được
+nhận và ghi lưu chính xác vào bít
+15 các ô nhớ 0000000017 bộ nhớ
+RAM của thiết bị A313-V.
+2.10 Kiểm tra phiên bản phần mềm trong bộ nhớ Dữ liệu hiển thị trên ô thông tin
+ROM bằng chế độ kiểm tra “Контрольная ИНФ thể hiện phiên bản phần
+задача 2”. mềm trong bộ nhớ rom A313-V.
+2.11 Kiểm tra các điện áp nguồn thứ cấp: Các điện áp đo đươc của các
+Dùng đồng hồ đo điện áp đo các điện áp nguồn nguồn thứ cấp phải nằm trong
+thứ cấp: +5V, +12,6V, -12,6V, -23V, +6,3V, dải danh định cho phép là  5%.
++3,5V.
+2.12 Đo dòng điện tiêu thụ của thiết bị đối với điện áp ≤ 11A.
+nguồn +27V.
+2.13 Đánh giá độ chính xác truyền nhận thông tin nối Việc điều khiển và hiển thị trên
+tiếp thông qua chế độ giao tiếp giữa thiết bị thiết bị A313-6M đảm bảo đúng
+A313-V với thiết bị A313-6M. yêu cầu ở các chế độ.
+2.14 Kiểm tra các tham số điện của thiết bị A313-V Kết quả kiểm tra phải đạt được
+theo phiếu công nghệ №209 thuộc tài liệu các chỉ tiêu kỹ thuật theo các
+ЕУ1.247.199 РЭ. phiếu công nghệ (theo tình trạng
+kỹ thuật thực tế của bàn thử
+ПС17-318, ПС17-319).
+3 Kiểm tra độ tin cậy làm việc của thiết bị A313-V ở các chế độ
+3.1 Kiểm tra trạng thái kỹ thuật của thiết bị A313-V ở Thiết bị làm việc ổn định, không
+các chế độ khác nhau, trong thời gian làm việc liên bị treo.
+tục 1 giờ.
+THIẾT BỊ MÁY TÍNH DẪN ĐƯỞNG A313-V
+S.đ Slg Số tài liệu Chữ ký Ngày 07MB.A313-V.ĐK
+ĐIỀU KIỆN
+PTr.Phòng Nguyễn Văn Biển
+KỸ THUẬT
+Thiết kế Nguyễn M. Cường Tờ số: Số tờ: 26
+Kiểm tra Bùi Cao Ninh
+VIỆN KỸ THUẬT PK-KQ
+K.T.T.C Nguyễn M. Cường
+PAGE 13
+A313-
+6M A313 -V
+6Ш1 3Ш4 3Ш3
+Ш8 Ш4 Ш11
+ПC17-319 ПC17-318
+Ш10 Ш11 Ш6 Ш2 Ш6
++27V ~36V +27V
+400Hz
+Hình 1. Sơ đồ đấu dây kiểm tra khả năng làm việc của thiết bị A313-V
+4.4. Kiểm tra khả năng làm việc bằng thiết bị chuyên dụng PS17-320V
+Sơ đồ đấu nối thiết bị A313-V kiểm tra trên thiết bị PS17-320V trên hình 2
+Hình 2. Sơ đồ đấu nối kiểm tra thiết bị A313-V với thiết bị PS17-320V
+THIẾT BỊ MÁY TÍNH DẪN ĐƯỞNG A313-V
+S.đ Slg Số tài liệu Chữ ký Ngày 07MB.A313-V.ĐK
+ĐIỀU KIỆN
+PTr.Phòng Nguyễn Văn Biển
+KỸ THUẬT
+Thiết kế Nguyễn M. Cường Tờ số: Số tờ: 26
+Kiểm tra Bùi Cao Ninh
+VIỆN KỸ THUẬT PK-KQ
+K.T.T.C Nguyễn M. Cường
+PAGE 14
+4.4.1. Kiểm tra tính năng của thiết bị A313-V trong chế độ thu phát lệnh đơn
+Chế độ kiểm tra thu lệnh đơn
+- Kết nối thiết bị kiểm tra PS17-320V với máy tính A313-V, các công tắc
+trên mặt máy ở vị trí dưới, công tắc A313-13/A313-V về vị trí A313-V.
+- Bật công tắc nguồn 27V.
+- Bật công tắc PK2 và PK8 lên vị trí trên.
+- Thực hiện lần lượt theo bảng 4 để kiểm tra các lệnh đơn vào PK1÷PK16.
+Bảng 4. Chế độ kiểm tra thu lệnh đơn
+Nhập địa chỉ từ
+dãy công tắc Thực hiện Yêu cầu
+АДРЕС 7 ÷15
+Sáng và tắt đèn số 15 trên vùng
+000 Bật và tắt công tắc PK1
+8 hiển thị ИНДИКАЦИЯ
+Sáng và tắt đèn số 15 trên vùng
+001 Bật và tắt công tắc PK2
+8 hiển thị ИНДИКАЦИЯ
+Sáng và tắt đèn số 15 trên vùng
+002 Bật và tắt công tắc PK3
+8
+hiển thị ИНДИКАЦИЯ
+Sáng và tắt đèn số 15 trên vùng
+003 Bật và tắt công tắc PK4
+8 hiển thị ИНДИКАЦИЯ
+Sáng và tắt đèn số 15 trên vùng
+004 Bật và tắt công tắc PK5
+8 hiển thị ИНДИКАЦИЯ
+Sáng và tắt đèn số 15 trên vùng
+005 Bật và tắt công tắc PK6
+8
+hiển thị ИНДИКАЦИЯ
+Sáng và tắt đèn số 15 trên vùng
+006 Bật và tắt công tắc PK7
+8 hiển thị ИНДИКАЦИЯ
+Sáng và tắt đèn số 15 trên ùng
+007 Bật và tắt công tắc PK8
+8 hiển thị ИНДИКАЦИЯ
+Sáng và tắt đèn số 15 trên vùng
+010 Bật và tắt công tắc PK9
+8 hiển thị ИНДИКАЦИЯ
+Sáng và tắt đèn số 15 trên vùng
+011 Bật và tắt công tắc PK10
+8 hiển thị ИНДИКАЦИЯ
+Sáng và tắt đèn số 15 trên vùng
+012 Bật và tắt công tắc PK11
+8 hiển thị ИНДИКАЦИЯ
+Sáng và tắt đèn số 15 trên vùng
+013 Bật và tắt công tắc PK12
+8 hiển thị ИНДИКАЦИЯ
+THIẾT BỊ MÁY TÍNH DẪN ĐƯỞNG A313-V
+S.đ Slg Số tài liệu Chữ ký Ngày 07MB.A313-V.ĐK
+ĐIỀU KIỆN
+PTr.Phòng Nguyễn Văn Biển
+KỸ THUẬT
+Thiết kế Nguyễn M. Cường Tờ số: Số tờ: 26
+Kiểm tra Bùi Cao Ninh
+VIỆN KỸ THUẬT PK-KQ
+K.T.T.C Nguyễn M. Cường
+PAGE 15
+Sáng và tắt đèn số 15 trên vùng
+014 Bật và tắt công tắc PK13
+8 hiển thị ИНДИКАЦИЯ
+Sáng và tắt đèn số 15 trên vùng
+015 Bật và tắt công tắc PK14
+8
+hiển thị ИНДИКАЦИЯ
+Sáng và tắt đèn số 15 trên vùng
+016 Bật và tắt công tắc PK15
+8 hiển thị ИНДИКАЦИЯ
+Sáng và tắt đèn số 15 trên vùng
+017 Bật và tắt công tắc PK16
+8 hiển thị ИНДИКАЦИЯ
+Chế độ kiểm tra phát lệnh đơn
+- Bật công tắc nguồn 27V.
+- Bật công tắc PK2 và PK8 lên vị trí trên.
+- Thực hiện lần lượt theo bảng 5 để kiểm tra các lệnh đơn ra PK1 ÷ PK16:
+Bảng 5. Chế độ kiểm tra phát lệnh đơn
+Nhập địa chỉ từ
+dãy công tắc Thực hiện Yêu cầu
+АДРЕС 7 ÷15
+Sáng và tắt đèn số 0 trên vùng
+225 Bật và tắt công tắc PK1 hiển thị ИНДИ АЦИЯ và đèn
+8
+số 1 ở sườn máy.
+Sáng và tắt đèn số 1 trên vùng
+225 Bật và tắt công tắc PK2 hiển thị ИНДИКАЦИЯ và đèn
+8
+số 2 ở sườn máy.
+Sáng và tắt đèn số 2 trên vùng
+225 Bật và tắt công tắc PK3 hiển thị ИНДИКАЦИЯ và đèn
+8
+số 3 ở sườn máy.
+Sáng và tắt đèn số 3 trên vùng
+225 Bật và tắt công tắc PK4 hiển thị ИНДИКАЦИЯ và đèn
+8
+số 4 ở sườn máy.
+Sáng và tắt đèn số 4 trên vùng
+225 Bật và tắt công tắc PK5 hiển thị ИНДИКАЦИЯ và đèn
+8
+số 5 ở sườn máy.
+Sáng và tắt đèn số 5 trên vùng
+225 Bật và tắt công tắc PK6 hiển thị ИНДИКАЦИЯ và đèn
+8
+số 6 ở sườn máy.
+Sáng và tắt đèn số 6 trên vùng
+225 Bật và tắt công tắc PK7 hiển thị ИНДИКАЦИЯ và đèn
+8
+số 7 ở sườn máy.
+THIẾT BỊ MÁY TÍNH DẪN ĐƯỞNG A313-V
+S.đ Slg Số tài liệu Chữ ký Ngày 07MB.A313-V.ĐK
+ĐIỀU KIỆN
+PTr.Phòng Nguyễn Văn Biển
+KỸ THUẬT
+Thiết kế Nguyễn M. Cường Tờ số: Số tờ: 26
+Kiểm tra Bùi Cao Ninh
+VIỆN KỸ THUẬT PK-KQ
+K.T.T.C Nguyễn M. Cường
+PAGE 16
+Sáng và tắt đèn số 7 trên vùng
+225 Bật và tắt công tắc PK8 hiển thị ИНДИКАЦИЯ và đèn
+8
+số 8 ở sườn máy.
+Sáng và tắt đèn số 8 trên vùng
+225 Bật và tắt công tắc PK9 hiển thị ИНДИКАЦИЯ và đèn
+8
+số 9 ở sườn máy.
+Sáng và tắt đèn số 9 trên vùng
+225 Bật và tắt công tắc PK10 hiển thị ИНДИКАЦИЯ và đèn
+8
+số 10 ở sườn máy.
+Sáng và tắt đèn số 10 trên vùng
+225 Bật và tắt công tắc PK11 hiển thị ИНДИКАЦИЯ và đèn
+8
+số 11 ở sườn máy.
+Sáng và tắt đèn số 11 trên vùng
+225 Bật và tắt công tắc PK12 hiển thị ИНДИКАЦИЯ và đèn
+8
+số 12 ở sườn máy.
+Sáng và tắt đèn số 12 trên vùng
+225 Bật và tắt công tắc PK13 hiển thị ИНДИКАЦИЯ và đèn
+8
+số 13 ở ườn máy.
+Sáng và tắt đèn số 13 trên vùng
+225 Bật và tắt công tắc PK14 hiển thị ИНДИКАЦИЯ và đèn
+8
+số 14 ở sườn máy.
+Sáng và tắt đèn số 14 trên vùng
+225 Bật và tắt công tắc PK15 hiển thị ИНДИКАЦИЯ và đèn
+8
+số 15 ở sườn máy.
+Sáng và tắt đèn số 15 trên vùng
+225 Bật và tắt công tắc PK16 hiển thị ИНДИКАЦИЯ và đèn
+8
+số 16 sườn máy.
+4.4.2. Kiểm tra tính năng của thiết bị A313-V trong chế độ thu phát mã nối
+tiếp
+Chế độ kiểm tra thu mã nối tiếp
+- Bật công tắc nguồn 27V
+- Bật công tắc PK2 và PK8 lên vị trí trên
+- Công tắc ВЫБОР КОД để ở vị trí I
+- Thực hiện lần lượt theo bảng 6 với công tắc PK4 tắt:
+Bảng 6. Chế độ kiểm tra thu mã nối tiếp
+THIẾT BỊ MÁY TÍNH DẪN ĐƯỞNG A313-V
+S.đ Slg Số tài liệu Chữ ký Ngày 07MB.A313-V.ĐK
+ĐIỀU KIỆN
+PTr.Phòng Nguyễn Văn Biển
+KỸ THUẬT
+Thiết kế Nguyễn M. Cường Tờ số: Số tờ: 26
+Kiểm tra Bùi Cao Ninh
+VIỆN KỸ THUẬT PK-KQ
+K.T.T.C Nguyễn M. Cường
+PAGE 17
+Nhập địa chỉ từ
+Công tắc
+dãy công tắc Yêu cầu
+101...0 - 101...1
+АДРЕС 7 ÷15
+Chuyển vị trí Sáng đèn trên vùng hiển thị ИНДИКАЦИЯ
+104
+8 101...0 / 101...1 mã tương ứng là 125252 hoặc 052525
+8 8
+Chuyển vị trí Sáng đèn trên vùng hiển thị ИНДИКАЦИЯ
+105
+8
+101...0 / 101...1 mã tương ứng là 125252 hoặc 052525
+8 8
+Chuyển vị trí Sáng đèn trên vùng hiển thị ИНДИКАЦИЯ
+106
+8 101...0 / 101...1 mã tương ứng là 125252 hoặc 052525
+8 8
+Chuyển vị trí Sáng đèn trên vùng hiển thị ИНДИКАЦИЯ
+107
+8 101...0 / 101...1 mã tương ứng là 125252 hoặc 052525
+8 8
+Chuyển vị trí Sáng đèn trên vùng hiển thị ИНДИКАЦИЯ
+110
+8
+101...0 / 101...1 mã tương ứng là 125252 hoặc 052525
+8 8
+Chuyển vị trí Sáng đèn trên vùng hiển thị ИНДИКАЦИЯ
+111
+8
+101...0 / 101...1 mã tương ứng là 125252 hoặc 052525
+8 8
+Chuyển vị trí Sáng đèn trên vùng hiển thị ИНДИКАЦИЯ
+112
+8 101...0 / 101...1 mã tương ứng là 125252 hoặc 052525
+8 8
+Chuyển vị trí Sáng đèn trên vùng hiển thị ИНДИКАЦИЯ
+113
+8 101...0 / 101...1 mã tương ứng là 125252 hoặc 052525
+8 8
+Chuyển vị trí Sáng đèn trên vùng hiển thị ИНДИКАЦИЯ
+114
+8
+101...0 / 101...1 mã tương ứng là 125252 hoặc 052525
+8 8
+Chuyển vị trí Sáng đèn trên vùng hiển thị ИНДИКАЦИЯ
+115
+8 101...0 / 101...1 mã tương ứng là 125252 hoặc 052525
+8 8
+Chuyển vị trí Sáng đèn trên vùng hiển thị ИНДИКАЦИЯ
+116
+8 101...0 / 101...1 mã tương ứng là 125252 hoặc 052525
+8 8
+Chuyển vị trí Sáng đèn trên vùng hiển thị ИНДИКАЦИЯ
+117
+8
+101...0 / 101...1 mã tương ứng là 125252 hoặc 052525
+8 8
+Chuyển vị trí Sáng đèn trên vùng hiển thị ИНДИКАЦИЯ
+120
+8 101...0 / 101...1 mã tương ứng là 125252 hoặc 052525
+8 8
+Chuyển vị trí Sáng đèn trên vùng hiển thị ИНДИКАЦИЯ
+121
+8 101...0 / 101...1 mã tương ứng là 125252 hoặc 052525
+8 8
+Chuyển vị trí Sáng đèn trên vùng hiển thị ИНДИКАЦИЯ
+122
+8
+101...0 / 101...1 mã tương ứng là 125252 hoặc 052525
+8 8
+Chuyển vị trí Sáng đèn trên vùng hiển thị ИНДИКАЦИЯ
+123
+8 101...0 / 101...1 mã tương ứng là 125252 8 hoặc 052525 8
+Chuyển vị trí Sáng đèn trên vùng hiển thị ИНДИКАЦИЯ
+124
+8 101...0 / 101...1 mã tương ứng là 125252 hoặc 052525
+8 8
+Chuyển vị trí Sáng đèn trên vùng hiển thị ИНДИКАЦИЯ
+125
+8
+101...0 / 101...1 mã tương ứng là 125252 hoặc 052525
+8 8
+126 Chuyển vị trí Sáng đèn trên vùng hiển thị ИНДИКАЦИЯ
+8
+THIẾT BỊ MÁY TÍNH DẪN ĐƯỞNG A313-V
+S.đ Slg Số tài liệu Chữ ký Ngày 07MB.A313-V.ĐK
+ĐIỀU KIỆN
+PTr.Phòng Nguyễn Văn Biển
+KỸ THUẬT
+Thiết kế Nguyễn M. Cường Tờ số: Số tờ: 26
+Kiểm tra Bùi Cao Ninh
+VIỆN KỸ THUẬT PK-KQ
+K.T.T.C Nguyễn M. Cường
+PAGE 18
+101...0 / 101...1 mã tương ứng là 125252 hoặc 052525
+8 8
+Chuyển vị trí Sáng đèn trên vùng hiển thị ИНДИКАЦИЯ
+127
+8 101...0 / 101...1 mã tương ứng là 125252 hoặc 052525
+8 8
+Chuyển vị trí Sáng đèn trên vùng hiển thị ИНДИКАЦИЯ
+130
+8 101...0 / 101...1 mã tương ứng là 125252 hoặc 052525
+8 8
+Chuyển vị trí Sáng đèn trên vùng hiển thị ИНДИКАЦИЯ
+131
+8
+101...0 / 101...1 mã tương ứng là 125252 hoặc 052525
+8 8
+Chuyển vị trí Sáng đèn trên vùng hiển thị ИНДИКАЦИЯ
+132
+8 101...0 / 101...1 mã tương ứng là 125252 hoặc 052525
+8 8
+Chuyển vị trí Sáng đèn trên vùng hiển thị ИНДИКАЦИЯ
+133
+8 101...0 / 101...1 mã tương ứng là 125252 hoặc 052525
+8 8
+Chuyển vị trí Sáng đèn trên vùng hiển thị ИНДИКАЦИЯ
+134
+8
+101...0 / 101...1 mã tương ứng là 125252 hoặc 052525
+8 8
+Chuyển vị trí Sáng đèn trên vùng hiển thị ИНДИКАЦИЯ
+135
+8 101...0 / 101...1 mã tương ứng là 125252 hoặc 052525
+8 8
+Chuyển vị trí Sáng đèn trên vùng hiển thị ИНДИКАЦИЯ
+136
+8 101...0 / 101...1 mã tương ứng là 125252 hoặc 052525
+8 8
+Chuyển vị trí Sáng đèn trên vùng hiển thị ИНДИКАЦИЯ
+137
+8
+101...0 / 101...1 mã tương ứng là 125252 hoặc 052525
+8 8
+Chế độ kiểm tra phát mã nối tiếp
+- Bật công tắc nguồn 27V
+- Bật công tắc ПК ЦИ - ВЫХ.ПК về vị trí ВЫХ.ПК,
+- Bật công tắc PK2; PK8 lên vị trí trên.
+- Thực hiện lần lượt theo bảng 7 với công tắc PK4 tắt:
+Bảng 7. Chế độ kiểm tra phát mã nối tiếp
+Nhập địa chỉ từ
+dãy công tắc Yêu cầu
+АДРЕС 7 ÷15
+144 Sáng đèn trên vùng hiển thị ИНДИКАЦИЯ với mã 052525
+8 8
+145 Sáng đèn trên vùng hiển thị ИНДИКАЦИЯ với mã 125252
+8 8
+146 Sáng đèn trên vùng hiển thị ИНДИКАЦИЯ với mã 052525
+8 8
+147 Sáng đèn trên vùng hiển thị ИНДИКАЦИЯ với mã 125252
+8 8
+150 Sáng đèn trên vùng hiển thị ИНДИКАЦИЯ với mã 052525
+8 8
+151 Sáng đèn trên vùng hiển thị ИНДИКАЦИЯ với mã 125252
+8 8
+152 Sáng đèn trên vùng hiển thị ИНДИКАЦИЯ với mã 052525
+8 8
+153 Sáng đèn trên vùng hiển thị ИНДИКАЦИЯ với mã 125252
+8 8
+154 Sáng đèn trên vùng hiển thị ИНДИКАЦИЯ với mã 052525
+8 8
+THIẾT BỊ MÁY TÍNH DẪN ĐƯỞNG A313-V
+S.đ Slg Số tài liệu Chữ ký Ngày 07MB.A313-V.ĐK
+ĐIỀU KIỆN
+PTr.Phòng Nguyễn Văn Biển
+KỸ THUẬT
+Thiết kế Nguyễn M. Cường Tờ số: Số tờ: 26
+Kiểm tra Bùi Cao Ninh
+VIỆN KỸ THUẬT PK-KQ
+K.T.T.C Nguyễn M. Cường
+PAGE 19
+155 Sáng đèn trên vùng hiển thị ИНДИКАЦИЯ với mã 125252
+8 8
+156 Sáng đèn trên vùng hiển thị ИНДИКАЦИЯ với mã 052525
+8 8
+157 Sáng đèn trên vùng hiển thị ИНДИКАЦИЯ với mã 125252
+8 8
+160 Sáng đèn trên vùng hiển thị ИНДИКАЦИЯ với mã 052525
+8 8
+161 Sáng đèn trên vùng hiển thị ИНДИКАЦИЯ với mã 125252
+8 8
+162 Sáng đèn trên vùng hiển thị ИНДИКАЦИЯ với mã 052525
+8 8
+163 Sáng đèn trên vùng hiển thị ИНДИКАЦИЯ với mã 125252
+8 8
+164 Sáng đèn trên vùng hiển thị ИНДИКАЦИЯ với mã 052525
+8 8
+165 Sáng đèn trên vùng hiển thị ИНДИКАЦИЯ với mã 125252
+8 8
+166 Sáng đèn trên vùng hiển thị ИНДИКАЦИЯ với mã 052525
+8 8
+167 Sáng đèn trên vùng hiển thị ИНДИКАЦИЯ với mã 125252
+8 8
+170 Sáng đèn trên vùng hiển thị ИНДИКАЦИЯ với mã 052525
+8 8
+171 Sáng đèn trên vùng hiển thị ИНДИКАЦИЯ với mã 125252
+8 8
+172 Sáng đèn trên vùng hiển thị ИНДИКАЦИЯ với mã 052525
+8 8
+173 Sáng đèn trên vùng hiển thị ИНДИКАЦИЯ với mã 125252
+8 8
+174 Sáng đèn trên vùng hiển thị ИНДИКАЦИЯ với mã 052525
+8 8
+175 Sáng đèn trên vùng hiển thị ИНДИКАЦИЯ với mã 125252
+8 8
+176 Sáng đèn trên vùng hiển thị ИНДИКАЦИЯ với mã 052525
+8 8
+177 Sáng đèn trên vùng hiển thị ИНДИКАЦИЯ với mã 125252
+8 8
+4.4.3. Kiểm tra tính năng của thiết bị PS17-320V trong chế độ mã hóa và giải mã
+- Bật công tắc nguồn 27V.
+- Bật công tắc PK2 và PK8 lên vị trí trên.
+- Thực hiện kiểm tra chế độ mã hóa theo bảng 8
+Bảng 8. Chế độ kiểm tra mã hóa
+Nhập địa chỉ từ
+dãy công tắc Yêu cầu
+АДРЕС 7 ÷15
+Đèn hiển thị ИНДИКАЦИЯ tương ứng 110000 ±200
+000 8 8
+8 (107776±200 ) hoặc 150000 ±200 (147776±200 )
+8 8 8 8
+Đèn hiển thị ИНДИКАЦИЯ tương ứng 110000 ±200
+8 8
+001
+8 (107776±200 ) hoặc 150000 ±200 (147776±200 )
+8 8 8 8
+Đèn hiển thị ИНДИКАЦИЯ tương ứng 110000 ±200
+002 8 8
+8
+(107776±200 ) hoặc 150000 ±200 (147776±200 )
+8 8 8 8
+Đèn hiển thị ИНДИКАЦИЯ tương ứng 110000 ±200
+003 8 8
+8 (107776±200 ) hoặc 150000 ±200 (147776±200 )
+8 8 8 8
+Đèn hiển thị ИНДИКАЦИЯ tương ứng 110000 ±200
+004 8 8
+8
+(107776±200 ) hoặc 150000 ±200 (147776±200 )
+8 8 8 8
+THIẾT BỊ MÁY TÍNH DẪN ĐƯỞNG A313-V
+S.đ Slg Số tài liệu Chữ ký Ngày 07MB.A313-V.ĐK
+ĐIỀU KIỆN
+PTr.Phòng Nguyễn Văn Biển
+KỸ THUẬT
+Thiết kế Nguyễn M. Cường Tờ số: Số tờ: 26
+Kiểm tra Bùi Cao Ninh
+VIỆN KỸ THUẬT PK-KQ
+K.T.T.C Nguyễn M. Cường
+PAGE 20
+Đèn hiển thị ИНДИКАЦИЯ tương ứng 110000 ±200
+005 8 8
+8 (107776±200 ) hoặc 150000 ±200 (147776±200 )
+8 8 8 8
+Đèn hiển thị ИНДИКАЦИЯ tương ứng 110000 ±200
+006 8 8
+8
+(107776±200 ) hoặc 150000 ±200 (147776±200 )
+8 8 8 8
+Đèn hiển thị ИНДИКАЦИЯ tương ứng 110000 ±200
+8 8
+007
+8 (107776±200 ) hoặc 150000 ±200 (147776±200 )
+8 8 8 8
+Đèn hiển thị ИНДИКАЦИЯ tương ứng 110000 ±200
+010 8 8
+8 (107776±200 ) hoặc 150000 ±200 (147776±200 )
+8 8 8 8
+Đèn hiển thị ИНДИКАЦИЯ tương ứng 110000 ±200
+011 8 8
+8
+(107776±200 ) hoặc 150000 ±200 (147776±200 )
+8 8 8 8
+Đèn hiển thị ИНДИКАЦИЯ tương ứng 110000 ±200
+8 8
+012
+8 (107776±200 ) hoặc 150000 ±200 (147776±200 )
+8 8 8 8
+Đèn hiển thị ИНДИКАЦИЯ tương ứng 110000 ±140
+013 8 8
+8 (107776±140 ) hoặc 150000 ±140 (147776±140 )
+8 8 8 8
+Đèn hiển thị ИНДИКАЦИЯ tương ứng 110000 ±200
+014 8 8
+8 (107776±200 ) hoặc 150000 ±200 (147776±200 )
+8 8 8 8
+Đèn hiển thị ИНДИКАЦИЯ tương ứng 110000 ±200
+8 8
+015
+8 (107776±200 ) hoặc 150000 ±200 (147776±200 )
+8 8 8 8
+Đèn hiển thị ИНДИКАЦИЯ tương ứng 110000 ±200
+016 8 8
+8 (107776±200 ) hoặc 150000 ±200 (147776±200 )
+8 8 8 8
+Đèn hiển thị ИНДИКАЦИЯ tương ứng 110000 ±200
+017 8 8
+8 (107776±200 ) hoặc 150000 ±200 (147776±200 )
+8 8 8 8
+-Thực hiện kiểm tra chế độ giải mã:
++ Trên bảng điều khiển A313-6M tiến hành thao tác nhập: ВВОД → ПУ/Д
+→ nhập giá trị góc 045000 khi đó đo các tín hiệu cửa ra Выход theo kênh а và б
+trên 3Ш3B phải có giá trị bằng nhau theo như bảng 9
+Bảng 9. Chế độ kiểm tra giải mã
+Lỗ đo 3Ш3B trên sườn
+Tên tín hiệu Yêu cầu
+máy PS17-320V
+Выход 1а 2
+Hai tín hiệu bằng nhau
+Выход 1б 3
+Выход 2а 4
+Hai tín hiệu bằng nhau
+Выход 2б 5
+Выход 3а 6
+Hai tín hiệu bằng nhau
+Выход 3б 7
+THIẾT BỊ MÁY TÍNH DẪN ĐƯỞNG A313-V
+S.đ Slg Số tài liệu Chữ ký Ngày 07MB.A313-V.ĐK
+ĐIỀU KIỆN
+PTr.Phòng Nguyễn Văn Biển
+KỸ THUẬT
+Thiết kế Nguyễn M. Cường Tờ số: Số tờ: 26
+Kiểm tra Bùi Cao Ninh
+VIỆN KỸ THUẬT PK-KQ
+K.T.T.C Nguyễn M. Cường
+PAGE 21
+Выход 4а 8
+Hai tín hiệu bằng nhau
+Выход 4б 9
+Выход 5а 10
+Hai tín hiệu bằng nhau
+Выход 5б 11
+Выход 6а 12
+Hai tín hiệu bằng nhau
+Выход 6б 13
+Выход 7а 14
+Hai tín hiệu bằng nhau
+Выход 7б 16
+Выход 8а 15
+Hai tín hiệu bằng nhau
+Выход 8б 17
+Выход 9а 18 Tín hiệu 9a mức ‘0’
+Выход 9б 19 Tín hiệu 9б mức ‘1’
+Выход 10а 22
+Hai tín hiệu bằng nhau
+Выход 10б 23
+Выход 11а 24
+Hai tín hiệu bằng nhau
+Выход 11б 25
+Выход 12а 26
+Hai tín hiệu bằng nhau
+Выход 12б 27
+Выход 13а 28
+Hai tín hiệu bằng nhau
+Выход 13б 29
+Выход 14а 30
+Hai tín hiệu bằng nhau
+Выход 14б 31
+Выход 15а 32
+Hai tín hiệu bằng nhau
+Выход 15б 33
+Выход 16а 34
+Hai tín hiệu bằng nhau
+Выход 16б 35
+5. Xử lý chung
+- Thiết bị máy tính dẫn đường A313-V sau sản xuất phải đạt các yêu cầu kỹ
+thuật được quy định tại Mục 2 của tài liệu này thì được phép xuất xưởng;
+- Nếu không đạt một trong các yêu cầu trong Mục 2 của tài liệu này thì phải
+tiến hành sửa chữa và kiểm tra lại.
+6. Bảo quản, vận chuyển, bảo hành
+6.1. Bảo quản và vận chuyển
+- Khi bảo quản và vận chuyển không để sản phẩm tiếp xúc với hoá chất như a
+THIẾT BỊ MÁY TÍNH DẪN ĐƯỞNG A313-V
+S.đ Slg Số tài liệu Chữ ký Ngày 07MB.A313-V.ĐK
+ĐIỀU KIỆN
+PTr.Phòng Nguyễn Văn Biển
+KỸ THUẬT
+Thiết kế Nguyễn M. Cường Tờ số: Số tờ: 26
+Kiểm tra Bùi Cao Ninh
+VIỆN KỸ THUẬT PK-KQ
+K.T.T.C Nguyễn M. Cường
+PAGE 22
+xít, kiềm, dầu mỡ, nước và các chất lỏng khác;
+- Sản phẩm được bảo quản trong kho, thông thoáng khí, khô ráo, không để
+ngoài trời và cạnh các nguồn hóa chất ăn mòn;
+- Khi vận chuyển sản phẩm bằng các phương tiện thông dụng có mui che
+mưa, tránh nước và các chất lỏng. Trong quá trình vận chuyển phải tuân thủ
+đúng các yêu cầu quy định về vận chuyển hàng hoá, tránh va đập mạnh, tránh để
+các vật nặng lên trên.
+6.2. Bảo hành
+Thiết bị máy tính dẫn đường A313-V được bảo hành 01 năm kể từ ngày bàn
+giao cho đơn vị sử dụng./.
+THIẾT BỊ MÁY TÍNH DẪN ĐƯỞNG A313-V
+S.đ Slg Số tài liệu Chữ ký Ngày 07MB.A313-V.ĐK
+ĐIỀU KIỆN
+PTr.Phòng Nguyễn Văn Biển
+KỸ THUẬT
+Thiết kế Nguyễn M. Cường Tờ số: Số tờ: 26
+Kiểm tra Bùi Cao Ninh
+VIỆN KỸ THUẬT PK-KQ
+K.T.T.C Nguyễn M. Cường
+PAGE 23
+Phụ lục A
+Ký hiệu, số hiệu khắc trên mặt trên thiết bị A313-V
+07MB.A313-V
+2.5 mm
+001
+2.5 mm
+Chú thích: Ký hiệu, số hiệu khắc trên mặt máy được sơn màu đen và dùng chữ: ARIAL, đậm.
+Ký hiệu, số hiệu khắc trên mặt có đầu cắm thiết bị A313-V
+3Ш3
+4 mm
+3Ш4
+4 mm
+Chú thích: Ký hiệu, số hiệu khắc trên mặt máy có đầu cắm được sơn màu đen và dùng chữ:
+ARIAL, đậm.
+THIẾT BỊ MÁY TÍNH DẪN ĐƯỞNG A313-V
+S.đ Slg Số tài liệu Chữ ký Ngày 07MB.A313-V.ĐK
+ĐIỀU KIỆN
+PTr.Phòng Nguyễn Văn Biển
+KỸ THUẬT
+Thiết kế Nguyễn M. Cường Tờ số: Số tờ: 26
+Kiểm tra Bùi Cao Ninh
+VIỆN KỸ THUẬT PK-KQ
+K.T.T.C Nguyễn M. Cường
+PAGE 24
+Phụ lục B
+Các tham số, chỉ tiêu kỹ thuật của các nguyên vật liệu
+Tên gọi, ký hiệu
+TT Tên chỉ tiêu Mức, yêu cầu
+nguyên vật liệu
+1 Vỏ máy - Chất liệu Nhôm 6061 Hàn Quốc
+- Độ dày, mm 2
+2 Đầu cắm - Đầu cắm 3Ш3 РПКМ3-67/67Ш1
+- Đầu cắm 3Ш4 РПКМ3-67/67Ш1
+3 Cụm điều khiển - Độ dày mạch in, mm 2
+và xử lý trung
+- Kích thước mạch in (dài x 218 x 157
+tâm A313-V.01
+rộng), mm
+- Các linh kiện lắp trên cụm có
+Rõ ràng
+xuất xứ
+4 Cụm chuyển - Độ dày mạch in, mm 2
+mạch tín hiệu vào
+- Kích thước mạch in (dài x 218 x 157
+A313-V.02
+rộng), mm
+- Các linh kiện lắp trên cụm có
+Rõ ràng
+xuất xứ
+5 Cụm tích phân - Độ dày mạch in, mm 2
+A313-V.03
+- Kích thước mạch in (dài x 218 x 157
+rộng), mm
+- Các linh kiện lắp trên cụm có
+Rõ ràng
+xuất xứ
+6 Cụm biến đổi - Độ dày mạch in, mm 2
+A313-V.04
+- Kích thước mạch in (dài x 218 x 157
+rộng), mm
+- Các linh kiện lắp trên cụm có
+Rõ ràng
+xuất xứ
+7 Cụm chuyển - Độ dày mạch in, mm 2
+mạch tín hiệu ra
+- Kích thước mạch in (dài x 218 x 157
+A313-V.05
+rộng), mm
+- Các linh kiện lắp trên cụm có
+Rõ ràng
+xuất xứ
+THIẾT BỊ MÁY TÍNH DẪN ĐƯỞNG A313-V
+S.đ Slg Số tài liệu Chữ ký Ngày 07MB.A313-V.ĐK
+ĐIỀU KIỆN
+PTr.Phòng Nguyễn Văn Biển
+KỸ THUẬT
+Thiết kế Nguyễn M. Cường Tờ số: Số tờ: 26
+Kiểm tra Bùi Cao Ninh
+VIỆN KỸ THUẬT PK-KQ
+K.T.T.C Nguyễn M. Cường
+PAGE 25
+Tên gọi, ký hiệu
+TT Tên chỉ tiêu Mức, yêu cầu
+nguyên vật liệu
+8 Cụm khuếch đại - Độ dày mạch in, mm 2
+tín hiệu ra A313-
+- Kích thước mạch in (dài x 218 x 157
+V.06
+rộng), mm
+- Các linh kiện lắp trên cụm có
+Rõ ràng
+xuất xứ
+9 Cụm chuyển lệnh - Độ dày mạch in, mm 2
+đơn ra A313-V.07
+- Kích thước mạch in (dài x 225 x 95
+rộng), mm
+- Các linh kiện lắp trên cụm có
+Rõ ràng
+xuất xứ
+10 Tấm nguồn điện - Độ dày mạch in, mm 2
+A313-V.08.01
+- Kích thước mạch in (dài x 125 x 95
+rộng), mm
+- Các linh kiện lắp trên tấm có
+Rõ ràng
+xuất xứ
+11 Tấm kiểm tra - Độ dày mạch in, mm 2
+nguồn A313-
+- Kích thước mạch in (dài x 125 x 95
+V.08.02
+rộng), mm
+- Các linh kiện lắp trên tấm có
+Rõ ràng
+xuất xứ
+12 Tấm mạch trung - Độ dày mạch in, mm 2
+gian A313-V.09
+- Kích thước mạch in (dài x 230 x 150
+rộng), mm
+- Các linh kiện lắp trên tấm có
+Rõ ràng
+xuất xứ
+13 Tấm mạch linh - Độ dày mạch in, mm 2
+kiện rời rạc
+- Kích thước mạch in (dài x 80 x 60
+A313-V.10
+rộng), mm
+- Các linh kiện lắp trên tấm có
+Rõ ràng
+xuất xứ
+THIẾT BỊ MÁY TÍNH DẪN ĐƯỞNG A313-V
+S.đ Slg Số tài liệu Chữ ký Ngày 07MB.A313-V.ĐK
+ĐIỀU KIỆN
+PTr.Phòng Nguyễn Văn Biển
+KỸ THUẬT
+Thiết kế Nguyễn M. Cường Tờ số: Số tờ: 26
+Kiểm tra Bùi Cao Ninh
+VIỆN KỸ THUẬT PK-KQ
+K.T.T.C Nguyễn M. Cường
+PAGE 26
+Phụ lục C
+Mẫu phiếu kiểm tra
+ĐƠN VỊ CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+…………………………...
+Hà Nội, ngày tháng năm 20….
+PHIẾU KIỂM TRA
+Tên sản phẩm: Thiết bị máy tính dẫn đường A313-V;
+Ký hiệu: 07MB.A313-V;
+Số hiệu: 001.
+TT Nội dung kiểm tra Giá trị cho phép Kết quả kiểm tra Kết luận
+1 Kiểm tra yêu cầu chung
+1.1. Kiểm tra hồ sơ, lý lịch, tài liệu
+1.2. Kiểm tra đồng bộ
+1.3. Kiểm tra ngoại quan
+1.4. Kiểm tra nguyên vật liệu
+1.5. Kiểm tra lắp ráp và tổng lắp
+2 Kiểm tra chỉ tiêu kỹ thuật
+Kết luận: ............................................................................................................................
+Ngày tháng năm 20....
+NGƯỜI KIỂM TRA THỦ TRƯỞNG ĐƠN VỊ
+(Ký, ghi rõ họ tên) (Ký tên, đóng dấu)
+THIẾT BỊ MÁY TÍNH DẪN ĐƯỞNG A313-V
+S.đ Slg Số tài liệu Chữ ký Ngày 07MB.A313-V.ĐK
+ĐIỀU KIỆN
+PTr.Phòng Nguyễn Văn Biển
+KỸ THUẬT
+Thiết kế Nguyễn M. Cường Tờ số: Số tờ: 26
+Kiểm tra Bùi Cao Ninh
+VIỆN KỸ THUẬT PK-KQ
+K.T.T.C Nguyễn M. Cường
+PAGE 27
+Phụ lục D
+Thư mục Tài liệu kỹ thuật
+Cấp ban hành
+TT Tên tài liệu
+Ngày/tháng/năm
+1 Hướng dẫn sử dụng thiết bị máy tính dẫn đường A313-V. Viện KT PK-KQ
+2 Thiết kế kỹ thuật thiết bị máy tính dẫn đường A313-V. Viện KT PK-KQ
+3 Báo cáo khoa học đề tài: “Nghiên cứu chế tạo máy tính Viện KT PK-KQ
+dẫn đường A313-V trên máy bay Su-27”. 2015
+4 Điều lệ Công tác Kỹ thuật PK-KQ QC PK-KQ
+2017
+5 Quy định Công tác Kỹ thuật Không quân QC PK-KQ
+2017
+CHÚ Ý: Trong trường hợp các tài liệu kỹ thuật quy định tại Thư mục Tài liệu kỹ
+thuật có sửa đổi, bổ sung hoặc thay thể thì thực hiện theo văn bản đã được sửa đổi,
+bổ sung hoặc ban hành mới.
+THIẾT BỊ MÁY TÍNH DẪN ĐƯỞNG A313-V
+S.đ Slg Số tài liệu Chữ ký Ngày 07MB.A313-V.ĐK
+ĐIỀU KIỆN
+PTr.Phòng Nguyễn Văn Biển
+KỸ THUẬT
+Thiết kế Nguyễn M. Cường Tờ số: Số tờ: 26
+Kiểm tra Bùi Cao Ninh
+VIỆN KỸ THUẬT PK-KQ
+K.T.T.C Nguyễn M. Cường
+PAGE 28
+THIẾT BỊ MÁY TÍNH DẪN ĐƯỞNG A313-V
+S.đ Slg Số tài liệu Chữ ký Ngày 07MB.A313-V.ĐK
+ĐIỀU KIỆN
+PTr.Phòng Nguyễn Văn Biển
+KỸ THUẬT
+Thiết kế Nguyễn M. Cường Tờ số: Số tờ: 26
+Kiểm tra Bùi Cao Ninh
+VIỆN KỸ THUẬT PK-KQ
+K.T.T.C Nguyễn M. Cường

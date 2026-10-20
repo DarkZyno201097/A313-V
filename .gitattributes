@@ -1,0 +1,37 @@
+# ============================================================
+#  A313-V — .gitattributes
+# ============================================================
+
+# Không để git tự đổi line-ending của bất kỳ file nào.
+# Repo này làm việc thuần Windows + có tên file tiếng Việt;
+# tắt chuyển đổi là cách an toàn nhất, tránh "sửa" file ngoài ý muốn.
+* -text
+
+# --- Tài liệu / ảnh: nhị phân, không diff, không merge theo dòng ---
+*.pdf    binary
+*.doc    binary
+*.docx   binary
+*.xls    binary
+*.xlsx   binary
+*.png    binary
+*.jpg    binary
+*.jpeg   binary
+*.bmp    binary
+*.tif    binary
+
+# --- Altium (nếu đưa project vào sau) ---
+*.PcbDoc    binary
+*.SchDoc    binary
+*.SchLib    binary
+*.PcbLib    binary
+*.IntLib    binary
+*.Outjob    binary
+
+# --- FPGA / embedded ---
+*.bit    binary
+*.rbf    binary
+*.pof    binary
+*.jed    binary
+*.sof    binary
+*.hex    binary
+*.bin    binary

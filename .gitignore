@@ -1,0 +1,64 @@
+# ============================================================
+#  A313-V — .gitignore
+#  Nguyên tắc: GIỮ LẠI toàn bộ tài liệu gốc và bằng chứng phản biện.
+#  Chỉ loại những thứ SINH LẠI ĐƯỢC bằng script, hoặc rác của OS/Office.
+# ============================================================
+
+# --- Python cache (sinh lại được) ---
+__pycache__/
+*.pyc
+*.pyo
+
+# --- Build output của tmp/build_test_report.py (sinh lại được) ---
+#     Chạy lại:  python tmp/build_test_report.py
+tmp/report_render/
+
+# --- File tạm của Microsoft Office ---
+~$*
+*.tmp
+*.wbk
+*.asd
+
+# --- Rác của Windows / macOS ---
+Thumbs.db
+ehthumbs.db
+desktop.ini
+.DS_Store
+
+# ============================================================
+#  Altium — chỉ có tác dụng nếu sau này đưa project .06 vào repo.
+#  History/ và __Previews/ là thư mục Altium tự sinh, rất nặng.
+# ============================================================
+History/
+__Previews/
+Project Outputs*/
+Project Logs*/
+*.$$$
+*.PcbDoc.bak*
+*.SchDoc.bak*
+*.PrjPcb.harness
+*.SchDocPreview
+*.PcbDocPreview
+
+# ============================================================
+#  KHÔNG ignore (cố ý giữ lại):
+#    tmp/pdfs/review/     — netlist.json, channel-audit.csv, PNG crop,
+#                           script phản biện. Rev. C của file PHAN-TICH
+#                           trích dẫn trực tiếp các đường dẫn này; ignore
+#                           thư mục này sẽ làm chết toàn bộ link bằng chứng.
+#    KET-QUA-TEST_*/      — ảnh dao động ký, là số liệu đo thật.
+#    1.BVTK / 2.DKKT / 3.HDSD / TMKT&HDSD — tài liệu gốc A32.
+# ============================================================
+
+# ============================================================
+#  Word: CHỈ đưa PDF lên repo, bản Word giữ trên máy làm việc.
+#  Mọi .doc/.docx đều có PDF tương ứng (TMKT&HDSD xuất PDF riêng).
+#  Lý do: BAO-CAO_...docx 52,8 MB, sodocactam_...docx 32 MB — mỗi lần
+#  commit lại sẽ cộng nguyên dung lượng vào history vĩnh viễn.
+# ============================================================
+*.doc
+*.docx
+
+# --- Log debug của Altium, file phiên Claude Code ---
+*.log
+.claude/

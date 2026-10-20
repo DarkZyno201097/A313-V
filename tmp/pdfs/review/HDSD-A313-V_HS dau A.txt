@@ -1,0 +1,1125 @@
+PAGE 1
+QUÂN CHỦNG PHÒNG KHÔNG - KHÔNG QUÂN
+VIỆN KỸ THUẬT
+THIẾT BỊ MÁY TÍNH DẪN ĐƯỜNG A313-V
+HƯỚNG DẪN SỬ DỤNG
+07MB.A313-V.HS
+HÀ NỘI - 2019
+1
+PAGE 2
+QUÂN CHỦNG PHÒNG KHÔNG - KHÔNG QUÂN
+VIỆN KỸ THUẬT
+PHÊ DUYỆT
+Ngày tháng năm 2019
+THIẾT BỊ MÁY TÍNH DẪN ĐƯỜNG A313-V
+HƯỚNG DẪN SỬ DỤNG
+07MB.A313-V.HS
+Ngày tháng năm 2019
+VIỆN TRƯỞNG
+Đại tá Nguyễn Hữu Đoàn
+MỤC LỤC
+HÀ NỘI - 2019
+2
+PAGE 3
+Mục Nội dung Trang
+I CÔNG DỤNG, THÀNH PHẦN 4
+1.1 Công dụng 4
+1.2 Thành phần 4
+II TÍNH NĂNG KỸ THUẬT 5
+III CẤU TẠO VÀ NGUYÊN LÝ HOẠT ĐỘNG 6
+3.1 Cấu tạo 6
+3.2 Nguyên lý hoạt động 6
+IV KHAI THÁC, SỬ DỤNG 11
+4.1 Kiểm tra thiết bị A313-V trên bàn kiểm tra ПС17-318, 11
+ПС17-319
+4.2 Kiểm tra thiết bị A313-V trên thiết bị PS17-320V 16
+4.3 Kiểm tra thiết bị A313-V khi lắp lên máy bay tại mặt đất 25
+V CÁC HỎNG HÓC THƯỜNG GẶP VÀ CÁCH KHẮC PHỤC 26
+VI BẢO QUẢN 28
+VII VẬN CHUYỂN 29
+3
+PAGE 4
+I. CÔNG DỤNG, THÀNH PHẦN
+1.1. Công dụng
+Thiết bị máy tính dẫn đường A313-V (gọi tắt là thiết bị A313-V) được sử
+dụng để thay thế cho thiết bị A313 (gồm khối A313-2A và A313-3) do Liên
+bang Nga chế tạo. Khi làm việc trong tổ hợp dẫn đường trên máy bay Su-27,
+thiết bị A313-V đảm bảo điều khiển máy bay ở chế độ tự động, bán tự động và
+bằng tay khi bay theo đường bay định sẵn, quay trở về khu vực sân bay hoặc
+thực hiện cơ động hạ cánh.
+Hình dạng bên ngoài thiết bị A313-V trên hình 1.
+Hình 1. Hình dạng bên ngoài thiết bị máy tính dẫn đường A313-V
+1.2. Thành phần
+Thành phần của thiết bị máy tính dẫn đường A313-V được trình bày trong
+bảng 1:
+Bảng 1. Thành phần của thiết bị máy tính dẫn đường A313-V
+TT Tên gọi Ký hiệu ĐVT Số lượng
+1 Cụm điều khiển và xử lý trung tâm A313-V.01 Cụm 01
+2 Cụm chuyển mạch tín hiệu vào A313-V.02 Cụm 01
+3 Cụm tích phân A313-V.03 Cụm 01
+4 Cụm biến đổi A313-V.04 Cụm 01
+5 Cụm chuyển mạch tín hiệu ra A313-V.05 Cụm 01
+4
+PAGE 5
+TT Tên gọi Ký hiệu ĐVT Số lượng
+6 Cụm khuếch đại tín hiệu ra A313-V.06 Cụm 01
+7 Cụm chuyển lệnh đơn ra A313-V.07 Cụm 01
+8 Tấm nguồn điện A313-V.08.01 Tấm 01
+9 Tấm kiểm tra nguồn A313-V.08.02 Tấm 01
+10 Tấm mạch trung gian A313-V.09 Tấm 01
+11 Tấm mạch linh kiện rời rạc A313-V.10 Tấm 01
+12 Đầu cắm 3Ш3 РПКМ3-67/67Ш1 Chiếc 01
+13 Đầu cắm 3Ш4 РПКМ3-67/67Ш1 Chiếc 01
+II. TÍNH NĂNG KỸ THUẬT
+Tính năng kỹ thuật của thiết bị A313-V được nêu trong bảng 2.
+Bảng 2. Tính năng kỹ thuật của thiết bị A313-V
+TT Tham số Đơn vị Yêu cầu
+1 Khối lượng kg ≤ 10
+2 Kích thước (dài x rộng x cao) mm 436 x 156 x 195
+3 Số lượng các điểm được chương trình hóa:
+- Số sân bay (АЭР); 5
+- Các điểm trung gian trong hành trình bay (ППМ); 9
+- Các đài chỉ chuẩn (РМ). 5
+4 Số lượng tham số của mỗi điểm dẫn đường 4
+5 Dung lượng bộ nhớ:
+- Bộ nhớ cố định (ROM); MB 8192 từ 18 bít
+- Bộ nhớ tạm thời (RAM); MB 768 từ 18 bít
+- Bộ nhớ bán cố định (EEPROM). MB 256 từ 18 bít
+6 Tín hiệu vào:
+- Tín hiệu tương tự 8V/400Hz từ các biến thế sin cos; kênh 11
+- Tín hiệu tương tự từ các truyền cảm điện áp tương đối; kênh 4
+- Tín hiệu mã nối tiếp; kênh Có
+- Lệnh đơn (+27V, hở mạch); lệnh 16
+- Lệnh đơn mức logic TTL. lệnh 8
+7 Tín hiệu ra:
+- Tín hiệu tương tự cung cấp cho biến thế sin kênh 8
+5
+PAGE 6
+TT Tham số Đơn vị Yêu cầu
+cos 4V/400Hz;
+- Tín hiệu tương tự tỷ lệ theo góc sin cos ±4V; kênh 8
+- Tín hiệu tương tự tỷ lệ tuyến tính, mức 4V; kênh 16
+- Tín hiệu mã nối tiếp; kênh Có
+- Lệnh đơn (+27V, hở mạch); lệnh 16
+- Lệnh đơn colector hở (chập mát, hở mạch). lệnh 16
+8 Tính năng làm việc Tương đương với
+thiết bị A313 (gồm
+A313-2A và A313-3)
+do Liên bang Nga chế
+tạo.
+9 Thời gian chuẩn bị làm việc giây 3
+10 Dòng điện tiêu thụ:
++ Điện áp +27V; A ≤ 11
++ Điện áp ~36V/400Hz. A ≤ 0,7
+III. CẤU TẠO VÀ NGUYÊN LÝ HOẠT ĐỘNG
+3.1. Cấu tạo
+Thiết bị A313-V gồm 2 thành phần chức năng chính:
+- Bộ xử lý A313-2AV: phần thiết bị có chức năng tương đương với
+thiết bị A313-2A do Liên bang Nga chế tạo.
+- Thiết bị vào ra A313-3V: phần thiết bị có chức năng tương đương
+với thiết bị A313-3 do Liên bang Nga chế tạo.
+Thiết bị A313-V liên kết với các thiết bị ngoại vi thông qua 2 đầu cắm
+3Ш3/3Ш3B, 3Ш4/3Ш4B. Việc trao đổi thông tin giữa thiết bị A313-V với
+các thiết bị ngoại vi, các kết nối tín hiệu điện với hệ thống bên ngoài hoàn
+toàn tương đương với thiết bị A313.
+3.2. Nguyên lý hoạt động
+Thiết bị máy tính dẫn đường A313-V có nguyên lý làm việc giống
+nguyên lý làm việc của máy tính dẫn đường A313 do liên bang Nga sản xuất.
+Sơ đồ chức năng của thiết bị A313-V được thể hiện trên hình 2. Nguyên lý
+làm việc của máy tính của máy tính dẫn đường A313-V theo sơ đồ khối chức
+năng như sau:
+6
+PAGE 7
+3.2.1. Sự trao đổi thông tin giữa bộ xử lý A313-2AV và thiết bị vào ra A313-3V
+Bộ xử lý A313-2AV được thiết kế giống với nguyên lý làm việc của khối
+máy tính dẫn đường A313-2A do liên bang Nga chế tạo.
+Thiết bị vào ra A313-3V: Dùng để trao đổi tuần tự với các thiết bị ngoại vi,
+biến đổi các thông tin vào thành mã nhị phân song song 18 bít nạp vào bộ nhớ
+A313-23V, lấy thông tin là kết quả sau xử lý từ bộ nhớ A313-23V rồi biến đổi
+thành dạng phù hợp với các thiết bị ngoại vi. Thiết bị vào ra lần lượt trao đổi
+thông tin với tất cả hệ thống ngoại vi trong một chu kỳ làm việc có khoảng thời
+gian cố định là 0,15s (chu kỳ ngắn).
+Việc trao đổi thông tin giữa hai thiết bị này được thực hiện thông qua bộ
+nhớ A313-23V theo nguyên tắc trao đổi không đồng bộ (dị bộ) và tạm ngừng
+tính toán. Nguyên tắc trao đổi thông tin này đảm bảo cho việc trao đổi dữ liệu và
+hoạt động giữa hai thiết bị có tốc độ làm việc khác nhau. Các thiết bị này được
+đảm bảo làm việc trực tiếp với bộ nhớ RAM, nhưng việc xử lý thông tin trong
+mỗi phần thiết bị vào ra và bộ xử lý được tiến hành theo một chương trình riêng
+không phụ thuộc vào nhau. Các đường thông tin trao đổi và các tín hiệu điều
+khiển giữa 2 phần thiết bị theo phương thức trao đổi song song không đồng bộ
+bao gồm:
+- KШA: Đường địa chỉ 9 bit của bộ nhớ A313-23V;
+- KШЗп: Đường dữ liệu ghi 18 bit (gồm 16 bit dữ liệu và 2 bit kiểm tra);
+- КШЧт: Đường dữ liệu đọc 18 bit;
+- З̅̅п̅̅У̅̅В̅̅В̅: Xung ghi dữ liệu vào bộ nhớ A313-23V;
+- Ч̅̅т̅̅У̅̅В̅̅В̅: Xung đọc dữ liệu từ bộ nhớ A313-23V;
+- И̅̅̅К̅̅О̅: Xung kết thúc giao tiếp;
+- И̅̅̅В̅̅Ч̅: Xung xuất dữ liệu.
+Nguyên tắc tạm ngừng tính toán: Cũng giống như việc điều khiển vào/ra
+dữ liệu bằng ngắt giữa bộ xử lý và hệ thống ngoại vi, thiết bị vào ra khi có nhu
+cầu trao đổi dữ liệu sẽ phát ra tín hiệu để tạm ngừng công việc tính toán của bộ
+7
+PAGE 8
+xử lý để phục vụ việc trao đổi dữ liệu giữa 2 phần thiết bị. Sau khi hoàn thành
+việc trao đổi dữ liệu, tín hiệu kết thúc И̅̅̅К̅̅О̅ từ bộ xử lý đưa ra báo kết thúc quá
+trình trao đổi dữ liệu giữa hai phần thiết bị và bộ xử lý quay về thực hiện tiếp
+công việc đang bị gián đoạn.
+Các tín hiệu yêu cầu và địa chỉ các ô nhớ được tạo ra bởi thiết bị vào ra
+theo chương trình riêng không phụ thuộc vào quá trình tính toán của bộ xử lý.
+Các tín hiệu yêu cầu tạo ra bởi khối thiết bị vào ra được phục vụ và kết thúc
+khi có tín hiệu И̅̅̅К̅̅О̅. Khi không có tín hiệu này thì các tín hiệu yêu cầu bị xoá
+sau 24s. Bộ xử lý đảm bảo cho thiết bị vào ra trao đổi thông tin với bộ nhớ
+RAM không quá 17s.
+Hình 2 là biểu đồ thời gian trao đổi thông tin giữa thiết bị vào ra và bộ xử lý.
+Ч̅̅т̅̅У̅̅В̅̅В̅
+t
+<17s
+З̅̅п̅̅У̅̅В̅̅В̅
+t
+≤ 17s Ч
+И̅̅̅К̅̅О̅
+t
+1s
+0,5s
+И̅̅̅В̅̅Ч̅
+t
+1s
+КША
+З
+КШЗп
+t
+З
+КШЧт
+t
+≥ 0,25s З
+Hình 2. Biểu đồ thời gian quá trình trao đổi thông tin
+8
+PAGE 9
+giữa thiết bị vào ra và bộ xử lý
+3.2.2. Trao đổi thông tin giữa A313-V và khối bảng điều khiển
+Việc trao đổi thông tin giữa khối bảng điều khiển (A313-6M, ПУ-187) với
+A313-V nhằm thực hiện các công việc:
+- Ghi chương trình bay;
+- Đưa các dấu hiệu điều khiển vào thuật toán xử lý của máy tính A313-V.
+Các khối này được coi như một thuê bao số đối với máy tính A313-V. Việc
+trao đổi thông tin giữa 2 khối này với máy tính được thực hiện theo phương thức
+truyền dữ liệu số nối tiếp từ mã 20 bít. Mỗi từ mã gồm 5 nhóm, mỗi nhóm 4 bit.
+Nhóm đầu tiên là mã số của từ mã, 4 nhóm còn lại là thông tin được truyền đi.
+Để đồng bộ hoá quá trình trao đổi và kiểm tra thông tin được truyền, A313-
+V đưa vào khối A313-6 các tín hiệu cho phép và đồng bộ:
++ С̅̅П̅̅̅К̅: Xung mở mã thu;
++ С̅̅В̅̅̅К̅: Xung mở mã phát;
++ CИ: Tín hiệu gồm 20 xung đồng bộ tần số 40 KHz (dạng xung Mêan);
++ Tín hiệu xung đồng bộ tần số 80 KHz (dạng xung Mêan).
+Quá trình giải mã địa chỉ thông tin được tiến hành như sau:
+- Khối A313-6M tiếp nhận thông tin khi có xung mở mã phát và có sự
+trùng hợp mã địa chỉ của từ mã đưa từ máy tính tới với mã số thuê bao (mã địa
+chỉ) được gắn với các từ mã của khối A313-6M. Các từ mã truyền từ máy tính
+tới có ký hiệu: УП0, УП1, УП2, УП3.
+- Khối A313-6M truyền thông tin vào máy tính khi có xung mở mã thu và
+có sự trùng hợp mã địa chỉ của một trong những từ mã УП0 đến УП4 đưa từ
+máy tính đến ở nhịp trước với các mã số thuê bao của từ mã sắp được truyền.
+Các từ mã truyền từ A313-6M tới máy tính có ký hiệu CП0, CП1, CП2, CП3,
+trong đó CП2, CП3 là bản sao của CП0, CП1 tương ứng để nâng cao độ tin cậy
+trong việc truyền thông tin.
+3.2.3. Trao đổi thông tin nối tiếp
+9
+PAGE 10
+Thông tin nối tiếp được trao đổi dưới dạng mã nhị phân nối tiếp giữa máy
+tính và các thiết bị ngoại vi sử dụng kênh thông tin nối tiếp. Các thao tác trao đổi
+thông tin được tiến hành theo nguyên tắc đồng bộ và thiết bị vào ra A313-3V
+đóng vai trò là thiết bị chủ động. Bộ điều khiển trong thiết bị vào ra A313-3V
+tạo ra các tín hiệu đồng bộ, các tín hiệu điều khiển (С̅̅П̅̅̅К̅, С̅̅В̅̅̅К̅) đưa đến các thiết
+bị ngoại vi, xác định thứ tự trao đổi thông tin của các thiết bị ngoại vi với máy
+tính.
+Việc nhận thông tin nối tiếp được thực hiện thông qua bộ chuyển mạch vào
+mã nối tiếp. Thông tin mã nối tiếp được biến đổi thành mã song song, và kết quả
+biến đổi được ghi vào các ô nhớ có địa chỉ 100 -137 của bộ nhớ A313-23V.
+8 8
+Việc truyền thông tin nối tiếp từ máy tính đến các thiết bị ngoại vi được
+thực hiện nhờ mạch tạo tín hiệu mã nối tiếp, biến đổi mã song song đọc từ các ô
+nhớ 140 -177 thành tín hiệu mã nối tiếp.
+8
+3.2.4. Sự trao đổi thông tin giữa A313-V với hệ thống ngoại vi
+3.2.4.1. Tín hiệu vào khối A313-V từ hệ thống ngoại vi
+Tín hiệu từ các thiết bị ngoại vi được đưa đến thiết bị A313-V. Các tín hiệu
+này bao gồm 16 tín hiệu tương tự (116 a,б), 16 lệnh đơn PK1PK16. Các tín
+hiệu này được đưa qua đầu cắm 3Ш3 đi vào cụm chuyển mạch tín hiệu vào kí
+hiệu A313-V.02. Các tín hiệu tương tự a,б có dạng điện áp xoay chiều 400Hz
+biên độ 12V, các lệnh đơn có mức điện áp +27V. Các tín hiệu tương tự được
+biến đổi thành mức điện áp +4V và các lệnh đơn thành mức TTL trên đầu vào
+cụm A313-V.02 qua các bộ phân áp điện trở. Cụm chuyển mạch A313-V.02
+được điều khiển bằng các tín hiệu điều khiển t1t4, T1T4 được đưa đến từ cụm
+điều khiển và xử lý trung tâm A313-V.01.
+Đầu ra cụm chuyển mạch tín hiệu vào, các Выход a, Выход б, Выход PK
+được đưa đến cụm tích phân kí hiệu A313-V.03. Trong chế độ mã hóa cụm
+mạch tích phân thực hiện các chức năng sau:
+- Tự động điều chỉnh;
+10
+PAGE 11
+- Đặt điều kiện ban đầu để đảm bảo nhận được tín hiệu mức “không” ở đầu
+ra trước khi thực hiện tích phân;
+- Tích phân tín hiệu và lưu tín hiệu nhận được ở thời điểm cuối chế độ tích
+phân.
+Bộ tích phân có hai kênh: kênh a và kênh б, dùng để thực hiện tích phân
+hai kênh a và б tương ứng của tín hiệu tương tự vào. Mỗi kênh tích phân gồm có
+một bộ emitơ lặp, một bộ đảo và một mạch tích phân. Tín hiệu điều khiển chế độ
+điều chỉnh tự động là tín hiệu Упр АП, tín hiệu điều khiển chế độ quy không là
+Упр НУ, chế độ tích phân Упр ИНТ. Các tín hiệu này được đưa sang từ cụm
+A313-V.02 (được biến đổi từ mức logic thành mức điện áp -23V, +3,5V trên
+cụm A313-V.02). Các tín hiệu đầu ra của bộ tích phân Инт “a” và Инт “б”
+được đưa đến cụm biến đổi A313-V.04 để biến đổi thành tín hiệu số dạng mã
+nhị phân song song 18 bít (bao gồm cả 2 bít kiểm tra). Kết quả của biến đổi
+được chuyển vào các ô nhớ 18 bít (000 -037 ) của bộ nhớ A313-23V.
+8 8
+3.2.4.1. Tín hiệu từ khối A313-V đến các hệ thống ngoại vi
+Thông tin đưa ra được thiết bị vào ra A313-3V đọc từ các ô nhớ địa chỉ 040 -
+8
+077 của bộ nhớ A313-23V, rồi đưa đến cụm biến đổi A313-V.04 để biến đổi thành
+8
+tín hiệu tương tự dưới dạng tín hiệu rời rạc. Tín hiệu ra từ cụm biến đổi được đưa
+đến cụm chuyển mạch tín hiệu ra A313-V.05. Cụm mạch điện này gồm 49 bộ nhớ
+tương tự tương ứng với các tín hiệu điều khiển lựa chọn các kênh là K1K4, T1T4,
+t1t4 có mức điện áp -23V, +3,5V được đưa sang từ cụm A313-V.02. Đầu ra cụm
+A313-V.05 gồm 8 kênh tín hiệu tương tự cung cấp cho biến thế sin cos 4V/400Hz
+(Выход 1aВыход 8a, Выход 1бВыход 8б) được đưa sang cụm khuếch đại tín
+hiệu ra A313-V.06 để điều chế tạo tín hiệu xoay chiều 400Hz biên độ ±4V. Các tín
+hiệu ra còn lại (8 kênh tín hiệu tương tự tỷ lệ theo góc sin cos ±4V với cặp tín hiệu a,
+б (Выход 9aВыход 16a, Выход 9бВыход 16б), 16 kênh tương tự tỷ lệ tuyến
+tính, điện áp một chiều mức 4V (Выход 17aВыход 32a)) đưa ra trực tiếp đến đầu
+cắm 3Ш3.
+IV. KHAI THÁC, SỬ DỤNG
+11
+PAGE 12
+4.1. Kiểm tra thiết bị A313-V trên bàn kiểm tra ПС17-318, ПС17-319
+Thiết bị A313-V có thể được kiểm tra trên bàn kiểm tra ПС17-318, ПС17-
+319 theo các nội dung nêu trong bảng 3. Sơ đồ đấu nối kiểm tra khả năng làm
+việc của thiết bị A313-V trên hình 3.
+Bảng 3. Trình tự kiểm tra thiết bị A313-V trên bàn kiểm tra
+ПС17-318, ПС17-319
+TT Nội dung công việc Yêu cầu
+1 Lắp thiết bị A313-V trên bàn kiểm tra
+ПС17-318, ПС17-319 theo phiếu công nghệ
+№203 ЕУ1.247.199 РЭ.
+2 Kiểm tra khả năng làm việc và các tham số Thiết bị A313-V phải đạt
+điện của thiết bị A313-V trên bàn kiểm tra được các chỉ tiêu, tham số
+theo các phiếu công nghệ №207, №208, kỹ thuật theo các phiếu
+№209 ЕУ1.247.199 РЭ. công nghệ.
+3 Nhập chương trình bay vào thiết bị A313-V Dữ liệu thông tin chương
+theo phiếu công nghệ №210 ЕУ1.247.199 РЭ trình bay được lưu giữ
+và kiểm tra dữ liệu thông tin chương trình bay phải đạt được theo phiếu
+được lưu giữ trong bộ nhớ A313-23V theo công nghệ.
+phiếu công nghệ №219 ЕУ1.247.199 РЭ.
+A313 A313-V
+-6M
+6Ш1 3Ш4 3Ш3
+Ш8 Ш4 Ш11
+ПC17-319 ПC17-318
+Ш10 Ш11 Ш6 Ш2 Ш6
++27V ~36V +27V
+400Hz
+Hình 3. Sơ đồ đấu nối kiểm tra khả năng làm việc của thiết bị A313-V
+12
+PAGE 13
+Bảng4. Danh mục các phiếu công nghệ
+STT Tên phiếu công nghệ Nội dung
+1 Phiếu công nghệ số 201 Tháo thiết bị A-313 khỏi máy bay.
+Quy trình thao tác tương tự trong quyển hướng
+dẫn sự dụng thiết bị A313 EY1.247.199 PЭ.
+2 Phiếu công nghệ số 202 Lắp thiết bị A-313 lên máy bay.
+Quy trình thao tác tương tự trong quyển hướng
+dẫn sử dụng thiết bị A313 EY1.247.199 PЭ.
+3 Phiếu công nghệ số 203 Lắp thiết bị A-313 lên bàn kiểm tra.
+Quy trình thao tác tương tự trong quyển hướng
+dẫn sử dụng thiết bị A313 EY1.247.199 PЭ.
+4 Phiếu công nghệ số 204 Tháo thiết bị A-313 khỏi bàn kiểm tra.
+Quy trình thao tác tương tự trong quyển hướng
+dẫn sử dụng thiết bị A313 EY1.247.199 PЭ.
+5 Phiếu công nghệ số 205 Kiểm tra trạng thái tốt của các đèn tín hiệu và
+cầu chì của hệ thống cung cấp điện cho thiết bị
+A-313.
+Quy trình thao tác tương tự trong quyển hướng
+dẫn sử dụng thiết bị A313 EY1.247.199 PЭ.
+6 Phiếu công nghệ số 206 Kiểm tra điện áp nguồn cung cấp cho thiết bị A-
+313
+Quy trình thao tác tương tự trong quyển hướng
+dẫn sử dụng thiết bị A313 EY1.247.199 PЭ.
+7 Phiếu công nghệ số 207 Kiểm tra các giá trị điện áp của thiết bị A-313.
+Quy trình thao tác tương tự trong quyển hướng
+dẫn sử dụng thiết bị A313 EY1.247.199 PЭ.
+13
+PAGE 14
+8 Phiếu công nghệ số 208 Kiểm tra các tham số của thiết bị A-313 ở chế
+độ kiểm tra “Контроль”.
+Quy trình thao tác tương tự trong quyển hướng
+dẫn sử dụng thiết bị A313 EY1.247.199 PЭ.
+9 Phiếu công nghệ số 209 Kiểm tra giá trị các tham số của thiết bị A313
+trên bàn kiểm tra.
+Quy trình thao tác tương tự trong quyển hướng
+dẫn sử dụng thiết bị A313 EY1.247.199 PЭ.
+10 Phiếu công nghệ số 210 Nạp chương trình bay vào thiết bị A-313 trong
+trường hợp cần thiết.
+Quy trình thao tác tương tự trong quyển hướng
+dẫn sử dụng thiết bị A313 EY1.247.199 PЭ.
+11 Phiếu công nghệ số 211 Nạp thời gian tức thời vào thiết bị A-313.
+Quy trình thao tác tương tự trong quyển hướng
+dẫn sử dụng thiết bị A313 EY1.247.199 PЭ.
+12 Phiếu công nghệ số 212 Nạp hướng đỗ máy bay cho thiết bị A-313
+Quy trình thao tác tương tự trong quyển hướng
+dẫn sử dụng thiết bị A313 EY1.247.199 PЭ.
+13 Phiếu công nghệ số 213 Đưa các thông tin đã được lưu giữ tại ЗУ đến bộ
+chỉ thị (bài kiểm tra №1).
+Quy trình thao tác tương tự trong quyển hướng
+dẫn sử dụng thiết bị A313 EY1.247.199 PЭ.
+14 Phiếu công nghệ số 214 Thay đổi các điểm dẫn đường.
+Quy trình thao tác tương tự trong quyển hướng
+dẫn sử dụng thiết bị A313 EY1.247.199 PЭ.
+15 Phiếu công nghệ số 215 Thay đổi phương pháp điều khiển bay.
+Quy trình thao tác tương tự trong quyển hướng
+14
+PAGE 15
+dẫn sử dụng thiết bị A313 EY1.247.199 PЭ.
+16 Phiếu công nghệ số 216 Đặt những giá trị cự ly cho trước.
+Quy trình thao tác tương tự trong quyển hướng
+dẫn sử dụng thiết bị A313 EY1.247.199 PЭ.
+17 Phiếu công nghệ số 217 Điều khiển bằng chế độ “ПОВТОРНЫЙ
+ЗАХОД” (bay lại).
+Quy trình thao tác tương tự trong quyển hướng
+dẫn sử dụng thiết bị A313 EY1.247.199 PЭ.
+18 Phiếu công nghệ số 218 Đặt các điểm cơ động
+Quy trình thao tác tương tự trong quyển hướng
+dẫn sử dụng thiết bị A313 EY1.247.199 PЭ.
+19 Phiếu công nghệ số 219 Tự động chỉ thị chương trình bay (bài kiểm tra №3).
+Quy trình thao tác tương tự trong quyển hướng
+dẫn sử dụng thiết bị A313 EY1.247.199 PЭ.
+20 Phiếu công nghệ số 220 Cố định tọa độ địa lý của điểm dẫn đường.
+Quy trình thao tác tương tự trong quyển hướng
+dẫn sử dụng thiết bị A313 EY1.247.199 PЭ.
+21 Phiếu công nghệ số 221 Lập trình cơ động БАРРАЖИРОВАНИЕ.
+Quy trình thao tác tương tự trong quyển hướng
+dẫn sử dụng thiết bị A313 EY1.247.199 PЭ.
+22 Phiếu công nghệ số 222 Quan sát bên ngoài các khối thiết bị A-313 trên
+máy bay.
+Quy trình thao tác tương tự trong quyển hướng
+dẫn sử dụng thiết bị A313 EY1.247.199 PЭ.
+23 Phiếu công nghệ số 223 Hỏi tổ bay về sự làm việc của thiết bị trong thời
+gian bay.
+Quy trình thao tác tương tự trong quyển hướng
+15
+PAGE 16
+dẫn sử dụng thiết bị A313 EY1.247.199 PЭ.
+4.2. Kiểm tra thiết bị A313-V trên thiết bị PS17-320V
+Sơ đồ đấu nối thiết bị A313-V kiểm tra trên thiết bị PS17-320V trên hình 4
+Hình 4. Sơ đồ kết nối kiểm tra thiết bị A313-V với thiết bị PS17-320
+4.2.1. Kiểm tra tính năng của thiết bị A313-V trong chế độ thu phát
+lệnh đơn
+Chế độ kiểm tra thu lệnh đơn
+- Kết nối thiết bị kiểm tra PS17-320V với máy tính A313-V, các công tắc
+trên mặt máy ở vị trí dưới, công tắc A313-13/A313-V về vị trí A313-V.
+- Bật công tắc nguồn 27V.
+- Bật công tắc PK2 và PK8 lên vị trí trên.
+- Thực hiện lần lượt theo bảng 5 để kiểm tra các lệnh đơn vào PK1÷PK16.
+Bảng 5. Chế độ kiểm tra thu lệnh đơn
+Nhập địa chỉ từ
+dãy công tắc Thực hiện Yêu cầu
+АДРЕС 7 ÷15
+Sáng và tắt đèn số 15 trên vùng
+000 Bật và tắt công tắc PK1
+8 hiển thị ИНДИКАЦИЯ
+001 Bật và tắt công tắc PK2 Sáng và tắt đèn số 15 trên vùng
+8
+16
+PAGE 17
+Nhập địa chỉ từ
+dãy công tắc Thực hiện Yêu cầu
+АДРЕС 7 ÷15
+hiển thị ИНДИКАЦИЯ
+Sáng và tắt đèn số 15 trên vùng
+002 Bật và tắt công tắc PK3
+8 hiển thị ИНДИКАЦИЯ
+Sáng và tắt đèn số 15 trên vùng
+003 Bật và tắt công tắc PK4
+8 hiển thị ИНДИКАЦИЯ
+Sáng và tắt đèn số 15 trên vùng
+004 Bật và tắt công tắc PK5
+8 hiển thị ИНДИКАЦИЯ
+Sáng và tắt đèn số 15 trên vùng
+005 Bật và tắt công tắc PK6
+8 hiển thị ИНДИКАЦИЯ
+Sáng và tắt đèn số 15 trên vùng
+006 Bật và tắt công tắc PK7
+8 hiển thị ИНДИКАЦИЯ
+Sáng và tắt đèn số 15 trên vùng
+007 Bật và tắt công tắc PK8
+8 hiển thị ИНДИКАЦИЯ
+Sáng và tắt đèn số 15 trên vùng
+010 Bật và tắt công tắc PK9
+8 hiển thị ИНДИКАЦИЯ
+Sáng và tắt đèn số 15 trên vùng
+011 Bật và tắt công tắc PK10
+8 hiển thị ИНДИКАЦИЯ
+Sáng và tắt đèn số 15 trên vùng
+012 Bật và tắt công tắc PK11
+8 hiển thị ИНДИКАЦИЯ
+Sáng và tắt đèn số 15 trên vùng
+013 Bật và tắt công tắc PK12
+8 hiển thị ИНДИКАЦИЯ
+Sáng và tắt đèn số 15 trên vùng
+014 Bật và tắt công tắc PK13
+8 hiển thị ИНДИКАЦИЯ
+Sáng và tắt đèn số 15 trên vùng
+015 Bật và tắt công tắc PK14
+8 hiển thị ИНДИКАЦИЯ
+Sáng và tắt đèn số 15 trên vùng
+016 Bật và tắt công tắc PK15
+8 hiển thị ИНДИКАЦИЯ
+Sáng và tắt đèn số 15 trên vùng
+017 Bật và tắt công tắc PK16
+8 hiển thị ИНДИКАЦИЯ
+Chế độ kiểm tra phát lệnh đơn
+- Bật công tắc nguồn 27V.
+- Bật công tắc PK2 và PK8 lên vị trí trên.
+- Thực hiện lần lượt theo bảng 6 để kiểm tra các lệnh đơn ra PK1 ÷ PK16:
+17
+PAGE 18
+Bảng 6. Chế độ kiểm tra phát lệnh đơn
+Nhập địa chỉ từ
+dãy công tắc Thực hiện Yêu cầu
+АДРЕС 7 ÷15
+Sáng và tắt đèn số 0 trên vùng
+225 Bật và tắt công tắc PK1 hiển thị ИНДИКАЦИЯ và đèn số
+8
+1 ở sườn máy.
+Sáng và tắt đèn số 1 trên vùng
+225 Bật và tắt công tắc PK2 hiển thị ИНДИКАЦИЯ và đèn số
+8
+2 ở sườn máy.
+Sáng và tắt đèn số 2 trên vùng
+225 Bật và tắt công tắc PK3 hiển thị ИНДИКАЦИЯ và đèn số
+8
+3 ở sườn máy.
+Sáng và tắt đèn số 3 trên vùng
+225 Bật và tắt công tắc PK4 hiển thị ИНДИКАЦИЯ và đèn số
+8
+4 ở sườn máy.
+Sáng và tắt đèn số 4 trên vùng
+225 Bật và tắt công tắc PK5 hiển thị ИНДИКАЦИЯ và đèn số
+8
+5 ở sườn máy.
+Sáng và tắt đèn số 5 trên vùng
+225 Bật và tắt công tắc PK6 hiển thị ИНДИКАЦИЯ và đèn số
+8
+6 ở sườn máy.
+Sáng và tắt đèn số 6 trên vùng
+225 Bật và tắt công tắc PK7 hiển thị ИНДИКАЦИЯ và đèn số
+8
+7 ở sườn máy.
+Sáng và tắt đèn số 7 trên vùng
+225 Bật và tắt công tắc PK8 hiển thị ИНДИКАЦИЯ và đèn số
+8
+8 ở sườn máy.
+Sáng và tắt đèn số 8 trên vùng
+225 Bật và tắt công tắc PK9 hiển thị ИНДИКАЦИЯ và đèn số
+8
+9 ở sườn máy.
+Sáng và tắt đèn số 9 trên vùng
+225 Bật và tắt công tắc PK10 hiển thị ИНДИКАЦИЯ và đèn số
+8
+10 ở sườn máy.
+Sáng và tắt đèn số 10 trên vùng
+225 Bật và tắt công tắc PK11 hiển thị ИНДИКАЦИЯ và đèn số
+8
+11 ở sườn máy.
+225 Bật và tắt công tắc PK12 Sáng và tắt đèn số 11 trên vùng
+8
+18
+PAGE 19
+Nhập địa chỉ từ
+dãy công tắc Thực hiện Yêu cầu
+АДРЕС 7 ÷15
+hiển thị ИНДИКАЦИЯ và đèn số
+12 ở sườn máy.
+Sáng và tắt đèn số 12 trên vùng
+225 Bật và tắt công tắc PK13 hiển thị ИНДИКАЦИЯ và đèn số
+8
+13 ở sườn máy.
+Sáng và tắt đèn số 13 trên vùng
+225 Bật và tắt công tắc PK14 hiển thị ИНДИКАЦИЯ và đèn số
+8
+14 ở sườn máy.
+Sáng và tắt đèn số 14 trên vùng
+225 Bật và tắt công tắc PK15 hiển thị ИНДИКАЦИЯ và đèn số
+8
+15 ở sườn máy.
+Sáng và tắt đèn số 15 trên vùng
+225 Bật và tắt công tắc PK16 hiển thị ИНДИКАЦИЯ và đèn số
+8
+16 ở sườn máy.
+4.2.2. Kiểm tra tính năng của thiết bị A313-V trong chế độ thu phát mã nối tiếp
+Chế độ kiểm tra thu mã nối tiếp
+- Bật công tắc nguồn 27V
+- Bật công tắc PK2 và PK8 lên vị trí trên
+- Công tắc ВЫБОР КОД để ở vị trí I
+- Thực hiện lần lượt theo bảng 7 với công tắc PK4 tắt:
+Bảng 7. Chế độ kiểm tra thu mã nối tiếp
+Nhập địa chỉ từ Công tắc
+dãy công tắc 101...0 - Yêu cầu
+АДРЕС 7 ÷15 101...1
+Chuyển vị trí Sáng đèn trên vùng hiển thị ИНДИКАЦИЯ
+104
+8 101...0 / 101...1 mã tương ứng là 125252 hoặc 052525
+8 8
+Chuyển vị trí Sáng đèn trên vùng hiển thị ИНДИКАЦИЯ
+105
+8 101...0 / 101...1 mã tương ứng là 125252 hoặc 052525
+8 8
+Chuyển vị trí Sáng đèn trên vùng hiển thị ИНДИКАЦИЯ
+106
+8 101...0 / 101...1 mã tương ứng là 125252 hoặc 052525
+8 8
+Chuyển vị trí Sáng đèn trên vùng hiển thị ИНДИКАЦИЯ
+107
+8 101...0 / 101...1 mã tương ứng là 125252 hoặc 052525
+8 8
+110 Chuyển vị trí Sáng đèn trên vùng hiển thị ИНДИКАЦИЯ
+8
+19
+PAGE 20
+Nhập địa chỉ từ Công tắc
+dãy công tắc 101...0 - Yêu cầu
+АДРЕС 7 ÷15 101...1
+101...0 / 101...1 mã tương ứng là 125252 hoặc 052525
+8 8
+Chuyển vị trí Sáng đèn trên vùng hiển thị ИНДИКАЦИЯ
+111
+8 101...0 / 101...1 mã tương ứng là 125252 hoặc 052525
+8 8
+Chuyển vị trí Sáng đèn trên vùng hiển thị ИНДИКАЦИЯ
+112
+8 101...0 / 101...1 mã tương ứng là 125252 hoặc 052525
+8 8
+Chuyển vị trí Sáng đèn trên vùng hiển thị ИНДИКАЦИЯ
+113
+8 101...0 / 101...1 mã tương ứng là 125252 hoặc 052525
+8 8
+Chuyển vị trí Sáng đèn trên vùng hiển thị ИНДИКАЦИЯ
+114
+8 101...0 / 101...1 mã tương ứng là 125252 hoặc 052525
+8 8
+Chuyển vị trí Sáng đèn trên vùng hiển thị ИНДИКАЦИЯ
+115
+8 101...0 / 101...1 mã tương ứng là 125252 hoặc 052525
+8 8
+Chuyển vị trí Sáng đèn trên vùng hiển thị ИНДИКАЦИЯ
+116
+8 101...0 / 101...1 mã tương ứng là 125252 hoặc 052525
+8 8
+Chuyển vị trí Sáng đèn trên vùng hiển thị ИНДИКАЦИЯ
+117
+8 101...0 / 101...1 mã tương ứng là 125252 hoặc 052525
+8 8
+Chuyển vị trí Sáng đèn trên vùng hiển thị ИНДИКАЦИЯ
+120
+8 101...0 / 101...1 mã tương ứng là 125252 hoặc 052525
+8 8
+Chuyển vị trí Sáng đèn trên vùng hiển thị ИНДИКАЦИЯ
+121
+8 101...0 / 101...1 mã tương ứng là 125252 hoặc 052525
+8 8
+Chuyển vị trí Sáng đèn trên vùng hiển thị ИНДИКАЦИЯ
+122
+8 101...0 / 101...1 mã tương ứng là 125252 hoặc 052525
+8 8
+Chuyển vị trí Sáng đèn trên vùng hiển thị ИНДИКАЦИЯ
+123
+8 101...0 / 101...1 mã tương ứng là 125252 8 hoặc 052525 8
+Chuyển vị trí Sáng đèn trên vùng hiển thị ИНДИКАЦИЯ
+124
+8 101...0 / 101...1 mã tương ứng là 125252 hoặc 052525
+8 8
+Chuyển vị trí Sáng đèn trên vùng hiển thị ИНДИКАЦИЯ
+125
+8 101...0 / 101...1 mã tương ứng là 125252 hoặc 052525
+8 8
+Chuyển vị trí Sáng đèn trên vùng hiển thị ИНДИКАЦИЯ
+126
+8 101...0 / 101...1 mã tương ứng là 125252 hoặc 052525
+8 8
+Chuyển vị trí Sáng đèn trên vùng hiển thị ИНДИКАЦИЯ
+127
+8 101...0 / 101...1 mã tương ứng là 125252 hoặc 052525
+8 8
+Chuyển vị trí Sáng đèn trên vùng hiển thị ИНДИКАЦИЯ
+130
+8 101...0 / 101...1 mã tương ứng là 125252 hoặc 052525
+8 8
+Chuyển vị trí Sáng đèn trên vùng hiển thị ИНДИКАЦИЯ
+131
+8 101...0 / 101...1 mã tương ứng là 125252 hoặc 052525
+8 8
+20
+PAGE 21
+Nhập địa chỉ từ Công tắc
+dãy công tắc 101...0 - Yêu cầu
+АДРЕС 7 ÷15 101...1
+Chuyển vị trí Sáng đèn trên vùng hiển thị ИНДИКАЦИЯ
+132
+8 101...0 / 101...1 mã tương ứng là 125252 hoặc 052525
+8 8
+Chuyển vị trí Sáng đèn trên vùng hiển thị ИНДИКАЦИЯ
+133
+8 101...0 / 101...1 mã tương ứng là 125252 hoặc 052525
+8 8
+Chuyển vị trí Sáng đèn trên vùng hiển thị ИНДИКАЦИЯ
+134
+8 101...0 / 101...1 mã tương ứng là 125252 hoặc 052525
+8 8
+Chuyển vị trí Sáng đèn trên vùng hiển thị ИНДИКАЦИЯ
+135
+8 101...0 / 101...1 mã tương ứng là 125252 hoặc 052525
+8 8
+Chuyển vị trí Sáng đèn trên vùng hiển thị ИНДИКАЦИЯ
+136
+8 101...0 / 101...1 mã tương ứng là 125252 hoặc 052525
+8 8
+Chuyển vị trí Sáng đèn trên vùng hiển thị ИНДИКАЦИЯ
+137
+8 101...0 / 101...1 mã tương ứng là 125252 hoặc 052525
+8 8
+Chế độ kiểm tra phát mã nối tiếp
+- Bật công tắc nguồn 27V
+- Bật công tắc ПК ЦИ - ВЫХ.ПК về vị trí ВЫХ.ПК,
+- Bật công tắc PK2; PK8 lên vị trí trên.
+- Thực hiện lần lượt theo bảng 8 với công tắc PK4 tắt:
+Bảng 8. Chế độ kiểm tra phát mã nối tiếp
+Nhập địa chỉ từ dãy
+Yêu cầu
+công tắc АДРЕС 7 ÷15
+Sáng đèn trên vùng hiển thị ИНДИКАЦИЯ mã
+144
+8 tương ứng là 052525
+8
+Sáng đèn trên vùng hiển thị ИНДИКАЦИЯ mã
+145
+8 tương ứng là 125252
+8
+Sáng đèn trên vùng hiển thị ИНДИКАЦИЯ mã
+146
+8 tương ứng là 052525
+8
+Sáng đèn trên vùng hiển thị ИНДИКАЦИЯ mã
+147
+8 tương ứng là 125252
+8
+Sáng đèn trên vùng hiển thị ИНДИКАЦИЯ mã
+150
+8 tương ứng là 052525
+8
+Sáng đèn trên vùng hiển thị ИНДИКАЦИЯ mã
+151
+8 tương ứng là 125252
+8
+Sáng đèn trên vùng hiển thị ИНДИКАЦИЯ mã
+152
+8 tương ứng là 052525
+8
+21
+PAGE 22
+Nhập địa chỉ từ dãy
+Yêu cầu
+công tắc АДРЕС 7 ÷15
+Sáng đèn trên vùng hiển thị ИНДИКАЦИЯ mã
+153
+8 tương ứng là 125252
+8
+Sáng đèn trên vùng hiển thị ИНДИКАЦИЯ mã
+154
+8 tương ứng là 052525
+8
+Sáng đèn trên vùng hiển thị ИНДИКАЦИЯ mã
+155
+8 tương ứng là 125252
+8
+Sáng đèn trên vùng hiển thị ИНДИКАЦИЯ mã
+156
+8 tương ứng là 052525
+8
+Sáng đèn trên vùng hiển thị ИНДИКАЦИЯ mã
+157
+8 tương ứng là 125252
+8
+Sáng đèn trên vùng hiển thị ИНДИКАЦИЯ mã
+160
+8 tương ứng là 052525
+8
+Sáng đèn trên vùng hiển thị ИНДИКАЦИЯ mã
+161
+8 tương ứng là 125252
+8
+Sáng đèn trên vùng hiển thị ИНДИКАЦИЯ mã
+162
+8 tương ứng là 052525
+8
+Sáng đèn trên vùng hiển thị ИНДИКАЦИЯ mã
+163
+8 tương ứng là 125252
+8
+Sáng đèn trên vùng hiển thị ИНДИКАЦИЯ mã
+164
+8 tương ứng là 052525
+8
+Sáng đèn trên vùng hiển thị ИНДИКАЦИЯ mã
+165
+8 tương ứng là 125252
+8
+Sáng đèn trên vùng hiển thị ИНДИКАЦИЯ mã
+166
+8 tương ứng là 052525
+8
+Sáng đèn trên vùng hiển thị ИНДИКАЦИЯ mã
+167
+8 tương ứng là 125252
+8
+Sáng đèn trên vùng hiển thị ИНДИКАЦИЯ mã
+170
+8 tương ứng là 052525
+8
+Sáng đèn trên vùng hiển thị ИНДИКАЦИЯ mã
+171
+8 tương ứng là 125252
+8
+Sáng đèn trên vùng hiển thị ИНДИКАЦИЯ mã
+172
+8 tương ứng là 052525
+8
+Sáng đèn trên vùng hiển thị ИНДИКАЦИЯ mã
+173
+8 tương ứng là 125252
+8
+Sáng đèn trên vùng hiển thị ИНДИКАЦИЯ mã
+174
+8 tương ứng là 052525
+8
+22
+PAGE 23
+Nhập địa chỉ từ dãy
+Yêu cầu
+công tắc АДРЕС 7 ÷15
+Sáng đèn trên vùng hiển thị ИНДИКАЦИЯ mã
+175
+8 tương ứng là 125252
+8
+Sáng đèn trên vùng hiển thị ИНДИКАЦИЯ mã
+176
+8 tương ứng là 052525
+8
+Sáng đèn trên vùng hiển thị ИНДИКАЦИЯ mã
+177
+8 tương ứng là 125252
+8
+4.2.3. Kiểm tra tính năng của thiết bị PS17-320V trong chế độ mã hóa và
+giải mã
+- Bật công tắc nguồn 27V.
+- Bật công tắc PK2 và PK8 lên vị trí trên.
+- Thực hiện kiểm tra chế độ mã hóa theo bảng 9
+Bảng 9. Chế độ kiểm tra mã hóa
+Nhập địa chỉ từ
+dãy công tắc Yêu cầu
+АДРЕС 7 ÷15
+Đèn hiển thị ИНДИКАЦИЯ tương ứng 110000 ±200
+8 8
+000
+8 (107776±200 ) hoặc 150000 ±200 (147776±200 )
+8 8 8 8
+Đèn hiển thị ИНДИКАЦИЯ tương ứng 110000 ±200
+8 8
+001
+8 (107776±200 ) hoặc 150000 ±200 (147776±200 )
+8 8 8 8
+Đèn hiển thị ИНДИКАЦИЯ tương ứng 110000 ±200
+8 8
+002
+8 (107776±200 ) hoặc 150000 ±200 (147776±200 )
+8 8 8 8
+Đèn hiển thị ИНДИКАЦИЯ tương ứng 110000 ±200
+8 8
+003
+8 (107776±200 ) hoặc 150000 ±200 (147776±200 )
+8 8 8 8
+Đèn hiển thị ИНДИКАЦИЯ tương ứng 110000 ±200
+8 8
+004
+8 (107776±200 ) hoặc 150000 ±200 (147776±200 )
+8 8 8 8
+Đèn hiển thị ИНДИКАЦИЯ tương ứng 110000 ±200
+8 8
+005
+8 (107776±200 ) hoặc 150000 ±200 (147776±200 )
+8 8 8 8
+Đèn hiển thị ИНДИКАЦИЯ tương ứng 110000 ±200
+8 8
+006
+8 (107776±200 ) hoặc 150000 ±200 (147776±200 )
+8 8 8 8
+Đèn hiển thị ИНДИКАЦИЯ tương ứng 110000 ±200
+8 8
+007
+8 (107776±200 ) hoặc 150000 ±200 (147776±200 )
+8 8 8 8
+Đèn hiển thị ИНДИКАЦИЯ tương ứng 110000 ±200
+8 8
+010
+8 (107776±200 ) hoặc 150000 ±200 (147776±200 )
+8 8 8 8
+Đèn hiển thị ИНДИКАЦИЯ tương ứng 110000 ±200
+8 8
+011
+8 (107776±200 ) hoặc 150000 ±200 (147776±200 )
+8 8 8 8
+23
+PAGE 24
+Nhập địa chỉ từ
+dãy công tắc Yêu cầu
+АДРЕС 7 ÷15
+Đèn hiển thị ИНДИКАЦИЯ tương ứng 110000 ±200
+8 8
+012
+8 (107776±200 ) hoặc 150000 ±200 (147776±200 )
+8 8 8 8
+Đèn hiển thị ИНДИКАЦИЯ tương ứng 110000 ±140
+8 8
+013
+8 (107776±140 ) hoặc 150000 ±140 (147776±140 )
+8 8 8 8
+Đèn hiển thị ИНДИКАЦИЯ tương ứng 110000 ±200
+8 8
+014
+8 (107776±200 ) hoặc 150000 ±200 (147776±200 )
+8 8 8 8
+Đèn hiển thị ИНДИКАЦИЯ tương ứng 110000 ±200
+8 8
+015
+8 (107776±200 ) hoặc 150000 ±200 (147776±200 )
+8 8 8 8
+Đèn hiển thị ИНДИКАЦИЯ tương ứng 110000 ±200
+8 8
+016
+8 (107776±200 ) hoặc 150000 ±200 (147776±200 )
+8 8 8 8
+Đèn hiển thị ИНДИКАЦИЯ tương ứng 110000 ±200
+8 8
+017
+8 (107776±200 ) hoặc 150000 ±200 (147776±200 )
+8 8 8 8
+-Thực hiện kiểm tra chế độ giải mã:
++ Trên bảng điều khiển A313-6M tiến hành thao tác nhập: ВВОД →
+ПУ/Д → nhập giá trị góc 045000 khi đó đo các tín hiệu cửa ra Выход theo kênh
+а và б trên 3Ш3B phải có giá trị bằng nhau theo như bảng 10
+Bảng 10. Chế độ kiểm tra giải mã
+Lỗ đo 3Ш3B trên sườn
+Tên tín hiệu Yêu cầu
+máy PS17-320V
+Выход 1а 2
+Hai tín hiệu bằng nhau
+Выход 1б 3
+Выход 2а 4
+Hai tín hiệu bằng nhau
+Выход 2б 5
+Выход 3а 6
+Hai tín hiệu bằng nhau
+Выход 3б 7
+Выход 4а 8
+Hai tín hiệu bằng nhau
+Выход 4б 9
+Выход 5а 10
+Hai tín hiệu bằng nhau
+Выход 5б 11
+Выход 6а 12
+Hai tín hiệu bằng nhau
+Выход 6б 13
+Выход 7а 14 Hai tín hiệu bằng nhau
+24
+PAGE 25
+Lỗ đo 3Ш3B trên sườn
+Tên tín hiệu Yêu cầu
+máy PS17-320V
+Выход 7б 16
+Выход 8а 15
+Hai tín hiệu bằng nhau
+Выход 8б 17
+Выход 9а 18 Tín hiệu 9a mức ‘0’
+Выход 9б 19 Tín hiệu 9б mức ‘1’
+Выход 10а 22
+Hai tín hiệu bằng nhau
+Выход 10б 23
+Выход 11а 24
+Hai tín hiệu bằng nhau
+Выход 11б 25
+Выход 12а 26
+Hai tín hiệu bằng nhau
+Выход 12б 27
+Выход 13а 28
+Hai tín hiệu bằng nhau
+Выход 13б 29
+Выход 14а 30
+Hai tín hiệu bằng nhau
+Выход 14б 31
+Выход 15а 32
+Hai tín hiệu bằng nhau
+Выход 15б 33
+Выход 16а 34
+Hai tín hiệu bằng nhau
+Выход 16б 35
+4.3. Kiểm tra thiết bị A313-V khi lắp lên máy bay tại mặt đất
+Bảng 11. Nội dung kiểm tra thiết bị A313-V khi lắp lên máy bay tại mặt đất
+TT Nội dung công việc Yêu cầu
+1 Lắp thiết bị A313-V lên máy bay.
+2 Kiểm tra các thiết bị VTĐT theo nội dung Các thiết bị VTĐT phải
+chuẩn bị trước ngày bay. hoạt động tốt.
+3 Kiểm tra thiết bị A313-V theo các phiếu công Thiết bị A313-V phải đạt
+nghệ số 13 (đặt chương trình ở A313-6M, đặt được các chỉ tiêu, tham
+thời gian và hướng đỗ) và số 43 (Kiểm tra khả số kỹ thuật theo các
+năng làm việc của máy tính A313 ở chế độ tự phiếu công nghệ.
+kiểm tra) thuộc quyển 9 - Hướng dẫn sử dụng
+KT số 10CK hoặc số 10УБК.
+25
+PAGE 26
+V. CÁC HỎNG HÓC THƯỜNG GẶP VÀ CÁCH KHẮC PHỤC
+Hỏng hóc
+TT Cách phát hiện và khắc phục
+thường gặp
+1 Hỏng hóc kênh lệnh
+đơn vào.
+1.1 Một kênh lệnh đơn - Bước 1: Kiểm tra thông mạch theo đường dây kênh tín
+vào (mức +27V) bất hiệu lệnh đơn hỏng từ đầu cắm 3Ш3 đến chân tương ứng ở
+kỳ hỏng. đầu cắm DC3/TG. Nếu kết quả kiểm tra thông mạch không
+tốt thì tiến hành kiểm tra phát hiện chỗ đứt, sửa chữa nối lại
+đường dây. Nếu kết quả kiểm tra thông mạch tốt thì chuyển
+sang bước 2.
+- Bước 2: Kiểm tra bộ phân áp chuẩn hóa tín hiệu lệnh đơn
+vào và chuyển mạch đầu vào (ở U8 hoặc U9 hoặc U20,
+U21 của cụm A313-V.02) hoặc IC biến đổi mức điều khiển
+chuyển mạch của kênh lệnh đơn bị hỏng để phát hiện hỏng
+hóc và sửa chữa.
+1.2 Bốn kênh lệnh đơn Nếu bốn kênh lệnh đơn vào liền nhau (cụ thể là 4 kênh
+vào (mức +27V) liền PK1, PK2, PK3, PK4 hoặc 4 kênh PK5, PK6, PK7, PK8
+nhau hỏng. hoặc 4 kênh PK9, PK10, PK11, PK12 hoặc 4 kênh PK13,
+PK14, PK15, PK16) bị hỏng, thì tùy theo 4 kênh nào thì
+tiến hành kiểm tra ở các IC chuyển mạch đầu vào chung
+của 4 kênh đó để xác định hỏng hóc và sửa chữa. Trường
+hợp này có thể một trong 4 IC sau bị hỏng: U8, U9, U20
+hoặc U21. Ngoài ra, còn có thể hỏng 1 trong 4 IC biến đổi
+mức tín hiệu chuyển mạch từ TTL sang mức -23V và
++3,5V bị hỏng (U65, U66).
+Trường hợp IC biến đổi mức tín hiệu chuyển mạch thường
+gây ra cả hỏng hóc của kênh mã hóa tín hiệu tương tự vào
+(có cùng chỉ số kênh).
+1.3 Tám kênh lệnh đơn Nếu tám kênh lệnh đơn vào liền nhau (PK1-PK8 hoặc PK9-
+vào (mức +27V) liền PK16) bị hỏng, thì tùy theo 8 kênh nào thì tiến hành kiểm
+nhau hỏng. tra ở các IC chuyển mạch đầu vào chung của 8 kênh đó để
+xác định hỏng hóc và sửa chữa. Trường hợp này có thể một
+trong 2 IC sau bị hỏng: U3 hoặc U15.
+2 Hỏng hóc kênh nối Nếu hai kênh nối tiếp vào liền nhau hỏng (ví dụ 1 và 2
+tiếp vào. hoặc 3 và 4 hoặc 5 và 6 .... hoặc 15 và 16 của kênh ПК1
+hoặc ПК2), thì hỏng hóc có thể do đường dây nối tín
+hiệu kênh tương ứng từ đầu cắm 3Ш4 đến cụm A313-
+V.01 hoặc đường tín hiệu trên mạch in cụm A313-V.01
+bị đứt, hoặc IC bộ đệm vào (3245) bị hỏng. Nếu số
+lượng kênh nối tiếp hỏng nhiều hơn 2, thì có thể do IC
+bộ đệm vào hỏng. Kiểm tra xác định hỏng hóc và sửa
+chữa.
+3 Hỏng hóc kênh mã hóa Nếu một kênh mã hóa tín hiệu tương tự vào bị hỏng, thì
+tín hiệu tương tự vào. hỏng hóc có thể do đường dây tín hiệu vào bị đứt hoặc do
+hỏng bộ phân áp đầu vào hoặc hỏng IC chuyển mạch đầu
+26
+PAGE 27
+Hỏng hóc
+TT Cách phát hiện và khắc phục
+thường gặp
+vào kênh tương ứng. Kiểm tra xác định hỏng hóc và sửa
+chữa. Tùy theo số lượng kênh hỏng liền nhau tương tự như
+ở trường hợp lệnh đơn vào (ở trên) mà tiến hành kiểm tra
+phát hiện hỏng hóc ở các IC chuyển mạch hoặc IC biến đổi
+tín hiệu điều khiển chuyển mạch tương ứng với những kênh
+đó.
+Nếu việc giải mã các kênh tương tự không đúng, sai số nhiều
+thì tiến hành thay các cụm A313-V.03 và A313-V.04. Nếu vẫn
+không được thì tiến hành thay lần lượt các cụm A313-V.01,
+A313-V.03 và A313-V.04 để xác định cụm hỏng và tiến hành
+thay thế.
+4 Hỏng hóc kênh lệnh Nếu hỏng hóc chỉ xảy ra ở kênh lệnh đơn vào, thì hỏng hóc có
+đơn vào. thể do đường dây nối của đường tín hiệu lệnh đơn tương ứng
+từ đầu cắm 3Ш4B đến cụm A313-V.01 hoặc do các IC bộ
+đệm vào (3245) tương ứng bị hỏng. Kiểm tra xác định hỏng
+hóc và sửa chữa.
+5 Hỏng hóc ở kênh lệnh Nếu hỏng hóc chỉ xảy ra ở một kênh lệnh đơn ra thì tiến hành
+đơn ra. kiểm tra thông mạch đường dây tín hiệu kênh lệnh đơn ra
+tương ứng từ đầu cắm 3Ш4 đến cụm A313-V.07. Nếu đường
+dây tín hiệu tốt thì tiến hành kiểm tra kênh tín hiệu tạo lệnh
+đơn tương ứng trong cụm A313-V.07 để xác định hỏng hóc
+(nếu đã xác định là cụm A313-V.07 hỏng). Trong trường hợp
+kênh lệnh đơn hỏng do cụm A313-V.01 hỏng thì kiểm tra IC
+bộ đệm ra (IC 25244) của kênh lệnh đơn ra tương ứng đề xác
+định hỏng hóc và sửa chữa.
+Nếu số kênh lệnh đơn hỏng hóc nhiều hơn 1 (trong khi các
+chức năng biến đổi khác đều tốt) thì hỏng hóc có thể là do
+IC bộ đệm ra (IC 25244) của những kênh đó bị hỏng.
+6 Hỏng hóc ở kênh nối Kênh nối tiếp ra hỏng (trong khi các chức năng biến đổi
+tiếp ra. khác đều tốt) thường do đường dây nối các tín hiệu nối tiếp
+ra hoặc các tín hiệu điều khiển kênh nối tiếp tương ứng với
+chúng bị hỏng. Dùng máy hiện sóng đo đạc xác định có tín
+hiệu hoặc không ở các đường tín hiệu để xác định hỏng
+hóc. Hỏng hóc thường chỉ do đường dây nới bị đứt hoặc do
+IC bộ đệm ra của các đường tín hiệu tương ứng bị hỏng.
+7 Hỏng hóc ở kênh giải Nếu chỉ một kênh giải mã bị hỏng thì hỏng hóc thường là do
+mã tín hiệu tương tự. đường dây nối bị đứt hoặc do hỏng hóc của kênh tín hiệu
+tương ứng trên các cụm A313-V.05 và A313-V.06. Nếu xác
+định hỏng hóc phức tạp thì tiến hành thay các cụm A313-
+V.05 và A313-V.06.
+Nếu hỏng hóc xảy ra cả ở kênh giải mã và mã hóa thì thay
+các cụm A313-V.03 và A313-V.04.
+8 Hỏng hóc do nguồn điện. Việc đầu tiên khi bắt đầu tiến hành kiểm tra sửa chữa thiết
+bị A313-V là phải kiểm tra điện áp ra của tấm nguồn điện
+A313-V.08.01. Việc đo kiểm tra điện áp nguồn có thể thực
+27
+PAGE 28
+Hỏng hóc
+TT Cách phát hiện và khắc phục
+thường gặp
+hiện ở các điểm kiểm tra ở trên tấm A313-V.08.01 hoặc tại
+các điểm kiểm tra ở trên tấm trung gian A313-V.09. Nếu
+phát hiện hỏng hóc ở bất kỳ điện áp nào thì tiến hành thay
+tấm A313-V.08.01.
+9 Hỏng hóc do mạch Trong trường hợp tấm A313-V.08.01 tốt nhưng tín hiệu
+kiểm tra nguồn. trên thiết bị ПС17-319 báo nguồn hỏng thì tiến hành thay
+tấm A313-V.08.02.
+Nếu có vật tư thay thế thì có thể tiến hành xác định cụm hỏng bằng thay thế
+cụm. Việc thay cụm có thể thực hiện theo phương pháp thay lần lượt để xác định
+cụm hỏng, hoặc bằng cách xác định kênh chức năng hỏng và thay thế cụm chức
+năng tương ứng, ví dụ như sau:
+- Nếu kênh lệnh đơn vào (mức +27V) hỏng: Thay lần lượt các cụm A313-
+V.02, A313-V.01.
+- Nếu kênh nối tiếp vào hỏng: Thay thế cụm A313-V.01.
+- Nếu kênh lệnh đơn vào mức TTL hỏng: Thay thế cụm A313-V.01.
+- Nếu kênh mã hóa tín hiệu tương tự hỏng: Thay thế lần lượt các cụm
+A313-V.02, A313-V.03, A313-V.04 và tấm A313-V.08.01.
+- Nếu kênh lệnh đơn ra hỏng: Thay thế cụm A313-V.01.
+- Nếu kênh lệnh nối tiếp ra hỏng: Thay thế cụm A313-V.01.
+- Nếu kênh giải mã hỏng: Thay thế lần lượt các cụm A313-V.05, A313-V.06,
+A313-V.01.
+Sau khi sửa chữa, kiểm tra lại thiết bị máy tính dẫn đường A313-V theo
+nội dung ở Mục IV. Nếu kết quả kiểm tra ở Mục IV tốt thì có thể đưa thiết bị
+vào sử dụng.
+VI. BẢO QUẢN
+Cần bảo quản thiết bị máy tính dẫn đường A313-V trong các phòng bảo ôn,
+trên các giá hoặc trong bao gói, ở nơi không có trong không khí hơi axit, kiềm
+và các hỗn hợp ăn mòn khác.
+Ở phòng cất giữ thiết bị cần bảo đảm nhiệt độ từ 150C đến 300C và độ ẩm
+tương đối không lớn hơn 85%.
+28
+PAGE 29
+VII. VẬN CHUYỂN
+Thiết bị máy tính dẫn đường A313-V được đóng trong hộp bìa các tông, có
+thể vận chuyển bằng các phương tiện giao thông, khi vận chuyển phải nhẹ
+nhàng, tránh va đập mạnh, tránh để các vật nặng lên trên.
+29
