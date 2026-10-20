@@ -306,6 +306,15 @@ Phần tương tự cần hiệu chỉnh lại (biến trở, ЦУС) sau khi th
 4. Ưu tiên sửa bàn ПС17-318/319 hay làm đồ gá mới? (Kế hoạch này đề xuất làm đồ gá mới, sửa bàn
    chạy song song.)
 
+### 5.1. Trả lời của người dùng (20/10/2026) và hệ quả cho kế hoạch
+
+| # | Trả lời | Hệ quả |
+|---|---|---|
+| 1 | A-313-2A, A-313-12, A-313-6/6M, A-313-7 **có**, chưa rõ tình trạng; sơ đồ chỉ có **bản giấy** | Scan sơ đồ giấy theo §2 (300–400 dpi) là việc đầu tiên. Các khối đi kèm cũng qua giai đoạn 0–1 (nguội, nguồn) trước khi ghép ở giai đoạn 6; chưa dùng chúng làm "chuẩn tốt". |
+| 2 | PS17-320V chạy tốt nhưng **chỉ cho A313-V**, không thuộc nhiệm vụ này | Không dùng PS17-320V cho A-313. Vẫn dùng được nó để lấy **chữ ký khối A313-V tốt** khi so chéo trên đồ gá ngoại vi chung (§3, giai đoạn 4). |
+| 3 | Thiết bị đo **đầy đủ** | Không cắt giảm bài đo vì thiếu dụng cụ; giai đoạn 2 dùng máy phân tích logic đủ kênh cho toàn bộ bus КШЗп/КШЧт/КША. |
+| 4 | **Song song**: một đội sửa ПС17-318/319, nhóm này làm đồ gá riêng để test tấm và khối | Đồ gá (giả lập ЦВУ + giả lập ngoại vi) là nhánh chính. Khi bàn sửa xong thì dùng bàn để **đối chứng** đồ gá: cùng một khối, hai cách đo phải cho cùng kết quả. Chia sẻ bảng chân Э4 và sơ đồ ПС17-318/319 giữa hai đội. |
+
 ---
 
 *Mọi số liệu trong file này lấy từ [A3] hoặc tính bằng `tmp/pdfs/review/a313-3/k3_nguon.py`.
