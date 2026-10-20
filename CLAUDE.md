@@ -155,6 +155,14 @@ hướng xử lý sửa chữa cho cả khối, không chỉ tấm .06. Nguồn 
   thì dùng SchDoc hoặc BVTK, không tin bản PDF này.
 * `GIAO AN HLKT A313-V.pdf` — giáo án huấn luyện kỹ thuật (nguyên lý khối).
 
+### 4.9. Nhiệm vụ mới: sửa khối gốc Nga A-313-3 làm dự phòng cho A313-V
+
+Người dùng (2026-10-20): khối A313-V vẫn có trục trặc chưa rõ nguyên nhân ⇒ khôi phục bộ Nga
+A-313-2A + A-313-3 làm dự phòng; làm A-313-3 trước. Bàn ПС17-318/319 đang hỏng. Kế hoạch tổng
+quát: `KE-HOACH_KIEM-TRA_A-313-3.md`. Tập `A313 original/A-313-3.HDSDKT.pdf` **mất toàn bộ hình**
+(chỉ còn tên hình và danh mục linh kiện Y2–Y6) ⇒ đang chờ người dùng bổ sung sơ đồ theo §2 của
+kế hoạch; có sơ đồ mới lập kế hoạch chi tiết từng tấm.
+
 ---
 
 ## 5. Phương pháp trích netlist từ PDF bản vẽ

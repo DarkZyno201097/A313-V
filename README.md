@@ -26,6 +26,7 @@ PCB trong khối.
 | `GIAO AN HLKT A313-V.pdf` | **gốc** | Giáo án huấn luyện kỹ thuật A313-V |
 | `PHAN-TICH_A313-V.06_KHUECH-DAI-TIN-HIEU-RA.md` | ✍ phân tích | Phân tích đầy đủ tấm .06 — **Rev. C** |
 | `PHAN-TICH_TOAN-KHOI_A313-V.md` | ✍ phân tích | Toàn khối: sơ đồ khối, từng tấm, cây chẩn đoán, việc cần đo — **Rev. A** |
+| `KE-HOACH_KIEM-TRA_A-313-3.md` | ✍ kế hoạch | Khối gốc Nga A-313-3: bảng kê 24 vị trí + tình trạng sơ đồ, danh sách cần bổ sung, kế hoạch kiểm tra tổng quát |
 | `QUY-TRINH_TEST_TUNG-BUOC_A313-V.06.md` | ✍ quy trình | Quy trình test từng bước + nhật ký kết quả |
 | `PROMPT_CODEX_phan-bien-A313-V.06.md` | ✍ công cụ | Prompt phản biện đối kháng dùng cho Codex |
 | `Datasheet/` | ✍ + gốc NSX | 5 file `.md` giải thích linh kiện + datasheet gốc PDF |
