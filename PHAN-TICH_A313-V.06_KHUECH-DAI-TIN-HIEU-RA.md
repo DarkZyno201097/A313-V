@@ -59,7 +59,7 @@ Tóm tắt thay đổi so với Rev. A:
 | D2 | Ngưỡng +0,3%/−1%/đối xứng 1%/offset 50 mV | [BÁC BỎ] | Hai R1% cho tỉ số 0,980198…1,020202; Vos×2 tới 14 mV đã vượt 12 mV tại 4 V; offset bảo thủ khoảng 49,8 mV theo giả thiết 9 µA/2,5 µA, chưa tính mọi lỗi. | §10.4; datasheet 02 |
 | D3 | Dạng sóng TP1–TP8 | [SỬA LẠI] | TP3 sụt Ib×4,7k có thể 42,3 mV; TP5=Y±VBE khi Q dẫn; Y=Vo+180I; TP8 không đủ mô hình nội để dự đoán biên độ. RMS fundamental ≠ peak. | §10.6; datasheet 03 |
 | D4 | Chẩn đoán hỏng khoá/R/Q | [SỬA LẠI] | Khoá hở để S nổi không bắt buộc DC ±Vin; Rfb hở thường bão hòa, Rin hở vẫn truyền S. R24=2,05 MΩ vẫn có thể làm U15 lật theo H15 đổi dấu. | §9.1, §10.7, §11 |
-| D5 | Dòng nguồn 100–200 mA | [SỬA LẠI] | 18×10 mA=180 mA chỉ giả thiết dòng IC; tài liệu gốc 140ud1B.pdf tr. 2 ghi 12 mA ở ±13,9 V →216 mA; còn dòng Q/tải/hồi tiếp. Chưa biết biến thể/lô thực. | §5.1, §10.3; datasheet 02 |
+| D5 | Dòng nguồn 100–200 mA | [SỬA LẠI] | 18×10 mA=180 mA chỉ giả thiết dòng IC; tài liệu gốc 140ud1B.pdf tr. 2 ghi 12 mA ở ±13,9 V → 216 mA; còn dòng Q/tải/hồi tiếp. Chưa biết biến thể/lô thực. | §5.1, §10.3; datasheet 02 |
 | E1 | R4 cân bằng tải, tránh răng cưa S&H | [SỬA LẠI] | Tải pha + là R4+Ron, pha − là Rin; cân bằng gần đúng có cơ sở KCL. Mục tiêu thiết kế và hiệu quả trên .05 là suy luận, không chứng minh chỉ từ BV.22. | §6.3 |
 | E2 | Hàng B trống để chống xuyên nhiễu | [KHÔNG ĐỦ DỮ LIỆU] | B7…14/B17…24 thực sự bỏ trống, nhưng không có thuyết minh ý đồ hay đo xuyên nhiễu; cần hồ sơ thiết kế/đo với đồ gá. | §2.2 |
 | E3 | C1 giảm sóng hài vào СКТ | [SỬA LẠI] | Giảm thành phần cao tần của nhánh hồi tiếp là suy luận hợp lý; có đường truyền trực tiếp S nên không triệt sườn hoàn toàn; mục đích với СКТ chưa được chứng minh. | §6.3 |
@@ -216,7 +216,7 @@ Tổng: +12,6 V ≈ 31,4 µF + 5×3300 pF; −12,6 V ≈ 44 µF + 3300 pF.
 | **U15** | R119 (0 Ω) + **R24 = 2,05 kΩ** / R25 = 301 Ω (+R120 0 Ω) | 301/2351 = **0,1280** | R30 4,7 kΩ → U18A chân 2 | R31 56 Ω + C4 (0,01 µF) từ chân 12 → GND |
 
 > Hai nhánh **khác hệ số chia** là sự kiện. Lệch pha còn do hai ngưỡng H14/H15 đối dấu; ý đồ lựa chọn trị số chưa có thuyết minh thiết kế (E5).
-> Bản vẽ BV.22 ghi R24 là "2,050Mom/1%" và bảng BV.25 ghi "2,05 Ω M" — **đều là lỗi đơn vị, trị số đúng 2,05 kΩ** (§9.1).
+> Bản vẽ BV.22 ghi R24 là "2,050Mom/1%" và bảng BV.25 ghi "2,05ΩM" — **đều là lỗi đơn vị, trị số đúng 2,05 kΩ** (§9.1).
 
 **Chân 140УД1Б dùng trên tấm:** 1 = −Uп (−12,6 V), 4 = **общий (GND)**, 5 = ra, 7 = +Uп (+12,6 V), 9 = vào đảo, 10 = vào không đảo, 12 = chân коррекция. Chân 2, 3, 6, 8, 11 bỏ trống.
 Thông số sổ tay cũ dùng làm giả thiết tính: K_u=1350…12000, Ib ≤9 µA, ΔIb ≤2,5 µA, Vos ≤7 mV. PDF gốc cục bộ 140ud1B.pdf tr. 2 cho dòng 140УД1БВК: A=2000…10500, Ib ≤8 µA, ΔIb ≤1,5 µA, Icc ≤12 mA ở ±13,9 V, swing +8/−6,3 V với RL=5,05 kΩ. Chưa xác nhận biến thể/lô trên tấm; không coi hai bộ giới hạn là một.
@@ -247,7 +247,7 @@ U14 có hồi tiếp dương: khi đầu vào tăng vượt +h, đầu ra chuy�
 | U14 | 0,103400893 | h | 3,395852 V |
 | U15 | 0,128030625 | h | 2,742579 V |
 
-**Diễn tiến nửa chu kỳ sin đi lên:** sau đỉnh âm, U14.5 dương nên H14=+h, H15=−h. U15 đổi sang âm khi sin còn âm tại −2,742579 V → М lên cao. Qua zero rồi tới +3,395852 V, U14 mới đổi sang âm → xung400Hz lên cao, H14=−h/H15=+h. Lúc này chân 9 U15≈+0,435 V đã lớn hơn+h, nên U15 không lật lại. Nửa chu kỳ đi xuống đối xứng.
+**Diễn tiến nửa chu kỳ sin đi lên:** sau đỉnh âm, U14.5 dương nên H14=+h, H15=−h. U15 đổi sang âm khi sin còn âm tại −2,742579 V → М lên cao. Qua zero rồi tới +3,395852 V, U14 mới đổi sang âm → xung400Hz lên cao, H14=−h/H15=+h. Lúc này chân 9 U15≈+0,435 V đã lớn hơn +h, nên U15 không lật lại. Nửa chu kỳ đi xuống đối xứng.
 
 | Chuẩn | Uđỉnh | U14 trễ sau zero | U15 sớm trước zero | М sớm hơn xung400Hz (hai sườn cùng chiều) |
 |---|---|---|---|---|
@@ -330,14 +330,14 @@ R38 không ở đường base. Nhãn a gần C1 thuộc đường chân 4; C1 n�
 | R37 | 4,7 kΩ 5% theo BV.22 | Bù gần đúng trở kháng vào đảo 5 kΩ. Nếu thay bằng dây 0 Ω, riêng Ib−9 µA tạo offset đầu ra 90 mV, không phải 45 mV. R37 hở là lỗi khác: chân 10 mất đường DC. |
 | U19 | 140УД1Б | OA sai lệch; chân 4 mát; tham số đúng biến thể phải xác nhận |
 | R38+C2 | 56 Ω +0,01 µF | Nhánh коррекция; RC=0,56 µs, tần số bằng trở kháng R/Xc ≈284 kHz. Không suy trực tiếp cực vòng kín hay dạng sóng chân 12 từ tích RC. |
-| Q1/Q2 | 2Т312Б/2Т203Б | Lặp emitơ bù lớpB trong hồi tiếp; transistor dẫn theo **chiều dòng**. Chỉ với tải thuần trở mới thường tương ứng nửa điện áp dương/âm. |
+| Q1/Q2 | 2Т312Б/2Т203Б | Lặp emitơ bù lớp B trong hồi tiếp; transistor dẫn theo **chiều dòng**. Chỉ với tải thuần trở mới thường tương ứng nửa điện áp dương/âm. |
 | R39 | 180 Ω | Hạn chế dòng và tạo cách ly nối tiếp là hệ quả vật lý. Hồi tiếp bù sụt áp trong băng thông và headroom cho phép; trở kháng ra không bằng 0. **Không phải bảo vệ ngắn mạch.** |
 
 **Mô hình động danh định:** `Zf=R86/(1+sτ)`; `Vo=(1+Zf/R85)S−(Zf/R85)Vin`. Khi Vin giữ DC và k=1:
 
 `Vo(s)=[(2+sτ)/(1+sτ)]S(s)−Vin(s)/(1+sτ)`.
 
-Khi S nhảy 0→Vin, Vo có bước tức thời bằngVin trong mô hình OA lý tưởng, rồi phần còn lại tiến theo hàm mũτ. Mạch thực làm hữu hạn sườn đó bởi băng thông, коррекция, slew và tải. C1 có tác dụng giảm hài của nhánh hồi tiếp, nhưng kết luận “vo tròn hoàn toàn/triệt gai để bảo vệ СКТ” là quá mạnh.
+Khi S nhảy 0→Vin, Vo có bước tức thời bằng Vin trong mô hình OA lý tưởng, rồi phần còn lại tiến theo hàm mũ τ. Mạch thực làm hữu hạn sườn đó bởi băng thông, коррекция, slew và tải. C1 có tác dụng giảm hài của nhánh hồi tiếp, nhưng kết luận “vo tròn hoàn toàn/triệt gai để bảo vệ СКТ” là quá mạnh.
 
 **Ngắn mạch:** `(12,6−0,7)/180=66,11 mA` là ước lượng khi base lên sát rail, không phải dòng bảo đảm/đo được. Thực tế `I≈(|V5|−|VBE|)/180`, còn giới hạn bởi khả năng lái base/β. Không thử chập đầu ra. Công suất Q phải tính `|VCE|·|IC|`, không lấy 12 V×66 mA đồng thời với giả thiết emitơ lên 11,9 V.
 
@@ -441,7 +441,7 @@ R_fb/C_fb sau R39 giúp giảm méo của tầng Q khi vòng còn điều khiể
 
 ### 9.1. ✅ R24 = 2,05 kΩ — bản vẽ ghi sai đơn vị
 
-**Hiện trạng hồ sơ:** sơ đồ BV.22 ghi `R24 2,050Mom/1%`; bảng BV.25 ghi `2,05 Ω M, 1%`.
+**Hiện trạng hồ sơ:** sơ đồ BV.22 ghi `R24 2,050Mom/1%`; bảng BV.25 ghi `2,05ΩM, 1%`.
 **Trị số đúng: R24 = 2,05 kΩ ± 1 %.**
 
 *Kiểm chứng bằng tính toán (đồng nhất với kết luận thực tế):*
@@ -527,7 +527,7 @@ Hai mức này được đưa tới tấm mạch qua DC11 nhưng **không nối 
 | 0.1 | Ngoại quan: cháy, phồng tụ, nứt vỏ IC tròn, mối hàn nứt, ăn mòn tiếp điểm cạnh | toàn tấm | sạch, bóng |
 | 0.2 | Cách điện ray nguồn ↔ GND | DC12 A2/A3/A4 ↔ GND | Đo hai chiều, chờ tụ nạp, so tấm chuẩn; IC/đường kéo có thể cho trị số thấp. Không có cận 100 kΩ/1 kΩ tổng quát từ sơ đồ; không dùng megohmmeter cao áp |
 | 0.3 | Ngắn mạch giữa 2 ray | +12,6 ↔ −12,6 (qua C41) | So tấm chuẩn sau quá trình nạp tụ; đường bán dẫn làm phép đo phụ thuộc cực tính |
-| 0.4 | Trở kháng từng đầu ra | DC12 A17…C24 ↔ GND | So tương đối 16 kênh trong cùng điều kiện; chưa xác nhận ngưỡng 20% hay trị sốvàikΩ |
+| 0.4 | Trở kháng từng đầu ra | DC12 A17…C24 ↔ GND | So tương đối 16 kênh trong cùng điều kiện; chưa xác nhận ngưỡng 20% hay trị số vài kΩ |
 | 0.5 | Trở kháng từng đầu vào | DC12 A7…C14 ↔ GND | So 16 kênh; không cố định 10–20 kΩ vì khoá mất nguồn/đế nổi và đường bán dẫn |
 | 0.6 | Đo nguội R_ra 180 Ω từng kênh | 2 đầu R39…R84 | 180 Ω ±1 % |
 | 0.7 | Diode-test Q1…Q32 tại chân | B-E, B-C | 0,5–0,8 V; **không được 0 V (chập) hay hở** |
@@ -540,11 +540,13 @@ Hai mức này được đưa tới tấm mạch qua DC11 nhưng **không nối 
 1. Tấm tháo khỏi hệ thống; nối GND chung chắc chắn, các đầu vào Vin=0, đầu ra chỉ nối thiết bị đo trở kháng cao. Nguồn đã đặt đúng cực/tất cả mức trước khi bật; **bật/tắt đồng thời hai ray ±12,6 V**, không cố ý cấp một ray rồi mới cấp ray kia. Trình tự bốn nguồn phải xác lập trên đồ gá/tấm chuẩn; chưa có căn cứ cho thứ tự riêng đã ghi ở Rev. B.
 2. Giới hạn dòng theo tấm chuẩn và tải thực; đo riêng từng ray bằng thiết bị, không dùng tay sờ IC đang cấp điện để quyết định dừng. Dòng vượt 1,5×mốc ở cùng chế độ là dấu hiệu cần ngắt và kiểm, không phải chuẩn linh kiện tổng quát.
 3. **Dòng IC:** giả thiết 10 mA/con cho 18 con là 180 mA, không suy ra dải 100–200 mA mỗi ray của toàn tấm. PDF 140ud1B.pdf ghi 12 mA tại ±13,9 V cho БВК, tương ứng 216 mA riêng 18 IC; cần xác nhận lô/điều kiện. Cộng dòng tầng Q, base, mạng chia/hồi tiếp và tải. Ví dụ 16 tải thuần trở 1 kΩ cùng mức 4 V cần riêng dòng tải 64 mA trên ray đang cấp/hút, chưa kể phần còn lại. Với điều chế đối xứng, chia dòng trung bình theo duty; đo cả đỉnh.
-4. Bốn điện trở kéo 10k giữa−23 V và nút cao+3,5 V lấy ≈2,65 mA/nhánh đang cao. Bình thường hai nhánh cao cho ≈5,3 mA DC từ+3,5 sang−23 V; cộng chuyển mạch/tải ngoài và nhánh R34 (≈1,94 mA khi bị kéo thấp). Không lấy 5–15 mA làm chuẩn nghiệm thu cứng.
-5. Đo+12,6/−12,6/−23/+3,5 V. DKKT đoạn kiểm nguồn thứ cấp liệt kê ±5% cho+5,±12,6,−23,+6,3 V; **không nêu riêng+3,5 V**, nên phải lấy chuẩn của ray này từ hồ sơ nguồn/tấm chuẩn.
+4. Bốn điện trở kéo 10k giữa −23 V và nút cao +3,5 V lấy ≈2,65 mA/nhánh đang cao. Bình thường hai nhánh cao cho ≈5,3 mA DC từ +3,5 sang −23 V; cộng chuyển mạch/tải ngoài và nhánh R34 (≈1,94 mA khi bị kéo thấp). Không lấy 5–15 mA làm chuẩn nghiệm thu cứng.
+5. Đo +12,6/−12,6/−23/+3,5 V. DKKT đoạn kiểm nguồn thứ cấp liệt kê ±5% cho +5, ±12,6, −23, +6,3 V; **không nêu riêng +3,5 V**, nên phải lấy chuẩn của ray này từ hồ sơ nguồn/tấm chuẩn.
 6. Ghi offset từng đầu ra ở cả hai pha tĩnh (§10.4). Mốc 50 mV chỉ sàng lọc tham khảo; offset lớn không riêng do OA, còn khoá, R_bias, rò và nguồn.
 
 ### 10.4. Bước 2 — Kiểm tra TĨNH bằng ±5 V DC tại ngõ chuẩn
+
+**Giới hạn pass/fail lấy từ khối tốt** (tấm chuẩn đo thực), không phải từ tính toán lý thuyết; các ngân sách tính dưới đây chỉ để định hướng.
 
 **Kết luận D1:** khả thi theo topo trong điều kiện mạch khỏe và giả thiết chiều khoá đúng. Không có vòng nào bắt buộc dao động khi chuẩn DC ở ±5 V. Đây chưa phải chứng nhận thử trên phần cứng; phải xác nhận các nút sau trước khi dùng làm bài ATE tự động.
 
@@ -553,28 +555,28 @@ Hai mức này được đưa tới tấm mạch qua DC11 nhưng **không nối 
 | +5 V DC | +0,5170 V | +0,6402 V | −h/+h | Âm/âm | Cao/thấp | Cao/thấp | +1 |
 | −5 V DC | −0,5170 V | −0,6402 V | +h/−h | Dương/dương | Thấp/cao | Thấp/cao | −1 |
 
-“Cao/thấp” là mức gần+3,5 V/−23 V, không phải GPIO3,3 V. Với+5 V, U14.9 vượt cả hai ngưỡng nên đầu ra âm bất kể trạng thái ban đầu; U16A/D dẫn. U15.9>+h nên U15 cũng âm, hệ tự giữ. Với−5 V ngược lại. Dự trữ danh định so với h: U14≈0,166 V, U15≈0,289 V; cần xét dung sai/offset/Ron trước khi hạ mức chuẩn. Ở chuẩn 0 V, trạng thái phụ thuộc lịch sử; không dùng 0 để chọn pha.
+“Cao/thấp” là mức gần +3,5 V/−23 V, không phải GPIO 3,3 V. Với +5 V, U14.9 vượt cả hai ngưỡng nên đầu ra âm bất kể trạng thái ban đầu; U16A/D dẫn. U15.9>+h nên U15 cũng âm, hệ tự giữ. Với −5 V ngược lại. Dự trữ danh định so với h: U14≈0,166 V, U15≈0,289 V; cần xét dung sai/offset/Ron trước khi hạ mức chuẩn. Ở chuẩn 0 V, trạng thái phụ thuộc lịch sử; không dùng 0 để chọn pha.
 
 **Thực hiện:**
 
 1. Tách nguồn sin và các kết nối ngoài có thể cùng lái DC11; tuyệt đối không đấu song song nguồn DC với đầu ra bộ tạo chuẩn. Cấp đủ 4 nguồn đúng mức trước khi bơm tín hiệu, tắt tín hiệu trước khi tắt nguồn. ±5 V là điện áp tại đầu nối; điện áp vào OA đã được chia như bảng.
 2. Đầu ra không tải ngoài DMM, các Vin không đo nối GND. Chuyển chuẩn ±5 V, quan sát U14/U15.5, H14/H15, М/М̄ bằng scope: phải đứng yên, đúng bảng, không tự kích. Nếu sai, dừng quét DC; sửa cụm tạo xung/kiểm chiều khoá trước. Không ép М/М̄ từ ngoài chống tầng U18.
-3. Đo Vo với Vin=+4,−4,+1,0 V ở mỗi pha. Chờ xác lập theo trace;10 ms có thể dùng làm giá trị khởi đầu, tăng nếu tấm chưa ổn. Mong đợi mức gần+Vin hoặc−Vin, **không áp sẵn cửa sổ ±60 mV** cho mọi linh kiện 1%.
+3. Đo Vo với Vin=+4, −4, +1, 0 V ở mỗi pha. Chờ xác lập theo trace; 10 ms có thể dùng làm giá trị khởi đầu, tăng nếu tấm chưa ổn. Mong đợi mức gần +Vin hoặc −Vin, **không áp sẵn cửa sổ ±60 mV** cho mọi linh kiện 1%.
 4. Lặp 16 kênh, ghi cả Vin thực và Vo. Từ hai cực tính lấy `Gp=[Vo(+4)−Vo(−4)]/8` và `Op=[Vo(+4)+Vo(−4)]/2`, riêng p=P1/P2; đo thêm Vo(0) để kiểm phi tuyến/offset. Cách này tách gain khỏi offset.
 
 **Ngân sách sai số D2 (trở thuần, tải nhẹ, trạng thái xác lập):**
 
-* Rin/Rfb độc lập 1%: `kmin=0,99/1,01=0,980198`, `kmax=1,01/0,99=1,020202`. G− có thể lệch−1,9802…+2,0202% chỉ do trở; tại 4 V là ≈80,81 mV. Không thể bảo đảm 1% hoặc ±60 mV.
-* G+ lý tưởng bằng 1 dù k sai. OA có gain hữu hạn gây sai số gần`(1+k)/A` (với đệm lý tưởng): A≥1350 cho ≈0,15%, nhưng Vos đến 7 mV tạo noise gain ≈2 →14 mV, tương đương 0,35% tại 4 V, đã vượt 0,3% nếu dùng phép chia một điểm chưa khử offset.
-* Offset DC xấp xỉ `E=(1+k)Vos+Rfb·Ib−−(1+k)(Rbias+Ron)·Ib+`. Không được lấy `(5−4,7)k×ΔIb` để thay tất cả sai số bias. Với giả thiết cũ Ib ≤9 µA, ΔIb ≤2,5 µA, Rbias ±5%, Rin/Rfb ±1%, Ron 0…100 Ω, cận bảo thủ riêng các hạng này ≈**49,8 mV**. Chưa gồm rò, trở nguồn, biến thiên Ron trong chế độ đế thả nổi, CMRR, nhiệt và gain hữu hạn/tầng Q. Với thông số БВК 8 µA/1,5 µA, cận nhỏ hơn; không trộn hai tập tham số.
+* Rin/Rfb độc lập 1%: `kmin=0,99/1,01=0,980198`, `kmax=1,01/0,99=1,020202`. G− có thể lệch −1,9802…+2,0202% chỉ do trở; tại 4 V là ≈80,81 mV. Không thể bảo đảm 1% hoặc ±60 mV.
+* G+ lý tưởng bằng 1 dù k sai. OA có gain hữu hạn gây sai số gần `(1+k)/A` (với đệm lý tưởng): A≥1350 cho ≈0,15%, nhưng Vos đến 7 mV tạo noise gain ≈2 → 14 mV, tương đương 0,35% tại 4 V, đã vượt 0,3% nếu dùng phép chia một điểm chưa khử offset.
+* Offset DC xấp xỉ `E=(1+k)Vos+Rfb·Ib− − (1+k)(Rbias+Ron)·Ib+`. Không được lấy `(5−4,7)k×ΔIb` để thay tất cả sai số bias. Với giả thiết cũ Ib ≤9 µA, ΔIb ≤2,5 µA, Rbias ±5%, Rin/Rfb ±1%, Ron 0…100 Ω, cận bảo thủ riêng các hạng này ≈**49,8 mV**. Chưa gồm rò, trở nguồn, biến thiên Ron trong chế độ đế thả nổi, CMRR, nhiệt và gain hữu hạn/tầng Q. Với thông số БВК 8 µA/1,5 µA, cận nhỏ hơn; không trộn hai tập tham số.
 * Vì vậy 50 mV là mốc tham khảo sát ngân sách, không phải bảo đảm chung. Cận cộng đơn giản tại 4 V pha− theo giả thiết cũ đã khoảng 80,8+49,8+6≈137 mV, chưa gồm mọi lỗi. Đây là **ngân sách tính**, không tự nâng thành dung sai sản phẩm.
 
 | Chỉ tiêu cần ghi | Công thức/diễn giải | Cách đặt giới hạn |
 |---|---|---|
-| G+ | Hệ số từ hai cực tính, so với+1 | 0,3% có thể là mục tiêu đã hiệu chuẩn, chưa phải bảo đảm toàn tấm |
-| G− | Hệ số từ hai cực tính, so với−1 | Không đòi ≤1% với hai điện trở 1% độc lập; cần đo/chọn cặp hoặc đặc tả chính thức |
-| Mất đối xứng gain | `abs(G+ + G−)` | Có thể tới ≈2,02% riêng do tỉ số R;1% chỉ dùng nếu có tuyển/hiệu chuẩn |
-| Offset | Op và Vo(0), cả hai pha | Ghi tấm chuẩn theo nhiệt độ;50 mV chỉ mốc khảo sát |
+| G+ | Hệ số từ hai cực tính, so với +1 | 0,3% có thể là mục tiêu đã hiệu chuẩn, chưa phải bảo đảm toàn tấm |
+| G− | Hệ số từ hai cực tính, so với −1 | Không đòi ≤1% với hai điện trở 1% độc lập; cần đo/chọn cặp hoặc đặc tả chính thức |
+| Mất đối xứng gain | `abs(G+ + G−)` | Có thể tới ≈2,02% riêng do tỉ số R; 1% chỉ dùng nếu có tuyển/hiệu chuẩn |
+| Offset | Op và Vo(0), cả hai pha | Ghi tấm chuẩn theo nhiệt độ; 50 mV chỉ mốc khảo sát |
 | Tuyến tính | So Vo(±1) với đường thẳng từ ±4, đã trừ offset | 0,2% chưa có bảo đảm từ dữ liệu đang có |
 
 Giá trị vượt mốc gợi ý chưa tự chứng minh tấm hỏng. Chỉ khóa giới hạn pass/fail khi đã có đặc tả áp dụng và phân bố đo của tấm chuẩn. Bài DC không kiểm được overlap, pha 400 Hz hay ổn định tải phản kháng.
@@ -583,7 +585,7 @@ Giá trị vượt mốc gợi ý chưa tự chứng minh tấm hỏng. Chỉ kh
 
 ### 10.5. Bước 3 — Kiểm tra U14/U15/U16/U17/U18 với sin 400 Hz
 
-Cấp chuẩn tại DC11 A5/B5/C5, ghi rõ biên độ đo thực là Vrms hayV đỉnh.
+Cấp chuẩn tại DC11 A5/B5/C5, ghi rõ biên độ đo thực là Vrms hay V đỉnh.
 
 | # | Điểm đo | Mong đợi theo mô hình danh định | Nếu sai, kiểm |
 |---|---|---|---|
@@ -591,12 +593,12 @@ Cấp chuẩn tại DC11 A5/B5/C5, ghi rõ biên độ đo thực là Vrms hayV 
 | 3.2a | U14.10=H14 | Gần ±0,351 V, đổi sau zero; theo trạng thái U14 | U16A/B, hai nguồn chia áp |
 | 3.2b | U15.10=H15 | Gần ±0,351 V **đối dấu H14**, không chung nút | U16C/D, R22/R23/R28/R29 và cầu 0 Ω |
 | 3.3 | U14.5 | Xung bão hòa; sườn sau zero theo §5.2 | U14, nguồn, hồi tiếp U16/U17, R27/C3 |
-| 3.4 | A=U17A.3 | Gần−23/+3,5 V | U17A/R32/R26 |
+| 3.4 | A=U17A.3 | Gần −23/+3,5 V | U17A/R32/R26 |
 | 3.5 | B=U17D.12 | Bù A ở xác lập | U17D/R33 |
 | 3.6 | DC11 A6/B6/C6 | xung400Hz gần 0/+3,5 V; duty ≈50% nếu sin/ngưỡng đối xứng | U17B/C/R34 |
 | 3.7 | U15.9 | Sin=0,1280306×chuẩn,≈0,905 V đỉnh khi 5 Vrms | R24=2,05 kΩ, R25/R119/R120 |
 | 3.8 | U15.5 | Xung bão hòa; sườn **trước zero** danh định | U15 và H15; R31/C4 |
-| 3.9 | DC11 A7/B7/C7 | М gần−23/+3,5 V | U18A/R35/R30 |
+| 3.9 | DC11 A7/B7/C7 | М gần −23/+3,5 V | U18A/R35/R30 |
 | 3.10 | DC11 A8/B8/C8 | М̄ bù ở xác lập; **đo**, không giả định overlap bằng 0 | U18D/R36 và tải điều khiển |
 | 3.11 | Hai sườn cùng chiều của М và xung400Hz | М sớm ≈357,8 µs(5 Vrms) hoặc 528,1 µs(5 V đỉnh), chưa gồm sai số/trễ | H14/H15, tỉ số chia, biên độ chuẩn, chiều khoá |
 
@@ -632,13 +634,13 @@ Chuẩn 400 Hz, Vin=+4 V; khởi đầu không tải ngoài đầu đo. Đo **8 
 | Cả 16 kênh không còn AC, Vin bình thường | Đo М/М̄,4 nguồn, chuẩn 400 Hz, U14/U15/H14/H15. Mất điều chế có thể để lại DC±Vin, không đồng nghĩa Vo=0 |
 | Cả 16 kênh Vo ≈+Vin DC | Kiểm М cao/М̄ thấp, U18A/R35, U15.5 và chuẩn. Không chỉ một linh kiện gây được |
 | Cả 16 kênh Vo ≈−Vin DC | Kiểm М thấp/М̄ cao, U18A/D/R35/R36 và U15; không gán riêng М̄ kẹt |
-| Nhóm 4 kênh cùng bất thường | Kiểm vỏ shunt U1/U4/U7/U10 và dây М. Shunt hở để S nổi trong pha−: có thể giữ điện, trôi, méo; không bắt buộc+Vin DC |
-| Cặp 2 kênh cùng bất thường | Kiểm vỏ U2/U3/U5/U6/U8/U9/U11/U12 và М̄. Khoá nối tiếp hở để S nổi trong pha+, không tự tạo−Vin DC |
+| Nhóm 4 kênh cùng bất thường | Kiểm vỏ shunt U1/U4/U7/U10 và dây М. Shunt hở để S nổi trong pha−: có thể giữ điện, trôi, méo; không bắt buộc +Vin DC |
+| Cặp 2 kênh cùng bất thường | Kiểm vỏ U2/U3/U5/U6/U8/U9/U11/U12 và М̄. Khoá nối tiếp hở để S nổi trong pha+, không tự tạo −Vin DC |
 | Một kênh Vo ≈0 dù TP2 bình thường | Đo TP3/4/5/Y và Rra. Rfb hở thường mất hồi tiếp DC/bão hòa; Rin hở còn đường S→OA nên không giả định Vo=0; hai Q hở còn đường hồi tiếp tới đầu đo |
 | Kênh hụt chiều dòng dương/âm với tải thuần trở | NPN/PNP tương ứng hở/yếu hoặc mất nguồn cục bộ; thử tải đã biết. Với tải phản kháng, dấu điện áp không xác định Q đang dẫn |
 | Kênh bão hòa, không theo Vin | Q chập C-E, hồi tiếp Rfb hở, mất nguồn/GND hoặc OA; điện áp không nhất thiết ±12 V |
 | Mất đối xứng plateau | Đo Rfb/Rin,offset từng pha, Ron/Rbias và Vin tại chân tấm. Rbal hở chỉ tác động rõ qua trở kháng nguồn; nguồn áp lý tưởng không tự đổi G |
-| Sườn/chuyển tiếp bất thường, fundamental thấp | Cfb tăng/rò, bandwidth OA, коррекция, tầng Q hoặc tải; phân biệt rò Cfb (đổi DC gain) với chỉ tăngC |
+| Sườn/chuyển tiếp bất thường, fundamental thấp | Cfb tăng/rò, bandwidth OA, коррекция, tầng Q hoặc tải; phân biệt rò Cfb (đổi DC gain) với chỉ tăng C |
 | Tự kích cao tần | Kiểm Rcorr/Ccorr, lọc nguồn, tải dung, hồi tiếp, Q thay thế; Rcorr/Ccorr hở là một khả năng, không điều kiện đủ |
 | Gai tại sườn | Khoá/overlap, Cfb, nối đất, đầu đo và tải; không kết luận charge injection tăng chỉ từ một gai |
 | Offset nhiều kênh | Nguồn, GND, rò/khoá, sai chế độ đo; sau đó mới so OA/Rbias |
@@ -653,20 +655,20 @@ Chuẩn 400 Hz, Vin=+4 V; khởi đầu không tải ngoài đầu đo. Đo **8 
 
 ```text
 PC → controller FPGA/MCU
- ├─ DAC ±4V + mux →16 Vin (kênh không đo được đưa vềGND)
+ ├─ DAC ±4V + mux → 16 Vin (kênh không đo được đưa về GND)
  ├─ Nguồn chuẩn cách ly/chuyển mạch sin400Hz ↔ +5VDC ↔ −5VDC
- ├─4nguồn +12,6/−12,6/−23/+3,5V, đo dòng riêng
- ├─Mux+ADC: đoDC hai pha, đođộng đồngbộ400Hz
- └─Đầu vào bảo vệ/dịchmức: М,М̄,xung400Hz, sinchuẩn
+ ├─ 4 nguồn +12,6/−12,6/−23/+3,5V, đo dòng riêng
+ ├─ Mux+ADC: đo DC hai pha, đo động đồng bộ 400 Hz
+ └─ Đầu vào bảo vệ/dịch mức: М, М̄, xung400Hz, sin chuẩn
 ```
 
-**Bài tĩnh:** chỉ chạy sau khi đã xác nhận trạng thái§10.4 trên tấm chuẩn; đo ±4,±1,0 V và khử offset để tính gain. Phủ 16 kênh không đồng nghĩa phủ 100% lỗi. Mux không được để các Vin còn lại thả nổi.
+**Bài tĩnh:** chỉ chạy sau khi đã xác nhận trạng thái §10.4 trên tấm chuẩn; đo ±4, ±1, 0 V và khử offset để tính gain. Phủ 16 kênh không đồng nghĩa phủ 100% lỗi. Mux không được để các Vin còn lại thả nổi.
 
-**Bài động:** đo fundamental/pha bằng tín hiệu tham chiếu và giữ trace sườn. ADC100kS/s có bước 10 µs, phù hợp thành phần 400 Hz nhưng không bắt chắc gai/overlap dướiµs; dùng scope hoặc đường capture/comparator đủ nhanh cho phép đó. Không quy gai vượt ngưỡng thành khoá hỏng mà bỏ qua tải/đầu đo.
+**Bài động:** đo fundamental/pha bằng tín hiệu tham chiếu và giữ trace sườn. ADC 100 kS/s có bước 10 µs, phù hợp thành phần 400 Hz nhưng không bắt chắc gai/overlap dưới µs; dùng scope hoặc đường capture/comparator đủ nhanh cho phép đó. Không quy gai vượt ngưỡng thành khoá hỏng mà bỏ qua tải/đầu đo.
 
-**Overlap:** bộ so sánh phải chuyển mức−23/+3,5 V an toàn về logic, ngưỡng chọn theo quan hệ gate–kênh và phép đo thực. Hai cực đại datasheet t_on ≤0,3 µs, t_off ≤0,7 µs **không cho phép lấy hiệu 0,4 µs làm overlap dự đoán**, cũng không chứng minh ngưỡng vài chục ns hợp lý. Chốt cửa sổ chấp nhận từ đo thực và dòng xung vào S&H.
+**Overlap:** bộ so sánh phải chuyển mức −23/+3,5 V an toàn về logic, ngưỡng chọn theo quan hệ gate–kênh và phép đo thực. Hai cực đại datasheet t_on ≤0,3 µs, t_off ≤0,7 µs **không cho phép lấy hiệu 0,4 µs làm overlap dự đoán**, cũng không chứng minh ngưỡng vài chục ns hợp lý. Chốt cửa sổ chấp nhận từ đo thực và dòng xung vào S&H.
 
-**Nguồn/tải:** bật/tắt ±12,6 V đồng thời; trình tự bốn nguồn và giới hạn dòng phải qua xác nhận đồ gá/tấm chuẩn. Các giá trị 400 mA/50 mA cũ chưa có ngân sách kiểm chứng nên không dùng làm chuẩn cố định. Tải thực, chế độ 16 kênh và dòng khởi động quyết định mức đặt. Không chập đầu ra: R 180 Ω không bảo vệ Q. Không cấp+5 V/+6,3 V vào rail không dùng, không tự nối chân 4/11 của 168КТ2. Mức ±5 V DC của bài đóng băng là **tín hiệu chuẩn**, không phải rail+5 V bị bỏ.
+**Nguồn/tải:** bật/tắt ±12,6 V đồng thời; trình tự bốn nguồn và giới hạn dòng phải qua xác nhận đồ gá/tấm chuẩn. Các giá trị 400 mA/50 mA cũ chưa có ngân sách kiểm chứng nên không dùng làm chuẩn cố định. Tải thực, chế độ 16 kênh và dòng khởi động quyết định mức đặt. Không chập đầu ra: R 180 Ω không bảo vệ Q. Không cấp +5 V/+6,3 V vào rail không dùng, không tự nối chân 4/11 của 168КТ2. Mức ±5 V DC của bài đóng băng là **tín hiệu chuẩn**, không phải rail +5 V bị bỏ.
 
 R24 phải 2,05 kΩ theo xác nhận thực; nếu lắp nhầm 2,05 MΩ có thể vẫn có 400 Hz nhưng sai pha (§9.1/10.7). Đầu vào DI/ADC cần chịu mức điện áp thực và trạng thái nguồn chưa sẵn, không nối thẳng М/М̄ vào GPIO.
 
@@ -692,7 +694,7 @@ R24 phải 2,05 kΩ theo xác nhận thực; nếu lắp nhầm 2,05 MΩ có th�
 | 1 | ☐ Xác định **biên độ thực của chuẩn ~5 V/400 Hz** (rms hay đỉnh) do khối nguồn cấp | Quyết định độ sớm М so với xung400Hz: khoảng 357,8 µs (5 Vrms) hoặc 528,1 µs (5 V đỉnh) trong mô hình danh định — §5.2 |
 | 2 | ☐ Xác nhận **chiều điều khiển 168КТ2** bằng phép đo đồng thời chân затвор và 2 chân tín hiệu của U1A trên tấm đang chạy | Hiện đang suy ra từ datasheet + cấu trúc mạch (§5.3) |
 | 3 | ☐ Ghi **"chữ ký" tấm chuẩn (known-good)** | Mốc so sánh cho toàn bộ quy trình §10: dòng 4 ray; 16 giá trị `G+`/`G−`; lệch không; biên độ thành phần 400 Hz; Δt(М, xung400Hz); dạng sóng TP1–TP8 của 1 kênh mẫu |
-| 4 | ☐ Xác định **trở kháng tải thực** của biến thế sin-cos đấu vào 3 Ш 3 | Thiết kế tải giả theo Z(f), pha, dòng đỉnh vàheadroom;400 Ω không phải tải được bảo đảm — §10.6 |
+| 4 | ☐ Xác định **trở kháng tải thực** của biến thế sin-cos đấu vào 3Ш3 | Thiết kế tải giả theo Z(f), pha, dòng đỉnh và headroom; 400 Ω không phải tải được bảo đảm — §10.6 |
 | 5 | ☐ Kiểm tra **overlap М/М̄** trên tấm chuẩn | Hai thời gian 0,3/0,7 µs là các cực đại ở điều kiện thử; không trừ để suy overlap. Đo gate/S/Vin và dòng quá độ để chốt ngưỡng (§10.5, §11) |
 
 **Bổ sung xác nhận Rev. C:** đo H14/H15 riêng và hai sườn М/xung400Hz; xác nhận ±5 V DC tạo đúng hai trạng thái tĩnh, ghi TP8 với tải đầu đo; xác định mã/lô OA để chọn đúng bộ giới hạn. Ghi điện áp nguồn, nhiệt độ, tải và phiên bản đồ gá cùng mọi chữ ký chuẩn.
@@ -703,11 +705,11 @@ R24 phải 2,05 kΩ theo xác nhận thực; nếu lắp nhầm 2,05 MΩ có th�
 |---|---|---|
 | 1 | ☐ BV.22 | `R24 2,050Mom/1%` → **`R24 2,05k/1%`** |
 | 2 | ☐ BV.22, BV.23, BV.24 | Đổi ký hiệu điện trở 0 Ω lối vào U14: `R63` → **`R124`** |
-| 3 | ☐ BV.25 | R24: `2,05 Ω M` → **`2,05KΩ`**; nhóm 19: `R63, R117…R123` → **`R117…R124`** |
+| 3 | ☐ BV.25 | R24: `2,05ΩM` → **`2,05KΩ`**; nhóm 19: `R63, R117…R123` → **`R117…R124`** |
 | 4 | ☐ BV.25 | Nhóm 20/22 đếm lại theo **vỏ**: 12 × 168КТ2Б, 3 × 168КТ2В |
 | 5 | ☐ Thư viện Altium | Ký hiệu 168КТ2 giữ nguyên 12 chân (chân 4, 11 không dùng — §9.5) |
 
 ---
 
 *Rev. C — 16/09/2026. Tài liệu lập trên cơ sở đọc và dựng lại netlist từ bản vẽ 07MB.A313-V.BV.22 (trang 28), BV.23/24 (trang 29–30), BV.25 (trang 31); HDSD-A313-V mục 3.2.4; DKKT-A313-V Phụ lục B; datasheet 168КТ2 và К140УД1Б.*
-*Giữ nguyên sáu kết luận khai thác§9. Nhật ký§0 ghi riêng bằng chứng topo, tính toán, giả thiết và phần chưa đo. Rev. C không phải biên bản nghiệm thu phần cứng.*
+*Giữ nguyên sáu kết luận khai thác §9. Nhật ký §0 ghi riêng bằng chứng topo, tính toán, giả thiết và phần chưa đo. Rev. C không phải biên bản nghiệm thu phần cứng.*

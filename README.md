@@ -75,9 +75,8 @@ Thành phần: **18 × 140УД1Б** (op-amp) · **12 × 168КТ2Б** + **3 × 16
     Δt(М, xung400Hz) ≈ **358 µs** ⇒ rms · ≈ **528 µs** ⇒ peak.
   * Nguồn gốc tín hiệu `~5V/400Hz` **chưa rõ**: chỉ xuất hiện ở trang 28 của
     BVTK; tấm nguồn A313-V.08.01 chỉ có vào 27 V DC, không sinh 400 Hz.
-* Lỗi còn lại trong Rev. C chưa sửa: ~20 chỗ dính chữ do xử lý khoảng trắng
-  (`bằngVin`, `hàm mũτ`, …), `3Ш3` bị tách thành `3 Ш 3`, và `2,05ΩM` bị ghi
-  sai thành `2,05 Ω M` ở 3 chỗ — làm chết hướng dẫn tra đúng chuỗi đó trong BV.25.
+* Lỗi khoảng trắng của Rev. C (50 chỗ dính chữ, `3Ш3`, `2,05ΩM`) **đã sửa**
+  ngày 2026-10-20; còn rà độ dễ đọc §5.2/§10.4 so với Rev. B (chưa có bản Rev. B).
 
 ---
 

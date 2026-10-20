@@ -67,23 +67,20 @@ nâng giới hạn dòng để ép tấm chạy.
 
 ## 4. Việc đang tồn — làm theo thứ tự này
 
-### 4.1. Sửa lỗi Rev. C
+### 4.1. Sửa lỗi Rev. C — ĐÃ XONG phần chữ (2026-10-20), còn một mục
 
-Người dùng chọn push trước rồi mới sửa (diff sửa chữ nhỏ, không làm phình
-history). Đưa diff cho người dùng xem trước khi ghi. Trong
-`PHAN-TICH_A313-V.06_KHUECH-DAI-TIN-HIEU-RA.md`:
+Đã sửa trong `PHAN-TICH_A313-V.06_KHUECH-DAI-TIN-HIEU-RA.md` (người dùng duyệt diff):
 
-* **~20–25 chỗ dính chữ** do lỗi xử lý khoảng trắng của Codex. Mẫu đã biết:
-  `bằngVin`, `hàm mũτ`, `lớn hơn+h`, `vàheadroom;400 Ω`, `khai thác§9`,
-  `Nhật ký§0`, `trace;10 ms`, `Với+5 V`, `→216 mA`, `GPIO3,3 V`, `gần\``.
-  Tìm bằng regex kiểu `[a-zữàáảãạăâéèẻẽẹêíìỉĩịóòỏõọôơúùủũụưýỳỷỹỵđ][A-ZÀ-Ỹ§→+]`
-  rồi soát tay — đừng sửa máy móc, có chỗ là cố ý.
-* **`3Ш3` bị tách thành `3 Ш 3`** — khôi phục.
-* **`2,05ΩM` bị ghi sai thành `2,05 Ω M`** ở 3 chỗ. Quan trọng: §12.3 hướng dẫn
-  tìm **đúng chuỗi** đó trong BV.25, ghi sai là hỏng hướng dẫn tra cứu.
-* §5.2 và §10.4 bị giảm độ dễ đọc so với Rev. B — xem lại.
-* Thêm một dòng ở đầu §10.4: **giới hạn pass/fail lấy từ khối tốt**, không phải
-  từ tính toán lý thuyết.
+* 50 chỗ dính chữ trên 33 dòng (nhiều hơn ước tính 20–25), gồm cả dạng
+  chữ+`−`, chữ+chữ Hy Lạp (`mũτ`), hai âm tiết dính (`đođộng`), danh sách số
+  dính dấu phẩy (`±4,±1,0 V`). Giữ nguyên các ký hiệu cố ý: `U14→U17`, `S→OA`,
+  `pha+`/`pha−`, `Vref±`, `Mux+ADC`, toạ độ `(x;y)`, công thức trong code.
+* `3 Ш 3` → `3Ш3`; `2,05 Ω M` → `2,05ΩM` ở 3 chỗ (đã kiểm bằng pdfplumber:
+  BV.25 ghi đúng `2,05ΩM, 1%`, BVTK trang 31).
+* Đã chèn dòng đầu §10.4: **giới hạn pass/fail lấy từ khối tốt**.
+
+**Còn lại:** §5.2 và §10.4 bị giảm độ dễ đọc so với Rev. B — chưa xem được vì
+không có bản Rev. B trong thư mục; cần người dùng cung cấp nếu muốn so.
 
 ### 4.2. Dời `tmp/pdfs/review/` thành `Phan-bien/`
 
