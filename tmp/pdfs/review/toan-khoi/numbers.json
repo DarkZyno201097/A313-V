@@ -1,0 +1,87 @@
+{
+ "selftest": {
+  "T777000": [],
+  "T377000": [
+   "bảng thao tác tốt (liên lạc A313-6M)"
+  ],
+  "T577000": [
+   "УВВ tốt (thiết bị vào-ra, kiểm tra kênh)"
+  ],
+  "T757000": [
+   "ППЗУ tốt mod 2"
+  ],
+  "T677000": [
+   "БЗ ghi-đọc tốt / ППЗУ tốt mod 2 (chế độ chuẩn bị)"
+  ],
+  "T657000": [
+   "БЗ ghi-đọc tốt / ППЗУ tốt mod 2 (chế độ chuẩn bị)",
+   "ППЗУ tốt mod 2"
+  ],
+  "T737000": [
+   "ОЗУ ghi-đọc tốt"
+  ],
+  "T775000": [
+   "hằng \"1\""
+  ],
+  "T776000": [
+   "không mất chu kỳ trong КЦ"
+  ],
+  "T773000": [
+   "hằng \"1\""
+  ]
+ },
+ "encode_test": {
+  "code_110000": {
+   "good": 1,
+   "deg": 45.0,
+   "pk": 0
+  },
+  "code_150000": {
+   "good": 1,
+   "deg": 225.0,
+   "pk": 0
+  },
+  "tol_200_deg": 1.40625,
+  "tol_140_deg": 1.0546875,
+  "lsb_deg": 0.02197265625
+ },
+ "cycle": {
+  "KC_s": 0.15,
+  "SKC_ms": 4.6875,
+  "OC_s": 4.8,
+  "note": "TMKT ghi \"CKЦ = 4,7s\": đúng ra 4,7 ms"
+ },
+ "power_monitor": {
+  "nominal_V": 2.5,
+  "hi_V": 2.55,
+  "lo_V": 2.45,
+  "window_pct": 1.9999999999999927,
+  "claimed_pct": 10
+ },
+ "divider_02": {
+  "normal": 0.5,
+  "ch12a": 0.3333333333333333,
+  "ch12b": 0.33003300330033003,
+  "out_at_8V": 4.0,
+  "out_at_12V": 6.0,
+  "ref5V_ch12": 1.6666666666666665,
+  "bv09_160ohm_load_ohm": 320,
+  "bv09_160ohm_peak_mA": 25.0,
+  "schdoc_5k_load_ohm": 10000.0,
+  "schdoc_5k_peak_mA": 0.8
+ },
+ "out_05": {
+  "pullup_uA_at_4V": 26.06060606060606,
+  "load3k_mA_at_4V": 1.3333333333333333,
+  "ratio": 51.16279069767442
+ },
+ "pkg_05": {
+  "L1": 24,
+  "L2": 6,
+  "L3": 2,
+  "follower": 24,
+  "total": 56,
+  "bom": 57,
+  "unexplained": 1
+ }
+}

@@ -25,12 +25,14 @@ PCB trong khối.
 | `File mach in va mach nguyen ly_A313_V/` | **gốc** | Altium SchDoc/PcbDoc vẽ lại các tấm của khối; `sodocactam.pdf` mất chữ Cyrillic |
 | `GIAO AN HLKT A313-V.pdf` | **gốc** | Giáo án huấn luyện kỹ thuật A313-V |
 | `PHAN-TICH_A313-V.06_KHUECH-DAI-TIN-HIEU-RA.md` | ✍ phân tích | Phân tích đầy đủ tấm .06 — **Rev. C** |
+| `PHAN-TICH_TOAN-KHOI_A313-V.md` | ✍ phân tích | Toàn khối: sơ đồ khối, từng tấm, cây chẩn đoán, việc cần đo — **Rev. A** |
 | `QUY-TRINH_TEST_TUNG-BUOC_A313-V.06.md` | ✍ quy trình | Quy trình test từng bước + nhật ký kết quả |
 | `PROMPT_CODEX_phan-bien-A313-V.06.md` | ✍ công cụ | Prompt phản biện đối kháng dùng cho Codex |
 | `Datasheet/` | ✍ + gốc NSX | 5 file `.md` giải thích linh kiện + datasheet gốc PDF |
 | `KET-QUA-TEST_A313-V.06/` | 📊 số liệu | Ảnh dao động ký các bài test (xem `README.md` trong đó) |
 | `BAO-CAO_KIEM-TRA_A313-V.06.docx` / `_CHANH.pdf` | 📄 báo cáo | Báo cáo kiểm tra |
 | `tmp/pdfs/review/` | 🔬 bằng chứng | netlist.json, channel-audit.csv, PNG crop, script phản biện |
+| `tmp/pdfs/review/toan-khoi/` | 🔬 bằng chứng | Script toàn khối `tk_*.py` (SchDoc → BOM/netlist, đầu cắm, mux), CSV/JSON, PNG |
 | `tmp/build_test_report.py` | 🔧 script | Sinh lại báo cáo PDF từ các file `.md` |
 
 **Ký hiệu:** `gốc A32` = không sửa, chỉ đọc · `✍` = tài liệu do ta viết, sửa

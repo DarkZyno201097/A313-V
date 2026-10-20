@@ -117,6 +117,10 @@ Vin/Vo** (bài B08-1a+ trở đi) — chưa tính được gain/offset/độ tuy
 * **Nguồn gốc tín hiệu `~5V/400Hz` chưa rõ.** Chỉ xuất hiện ở trang 28/56 của
   BVTK. Tấm nguồn A313-V.08.01 chỉ có vào 27 V DC, không sinh 400 Hz
   (đã kiểm BV.30). Cần tìm trong tài liệu khối hoặc đo trên máy bay.
+  **Cập nhật 2026-10-20** (`PHAN-TICH_TOAN-KHOI_A313-V.md` §2.5): BV.01, TMKT §4/§6.5
+  và phụ lục đầu cắm chỉ ra **biến thế trên sát-xi** (`Tp1`), sơ cấp 3Ш4/55 (~36 V ФА)
+  và 3Ш4/56 (~36 V ФС qua cầu chì 4 A), thứ cấp → DC11.A5. Không bản vẽ nào vẽ biến
+  thế ⇒ vẫn phải đo (việc H2).
 
 ### 4.7. Chưa làm: phân tích tấm **A313-V.05**
 
@@ -126,6 +130,10 @@ Tấm .05 là **chuyển mạch tín hiệu ra**: 57 vỏ `168КТ2Б` (= 228 kh
 (trang 24) và BV.21.
 
 ### 4.8. Mục tiêu tiếp theo: phân tích toàn khối và hướng sửa chữa
+
+**Rev. A đã lập 2026-10-20:** `PHAN-TICH_TOAN-KHOI_A313-V.md` (sơ đồ khối, từng tấm,
+cây chẩn đoán theo A-313-2, việc cần đo §5, bảng chưa chắc chắn §6) + script
+`tmp/pdfs/review/toan-khoi/tk_*.py`. Việc còn lại là đo phần cứng theo §5 (H1…H18).
 
 Người dùng muốn (làm trên cloud) phân tích **toàn bộ khối A313-V** và đưa ra
 hướng xử lý sửa chữa cho cả khối, không chỉ tấm .06. Nguồn đã có trong repo:

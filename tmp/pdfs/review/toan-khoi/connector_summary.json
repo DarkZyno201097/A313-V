@@ -1,0 +1,116 @@
+{
+ "3Ш3": {
+  "rows": 67,
+  "by_board": {
+   "A313-V.02": 57,
+   "A313-V.03": 9,
+   "LẤY TỪ TẤM SAXI": 1
+  }
+ },
+ "3Ш3B": {
+  "rows": 67,
+  "by_board": {
+   "A313-V.05": 33,
+   "A313-V.06": 18,
+   "(trống)": 6,
+   "LẤY TỪ TẤM SAXI": 5,
+   "A313-V.02": 2,
+   "MÁT RA VỎ": 1,
+   "A313-V.04": 1,
+   "A313-V.03": 1
+  }
+ },
+ "3Ш4": {
+  "rows": 67,
+  "by_board": {
+   "A313-V.07": 34,
+   "(trống)": 11,
+   "A313-V.01": 4,
+   "A313-V.08.03": 3,
+   "MÁT RA VỎ": 3,
+   "CẦU CHÌ 10A → Пр1/1": 3,
+   "CẦU CHÌ 10A→ Пр1/1": 2,
+   "A313-V.06": 1,
+   "CẦU CHÌ→Пр1/1": 1,
+   "Chân 1 biến thế": 1,
+   "Qua cầu chì 4A tới Chân ": 1,
+   "A313-V.03": 1,
+   "A313-V.04": 1,
+   "A313-V.05": 1
+  }
+ },
+ "3Ш4B": {
+  "rows": 67,
+  "by_board": {
+   "A313-V.01": 62,
+   "(trống)": 5
+  }
+ },
+ "crosscheck_by_dc": {
+  "DC1": {
+   "rows": 64,
+   "schdoc_named": 64,
+   "name_match": 58
+  },
+  "DC10": {
+   "rows": 33,
+   "schdoc_named": 33,
+   "name_match": 33
+  },
+  "DC11": {
+   "rows": 1,
+   "schdoc_named": 1,
+   "name_match": 1
+  },
+  "DC12": {
+   "rows": 18,
+   "schdoc_named": 18,
+   "name_match": 18
+  },
+  "DC13": {
+   "rows": 34,
+   "schdoc_named": 34,
+   "name_match": 34
+  },
+  "DC2": {
+   "rows": 2,
+   "schdoc_named": 2,
+   "name_match": 1
+  },
+  "DC3": {
+   "rows": 58,
+   "schdoc_named": 58,
+   "name_match": 54
+  },
+  "DC4": {
+   "rows": 1,
+   "schdoc_named": 1,
+   "name_match": 1
+  },
+  "DC5": {
+   "rows": 10,
+   "schdoc_named": 10,
+   "name_match": 10
+  },
+  "DC6": {
+   "rows": 1,
+   "schdoc_named": 1,
+   "name_match": 1
+  },
+  "DC7": {
+   "rows": 1,
+   "schdoc_named": 1,
+   "name_match": 1
+  },
+  "DC8": {
+   "rows": 1,
+   "schdoc_named": 1,
+   "name_match": 1
+  },
+  "DC9": {
+   "rows": 1,
+   "schdoc_named": 1,
+   "name_match": 1
+  }
+ }
+}
