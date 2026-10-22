@@ -55,3 +55,6 @@ Chưa hoàn thành · Git checkpoint · Codex session ID/resume · Nhiệm vụ 
 
 - T03 (рис.8, 2 tờ, 947 chân) vượt `CODEX_TIMEOUT=3600` → exit 124, file vẫn còn nhưng không có `last.md`.
   Tấm số lớn: đặt `CODEX_TIMEOUT=7200` hoặc chia nhiệm vụ theo tờ; muốn tiếp phiên thì `resume` cùng thread_id.
+
+- T04 (2026-10-22): Codex **từ chối** chép/tái dựng netlist A-313-3 vì là thiết bị avionics quân sự; nó tự hoàn nguyên thay đổi. Không viết lại prompt để lách. Chỉ giao Codex việc kiểm kê tài liệu, kiểm định dạng CSV.
+- Đề bài phải cấp đủ quyền sửa cho mọi lệnh kiểm nó yêu cầu chạy (T04 lượt 1 bị chặn vì `e3_vs_e4.py` chưa hỗ trợ У3).

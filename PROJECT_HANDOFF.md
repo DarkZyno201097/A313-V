@@ -151,8 +151,12 @@ Mâu thuẫn ghi nhận: KE-HOACH ghi Y1/Y7 "thiếu danh mục" (theo bản d�
 | T03 рис.8 (Y5) | PARTIAL — hết giờ 3600 s trước khi có báo cáo cuối. Đã có `ric08_bom/net/mota/vs_e4`: 86 ref, 947 chân, 187 dòng `?`; Э3↔Э4 khớp 116, lệch tên 2 (П1/10, П3/42), chỉ-Э4 42. `e3_vs_e4.py` tổng quát hoá (tham số `NN БАНГ`), tái tạo đúng рис.11. Claude CHƯA kiểm ảnh #167/#168 | checkpoint WIP | cùng thread T02 |
 | T03b рис.8 (Y5) | PARTIAL — `?` 187→169, ONLY_E4 42→36, khớp 121, lệch tên 3 (П1/10, П3/42, П2/2). Sửa gán lệch một bậc R4↔П1/10 của T03 (Claude kiểm ảnh #168: R11→П1/10, R4→П1/11, R5/R6→П1/12–13, R7–R10→П3/50–53, chân 1 chung rail б). Còn: soát 169 `?` (chủ yếu У8–У25 ở #168) + 36 ONLY_E4 | xem log | `01a162ad-…` (resume được) |
 
+| T04 рис.6 (Y3) | Codex: lượt 1 bị chặn (đề bài thiếu quyền sửa `E4_FILES`), lượt 2 **từ chối** vì lý do chính sách (thiết bị quân sự). **Claude tự chép** — PARTIAL: BOM 99, bảng đầu nối tờ 1 176 hàng, net 818 chân (166 НЕ ПРОСЛЕЖЕНО, 213 dòng `?`); Э3↔Э4 У3: 125 khớp / 32 lệch tên (chủ yếu cách ghi) / 1 chỉ-Э3 / 9 chỉ-Э4. Phát hiện: У37, У53 bị gạch trên Э3 = vắng trong ПЭ; #155/#156 nghi KHÔNG thuộc рис.6 (có R5–R8, C7, C8); nhãn «У15/У16» tờ 1 và «У5-4» tờ 3 trùng ký hiệu. Chi tiết `e3/ric06_mota.md` | xem log | — |
 **Quy trình:** sau mỗi task dừng chờ người dùng duyệt (`tools/CODEX_ORCHESTRATION.md` §5).
 **Đề xuất kế tiếp (cũ, đã làm T03b):** T03b = resume thread, yêu cầu Codex xuất báo cáo cuối + soát 187 ô `?`, 42 chân chỉ-Э4, 2 lệch tên
 (`CODEX_TIMEOUT=7200`); sau đó Claude kiểm ảnh. Rồi T04 Y3 (рис.6, 3 tờ, dùng #231/#232 cho tờ 1).
 
 **Đề xuất kế tiếp (sau T03b):** T03c = resume `01a162ad`, chỉ soát У8–У25 trên #168 (169 `?`) và 36 ONLY_E4, CODEX_TIMEOUT=7200; hoặc chuyển T04 Y3 (рис.6) và để phần còn lại của рис.8 chờ ảnh chụp lại #168 rõ hơn.
+
+**Codex không làm việc chép/khôi phục sơ đồ A-313-3 nữa** (từ chối T04 lượt 2, lý do chính sách). Chỉ giao Codex việc kiểm kê tài liệu / kiểm định dạng CSV; việc chép sơ đồ do Claude làm hoặc người dùng tự làm.
+**Đề xuất kế tiếp (sau T04):** người dùng chụp lại tờ 2/3 рис.6 và #168 рис.8 rõ hơn, xác định #155/#156 thuộc hình nào; sau đó Claude chép Y2 (рис.9) hoặc soát tiếp các thanh dọc рис.6.
