@@ -122,3 +122,23 @@ python tmp/pdfs/review/a313-3/e4_check.py   # kiểm chéo hai chiều Э4 → e
 python tmp/pdfs/review/a313-3/e4_tmkt.py    # so 3Ш3/3Ш4 với TMKT A313-V → e4/e4_vs_tmkt.csv
 python tmp/pdfs/review/a313-3/e3/e3_check.py  # kiểm bom↔net 8 hình рис.19–26 + trị số danh định
 ```
+
+## 12. Điều phối Claude ↔ Codex (cập nhật 2026-10-22, phiên Local)
+
+**Khôi phục từ Cloud:** commit cloud `e6e4cd0` (nhánh `claude/beautiful-lovelace-oamywv`) đã nằm trong
+`main` (`86074a7` = merge PR #1 + AGENTS.md). Không có thay đổi cloud nào bị thiếu trên Local.
+4 script §11 chạy lại trên `main`: exit 0, không đổi file nào.
+
+**Cơ chế:** Claude = Orchestrator, Codex CLI = Executor. Cách chạy, giới hạn an toàn: `tools/CODEX_ORCHESTRATION.md`;
+script `tools/codex_run.sh`. Codex làm trong worktree riêng `../A313-V_codex` (nhánh `codex/y1-y7-audit`).
+Đã thử thật: `codex exec` (đăng nhập ChatGPT) và `codex exec resume <thread_id>` đều chạy.
+
+**T01 — độ đầy đủ dữ liệu Y1–Y7 (A-313-3, рис.5–11): ĐẠT.** Báo cáo `codex-runs/T01-y1y7-audit/r1/last.md`,
+thread `01a1629e-ac78-75c1-94b2-ab9e8a54688c`. Claude kiểm lại: 6 trích dẫn (trang.csv, p150.csv, ảnh #75/#167/
+#168/#175/#180, KE-HOACH) khớp; độ phủ chân Э4 У1–У7 П1/П2 1–53, П3 1–70 không trùng — chạy lại độc lập, khớp.
+Kết luận chính: Y4 thiếu Э3 (рис.5); Y6 thiếu tr.167; Y1 thiếu tr.180, #75 chưa định danh; các tấm còn lại
+"thiếu một phần" do tờ gấp chụp mất mép/khung tên. Thứ tự chép đề xuất: Y7 → Y5 → Y3 → Y2 → Y1 → Y6 → Y4.
+Mâu thuẫn ghi nhận: KE-HOACH ghi Y1/Y7 "thiếu danh mục" (theo bản dịch) ↔ ảnh bản giấy có ПЭ tr.181–183, 185.
+
+**Việc kế tiếp:** người dùng chụp bổ sung рис.5 (Y4), tr.167, tr.180, khung tên các tờ gấp; giao T02 = chép Э3 Y7
+(рис.11) ra `ric11_bom.csv`/`ric11_net.csv` theo mẫu `e3/`, kiểm bằng `e3_check.py`.
