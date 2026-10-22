@@ -1,0 +1,8 @@
+ M tmp/pdfs/review/a313-3/e3/e3_check.py
+ M tmp/pdfs/review/a313-3/e3/e3_vs_e4.py
+ M tmp/pdfs/review/a313-3/e3/ric11_vs_e4.csv
+?? codex-runs/T03-ric08-y5/
+?? tmp/pdfs/review/a313-3/e3/ric08_bom.csv
+?? tmp/pdfs/review/a313-3/e3/ric08_mota.md
+?? tmp/pdfs/review/a313-3/e3/ric08_net.csv
+?? tmp/pdfs/review/a313-3/e3/ric08_vs_e4.csv

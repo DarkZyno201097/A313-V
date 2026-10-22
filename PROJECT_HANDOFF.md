@@ -142,3 +142,14 @@ Mâu thuẫn ghi nhận: KE-HOACH ghi Y1/Y7 "thiếu danh mục" (theo bản d�
 
 **Việc kế tiếp:** người dùng chụp bổ sung рис.5 (Y4), tr.167, tr.180, khung tên các tờ gấp; giao T02 = chép Э3 Y7
 (рис.11) ra `ric11_bom.csv`/`ric11_net.csv` theo mẫu `e3/`, kiểm bằng `e3_check.py`.
+
+### 12.1. Nhiệm vụ Codex sau T01 (cập nhật 2026-10-22)
+
+| Task | Kết quả | Commit | Codex thread |
+|---|---|---|---|
+| T02 рис.11 (Y7) | PASS — 166 ref, 462 chân; Э3↔Э4 khớp 105/105 (+ П2/1 КОРПУС chỉ có ở Э4); Claude kiểm ảnh #180 (ô mẫu + 3 bus) | `bf781fe` | `01a162ad-7126-7493-bd95-2d25663c3b92` |
+| T03 рис.8 (Y5) | PARTIAL — hết giờ 3600 s trước khi có báo cáo cuối. Đã có `ric08_bom/net/mota/vs_e4`: 86 ref, 947 chân, 187 dòng `?`; Э3↔Э4 khớp 116, lệch tên 2 (П1/10, П3/42), chỉ-Э4 42. `e3_vs_e4.py` tổng quát hoá (tham số `NN БАНГ`), tái tạo đúng рис.11. Claude CHƯA kiểm ảnh #167/#168 | checkpoint WIP | cùng thread T02 |
+
+**Quy trình:** sau mỗi task dừng chờ người dùng duyệt (`tools/CODEX_ORCHESTRATION.md` §5).
+**Đề xuất kế tiếp:** T03b = resume thread, yêu cầu Codex xuất báo cáo cuối + soát 187 ô `?`, 42 chân chỉ-Э4, 2 lệch tên
+(`CODEX_TIMEOUT=7200`); sau đó Claude kiểm ảnh. Rồi T04 Y3 (рис.6, 3 tờ, dùng #231/#232 cho tờ 1).

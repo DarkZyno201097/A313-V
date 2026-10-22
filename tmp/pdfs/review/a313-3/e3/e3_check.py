@@ -10,19 +10,20 @@ D = Path(__file__).parent
 
 
 def check(nn):
-    bom = [r['ref'] for r in csv.DictReader(open(D / f'ric{nn}_bom.csv', encoding='utf8'))]
-    net = list(csv.DictReader(open(D / f'ric{nn}_net.csv', encoding='utf8')))
-    assert len(bom) == len(set(bom)), f'ric{nn}: trùng ref trong bom'
+    tag = f'{nn:02d}'
+    bom = [r['ref'] for r in csv.DictReader(open(D / f'ric{tag}_bom.csv', encoding='utf8'))]
+    net = list(csv.DictReader(open(D / f'ric{tag}_net.csv', encoding='utf8')))
+    assert len(bom) == len(set(bom)), f'ric{tag}: trùng ref trong bom'
     nref = {r['ref'] for r in net}
     pins = defaultdict(list)
     seen = set()
     for r in net:
         key = (r['ref'], r['pin'])
-        assert key not in seen, f'ric{nn}: chân lặp {key}'
+        assert key not in seen, f'ric{tag}: chân lặp {key}'
         seen.add(key)
         pins[r['net']].append(key)
     single = {n: p for n, p in pins.items() if n.startswith('N') and len(p) < 2}  # net X:… nối ra đầu cắm được phép 1 chân
-    print(f'ric{nn}: bom {len(bom)} ref, net {len(net)} chân, {len(pins)} net '
+    print(f'ric{tag}: bom {len(bom)} ref, net {len(net)} chân, {len(pins)} net '
           f'({sum(1 for n in pins if n.startswith("N"))} N#)')
     print('  trong bom không có trong net:', sorted(set(bom) - nref) or '—')
     print('  trong net không có trong bom:', sorted(nref - set(bom)) or '—')
@@ -72,7 +73,7 @@ def calc():
 KNOWN = {19: 'Д7 có trong перечень, không có trên Э3', 25: 'R28, Д3, Д4 có trong перечень, không có trên Э3 (góc ảnh #233 bị che)'}
 
 if __name__ == '__main__':
-    bad = [nn for nn in (11, 19, 20, 21, 22, 23, 24, 25, 26) if not check(nn)]
+    bad = [nn for nn in (8, 11, 19, 20, 21, 22, 23, 24, 25, 26) if not check(nn)]
     calc()
     assert set(bad) <= set(KNOWN), 'có ngoại lệ mới: %s' % (set(bad) - set(KNOWN))
     for nn in bad:

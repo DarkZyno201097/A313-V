@@ -42,3 +42,16 @@ Kiểm thử thật trên máy này ngày 2026-10-22: `codex-cli 0.163.0`, đăn
 git worktree add -b codex/<việc> ../A313-V_codex main   # tạo
 git worktree list                                       # xem
 ```
+
+## 5. Cổng phê duyệt (người dùng yêu cầu 2026-10-22)
+
+Sau MỖI nhiệm vụ Codex: Claude thu kết quả → đọc file/diff → chạy lại kiểm tra → lưu thread_id/nhánh/commit →
+cập nhật handoff → commit checkpoint → soạn đề xuất nhiệm vụ kế → **DỪNG**. Không tự giao nhiệm vụ mới, không tự
+giao lượt sửa khi chưa được người dùng đồng ý. Không dừng/restart Codex đang chạy.
+Báo cáo theo mẫu: Task ID · Trạng thái PASS/PARTIAL/FAIL · Đã hoàn thành · File thay đổi · Kết quả kiểm tra ·
+Chưa hoàn thành · Git checkpoint · Codex session ID/resume · Nhiệm vụ đề xuất tiếp theo.
+
+## 6. Bài học
+
+- T03 (рис.8, 2 tờ, 947 chân) vượt `CODEX_TIMEOUT=3600` → exit 124, file vẫn còn nhưng không có `last.md`.
+  Tấm số lớn: đặt `CODEX_TIMEOUT=7200` hoặc chia nhiệm vụ theo tờ; muốn tiếp phiên thì `resume` cùng thread_id.

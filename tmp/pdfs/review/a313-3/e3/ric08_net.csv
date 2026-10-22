@@ -1,0 +1,948 @@
+ref,pin,net,note
+1У1,7,П1:27 КОРПУС | П2:1 КОРПУС | П3:1 КОРПУС,Ghi chú 1 trên #167: chân 7 → Корпус (điểm a)
+1У1,14,П1:1 +5В | П2:27 +5В,Ghi chú 2 trên #167: chân 14 → +5В (điểm б)
+1У2,7,П1:27 КОРПУС | П2:1 КОРПУС | П3:1 КОРПУС,Ghi chú 1 trên #167: chân 7 → Корпус (điểm a)
+1У2,14,П1:1 +5В | П2:27 +5В,Ghi chú 2 trên #167: chân 14 → +5В (điểm б)
+1У3,7,П1:27 КОРПУС | П2:1 КОРПУС | П3:1 КОРПУС,Ghi chú 1 trên #167: chân 7 → Корпус (điểm a)
+1У3,14,П1:1 +5В | П2:27 +5В,Ghi chú 2 trên #167: chân 14 → +5В (điểm б)
+1У4,7,П1:27 КОРПУС | П2:1 КОРПУС | П3:1 КОРПУС,Ghi chú 1 trên #167: chân 7 → Корпус (điểm a)
+1У4,14,П1:1 +5В | П2:27 +5В,Ghi chú 2 trên #167: chân 14 → +5В (điểm б)
+1У1,2,П1:28 М0 | П3:8 М0,"#167↔#168: bó D, đường số 0; số đường in ở cả hai đầu bó"
+1У1,4,N1,Ngõ S chung của nhóm Я1…Я4 trên #168
+1У1,3,N2,Ngõ C chung của nhóm Я1…Я4 trên #168
+1У1,1,N3,Ngõ R chung của nhóm Я1…Я4 trên #168
+1У1,6,N21,"Nút Q nội bộ trong ячейка, đọc theo hình chi tiết #167"
+1У3,2,N21,
+1У4,2,N21,
+1У3,3,N4,Đường «1» chung của ячейка trên #167
+1У3,1,N22,
+1У4,1,N22,
+1У4,3,N17,Đường ra 0р Рг.К1 nội bộ; nhãn cạnh Я1 trên #168
+1У1,12,П1:29 М1 | П3:9 М1,"#167↔#168: bó D, đường số 1; số đường in ở cả hai đầu bó"
+1У1,10,N1,Ngõ S chung của nhóm Я1…Я4 trên #168
+1У1,11,N2,Ngõ C chung của nhóm Я1…Я4 trên #168
+1У1,13,N3,Ngõ R chung của nhóm Я1…Я4 trên #168
+1У1,8,N23,"Nút Q nội bộ trong ячейка, đọc theo hình chi tiết #167"
+1У3,6,N23,
+1У4,5,N23,
+1У3,5,N4,Đường «1» chung của ячейка trên #167
+1У3,4,N24,
+1У4,4,N24,
+1У4,6,N18,Đường ra 1р Рг.К1 nội bộ; nhãn cạnh Я1 trên #168
+1У2,2,П1:30 М2 | П3:10 М2,"#167↔#168: bó D, đường số 2; số đường in ở cả hai đầu bó"
+1У2,4,N1,Ngõ S chung của nhóm Я1…Я4 trên #168
+1У2,3,N2,Ngõ C chung của nhóm Я1…Я4 trên #168
+1У2,1,N3,Ngõ R chung của nhóm Я1…Я4 trên #168
+1У2,6,N25,"Nút Q nội bộ trong ячейка, đọc theo hình chi tiết #167"
+1У3,9,N25,
+1У4,10,N25,
+1У3,8,N4,Đường «1» chung của ячейка trên #167
+1У3,10,N26,
+1У4,9,N26,
+1У4,8,N19,Đường ra 2р Рг.К1 nội bộ; nhãn cạnh Я1 trên #168
+1У2,12,П1:31 М3 | П3:11 М3,"#167↔#168: bó D, đường số 3; số đường in ở cả hai đầu bó"
+1У2,10,N1,Ngõ S chung của nhóm Я1…Я4 trên #168
+1У2,11,N2,Ngõ C chung của nhóm Я1…Я4 trên #168
+1У2,13,N3,Ngõ R chung của nhóm Я1…Я4 trên #168
+1У2,8,N27,"Nút Q nội bộ trong ячейка, đọc theo hình chi tiết #167"
+1У3,11,N27,
+1У4,13,N27,
+1У3,12,N4,Đường «1» chung của ячейка trên #167
+1У3,13,N28,
+1У4,12,N28,
+1У4,11,N20,Đường ra 3р Рг.К1 nội bộ; nhãn cạnh Я1 trên #168
+2У1,7,П1:27 КОРПУС | П2:1 КОРПУС | П3:1 КОРПУС,Ghi chú 1 trên #167: chân 7 → Корпус (điểm a)
+2У1,14,П1:1 +5В | П2:27 +5В,Ghi chú 2 trên #167: chân 14 → +5В (điểm б)
+2У2,7,П1:27 КОРПУС | П2:1 КОРПУС | П3:1 КОРПУС,Ghi chú 1 trên #167: chân 7 → Корпус (điểm a)
+2У2,14,П1:1 +5В | П2:27 +5В,Ghi chú 2 trên #167: chân 14 → +5В (điểm б)
+2У3,7,П1:27 КОРПУС | П2:1 КОРПУС | П3:1 КОРПУС,Ghi chú 1 trên #167: chân 7 → Корпус (điểm a)
+2У3,14,П1:1 +5В | П2:27 +5В,Ghi chú 2 trên #167: chân 14 → +5В (điểm б)
+2У4,7,П1:27 КОРПУС | П2:1 КОРПУС | П3:1 КОРПУС,Ghi chú 1 trên #167: chân 7 → Корпус (điểm a)
+2У4,14,П1:1 +5В | П2:27 +5В,Ghi chú 2 trên #167: chân 14 → +5В (điểm б)
+2У1,2,П1:32 М4 | П3:12 М4,"#167↔#168: bó D, đường số 4; số đường in ở cả hai đầu bó"
+2У1,4,N1,Ngõ S chung của nhóm Я1…Я4 trên #168
+2У1,3,N2,Ngõ C chung của nhóm Я1…Я4 trên #168
+2У1,1,N3,Ngõ R chung của nhóm Я1…Я4 trên #168
+2У1,6,N29,"Nút Q nội bộ trong ячейка, đọc theo hình chi tiết #167"
+2У3,2,N29,
+2У4,2,N29,
+2У3,3,N4,Đường «1» chung của ячейка trên #167
+2У3,1,N30,
+2У4,1,N30,
+2У4,3,П3:43 4р Рг.К1,
+2У1,12,П1:33 М5 | П3:13 М5,"#167↔#168: bó D, đường số 5; số đường in ở cả hai đầu bó"
+2У1,10,N1,Ngõ S chung của nhóm Я1…Я4 trên #168
+2У1,11,N2,Ngõ C chung của nhóm Я1…Я4 trên #168
+2У1,13,N3,Ngõ R chung của nhóm Я1…Я4 trên #168
+2У1,8,N31,"Nút Q nội bộ trong ячейка, đọc theo hình chi tiết #167"
+2У3,6,N31,
+2У4,5,N31,
+2У3,5,N4,Đường «1» chung của ячейка trên #167
+2У3,4,N32,
+2У4,4,N32,
+2У4,6,П1:14 5р Рг.К1,
+2У2,2,П1:34 М6 | П3:14 М6,"#167↔#168: bó D, đường số 6; số đường in ở cả hai đầu bó"
+2У2,4,N1,Ngõ S chung của nhóm Я1…Я4 trên #168
+2У2,3,N2,Ngõ C chung của nhóm Я1…Я4 trên #168
+2У2,1,N3,Ngõ R chung của nhóm Я1…Я4 trên #168
+2У2,6,N33,"Nút Q nội bộ trong ячейка, đọc theo hình chi tiết #167"
+2У3,9,N33,
+2У4,10,N33,
+2У3,8,N4,Đường «1» chung của ячейка trên #167
+2У3,10,N34,
+2У4,9,N34,
+2У4,8,П1:15 6р Рг.К1,
+2У2,12,П1:35 М7 | П3:15 М7,"#167↔#168: bó D, đường số 7; số đường in ở cả hai đầu bó"
+2У2,10,N1,Ngõ S chung của nhóm Я1…Я4 trên #168
+2У2,11,N2,Ngõ C chung của nhóm Я1…Я4 trên #168
+2У2,13,N3,Ngõ R chung của nhóm Я1…Я4 trên #168
+2У2,8,N35,"Nút Q nội bộ trong ячейка, đọc theo hình chi tiết #167"
+2У3,11,N35,
+2У4,13,N35,
+2У3,12,N4,Đường «1» chung của ячейка trên #167
+2У3,13,N36,
+2У4,12,N36,
+2У4,11,П1:16 7р Рг.К1,
+3У1,7,П1:27 КОРПУС | П2:1 КОРПУС | П3:1 КОРПУС,Ghi chú 1 trên #167: chân 7 → Корпус (điểm a)
+3У1,14,П1:1 +5В | П2:27 +5В,Ghi chú 2 trên #167: chân 14 → +5В (điểm б)
+3У2,7,П1:27 КОРПУС | П2:1 КОРПУС | П3:1 КОРПУС,Ghi chú 1 trên #167: chân 7 → Корпус (điểm a)
+3У2,14,П1:1 +5В | П2:27 +5В,Ghi chú 2 trên #167: chân 14 → +5В (điểm б)
+3У3,7,П1:27 КОРПУС | П2:1 КОРПУС | П3:1 КОРПУС,Ghi chú 1 trên #167: chân 7 → Корпус (điểm a)
+3У3,14,П1:1 +5В | П2:27 +5В,Ghi chú 2 trên #167: chân 14 → +5В (điểm б)
+3У4,7,П1:27 КОРПУС | П2:1 КОРПУС | П3:1 КОРПУС,Ghi chú 1 trên #167: chân 7 → Корпус (điểm a)
+3У4,14,П1:1 +5В | П2:27 +5В,Ghi chú 2 trên #167: chân 14 → +5В (điểm б)
+3У1,2,П1:36 М8 | П3:16 М8,"#167↔#168: bó D, đường số 8; số đường in ở cả hai đầu bó"
+3У1,4,N1,Ngõ S chung của nhóm Я1…Я4 trên #168
+3У1,3,N2,Ngõ C chung của nhóm Я1…Я4 trên #168
+3У1,1,N3,Ngõ R chung của nhóm Я1…Я4 trên #168
+3У1,6,N37,"Nút Q nội bộ trong ячейка, đọc theo hình chi tiết #167"
+3У3,2,N37,
+3У4,2,N37,
+3У3,3,N4,Đường «1» chung của ячейка trên #167
+3У3,1,N38,
+3У4,1,N38,
+3У4,3,П1:17 8р Рг.К1,
+3У1,12,П1:37 М9 | П3:17 М9,"#167↔#168: bó D, đường số 9; số đường in ở cả hai đầu bó"
+3У1,10,N1,Ngõ S chung của nhóm Я1…Я4 trên #168
+3У1,11,N2,Ngõ C chung của nhóm Я1…Я4 trên #168
+3У1,13,N3,Ngõ R chung của nhóm Я1…Я4 trên #168
+3У1,8,N39,"Nút Q nội bộ trong ячейка, đọc theo hình chi tiết #167"
+3У3,6,N39,
+3У4,5,N39,
+3У3,5,N4,Đường «1» chung của ячейка trên #167
+3У3,4,N40,
+3У4,4,N40,
+3У4,6,П1:18 9р Рг.К1,
+3У2,2,П1:38 М10 | П3:18 М10,"#167↔#168: bó D, đường số 10; số đường in ở cả hai đầu bó"
+3У2,4,N1,Ngõ S chung của nhóm Я1…Я4 trên #168
+3У2,3,N2,Ngõ C chung của nhóm Я1…Я4 trên #168
+3У2,1,N3,Ngõ R chung của nhóm Я1…Я4 trên #168
+3У2,6,N41,"Nút Q nội bộ trong ячейка, đọc theo hình chi tiết #167"
+3У3,9,N41,
+3У4,10,N41,
+3У3,8,N4,Đường «1» chung của ячейка trên #167
+3У3,10,N42,
+3У4,9,N42,
+3У4,8,П1:19 10р Рг.К1,
+3У2,12,П1:39 М11 | П3:19 М11,"#167↔#168: bó D, đường số 11; số đường in ở cả hai đầu bó"
+3У2,10,N1,Ngõ S chung của nhóm Я1…Я4 trên #168
+3У2,11,N2,Ngõ C chung của nhóm Я1…Я4 trên #168
+3У2,13,N3,Ngõ R chung của nhóm Я1…Я4 trên #168
+3У2,8,N43,"Nút Q nội bộ trong ячейка, đọc theo hình chi tiết #167"
+3У3,11,N43,
+3У4,13,N43,
+3У3,12,N4,Đường «1» chung của ячейка trên #167
+3У3,13,N44,
+3У4,12,N44,
+3У4,11,П3:44 11р Рг.К1,
+4У1,7,П1:27 КОРПУС | П2:1 КОРПУС | П3:1 КОРПУС,Ghi chú 1 trên #167: chân 7 → Корпус (điểm a)
+4У1,14,П1:1 +5В | П2:27 +5В,Ghi chú 2 trên #167: chân 14 → +5В (điểm б)
+4У2,7,П1:27 КОРПУС | П2:1 КОРПУС | П3:1 КОРПУС,Ghi chú 1 trên #167: chân 7 → Корпус (điểm a)
+4У2,14,П1:1 +5В | П2:27 +5В,Ghi chú 2 trên #167: chân 14 → +5В (điểm б)
+4У3,7,П1:27 КОРПУС | П2:1 КОРПУС | П3:1 КОРПУС,Ghi chú 1 trên #167: chân 7 → Корпус (điểm a)
+4У3,14,П1:1 +5В | П2:27 +5В,Ghi chú 2 trên #167: chân 14 → +5В (điểm б)
+4У4,7,П1:27 КОРПУС | П2:1 КОРПУС | П3:1 КОРПУС,Ghi chú 1 trên #167: chân 7 → Корпус (điểm a)
+4У4,14,П1:1 +5В | П2:27 +5В,Ghi chú 2 trên #167: chân 14 → +5В (điểm б)
+4У1,2,П1:40 М12 | П3:20 М12,"#167↔#168: bó D, đường số 12; số đường in ở cả hai đầu bó"
+4У1,4,N1,Ngõ S chung của nhóm Я1…Я4 trên #168
+4У1,3,N2,Ngõ C chung của nhóm Я1…Я4 trên #168
+4У1,1,N3,Ngõ R chung của nhóm Я1…Я4 trên #168
+4У1,6,N45,"Nút Q nội bộ trong ячейка, đọc theo hình chi tiết #167"
+4У3,2,N45,
+4У4,2,N45,
+4У3,3,N4,Đường «1» chung của ячейка trên #167
+4У3,1,N46,
+4У4,1,N46,
+4У4,3,П1:25 12р Рг.К1,
+4У1,12,П1:41 М13 | П3:21 М13,"#167↔#168: bó D, đường số 13; số đường in ở cả hai đầu bó"
+4У1,10,N1,Ngõ S chung của nhóm Я1…Я4 trên #168
+4У1,11,N2,Ngõ C chung của nhóm Я1…Я4 trên #168
+4У1,13,N3,Ngõ R chung của nhóm Я1…Я4 trên #168
+4У1,8,N47,"Nút Q nội bộ trong ячейка, đọc theo hình chi tiết #167"
+4У3,6,N47,
+4У4,5,N47,
+4У3,5,N4,Đường «1» chung của ячейка trên #167
+4У3,4,N48,
+4У4,4,N48,
+4У4,6,П3:46 13р Рг.К1,
+4У2,2,П1:42 М14 | П3:22 М14,"#167↔#168: bó D, đường số 14; số đường in ở cả hai đầu bó"
+4У2,4,N1,Ngõ S chung của nhóm Я1…Я4 trên #168
+4У2,3,N2,Ngõ C chung của nhóm Я1…Я4 trên #168
+4У2,1,N3,Ngõ R chung của nhóm Я1…Я4 trên #168
+4У2,6,N49,"Nút Q nội bộ trong ячейка, đọc theo hình chi tiết #167"
+4У3,9,N49,
+4У4,10,N49,
+4У3,8,N4,Đường «1» chung của ячейка trên #167
+4У3,10,N50,
+4У4,9,N50,
+4У4,8,П3:47 14р Рг.К1,
+4У2,12,П1:43 М15 | П3:23 М15,"#167↔#168: bó D, đường số 15; số đường in ở cả hai đầu bó"
+4У2,10,N1,Ngõ S chung của nhóm Я1…Я4 trên #168
+4У2,11,N2,Ngõ C chung của nhóm Я1…Я4 trên #168
+4У2,13,N3,Ngõ R chung của nhóm Я1…Я4 trên #168
+4У2,8,N51,"Nút Q nội bộ trong ячейка, đọc theo hình chi tiết #167"
+4У3,11,N51,
+4У4,13,N51,
+4У3,12,N4,Đường «1» chung của ячейка trên #167
+4У3,13,N52,
+4У4,12,N52,
+4У4,11,П3:48 15р Рг.К1,
+5У1,7,П1:27 КОРПУС | П2:1 КОРПУС | П3:1 КОРПУС,Ghi chú 1 trên #167: chân 7 → Корпус (điểm a)
+5У1,14,П1:1 +5В | П2:27 +5В,Ghi chú 2 trên #167: chân 14 → +5В (điểm б)
+5У2,7,П1:27 КОРПУС | П2:1 КОРПУС | П3:1 КОРПУС,Ghi chú 1 trên #167: chân 7 → Корпус (điểm a)
+5У2,14,П1:1 +5В | П2:27 +5В,Ghi chú 2 trên #167: chân 14 → +5В (điểm б)
+5У3,7,П1:27 КОРПУС | П2:1 КОРПУС | П3:1 КОРПУС,Ghi chú 1 trên #167: chân 7 → Корпус (điểm a)
+5У3,14,П1:1 +5В | П2:27 +5В,Ghi chú 2 trên #167: chân 14 → +5В (điểm б)
+5У4,7,П1:27 КОРПУС | П2:1 КОРПУС | П3:1 КОРПУС,Ghi chú 1 trên #167: chân 7 → Корпус (điểm a)
+5У4,14,П1:1 +5В | П2:27 +5В,Ghi chú 2 trên #167: chân 14 → +5В (điểm б)
+5У1,2,П1:28 М0 | П3:8 М0,"#167↔#168: bó D, đường số 0; số đường in ở cả hai đầu bó"
+5У1,4,N5,Ngõ S chung của nhóm Я5…Я7 trên #168
+5У1,3,N6,Ngõ C chung của nhóm Я5…Я7 trên #168
+5У1,1,N7,Ngõ R chung của nhóm Я5…Я7 trên #168
+5У1,6,N53,"Nút Q nội bộ trong ячейка, đọc theo hình chi tiết #167"
+5У3,2,N53,
+5У4,2,N53,
+5У3,3,N8,Đường «1» chung của ячейка trên #167
+5У3,1,N54,
+5У4,1,N54,
+5У4,3,П3:5 0р Рг.К2,
+5У1,12,П1:29 М1 | П3:9 М1,"#167↔#168: bó D, đường số 1; số đường in ở cả hai đầu bó"
+5У1,10,N5,Ngõ S chung của nhóm Я5…Я7 trên #168
+5У1,11,N6,Ngõ C chung của nhóm Я5…Я7 trên #168
+5У1,13,N7,Ngõ R chung của nhóm Я5…Я7 trên #168
+5У1,8,N55,"Nút Q nội bộ trong ячейка, đọc theo hình chi tiết #167"
+5У3,6,N55,
+5У4,5,N55,
+5У3,5,N8,Đường «1» chung của ячейка trên #167
+5У3,4,N56,
+5У4,4,N56,
+5У4,6,П3:6 1р Рг.К2,
+5У2,2,П1:30 М2 | П3:10 М2,"#167↔#168: bó D, đường số 2; số đường in ở cả hai đầu bó"
+5У2,4,N5,Ngõ S chung của nhóm Я5…Я7 trên #168
+5У2,3,N6,Ngõ C chung của nhóm Я5…Я7 trên #168
+5У2,1,N7,Ngõ R chung của nhóm Я5…Я7 trên #168
+5У2,6,N57,"Nút Q nội bộ trong ячейка, đọc theo hình chi tiết #167"
+5У3,9,N57,
+5У4,10,N57,
+5У3,8,N8,Đường «1» chung của ячейка trên #167
+5У3,10,N58,
+5У4,9,N58,
+5У4,8,П3:7 2р Рг.К2,
+5У2,12,П1:31 М3 | П3:11 М3,"#167↔#168: bó D, đường số 3; số đường in ở cả hai đầu bó"
+5У2,10,N5,Ngõ S chung của nhóm Я5…Я7 trên #168
+5У2,11,N6,Ngõ C chung của nhóm Я5…Я7 trên #168
+5У2,13,N7,Ngõ R chung của nhóm Я5…Я7 trên #168
+5У2,8,N59,"Nút Q nội bộ trong ячейка, đọc theo hình chi tiết #167"
+5У3,11,N59,
+5У4,13,N59,
+5У3,12,N8,Đường «1» chung của ячейка trên #167
+5У3,13,N60,
+5У4,12,N60,
+5У4,11,П3:24 3р Рг.К2,
+6У1,7,П1:27 КОРПУС | П2:1 КОРПУС | П3:1 КОРПУС,Ghi chú 1 trên #167: chân 7 → Корпус (điểm a)
+6У1,14,П1:1 +5В | П2:27 +5В,Ghi chú 2 trên #167: chân 14 → +5В (điểm б)
+6У2,7,П1:27 КОРПУС | П2:1 КОРПУС | П3:1 КОРПУС,Ghi chú 1 trên #167: chân 7 → Корпус (điểm a)
+6У2,14,П1:1 +5В | П2:27 +5В,Ghi chú 2 trên #167: chân 14 → +5В (điểm б)
+6У3,7,П1:27 КОРПУС | П2:1 КОРПУС | П3:1 КОРПУС,Ghi chú 1 trên #167: chân 7 → Корпус (điểm a)
+6У3,14,П1:1 +5В | П2:27 +5В,Ghi chú 2 trên #167: chân 14 → +5В (điểm б)
+6У4,7,П1:27 КОРПУС | П2:1 КОРПУС | П3:1 КОРПУС,Ghi chú 1 trên #167: chân 7 → Корпус (điểm a)
+6У4,14,П1:1 +5В | П2:27 +5В,Ghi chú 2 trên #167: chân 14 → +5В (điểm б)
+6У1,2,П1:32 М4 | П3:12 М4,"#167↔#168: bó D, đường số 4; số đường in ở cả hai đầu bó"
+6У1,4,N5,Ngõ S chung của nhóm Я5…Я7 trên #168
+6У1,3,N6,Ngõ C chung của nhóm Я5…Я7 trên #168
+6У1,1,N7,Ngõ R chung của nhóm Я5…Я7 trên #168
+6У1,6,N61,"Nút Q nội bộ trong ячейка, đọc theo hình chi tiết #167"
+6У3,2,N61,
+6У4,2,N61,
+6У3,3,N8,Đường «1» chung của ячейка trên #167
+6У3,1,N62,
+6У4,1,N62,
+6У4,3,П3:25 4р Рг.К2,
+6У1,12,П1:33 М5 | П3:13 М5,"#167↔#168: bó D, đường số 5; số đường in ở cả hai đầu bó"
+6У1,10,N5,Ngõ S chung của nhóm Я5…Я7 trên #168
+6У1,11,N6,Ngõ C chung của nhóm Я5…Я7 trên #168
+6У1,13,N7,Ngõ R chung của nhóm Я5…Я7 trên #168
+6У1,8,N63,"Nút Q nội bộ trong ячейка, đọc theo hình chi tiết #167"
+6У3,6,N63,
+6У4,5,N63,
+6У3,5,N8,Đường «1» chung của ячейка trên #167
+6У3,4,N64,
+6У4,4,N64,
+6У4,6,П2:43 5р Рг.К2,
+6У2,2,П1:34 М6 | П3:14 М6,"#167↔#168: bó D, đường số 6; số đường in ở cả hai đầu bó"
+6У2,4,N5,Ngõ S chung của nhóm Я5…Я7 trên #168
+6У2,3,N6,Ngõ C chung của nhóm Я5…Я7 trên #168
+6У2,1,N7,Ngõ R chung của nhóm Я5…Я7 trên #168
+6У2,6,N65,"Nút Q nội bộ trong ячейка, đọc theo hình chi tiết #167"
+6У3,9,N65,
+6У4,10,N65,
+6У3,8,N8,Đường «1» chung của ячейка trên #167
+6У3,10,N66,
+6У4,9,N66,
+6У4,8,П2:44 6р Рг.К2,
+6У2,12,П1:35 М7 | П3:15 М7,"#167↔#168: bó D, đường số 7; số đường in ở cả hai đầu bó"
+6У2,10,N5,Ngõ S chung của nhóm Я5…Я7 trên #168
+6У2,11,N6,Ngõ C chung của nhóm Я5…Я7 trên #168
+6У2,13,N7,Ngõ R chung của nhóm Я5…Я7 trên #168
+6У2,8,N67,"Nút Q nội bộ trong ячейка, đọc theo hình chi tiết #167"
+6У3,11,N67,
+6У4,13,N67,
+6У3,12,N8,Đường «1» chung của ячейка trên #167
+6У3,13,N68,
+6У4,12,N68,
+6У4,11,П2:45 7р Рг.К2,
+7У1,7,П1:27 КОРПУС | П2:1 КОРПУС | П3:1 КОРПУС,Ghi chú 1 trên #167: chân 7 → Корпус (điểm a)
+7У1,14,П1:1 +5В | П2:27 +5В,Ghi chú 2 trên #167: chân 14 → +5В (điểm б)
+7У2,7,П1:27 КОРПУС | П2:1 КОРПУС | П3:1 КОРПУС,Ghi chú 1 trên #167: chân 7 → Корпус (điểm a)
+7У2,14,П1:1 +5В | П2:27 +5В,Ghi chú 2 trên #167: chân 14 → +5В (điểm б)
+7У3,7,П1:27 КОРПУС | П2:1 КОРПУС | П3:1 КОРПУС,Ghi chú 1 trên #167: chân 7 → Корпус (điểm a)
+7У3,14,П1:1 +5В | П2:27 +5В,Ghi chú 2 trên #167: chân 14 → +5В (điểm б)
+7У4,7,П1:27 КОРПУС | П2:1 КОРПУС | П3:1 КОРПУС,Ghi chú 1 trên #167: chân 7 → Корпус (điểm a)
+7У4,14,П1:1 +5В | П2:27 +5В,Ghi chú 2 trên #167: chân 14 → +5В (điểm б)
+7У1,2,П1:36 М8 | П3:16 М8,"#167↔#168: bó D, đường số 8; số đường in ở cả hai đầu bó"
+7У1,4,N5,Ngõ S chung của nhóm Я5…Я7 trên #168
+7У1,3,N6,Ngõ C chung của nhóm Я5…Я7 trên #168
+7У1,1,N7,Ngõ R chung của nhóm Я5…Я7 trên #168
+7У1,6,N69,"Nút Q nội bộ trong ячейка, đọc theo hình chi tiết #167"
+7У3,2,N69,
+7У4,2,N69,
+7У3,3,N8,Đường «1» chung của ячейка trên #167
+7У3,1,N70,
+7У4,1,N70,
+7У4,3,П2:46 8р Рг.К2,
+7У1,12,П1:37 М9 | П3:17 М9,"#167↔#168: bó D, đường số 9; số đường in ở cả hai đầu bó"
+7У1,10,N5,Ngõ S chung của nhóm Я5…Я7 trên #168
+7У1,11,N6,Ngõ C chung của nhóm Я5…Я7 trên #168
+7У1,13,N7,Ngõ R chung của nhóm Я5…Я7 trên #168
+7У1,8,N71,"Nút Q nội bộ trong ячейка, đọc theo hình chi tiết #167"
+7У3,6,N71,
+7У4,5,N71,
+7У3,5,N8,Đường «1» chung của ячейка trên #167
+7У3,4,N72,
+7У4,4,N72,
+7У4,6,П2:47 9р Рг.К2,
+7У2,2,П1:38 М10 | П3:18 М10,"#167↔#168: bó D, đường số 10; số đường in ở cả hai đầu bó"
+7У2,4,N5,Ngõ S chung của nhóm Я5…Я7 trên #168
+7У2,3,N6,Ngõ C chung của nhóm Я5…Я7 trên #168
+7У2,1,N7,Ngõ R chung của nhóm Я5…Я7 trên #168
+7У2,6,N73,"Nút Q nội bộ trong ячейка, đọc theo hình chi tiết #167"
+7У3,9,N73,
+7У4,10,N73,
+7У3,8,N8,Đường «1» chung của ячейка trên #167
+7У3,10,N74,
+7У4,9,N74,
+7У4,8,П3:59 10р Рг.К2,
+7У2,12,П1:39 М11 | П3:19 М11,"#167↔#168: bó D, đường số 11; số đường in ở cả hai đầu bó"
+7У2,10,N5,Ngõ S chung của nhóm Я5…Я7 trên #168
+7У2,11,N6,Ngõ C chung của nhóm Я5…Я7 trên #168
+7У2,13,N7,Ngõ R chung của nhóm Я5…Я7 trên #168
+7У2,8,N75,"Nút Q nội bộ trong ячейка, đọc theo hình chi tiết #167"
+7У3,11,N75,
+7У4,13,N75,
+7У3,12,N8,Đường «1» chung của ячейка trên #167
+7У3,13,N76,
+7У4,12,N76,
+7У4,11,П3:60 11р Рг.К2,
+8У5,7,П1:27 КОРПУС | П2:1 КОРПУС | П3:1 КОРПУС,Ghi chú 1 trên #167: chân 7 → Корпус (điểm a)
+8У5,14,П1:1 +5В | П2:27 +5В,Ghi chú 2 trên #167: chân 14 → +5В (điểm б)
+8У6,7,П1:27 КОРПУС | П2:1 КОРПУС | П3:1 КОРПУС,Ghi chú 1 trên #167: chân 7 → Корпус (điểm a)
+8У6,14,П1:1 +5В | П2:27 +5В,Ghi chú 2 trên #167: chân 14 → +5В (điểm б)
+8У7,7,П1:27 КОРПУС | П2:1 КОРПУС | П3:1 КОРПУС,Ghi chú 1 trên #167: chân 7 → Корпус (điểm a)
+8У7,14,П1:1 +5В | П2:27 +5В,Ghi chú 2 trên #167: chân 14 → +5В (điểm б)
+8У5,2,П1:28 М0 | П3:8 М0,"#167↔#168: bó D, đường số 0; nhận biết bằng số 0…15 in dọc bó"
+8У5,4,N9,Ngõ S chung của nhóm Я8…Я11
+8У5,3,N10,Ngõ C chung của nhóm Я8…Я11
+8У5,1,N11,Ngõ R chung của nhóm Я8…Я11
+8У5,6,N77,"Nút Q nội bộ trong ячейка, đọc theo hình chi tiết #167"
+8У7,2,N77,
+8У7,3,N12,Đường «1» chung của ячейка trên #167
+8У7,1,П2:7 РК-1,
+8У5,12,П1:29 М1 | П3:9 М1,"#167↔#168: bó D, đường số 1; nhận biết bằng số 0…15 in dọc bó"
+8У5,10,N9,Ngõ S chung của nhóm Я8…Я11
+8У5,11,N10,Ngõ C chung của nhóm Я8…Я11
+8У5,13,N11,Ngõ R chung của nhóm Я8…Я11
+8У5,8,N78,"Nút Q nội bộ trong ячейка, đọc theo hình chi tiết #167"
+8У7,6,N78,
+8У7,5,N12,Đường «1» chung của ячейка trên #167
+8У7,4,П2:8 РК-2,
+8У6,2,П1:30 М2 | П3:10 М2,"#167↔#168: bó D, đường số 2; nhận biết bằng số 0…15 in dọc bó"
+8У6,4,N9,Ngõ S chung của nhóm Я8…Я11
+8У6,3,N10,Ngõ C chung của nhóm Я8…Я11
+8У6,1,N11,Ngõ R chung của nhóm Я8…Я11
+8У6,6,N79,"Nút Q nội bộ trong ячейка, đọc theo hình chi tiết #167"
+8У7,9,N79,
+8У7,8,N12,Đường «1» chung của ячейка trên #167
+8У7,10,П2:9 РК-3,
+8У6,12,П1:31 М3 | П3:11 М3,"#167↔#168: bó D, đường số 3; nhận biết bằng số 0…15 in dọc bó"
+8У6,10,N9,Ngõ S chung của nhóm Я8…Я11
+8У6,11,N10,Ngõ C chung của nhóm Я8…Я11
+8У6,13,N11,Ngõ R chung của nhóm Я8…Я11
+8У6,8,N80,"Nút Q nội bộ trong ячейка, đọc theo hình chi tiết #167"
+8У7,11,N80,
+8У7,12,N12,Đường «1» chung của ячейка trên #167
+8У7,13,П2:10 РК-4,
+9У5,7,П1:27 КОРПУС | П2:1 КОРПУС | П3:1 КОРПУС,Ghi chú 1 trên #167: chân 7 → Корпус (điểm a)
+9У5,14,П1:1 +5В | П2:27 +5В,Ghi chú 2 trên #167: chân 14 → +5В (điểm б)
+9У6,7,П1:27 КОРПУС | П2:1 КОРПУС | П3:1 КОРПУС,Ghi chú 1 trên #167: chân 7 → Корпус (điểm a)
+9У6,14,П1:1 +5В | П2:27 +5В,Ghi chú 2 trên #167: chân 14 → +5В (điểm б)
+9У7,7,П1:27 КОРПУС | П2:1 КОРПУС | П3:1 КОРПУС,Ghi chú 1 trên #167: chân 7 → Корпус (điểm a)
+9У7,14,П1:1 +5В | П2:27 +5В,Ghi chú 2 trên #167: chân 14 → +5В (điểm б)
+9У5,2,П1:32 М4 | П3:12 М4,"#167↔#168: bó D, đường số 4; nhận biết bằng số 0…15 in dọc bó"
+9У5,4,N9,Ngõ S chung của nhóm Я8…Я11
+9У5,3,N10,Ngõ C chung của nhóm Я8…Я11
+9У5,1,N11,Ngõ R chung của nhóm Я8…Я11
+9У5,6,N81,"Nút Q nội bộ trong ячейка, đọc theo hình chi tiết #167"
+9У7,2,N81,
+9У7,3,N12,Đường «1» chung của ячейка trên #167
+9У7,1,П2:11 РК-5,
+9У5,12,П1:33 М5 | П3:13 М5,"#167↔#168: bó D, đường số 5; nhận biết bằng số 0…15 in dọc bó"
+9У5,10,N9,Ngõ S chung của nhóm Я8…Я11
+9У5,11,N10,Ngõ C chung của nhóm Я8…Я11
+9У5,13,N11,Ngõ R chung của nhóm Я8…Я11
+9У5,8,N82,"Nút Q nội bộ trong ячейка, đọc theo hình chi tiết #167"
+9У7,6,N82,
+9У7,5,N12,Đường «1» chung của ячейка trên #167
+9У7,4,П2:12 РК-6,
+9У6,2,П1:34 М6 | П3:14 М6,"#167↔#168: bó D, đường số 6; nhận biết bằng số 0…15 in dọc bó"
+9У6,4,N9,Ngõ S chung của nhóm Я8…Я11
+9У6,3,N10,Ngõ C chung của nhóm Я8…Я11
+9У6,1,N11,Ngõ R chung của nhóm Я8…Я11
+9У6,6,N83,"Nút Q nội bộ trong ячейка, đọc theo hình chi tiết #167"
+9У7,9,N83,
+9У7,8,N12,Đường «1» chung của ячейка trên #167
+9У7,10,П2:13 РК-7,
+9У6,12,П1:35 М7 | П3:15 М7,"#167↔#168: bó D, đường số 7; nhận biết bằng số 0…15 in dọc bó"
+9У6,10,N9,Ngõ S chung của nhóm Я8…Я11
+9У6,11,N10,Ngõ C chung của nhóm Я8…Я11
+9У6,13,N11,Ngõ R chung của nhóm Я8…Я11
+9У6,8,N84,"Nút Q nội bộ trong ячейка, đọc theo hình chi tiết #167"
+9У7,11,N84,
+9У7,12,N12,Đường «1» chung của ячейка trên #167
+9У7,13,П2:14 РК-8,
+10У5,7,П1:27 КОРПУС | П2:1 КОРПУС | П3:1 КОРПУС,Ghi chú 1 trên #167: chân 7 → Корпус (điểm a)
+10У5,14,П1:1 +5В | П2:27 +5В,Ghi chú 2 trên #167: chân 14 → +5В (điểm б)
+10У6,7,П1:27 КОРПУС | П2:1 КОРПУС | П3:1 КОРПУС,Ghi chú 1 trên #167: chân 7 → Корпус (điểm a)
+10У6,14,П1:1 +5В | П2:27 +5В,Ghi chú 2 trên #167: chân 14 → +5В (điểm б)
+10У7,7,П1:27 КОРПУС | П2:1 КОРПУС | П3:1 КОРПУС,Ghi chú 1 trên #167: chân 7 → Корпус (điểm a)
+10У7,14,П1:1 +5В | П2:27 +5В,Ghi chú 2 trên #167: chân 14 → +5В (điểm б)
+10У5,2,П1:36 М8 | П3:16 М8,"#167↔#168: bó D, đường số 8; nhận biết bằng số 0…15 in dọc bó"
+10У5,4,N9,Ngõ S chung của nhóm Я8…Я11
+10У5,3,N10,Ngõ C chung của nhóm Я8…Я11
+10У5,1,N11,Ngõ R chung của nhóm Я8…Я11
+10У5,6,N85,"Nút Q nội bộ trong ячейка, đọc theo hình chi tiết #167"
+10У7,2,N85,
+10У7,3,N12,Đường «1» chung của ячейка trên #167
+10У7,1,П2:15 РК-9,
+10У5,12,П1:37 М9 | П3:17 М9,"#167↔#168: bó D, đường số 9; nhận biết bằng số 0…15 in dọc bó"
+10У5,10,N9,Ngõ S chung của nhóm Я8…Я11
+10У5,11,N10,Ngõ C chung của nhóm Я8…Я11
+10У5,13,N11,Ngõ R chung của nhóm Я8…Я11
+10У5,8,N86,"Nút Q nội bộ trong ячейка, đọc theo hình chi tiết #167"
+10У7,6,N86,
+10У7,5,N12,Đường «1» chung của ячейка trên #167
+10У7,4,П2:16 РК-10,
+10У6,2,П1:38 М10 | П3:18 М10,"#167↔#168: bó D, đường số 10; nhận biết bằng số 0…15 in dọc bó"
+10У6,4,N9,Ngõ S chung của nhóm Я8…Я11
+10У6,3,N10,Ngõ C chung của nhóm Я8…Я11
+10У6,1,N11,Ngõ R chung của nhóm Я8…Я11
+10У6,6,N87,"Nút Q nội bộ trong ячейка, đọc theo hình chi tiết #167"
+10У7,9,N87,
+10У7,8,N12,Đường «1» chung của ячейка trên #167
+10У7,10,П2:17 РК-11,
+10У6,12,П1:39 М11 | П3:19 М11,"#167↔#168: bó D, đường số 11; nhận biết bằng số 0…15 in dọc bó"
+10У6,10,N9,Ngõ S chung của nhóm Я8…Я11
+10У6,11,N10,Ngõ C chung của nhóm Я8…Я11
+10У6,13,N11,Ngõ R chung của nhóm Я8…Я11
+10У6,8,N88,"Nút Q nội bộ trong ячейка, đọc theo hình chi tiết #167"
+10У7,11,N88,
+10У7,12,N12,Đường «1» chung của ячейка trên #167
+10У7,13,П2:18 РК-12,
+11У5,7,П1:27 КОРПУС | П2:1 КОРПУС | П3:1 КОРПУС,Ghi chú 1 trên #167: chân 7 → Корпус (điểm a)
+11У5,14,П1:1 +5В | П2:27 +5В,Ghi chú 2 trên #167: chân 14 → +5В (điểm б)
+11У6,7,П1:27 КОРПУС | П2:1 КОРПУС | П3:1 КОРПУС,Ghi chú 1 trên #167: chân 7 → Корпус (điểm a)
+11У6,14,П1:1 +5В | П2:27 +5В,Ghi chú 2 trên #167: chân 14 → +5В (điểm б)
+11У7,7,П1:27 КОРПУС | П2:1 КОРПУС | П3:1 КОРПУС,Ghi chú 1 trên #167: chân 7 → Корпус (điểm a)
+11У7,14,П1:1 +5В | П2:27 +5В,Ghi chú 2 trên #167: chân 14 → +5В (điểm б)
+11У5,2,П1:40 М12 | П3:20 М12,"#167↔#168: bó D, đường số 12; nhận biết bằng số 0…15 in dọc bó"
+11У5,4,N9,Ngõ S chung của nhóm Я8…Я11
+11У5,3,N10,Ngõ C chung của nhóm Я8…Я11
+11У5,1,N11,Ngõ R chung của nhóm Я8…Я11
+11У5,6,N89,"Nút Q nội bộ trong ячейка, đọc theo hình chi tiết #167"
+11У7,2,N89,
+11У7,3,N12,Đường «1» chung của ячейка trên #167
+11У7,1,П2:19 РК-13,
+11У5,12,П1:41 М13 | П3:21 М13,"#167↔#168: bó D, đường số 13; nhận biết bằng số 0…15 in dọc bó"
+11У5,10,N9,Ngõ S chung của nhóm Я8…Я11
+11У5,11,N10,Ngõ C chung của nhóm Я8…Я11
+11У5,13,N11,Ngõ R chung của nhóm Я8…Я11
+11У5,8,N90,"Nút Q nội bộ trong ячейка, đọc theo hình chi tiết #167"
+11У7,6,N90,
+11У7,5,N12,Đường «1» chung của ячейка trên #167
+11У7,4,П2:20 РК-14,
+11У6,2,П1:42 М14 | П3:22 М14,"#167↔#168: bó D, đường số 14; nhận biết bằng số 0…15 in dọc bó"
+11У6,4,N9,Ngõ S chung của nhóm Я8…Я11
+11У6,3,N10,Ngõ C chung của nhóm Я8…Я11
+11У6,1,N11,Ngõ R chung của nhóm Я8…Я11
+11У6,6,N91,"Nút Q nội bộ trong ячейка, đọc theo hình chi tiết #167"
+11У7,9,N91,
+11У7,8,N12,Đường «1» chung của ячейка trên #167
+11У7,10,П2:21 РК-15,
+11У6,12,П1:43 М15 | П3:23 М15,"#167↔#168: bó D, đường số 15; nhận biết bằng số 0…15 in dọc bó"
+11У6,10,N9,Ngõ S chung của nhóm Я8…Я11
+11У6,11,N10,Ngõ C chung của nhóm Я8…Я11
+11У6,13,N11,Ngõ R chung của nhóm Я8…Я11
+11У6,8,N92,"Nút Q nội bộ trong ячейка, đọc theo hình chi tiết #167"
+11У7,11,N92,
+11У7,12,N12,Đường «1» chung của ячейка trên #167
+11У7,13,П2:22 РК-16,
+12У5,7,П1:27 КОРПУС | П2:1 КОРПУС | П3:1 КОРПУС,Ghi chú 1 trên #167: chân 7 → Корпус (điểm a)
+12У5,14,П1:1 +5В | П2:27 +5В,Ghi chú 2 trên #167: chân 14 → +5В (điểm б)
+12У6,7,П1:27 КОРПУС | П2:1 КОРПУС | П3:1 КОРПУС,Ghi chú 1 trên #167: chân 7 → Корпус (điểm a)
+12У6,14,П1:1 +5В | П2:27 +5В,Ghi chú 2 trên #167: chân 14 → +5В (điểm б)
+12У7,7,П1:27 КОРПУС | П2:1 КОРПУС | П3:1 КОРПУС,Ghi chú 1 trên #167: chân 7 → Корпус (điểm a)
+12У7,14,П1:1 +5В | П2:27 +5В,Ghi chú 2 trên #167: chân 14 → +5В (điểm б)
+12У5,2,П1:28 М0 | П3:8 М0,"#167↔#168: bó D, đường số 0; nhận biết bằng số 0…15 in dọc bó"
+12У5,4,N13,Ngõ S chung của nhóm Я12…Я15
+12У5,3,N14,Ngõ C chung của nhóm Я12…Я15
+12У5,1,N15,Ngõ R chung của nhóm Я12…Я15
+12У5,6,N93,"Nút Q nội bộ trong ячейка, đọc theo hình chi tiết #167"
+12У7,2,N93,
+12У7,3,N16,Đường «1» chung của ячейка trên #167
+12У7,1,П2:23 РК-17,
+12У5,12,П1:29 М1 | П3:9 М1,"#167↔#168: bó D, đường số 1; nhận biết bằng số 0…15 in dọc bó"
+12У5,10,N13,Ngõ S chung của nhóm Я12…Я15
+12У5,11,N14,Ngõ C chung của nhóm Я12…Я15
+12У5,13,N15,Ngõ R chung của nhóm Я12…Я15
+12У5,8,N94,"Nút Q nội bộ trong ячейка, đọc theo hình chi tiết #167"
+12У7,6,N94,
+12У7,5,N16,Đường «1» chung của ячейка trên #167
+12У7,4,П2:24 РК-18,
+12У6,2,П1:30 М2 | П3:10 М2,"#167↔#168: bó D, đường số 2; nhận biết bằng số 0…15 in dọc bó"
+12У6,4,N13,Ngõ S chung của nhóm Я12…Я15
+12У6,3,N14,Ngõ C chung của nhóm Я12…Я15
+12У6,1,N15,Ngõ R chung của nhóm Я12…Я15
+12У6,6,N95,"Nút Q nội bộ trong ячейка, đọc theo hình chi tiết #167"
+12У7,9,N95,
+12У7,8,N16,Đường «1» chung của ячейка trên #167
+12У7,10,П2:25 РК-19,
+12У6,12,П1:31 М3 | П3:11 М3,"#167↔#168: bó D, đường số 3; nhận biết bằng số 0…15 in dọc bó"
+12У6,10,N13,Ngõ S chung của nhóm Я12…Я15
+12У6,11,N14,Ngõ C chung của nhóm Я12…Я15
+12У6,13,N15,Ngõ R chung của nhóm Я12…Я15
+12У6,8,N96,"Nút Q nội bộ trong ячейка, đọc theo hình chi tiết #167"
+12У7,11,N96,
+12У7,12,N16,Đường «1» chung của ячейка trên #167
+12У7,13,П2:26 РК-20,
+13У5,7,П1:27 КОРПУС | П2:1 КОРПУС | П3:1 КОРПУС,Ghi chú 1 trên #167: chân 7 → Корпус (điểm a)
+13У5,14,П1:1 +5В | П2:27 +5В,Ghi chú 2 trên #167: chân 14 → +5В (điểm б)
+13У6,7,П1:27 КОРПУС | П2:1 КОРПУС | П3:1 КОРПУС,Ghi chú 1 trên #167: chân 7 → Корпус (điểm a)
+13У6,14,П1:1 +5В | П2:27 +5В,Ghi chú 2 trên #167: chân 14 → +5В (điểm б)
+13У7,7,П1:27 КОРПУС | П2:1 КОРПУС | П3:1 КОРПУС,Ghi chú 1 trên #167: chân 7 → Корпус (điểm a)
+13У7,14,П1:1 +5В | П2:27 +5В,Ghi chú 2 trên #167: chân 14 → +5В (điểm б)
+13У5,2,П1:32 М4 | П3:12 М4,"#167↔#168: bó D, đường số 4; nhận biết bằng số 0…15 in dọc bó"
+13У5,4,N13,Ngõ S chung của nhóm Я12…Я15
+13У5,3,N14,Ngõ C chung của nhóm Я12…Я15
+13У5,1,N15,Ngõ R chung của nhóm Я12…Я15
+13У5,6,N97,"Nút Q nội bộ trong ячейка, đọc theo hình chi tiết #167"
+13У7,2,N97,
+13У7,3,N16,Đường «1» chung của ячейка trên #167
+13У7,1,П2:28 РК-21,
+13У5,12,П1:33 М5 | П3:13 М5,"#167↔#168: bó D, đường số 5; nhận biết bằng số 0…15 in dọc bó"
+13У5,10,N13,Ngõ S chung của nhóm Я12…Я15
+13У5,11,N14,Ngõ C chung của nhóm Я12…Я15
+13У5,13,N15,Ngõ R chung của nhóm Я12…Я15
+13У5,8,N98,"Nút Q nội bộ trong ячейка, đọc theo hình chi tiết #167"
+13У7,6,N98,
+13У7,5,N16,Đường «1» chung của ячейка trên #167
+13У7,4,П2:29 РК-22,
+13У6,2,П1:34 М6 | П3:14 М6,"#167↔#168: bó D, đường số 6; nhận biết bằng số 0…15 in dọc bó"
+13У6,4,N13,Ngõ S chung của nhóm Я12…Я15
+13У6,3,N14,Ngõ C chung của nhóm Я12…Я15
+13У6,1,N15,Ngõ R chung của nhóm Я12…Я15
+13У6,6,N99,"Nút Q nội bộ trong ячейка, đọc theo hình chi tiết #167"
+13У7,9,N99,
+13У7,8,N16,Đường «1» chung của ячейка trên #167
+13У7,10,П2:30 РК-23,
+13У6,12,П1:35 М7 | П3:15 М7,"#167↔#168: bó D, đường số 7; nhận biết bằng số 0…15 in dọc bó"
+13У6,10,N13,Ngõ S chung của nhóm Я12…Я15
+13У6,11,N14,Ngõ C chung của nhóm Я12…Я15
+13У6,13,N15,Ngõ R chung của nhóm Я12…Я15
+13У6,8,N100,"Nút Q nội bộ trong ячейка, đọc theo hình chi tiết #167"
+13У7,11,N100,
+13У7,12,N16,Đường «1» chung của ячейка trên #167
+13У7,13,П2:31 РК-24,
+14У5,7,П1:27 КОРПУС | П2:1 КОРПУС | П3:1 КОРПУС,Ghi chú 1 trên #167: chân 7 → Корпус (điểm a)
+14У5,14,П1:1 +5В | П2:27 +5В,Ghi chú 2 trên #167: chân 14 → +5В (điểm б)
+14У6,7,П1:27 КОРПУС | П2:1 КОРПУС | П3:1 КОРПУС,Ghi chú 1 trên #167: chân 7 → Корпус (điểm a)
+14У6,14,П1:1 +5В | П2:27 +5В,Ghi chú 2 trên #167: chân 14 → +5В (điểm б)
+14У7,7,П1:27 КОРПУС | П2:1 КОРПУС | П3:1 КОРПУС,Ghi chú 1 trên #167: chân 7 → Корпус (điểm a)
+14У7,14,П1:1 +5В | П2:27 +5В,Ghi chú 2 trên #167: chân 14 → +5В (điểm б)
+14У5,2,П1:36 М8 | П3:16 М8,"#167↔#168: bó D, đường số 8; nhận biết bằng số 0…15 in dọc bó"
+14У5,4,N13,Ngõ S chung của nhóm Я12…Я15
+14У5,3,N14,Ngõ C chung của nhóm Я12…Я15
+14У5,1,N15,Ngõ R chung của nhóm Я12…Я15
+14У5,6,N101,"Nút Q nội bộ trong ячейка, đọc theo hình chi tiết #167"
+14У7,2,N101,
+14У7,3,N16,Đường «1» chung của ячейка trên #167
+14У7,1,П2:32 РК-25,
+14У5,12,П1:37 М9 | П3:17 М9,"#167↔#168: bó D, đường số 9; nhận biết bằng số 0…15 in dọc bó"
+14У5,10,N13,Ngõ S chung của nhóm Я12…Я15
+14У5,11,N14,Ngõ C chung của nhóm Я12…Я15
+14У5,13,N15,Ngõ R chung của nhóm Я12…Я15
+14У5,8,N102,"Nút Q nội bộ trong ячейка, đọc theo hình chi tiết #167"
+14У7,6,N102,
+14У7,5,N16,Đường «1» chung của ячейка trên #167
+14У7,4,П2:33 РК-26,
+14У6,2,П1:38 М10 | П3:18 М10,"#167↔#168: bó D, đường số 10; nhận biết bằng số 0…15 in dọc bó"
+14У6,4,N13,Ngõ S chung của nhóm Я12…Я15
+14У6,3,N14,Ngõ C chung của nhóm Я12…Я15
+14У6,1,N15,Ngõ R chung của nhóm Я12…Я15
+14У6,6,N103,"Nút Q nội bộ trong ячейка, đọc theo hình chi tiết #167"
+14У7,9,N103,
+14У7,8,N16,Đường «1» chung của ячейка trên #167
+14У7,10,П2:34 РК-27,
+14У6,12,П1:39 М11 | П3:19 М11,"#167↔#168: bó D, đường số 11; nhận biết bằng số 0…15 in dọc bó"
+14У6,10,N13,Ngõ S chung của nhóm Я12…Я15
+14У6,11,N14,Ngõ C chung của nhóm Я12…Я15
+14У6,13,N15,Ngõ R chung của nhóm Я12…Я15
+14У6,8,N104,"Nút Q nội bộ trong ячейка, đọc theo hình chi tiết #167"
+14У7,11,N104,
+14У7,12,N16,Đường «1» chung của ячейка trên #167
+14У7,13,П2:35 РК-28,
+15У5,7,П1:27 КОРПУС | П2:1 КОРПУС | П3:1 КОРПУС,Ghi chú 1 trên #167: chân 7 → Корпус (điểm a)
+15У5,14,П1:1 +5В | П2:27 +5В,Ghi chú 2 trên #167: chân 14 → +5В (điểm б)
+15У6,7,П1:27 КОРПУС | П2:1 КОРПУС | П3:1 КОРПУС,Ghi chú 1 trên #167: chân 7 → Корпус (điểm a)
+15У6,14,П1:1 +5В | П2:27 +5В,Ghi chú 2 trên #167: chân 14 → +5В (điểm б)
+15У7,7,П1:27 КОРПУС | П2:1 КОРПУС | П3:1 КОРПУС,Ghi chú 1 trên #167: chân 7 → Корпус (điểm a)
+15У7,14,П1:1 +5В | П2:27 +5В,Ghi chú 2 trên #167: chân 14 → +5В (điểm б)
+15У5,2,П1:40 М12 | П3:20 М12,"#167↔#168: bó D, đường số 12; nhận biết bằng số 0…15 in dọc bó"
+15У5,4,N13,Ngõ S chung của nhóm Я12…Я15
+15У5,3,N14,Ngõ C chung của nhóm Я12…Я15
+15У5,1,N15,Ngõ R chung của nhóm Я12…Я15
+15У5,6,N105,"Nút Q nội bộ trong ячейка, đọc theo hình chi tiết #167"
+15У7,2,N105,
+15У7,3,N16,Đường «1» chung của ячейка trên #167
+15У7,1,П2:36 РК-29,
+15У5,12,П1:41 М13 | П3:21 М13,"#167↔#168: bó D, đường số 13; nhận biết bằng số 0…15 in dọc bó"
+15У5,10,N13,Ngõ S chung của nhóm Я12…Я15
+15У5,11,N14,Ngõ C chung của nhóm Я12…Я15
+15У5,13,N15,Ngõ R chung của nhóm Я12…Я15
+15У5,8,N106,"Nút Q nội bộ trong ячейка, đọc theo hình chi tiết #167"
+15У7,6,N106,
+15У7,5,N16,Đường «1» chung của ячейка trên #167
+15У7,4,П2:37 РК-30,
+15У6,2,П1:42 М14 | П3:22 М14,"#167↔#168: bó D, đường số 14; nhận biết bằng số 0…15 in dọc bó"
+15У6,4,N13,Ngõ S chung của nhóm Я12…Я15
+15У6,3,N14,Ngõ C chung của nhóm Я12…Я15
+15У6,1,N15,Ngõ R chung của nhóm Я12…Я15
+15У6,6,N107,"Nút Q nội bộ trong ячейка, đọc theo hình chi tiết #167"
+15У7,9,N107,
+15У7,8,N16,Đường «1» chung của ячейка trên #167
+15У7,10,П2:38 РК-31,
+15У6,12,П1:43 М15 | П3:23 М15,"#167↔#168: bó D, đường số 15; nhận biết bằng số 0…15 in dọc bó"
+15У6,10,N13,Ngõ S chung của nhóm Я12…Я15
+15У6,11,N14,Ngõ C chung của nhóm Я12…Я15
+15У6,13,N15,Ngõ R chung của nhóm Я12…Я15
+15У6,8,N108,"Nút Q nội bộ trong ячейка, đọc theo hình chi tiết #167"
+15У7,11,N108,
+15У7,12,N16,Đường «1» chung của ячейка trên #167
+15У7,13,П2:39 РК-32,
+C1,1,П1:1 +5В | П2:27 +5В,Điểm б trên #168
+C1,2,П1:27 КОРПУС | П2:1 КОРПУС | П3:1 КОРПУС,Điểm a trên #168
+C2,1,П1:1 +5В | П2:27 +5В,Điểm б trên #168
+C2,2,П1:27 КОРПУС | П2:1 КОРПУС | П3:1 КОРПУС,Điểm a trên #168
+C3,1,П1:1 +5В | П2:27 +5В,Điểm б trên #168
+C3,2,П1:27 КОРПУС | П2:1 КОРПУС | П3:1 КОРПУС,Điểm a trên #168
+C4,1,П1:1 +5В | П2:27 +5В,Điểm б trên #168
+C4,2,П1:27 КОРПУС | П2:1 КОРПУС | П3:1 КОРПУС,Điểm a trên #168
+C5,1,П1:1 +5В | П2:27 +5В,C5: cực + nối điểm б trên #168
+C5,2,П1:27 КОРПУС | П2:1 КОРПУС | П3:1 КОРПУС,Điểm a trên #168
+R1,1,П2:40 РМ КПА,Tên tín hiệu đọc tại mũi tên vào điện trở trên #168
+R1,2,НЕ ПРОСЛЕЖЕНО R1.2,"? #168 vùng trái, chữ nhỏ/nếp gấp: thấy chân 2 nhưng không khóa chắc nút kế tiếp"
+R2,1,П2:41 Рг.К1 КПА,Tên tín hiệu đọc tại mũi tên vào điện trở trên #168
+R2,2,НЕ ПРОСЛЕЖЕНО R2.2,"? #168 vùng trái, chữ nhỏ/nếp gấp: thấy chân 2 nhưng không khóa chắc nút kế tiếp"
+R3,1,П2:42 Рг.К2 КПА,Tên tín hiệu đọc tại mũi tên vào điện trở trên #168
+R3,2,НЕ ПРОСЛЕЖЕНО R3.2,"? #168 vùng trái, chữ nhỏ/nếp gấp: thấy chân 2 nhưng không khóa chắc nút kế tiếp"
+R4,1,П1:10 ВХОД РГР ТТЛ,"? #167 bảng П1, góc phải: chữ giữa đọc gần «РГР»; Э4 chép «ПРП», giữ cả hai"
+R4,2,НЕ ПРОСЛЕЖЕНО R4.2,"? #168 vùng trái, chữ nhỏ/nếp gấp: thấy chân 2 nhưng không khóa chắc nút kế tiếp"
+R5,1,П1:11 ВХОД 1РК ТТЛ,Tên tín hiệu đọc tại mũi tên vào điện trở trên #168
+R5,2,НЕ ПРОСЛЕЖЕНО R5.2,"? #168 vùng trái, chữ nhỏ/nếp gấp: thấy chân 2 nhưng không khóa chắc nút kế tiếp"
+R6,1,П1:12 ВХОД 2РК ТТЛ,Tên tín hiệu đọc tại mũi tên vào điện trở trên #168
+R6,2,НЕ ПРОСЛЕЖЕНО R6.2,"? #168 vùng trái, chữ nhỏ/nếp gấp: thấy chân 2 nhưng không khóa chắc nút kế tiếp"
+R7,1,П3:50 ВХОД 4РК ТТЛ,Tên tín hiệu đọc tại mũi tên vào điện trở trên #168
+R7,2,НЕ ПРОСЛЕЖЕНО R7.2,"? #168 vùng trái, chữ nhỏ/nếp gấp: thấy chân 2 nhưng không khóa chắc nút kế tiếp"
+R8,1,П3:51 ВХОД 5РК ТТЛ,Tên tín hiệu đọc tại mũi tên vào điện trở trên #168
+R8,2,НЕ ПРОСЛЕЖЕНО R8.2,"? #168 vùng trái, chữ nhỏ/nếp gấp: thấy chân 2 nhưng không khóa chắc nút kế tiếp"
+R9,1,П3:52 ВХОД 6РК ТТЛ,Tên tín hiệu đọc tại mũi tên vào điện trở trên #168
+R9,2,НЕ ПРОСЛЕЖЕНО R9.2,"? #168 vùng trái, chữ nhỏ/nếp gấp: thấy chân 2 nhưng không khóa chắc nút kế tiếp"
+R10,1,П3:53 ВХОД 7РК ТТЛ,Tên tín hiệu đọc tại mũi tên vào điện trở trên #168
+R10,2,НЕ ПРОСЛЕЖЕНО R10.2,"? #168 vùng trái, chữ nhỏ/nếp gấp: thấy chân 2 nhưng không khóa chắc nút kế tiếp"
+R11,1,П1:13 ВХОД 3РК ТТЛ,Tên tín hiệu đọc tại mũi tên vào điện trở trên #168
+R11,2,НЕ ПРОСЛЕЖЕНО R11.2,"? #168 vùng trái, chữ nhỏ/nếp gấp: thấy chân 2 nhưng không khóa chắc nút kế tiếp"
+У8,1,НЕ ПРОСЛЕЖЕНО У8.1,"? #168 vùng trái/giữa, chữ nhỏ và nếp gấp ngang: thấy số chân nhưng chưa khóa chắc toàn đường"
+У8,2,НЕ ПРОСЛЕЖЕНО У8.2,"? #168 vùng trái/giữa, chữ nhỏ và nếp gấp ngang: thấy số chân nhưng chưa khóa chắc toàn đường"
+У8,3,НЕ ПРОСЛЕЖЕНО У8.3,"? #168 vùng trái/giữa, chữ nhỏ và nếp gấp ngang: thấy số chân nhưng chưa khóa chắc toàn đường"
+У8,4,НЕ ПРОСЛЕЖЕНО У8.4,"? #168 vùng trái/giữa, chữ nhỏ và nếp gấp ngang: thấy số chân nhưng chưa khóa chắc toàn đường"
+У8,6,НЕ ПРОСЛЕЖЕНО У8.6,"? #168 vùng trái/giữa, chữ nhỏ và nếp gấp ngang: thấy số chân nhưng chưa khóa chắc toàn đường"
+У8,8,НЕ ПРОСЛЕЖЕНО У8.8,"? #168 vùng trái/giữa, chữ nhỏ và nếp gấp ngang: thấy số chân nhưng chưa khóa chắc toàn đường"
+У8,10,П2:48 0⇒РПР,"Nhánh vào S của У8-2, #168 vùng trái trên"
+У8,11,НЕ ПРОСЛЕЖЕНО У8.11,"? #168 vùng trái/giữa, chữ nhỏ và nếp gấp ngang: thấy số chân nhưng chưa khóa chắc toàn đường"
+У8,12,НЕ ПРОСЛЕЖЕНО У8.12,"? #168 vùng trái/giữa, chữ nhỏ và nếp gấp ngang: thấy số chân nhưng chưa khóa chắc toàn đường"
+У8,13,П3:54 0⇒Рг.Пр.,"Nhánh vào R của У8-2, #168 vùng trái trên"
+У8,7,П1:27 КОРПУС | П2:1 КОРПУС | П3:1 КОРПУС,Ghi chú 1 trên #167: chân 7 → Корпус (điểm a)
+У8,14,П1:1 +5В | П2:27 +5В,Ghi chú 2 trên #167: chân 14 → +5В (điểm б)
+У9,1,П1:28 М0 | П3:8 М0,#167↔#168: đường dữ liệu số 0 trên bó D
+У9,2,НЕ ПРОСЛЕЖЕНО У9.2,"? #168 vùng trái/giữa, chữ nhỏ và nếp gấp ngang: thấy số chân nhưng chưa khóa chắc toàn đường"
+У9,3,НЕ ПРОСЛЕЖЕНО У9.3,"? #168 vùng trái/giữa, chữ nhỏ và nếp gấp ngang: thấy số chân nhưng chưa khóa chắc toàn đường"
+У9,4,П1:29 М1 | П3:9 М1,#167↔#168: đường dữ liệu số 1 trên bó D
+У9,5,НЕ ПРОСЛЕЖЕНО У9.5,"? #168 vùng trái/giữa, chữ nhỏ và nếp gấp ngang: thấy số chân nhưng chưa khóa chắc toàn đường"
+У9,6,НЕ ПРОСЛЕЖЕНО У9.6,"? #168 vùng trái/giữa, chữ nhỏ và nếp gấp ngang: thấy số chân nhưng chưa khóa chắc toàn đường"
+У9,8,НЕ ПРОСЛЕЖЕНО У9.8,"? #168 vùng trái/giữa, chữ nhỏ và nếp gấp ngang: thấy số chân nhưng chưa khóa chắc toàn đường"
+У9,9,НЕ ПРОСЛЕЖЕНО У9.9,"? #168 vùng trái/giữa, chữ nhỏ và nếp gấp ngang: thấy số chân nhưng chưa khóa chắc toàn đường"
+У9,10,П1:30 М2 | П3:10 М2,#167↔#168: đường dữ liệu số 2 trên bó D
+У9,11,НЕ ПРОСЛЕЖЕНО У9.11,"? #168 vùng trái/giữa, chữ nhỏ và nếp gấp ngang: thấy số chân nhưng chưa khóa chắc toàn đường"
+У9,12,НЕ ПРОСЛЕЖЕНО У9.12,"? #168 vùng trái/giữa, chữ nhỏ và nếp gấp ngang: thấy số chân nhưng chưa khóa chắc toàn đường"
+У9,13,П1:31 М3 | П3:11 М3,#167↔#168: đường dữ liệu số 3 trên bó D
+У9,7,П1:27 КОРПУС | П2:1 КОРПУС | П3:1 КОРПУС,Ghi chú 1 trên #167: chân 7 → Корпус (điểm a)
+У9,14,П1:1 +5В | П2:27 +5В,Ghi chú 2 trên #167: chân 14 → +5В (điểm б)
+У10,1,П1:32 М4 | П3:12 М4,#167↔#168: đường dữ liệu số 4 trên bó D
+У10,2,НЕ ПРОСЛЕЖЕНО У10.2,"? #168 vùng trái/giữa, chữ nhỏ và nếp gấp ngang: thấy số chân nhưng chưa khóa chắc toàn đường"
+У10,3,НЕ ПРОСЛЕЖЕНО У10.3,"? #168 vùng trái/giữa, chữ nhỏ và nếp gấp ngang: thấy số chân nhưng chưa khóa chắc toàn đường"
+У10,4,П1:33 М5 | П3:13 М5,#167↔#168: đường dữ liệu số 5 trên bó D
+У10,5,НЕ ПРОСЛЕЖЕНО У10.5,"? #168 vùng trái/giữa, chữ nhỏ và nếp gấp ngang: thấy số chân nhưng chưa khóa chắc toàn đường"
+У10,6,НЕ ПРОСЛЕЖЕНО У10.6,"? #168 vùng trái/giữa, chữ nhỏ và nếp gấp ngang: thấy số chân nhưng chưa khóa chắc toàn đường"
+У10,8,НЕ ПРОСЛЕЖЕНО У10.8,"? #168 vùng trái/giữa, chữ nhỏ và nếp gấp ngang: thấy số chân nhưng chưa khóa chắc toàn đường"
+У10,9,НЕ ПРОСЛЕЖЕНО У10.9,"? #168 vùng trái/giữa, chữ nhỏ và nếp gấp ngang: thấy số chân nhưng chưa khóa chắc toàn đường"
+У10,10,П1:34 М6 | П3:14 М6,#167↔#168: đường dữ liệu số 6 trên bó D
+У10,11,НЕ ПРОСЛЕЖЕНО У10.11,"? #168 vùng trái/giữa, chữ nhỏ và nếp gấp ngang: thấy số chân nhưng chưa khóa chắc toàn đường"
+У10,12,НЕ ПРОСЛЕЖЕНО У10.12,"? #168 vùng trái/giữa, chữ nhỏ và nếp gấp ngang: thấy số chân nhưng chưa khóa chắc toàn đường"
+У10,13,П1:35 М7 | П3:15 М7,#167↔#168: đường dữ liệu số 7 trên bó D
+У10,7,П1:27 КОРПУС | П2:1 КОРПУС | П3:1 КОРПУС,Ghi chú 1 trên #167: chân 7 → Корпус (điểm a)
+У10,14,П1:1 +5В | П2:27 +5В,Ghi chú 2 trên #167: chân 14 → +5В (điểm б)
+У11,1,НЕ ПРОСЛЕЖЕНО У11.1,"? #168 vùng trái/giữa, chữ nhỏ và nếp gấp ngang: thấy số chân nhưng chưa khóa chắc toàn đường"
+У11,2,П1:45 Рг.Пр⇒М,#168 vùng trái giữa
+У11,3,НЕ ПРОСЛЕЖЕНО У11.3,"? #168 vùng trái/giữa, chữ nhỏ và nếp gấp ngang: thấy số chân nhưng chưa khóa chắc toàn đường"
+У11,4,НЕ ПРОСЛЕЖЕНО У11.4,"? #168 vùng trái/giữa, chữ nhỏ và nếp gấp ngang: thấy số chân nhưng chưa khóa chắc toàn đường"
+У11,5,НЕ ПРОСЛЕЖЕНО У11.5,"? #168 vùng trái/giữa, chữ nhỏ và nếp gấp ngang: thấy số chân nhưng chưa khóa chắc toàn đường"
+У11,6,П1:53 6р Рг.К2,#168 mép dưới
+У11,8,НЕ ПРОСЛЕЖЕНО У11.8,"? #168 vùng trái/giữa, chữ nhỏ và nếp gấp ngang: thấy số chân nhưng chưa khóa chắc toàn đường"
+У11,9,НЕ ПРОСЛЕЖЕНО У11.9,"? #168 vùng trái/giữa, chữ nhỏ và nếp gấp ngang: thấy số chân nhưng chưa khóa chắc toàn đường"
+У11,10,НЕ ПРОСЛЕЖЕНО У11.10,"? #168 vùng trái/giữa, chữ nhỏ và nếp gấp ngang: thấy số chân nhưng chưa khóa chắc toàn đường"
+У11,11,НЕ ПРОСЛЕЖЕНО У11.11,"? #168 vùng trái/giữa, chữ nhỏ và nếp gấp ngang: thấy số chân nhưng chưa khóa chắc toàn đường"
+У11,12,НЕ ПРОСЛЕЖЕНО У11.12,"? #168 vùng trái/giữa, chữ nhỏ và nếp gấp ngang: thấy số chân nhưng chưa khóa chắc toàn đường"
+У11,13,НЕ ПРОСЛЕЖЕНО У11.13,"? #168 vùng trái/giữa, chữ nhỏ và nếp gấp ngang: thấy số chân nhưng chưa khóa chắc toàn đường"
+У11,7,П1:27 КОРПУС | П2:1 КОРПУС | П3:1 КОРПУС,Ghi chú 1 trên #167: chân 7 → Корпус (điểm a)
+У11,14,П1:1 +5В | П2:27 +5В,Ghi chú 2 trên #167: chân 14 → +5В (điểm б)
+У12,1,НЕ ПРОСЛЕЖЕНО У12.1,"? #168 vùng trái/giữa, chữ nhỏ và nếp gấp ngang: thấy số chân nhưng chưa khóa chắc toàn đường"
+У12,2,НЕ ПРОСЛЕЖЕНО У12.2,"? #168 vùng trái/giữa, chữ nhỏ và nếp gấp ngang: thấy số chân nhưng chưa khóa chắc toàn đường"
+У12,3,НЕ ПРОСЛЕЖЕНО У12.3,"? #168 vùng trái/giữa, chữ nhỏ và nếp gấp ngang: thấy số chân nhưng chưa khóa chắc toàn đường"
+У12,4,НЕ ПРОСЛЕЖЕНО У12.4,"? #168 vùng trái/giữa, chữ nhỏ và nếp gấp ngang: thấy số chân nhưng chưa khóa chắc toàn đường"
+У12,5,НЕ ПРОСЛЕЖЕНО У12.5,"? #168 vùng trái/giữa, chữ nhỏ và nếp gấp ngang: thấy số chân nhưng chưa khóa chắc toàn đường"
+У12,6,НЕ ПРОСЛЕЖЕНО У12.6,"? #168 vùng trái/giữa, chữ nhỏ và nếp gấp ngang: thấy số chân nhưng chưa khóa chắc toàn đường"
+У12,8,НЕ ПРОСЛЕЖЕНО У12.8,"? #168 vùng trái/giữa, chữ nhỏ và nếp gấp ngang: thấy số chân nhưng chưa khóa chắc toàn đường"
+У12,9,НЕ ПРОСЛЕЖЕНО У12.9,"? #168 vùng trái/giữa, chữ nhỏ và nếp gấp ngang: thấy số chân nhưng chưa khóa chắc toàn đường"
+У12,10,НЕ ПРОСЛЕЖЕНО У12.10,"? #168 vùng trái/giữa, chữ nhỏ và nếp gấp ngang: thấy số chân nhưng chưa khóa chắc toàn đường"
+У12,11,НЕ ПРОСЛЕЖЕНО У12.11,"? #168 vùng trái/giữa, chữ nhỏ và nếp gấp ngang: thấy số chân nhưng chưa khóa chắc toàn đường"
+У12,12,НЕ ПРОСЛЕЖЕНО У12.12,"? #168 vùng trái/giữa, chữ nhỏ và nếp gấp ngang: thấy số chân nhưng chưa khóa chắc toàn đường"
+У12,13,НЕ ПРОСЛЕЖЕНО У12.13,"? #168 vùng trái/giữa, chữ nhỏ và nếp gấp ngang: thấy số chân nhưng chưa khóa chắc toàn đường"
+У12,7,П1:27 КОРПУС | П2:1 КОРПУС | П3:1 КОРПУС,Ghi chú 1 trên #167: chân 7 → Корпус (điểm a)
+У12,14,П1:1 +5В | П2:27 +5В,Ghi chú 2 trên #167: chân 14 → +5В (điểm б)
+У13,1,НЕ ПРОСЛЕЖЕНО У13.1,"? #168 vùng trái/giữa, chữ nhỏ và nếp gấp ngang: thấy số chân nhưng chưa khóa chắc toàn đường"
+У13,2,НЕ ПРОСЛЕЖЕНО У13.2,"? #168 vùng trái/giữa, chữ nhỏ và nếp gấp ngang: thấy số chân nhưng chưa khóa chắc toàn đường"
+У13,3,НЕ ПРОСЛЕЖЕНО У13.3,"? #168 vùng trái/giữa, chữ nhỏ và nếp gấp ngang: thấy số chân nhưng chưa khóa chắc toàn đường"
+У13,4,НЕ ПРОСЛЕЖЕНО У13.4,"? #168 vùng trái/giữa, chữ nhỏ và nếp gấp ngang: thấy số chân nhưng chưa khóa chắc toàn đường"
+У13,5,НЕ ПРОСЛЕЖЕНО У13.5,"? #168 vùng trái/giữa, chữ nhỏ và nếp gấp ngang: thấy số chân nhưng chưa khóa chắc toàn đường"
+У13,6,НЕ ПРОСЛЕЖЕНО У13.6,"? #168 vùng trái/giữa, chữ nhỏ và nếp gấp ngang: thấy số chân nhưng chưa khóa chắc toàn đường"
+У13,8,НЕ ПРОСЛЕЖЕНО У13.8,"? #168 vùng trái/giữa, chữ nhỏ và nếp gấp ngang: thấy số chân nhưng chưa khóa chắc toàn đường"
+У13,9,НЕ ПРОСЛЕЖЕНО У13.9,"? #168 vùng trái/giữa, chữ nhỏ và nếp gấp ngang: thấy số chân nhưng chưa khóa chắc toàn đường"
+У13,10,НЕ ПРОСЛЕЖЕНО У13.10,"? #168 vùng trái/giữa, chữ nhỏ và nếp gấp ngang: thấy số chân nhưng chưa khóa chắc toàn đường"
+У13,11,НЕ ПРОСЛЕЖЕНО У13.11,"? #168 vùng trái/giữa, chữ nhỏ và nếp gấp ngang: thấy số chân nhưng chưa khóa chắc toàn đường"
+У13,12,НЕ ПРОСЛЕЖЕНО У13.12,"? #168 vùng trái/giữa, chữ nhỏ và nếp gấp ngang: thấy số chân nhưng chưa khóa chắc toàn đường"
+У13,13,НЕ ПРОСЛЕЖЕНО У13.13,"? #168 vùng trái/giữa, chữ nhỏ và nếp gấp ngang: thấy số chân nhưng chưa khóa chắc toàn đường"
+У13,7,П1:27 КОРПУС | П2:1 КОРПУС | П3:1 КОРПУС,Ghi chú 1 trên #167: chân 7 → Корпус (điểm a)
+У13,14,П1:1 +5В | П2:27 +5В,Ghi chú 2 trên #167: chân 14 → +5В (điểm б)
+У14,1,N17,"Я1У4/3 = 0р Рг.К1, #167 góc phải dưới"
+У14,2,N18,"Я1У4/6 = 1р Рг.К1, #167 góc phải dưới"
+У14,4,N19,"Я1У4/8 = 2р Рг.К1, #167 góc phải dưới"
+У14,5,П2:4 1t-3,#167 góc phải dưới
+У14,6,П2:5 1t-2,#167 góc phải dưới
+У14,8,П3:42 Nоб БК,? #167 góc phải dưới: chữ viết tay đọc gần «Nоб БК»; ký tự đầu/tổ hợp giữa không chắc
+У14,9,N20,"Я1У4/11 = 3р Рг.К1, #167 góc phải dưới"
+У14,10,П2:6 1t-1,#167 góc phải dưới
+У14,13,П1:21 1t-4,#167 góc phải dưới
+У14,7,П1:27 КОРПУС | П2:1 КОРПУС | П3:1 КОРПУС,Ghi chú 1 trên #167: chân 7 → Корпус (điểm a)
+У14,14,П1:1 +5В | П2:27 +5В,Ghi chú 2 trên #167: chân 14 → +5В (điểm б)
+У15,1,НЕ ПРОСЛЕЖЕНО У15.1,"? #168 vùng trái/giữa, chữ nhỏ và nếp gấp ngang: thấy số chân nhưng chưa khóa chắc toàn đường"
+У15,2,НЕ ПРОСЛЕЖЕНО У15.2,"? #168 vùng trái/giữa, chữ nhỏ và nếp gấp ngang: thấy số chân nhưng chưa khóa chắc toàn đường"
+У15,3,НЕ ПРОСЛЕЖЕНО У15.3,"? #168 vùng trái/giữa, chữ nhỏ và nếp gấp ngang: thấy số chân nhưng chưa khóa chắc toàn đường"
+У15,4,НЕ ПРОСЛЕЖЕНО У15.4,"? #168 vùng trái/giữa, chữ nhỏ và nếp gấp ngang: thấy số chân nhưng chưa khóa chắc toàn đường"
+У15,5,НЕ ПРОСЛЕЖЕНО У15.5,"? #168 vùng trái/giữa, chữ nhỏ và nếp gấp ngang: thấy số chân nhưng chưa khóa chắc toàn đường"
+У15,6,НЕ ПРОСЛЕЖЕНО У15.6,"? #168 vùng trái/giữa, chữ nhỏ và nếp gấp ngang: thấy số chân nhưng chưa khóa chắc toàn đường"
+У15,8,НЕ ПРОСЛЕЖЕНО У15.8,"? #168 vùng trái/giữa, chữ nhỏ và nếp gấp ngang: thấy số chân nhưng chưa khóa chắc toàn đường"
+У15,9,НЕ ПРОСЛЕЖЕНО У15.9,"? #168 vùng trái/giữa, chữ nhỏ và nếp gấp ngang: thấy số chân nhưng chưa khóa chắc toàn đường"
+У15,10,НЕ ПРОСЛЕЖЕНО У15.10,"? #168 vùng trái/giữa, chữ nhỏ và nếp gấp ngang: thấy số chân nhưng chưa khóa chắc toàn đường"
+У15,11,НЕ ПРОСЛЕЖЕНО У15.11,"? #168 vùng trái/giữa, chữ nhỏ và nếp gấp ngang: thấy số chân nhưng chưa khóa chắc toàn đường"
+У15,12,НЕ ПРОСЛЕЖЕНО У15.12,"? #168 vùng trái/giữa, chữ nhỏ và nếp gấp ngang: thấy số chân nhưng chưa khóa chắc toàn đường"
+У15,13,НЕ ПРОСЛЕЖЕНО У15.13,"? #168 vùng trái/giữa, chữ nhỏ và nếp gấp ngang: thấy số chân nhưng chưa khóa chắc toàn đường"
+У15,7,П1:27 КОРПУС | П2:1 КОРПУС | П3:1 КОРПУС,Ghi chú 1 trên #167: chân 7 → Корпус (điểm a)
+У15,14,П1:1 +5В | П2:27 +5В,Ghi chú 2 trên #167: chân 14 → +5В (điểm б)
+У16,1,НЕ ПРОСЛЕЖЕНО У16.1,"? #168 vùng trái/giữa, chữ nhỏ và nếp gấp ngang: thấy số chân nhưng chưa khóa chắc toàn đường"
+У16,2,НЕ ПРОСЛЕЖЕНО У16.2,"? #168 vùng trái/giữa, chữ nhỏ và nếp gấp ngang: thấy số chân nhưng chưa khóa chắc toàn đường"
+У16,3,НЕ ПРОСЛЕЖЕНО У16.3,"? #168 vùng trái/giữa, chữ nhỏ và nếp gấp ngang: thấy số chân nhưng chưa khóa chắc toàn đường"
+У16,4,НЕ ПРОСЛЕЖЕНО У16.4,"? #168 vùng trái/giữa, chữ nhỏ và nếp gấp ngang: thấy số chân nhưng chưa khóa chắc toàn đường"
+У16,5,НЕ ПРОСЛЕЖЕНО У16.5,"? #168 vùng trái/giữa, chữ nhỏ và nếp gấp ngang: thấy số chân nhưng chưa khóa chắc toàn đường"
+У16,6,НЕ ПРОСЛЕЖЕНО У16.6,"? #168 vùng trái/giữa, chữ nhỏ và nếp gấp ngang: thấy số chân nhưng chưa khóa chắc toàn đường"
+У16,8,НЕ ПРОСЛЕЖЕНО У16.8,"? #168 vùng trái/giữa, chữ nhỏ và nếp gấp ngang: thấy số chân nhưng chưa khóa chắc toàn đường"
+У16,9,НЕ ПРОСЛЕЖЕНО У16.9,"? #168 vùng trái/giữa, chữ nhỏ và nếp gấp ngang: thấy số chân nhưng chưa khóa chắc toàn đường"
+У16,10,НЕ ПРОСЛЕЖЕНО У16.10,"? #168 vùng trái/giữa, chữ nhỏ và nếp gấp ngang: thấy số chân nhưng chưa khóa chắc toàn đường"
+У16,11,НЕ ПРОСЛЕЖЕНО У16.11,"? #168 vùng trái/giữa, chữ nhỏ và nếp gấp ngang: thấy số chân nhưng chưa khóa chắc toàn đường"
+У16,12,НЕ ПРОСЛЕЖЕНО У16.12,"? #168 vùng trái/giữa, chữ nhỏ và nếp gấp ngang: thấy số chân nhưng chưa khóa chắc toàn đường"
+У16,13,НЕ ПРОСЛЕЖЕНО У16.13,"? #168 vùng trái/giữa, chữ nhỏ và nếp gấp ngang: thấy số chân nhưng chưa khóa chắc toàn đường"
+У16,7,П1:27 КОРПУС | П2:1 КОРПУС | П3:1 КОРПУС,Ghi chú 1 trên #167: chân 7 → Корпус (điểm a)
+У16,14,П1:1 +5В | П2:27 +5В,Ghi chú 2 trên #167: chân 14 → +5В (điểm б)
+У17,1,П1:36 М8 | П3:16 М8,#167↔#168: đường dữ liệu số 8 trên bó D
+У17,2,НЕ ПРОСЛЕЖЕНО У17.2,"? #168 vùng trái/giữa, chữ nhỏ và nếp gấp ngang: thấy số chân nhưng chưa khóa chắc toàn đường"
+У17,3,НЕ ПРОСЛЕЖЕНО У17.3,"? #168 vùng trái/giữa, chữ nhỏ và nếp gấp ngang: thấy số chân nhưng chưa khóa chắc toàn đường"
+У17,4,П1:37 М9 | П3:17 М9,#167↔#168: đường dữ liệu số 9 trên bó D
+У17,5,НЕ ПРОСЛЕЖЕНО У17.5,"? #168 vùng trái/giữa, chữ nhỏ và nếp gấp ngang: thấy số chân nhưng chưa khóa chắc toàn đường"
+У17,6,НЕ ПРОСЛЕЖЕНО У17.6,"? #168 vùng trái/giữa, chữ nhỏ và nếp gấp ngang: thấy số chân nhưng chưa khóa chắc toàn đường"
+У17,8,НЕ ПРОСЛЕЖЕНО У17.8,"? #168 vùng trái/giữa, chữ nhỏ và nếp gấp ngang: thấy số chân nhưng chưa khóa chắc toàn đường"
+У17,9,НЕ ПРОСЛЕЖЕНО У17.9,"? #168 vùng trái/giữa, chữ nhỏ và nếp gấp ngang: thấy số chân nhưng chưa khóa chắc toàn đường"
+У17,10,П1:38 М10 | П3:18 М10,#167↔#168: đường dữ liệu số 10 trên bó D
+У17,11,НЕ ПРОСЛЕЖЕНО У17.11,"? #168 vùng trái/giữa, chữ nhỏ và nếp gấp ngang: thấy số chân nhưng chưa khóa chắc toàn đường"
+У17,12,НЕ ПРОСЛЕЖЕНО У17.12,"? #168 vùng trái/giữa, chữ nhỏ và nếp gấp ngang: thấy số chân nhưng chưa khóa chắc toàn đường"
+У17,13,П1:39 М11 | П3:19 М11,#167↔#168: đường dữ liệu số 11 trên bó D
+У17,7,П1:27 КОРПУС | П2:1 КОРПУС | П3:1 КОРПУС,Ghi chú 1 trên #167: chân 7 → Корпус (điểm a)
+У17,14,П1:1 +5В | П2:27 +5В,Ghi chú 2 trên #167: chân 14 → +5В (điểm б)
+У18,1,П1:40 М12 | П3:20 М12,#167↔#168: đường dữ liệu số 12 trên bó D
+У18,2,НЕ ПРОСЛЕЖЕНО У18.2,"? #168 vùng trái/giữa, chữ nhỏ và nếp gấp ngang: thấy số chân nhưng chưa khóa chắc toàn đường"
+У18,3,НЕ ПРОСЛЕЖЕНО У18.3,"? #168 vùng trái/giữa, chữ nhỏ và nếp gấp ngang: thấy số chân nhưng chưa khóa chắc toàn đường"
+У18,4,П1:41 М13 | П3:21 М13,#167↔#168: đường dữ liệu số 13 trên bó D
+У18,5,НЕ ПРОСЛЕЖЕНО У18.5,"? #168 vùng trái/giữa, chữ nhỏ và nếp gấp ngang: thấy số chân nhưng chưa khóa chắc toàn đường"
+У18,6,НЕ ПРОСЛЕЖЕНО У18.6,"? #168 vùng trái/giữa, chữ nhỏ và nếp gấp ngang: thấy số chân nhưng chưa khóa chắc toàn đường"
+У18,8,НЕ ПРОСЛЕЖЕНО У18.8,"? #168 vùng trái/giữa, chữ nhỏ và nếp gấp ngang: thấy số chân nhưng chưa khóa chắc toàn đường"
+У18,9,НЕ ПРОСЛЕЖЕНО У18.9,"? #168 vùng trái/giữa, chữ nhỏ và nếp gấp ngang: thấy số chân nhưng chưa khóa chắc toàn đường"
+У18,10,П1:42 М14 | П3:22 М14,#167↔#168: đường dữ liệu số 14 trên bó D
+У18,11,НЕ ПРОСЛЕЖЕНО У18.11,"? #168 vùng trái/giữa, chữ nhỏ và nếp gấp ngang: thấy số chân nhưng chưa khóa chắc toàn đường"
+У18,12,НЕ ПРОСЛЕЖЕНО У18.12,"? #168 vùng trái/giữa, chữ nhỏ và nếp gấp ngang: thấy số chân nhưng chưa khóa chắc toàn đường"
+У18,13,П1:43 М15 | П3:23 М15,#167↔#168: đường dữ liệu số 15 trên bó D
+У18,7,П1:27 КОРПУС | П2:1 КОРПУС | П3:1 КОРПУС,Ghi chú 1 trên #167: chân 7 → Корпус (điểm a)
+У18,14,П1:1 +5В | П2:27 +5В,Ghi chú 2 trên #167: chân 14 → +5В (điểm б)
+У19,1,П1:48 М⇒Рг.К1,#168 góc trái dưới
+У19,2,П3:2 ИВЧ,#168 góc trái dưới
+У19,3,НЕ ПРОСЛЕЖЕНО У19.3,"? #168 vùng trái/giữa, chữ nhỏ và nếp gấp ngang: thấy số chân nhưng chưa khóa chắc toàn đường"
+У19,4,НЕ ПРОСЛЕЖЕНО У19.4,"? #168 vùng trái/giữa, chữ nhỏ và nếp gấp ngang: thấy số chân nhưng chưa khóa chắc toàn đường"
+У19,5,НЕ ПРОСЛЕЖЕНО У19.5,"? #168 vùng trái/giữa, chữ nhỏ và nếp gấp ngang: thấy số chân nhưng chưa khóa chắc toàn đường"
+У19,6,НЕ ПРОСЛЕЖЕНО У19.6,"? #168 vùng trái/giữa, chữ nhỏ và nếp gấp ngang: thấy số chân nhưng chưa khóa chắc toàn đường"
+У19,8,НЕ ПРОСЛЕЖЕНО У19.8,"? #168 vùng trái/giữa, chữ nhỏ và nếp gấp ngang: thấy số chân nhưng chưa khóa chắc toàn đường"
+У19,9,П1:49 М⇒Рг.К2,#168 đáy giữa
+У19,10,П3:2 ИВЧ,#168 đáy giữa
+У19,11,НЕ ПРОСЛЕЖЕНО У19.11,"? #168 vùng trái/giữa, chữ nhỏ và nếp gấp ngang: thấy số chân nhưng chưa khóa chắc toàn đường"
+У19,12,НЕ ПРОСЛЕЖЕНО У19.12,"? #168 vùng trái/giữa, chữ nhỏ và nếp gấp ngang: thấy số chân nhưng chưa khóa chắc toàn đường"
+У19,13,НЕ ПРОСЛЕЖЕНО У19.13,"? #168 vùng trái/giữa, chữ nhỏ và nếp gấp ngang: thấy số chân nhưng chưa khóa chắc toàn đường"
+У19,7,П1:27 КОРПУС | П2:1 КОРПУС | П3:1 КОРПУС,Ghi chú 1 trên #167: chân 7 → Корпус (điểm a)
+У19,14,П1:1 +5В | П2:27 +5В,Ghi chú 2 trên #167: chân 14 → +5В (điểm б)
+У20,1,НЕ ПРОСЛЕЖЕНО У20.1,"? #168 vùng trái/giữa, chữ nhỏ và nếp gấp ngang: thấy số chân nhưng chưa khóa chắc toàn đường"
+У20,2,НЕ ПРОСЛЕЖЕНО У20.2,"? #168 vùng trái/giữa, chữ nhỏ và nếp gấp ngang: thấy số chân nhưng chưa khóa chắc toàn đường"
+У20,3,НЕ ПРОСЛЕЖЕНО У20.3,"? #168 vùng trái/giữa, chữ nhỏ và nếp gấp ngang: thấy số chân nhưng chưa khóa chắc toàn đường"
+У20,4,НЕ ПРОСЛЕЖЕНО У20.4,"? #168 vùng trái/giữa, chữ nhỏ và nếp gấp ngang: thấy số chân nhưng chưa khóa chắc toàn đường"
+У20,5,НЕ ПРОСЛЕЖЕНО У20.5,"? #168 vùng trái/giữa, chữ nhỏ và nếp gấp ngang: thấy số chân nhưng chưa khóa chắc toàn đường"
+У20,6,НЕ ПРОСЛЕЖЕНО У20.6,"? #168 vùng trái/giữa, chữ nhỏ và nếp gấp ngang: thấy số chân nhưng chưa khóa chắc toàn đường"
+У20,8,НЕ ПРОСЛЕЖЕНО У20.8,"? #168 vùng trái/giữa, chữ nhỏ và nếp gấp ngang: thấy số chân nhưng chưa khóa chắc toàn đường"
+У20,9,НЕ ПРОСЛЕЖЕНО У20.9,"? #168 vùng trái/giữa, chữ nhỏ và nếp gấp ngang: thấy số chân nhưng chưa khóa chắc toàn đường"
+У20,10,НЕ ПРОСЛЕЖЕНО У20.10,"? #168 vùng trái/giữa, chữ nhỏ và nếp gấp ngang: thấy số chân nhưng chưa khóa chắc toàn đường"
+У20,11,НЕ ПРОСЛЕЖЕНО У20.11,"? #168 vùng trái/giữa, chữ nhỏ và nếp gấp ngang: thấy số chân nhưng chưa khóa chắc toàn đường"
+У20,12,НЕ ПРОСЛЕЖЕНО У20.12,"? #168 vùng trái/giữa, chữ nhỏ và nếp gấp ngang: thấy số chân nhưng chưa khóa chắc toàn đường"
+У20,13,НЕ ПРОСЛЕЖЕНО У20.13,"? #168 vùng trái/giữa, chữ nhỏ và nếp gấp ngang: thấy số chân nhưng chưa khóa chắc toàn đường"
+У20,7,П1:27 КОРПУС | П2:1 КОРПУС | П3:1 КОРПУС,Ghi chú 1 trên #167: chân 7 → Корпус (điểm a)
+У20,14,П1:1 +5В | П2:27 +5В,Ghi chú 2 trên #167: chân 14 → +5В (điểm б)
+У21,1,П1:46 М⇒РК1,#168 đáy phải
+У21,2,П3:2 ИВЧ,#168 đáy phải
+У21,3,НЕ ПРОСЛЕЖЕНО У21.3,"? #168 vùng trái/giữa, chữ nhỏ và nếp gấp ngang: thấy số chân nhưng chưa khóa chắc toàn đường"
+У21,4,НЕ ПРОСЛЕЖЕНО У21.4,"? #168 vùng trái/giữa, chữ nhỏ và nếp gấp ngang: thấy số chân nhưng chưa khóa chắc toàn đường"
+У21,5,НЕ ПРОСЛЕЖЕНО У21.5,"? #168 vùng trái/giữa, chữ nhỏ và nếp gấp ngang: thấy số chân nhưng chưa khóa chắc toàn đường"
+У21,6,НЕ ПРОСЛЕЖЕНО У21.6,"? #168 vùng trái/giữa, chữ nhỏ và nếp gấp ngang: thấy số chân nhưng chưa khóa chắc toàn đường"
+У21,8,НЕ ПРОСЛЕЖЕНО У21.8,"? #168 vùng trái/giữa, chữ nhỏ và nếp gấp ngang: thấy số chân nhưng chưa khóa chắc toàn đường"
+У21,9,П1:47 М⇒РК2,#167/#168 đường điều khiển sang trang
+У21,10,П3:2 ИВЧ,#167/#168 đường điều khiển sang trang
+У21,11,НЕ ПРОСЛЕЖЕНО У21.11,"? #168 vùng trái/giữa, chữ nhỏ và nếp gấp ngang: thấy số chân nhưng chưa khóa chắc toàn đường"
+У21,12,НЕ ПРОСЛЕЖЕНО У21.12,"? #168 vùng trái/giữa, chữ nhỏ và nếp gấp ngang: thấy số chân nhưng chưa khóa chắc toàn đường"
+У21,13,НЕ ПРОСЛЕЖЕНО У21.13,"? #168 vùng trái/giữa, chữ nhỏ và nếp gấp ngang: thấy số chân nhưng chưa khóa chắc toàn đường"
+У21,7,П1:27 КОРПУС | П2:1 КОРПУС | П3:1 КОРПУС,Ghi chú 1 trên #167: chân 7 → Корпус (điểm a)
+У21,14,П1:1 +5В | П2:27 +5В,Ghi chú 2 trên #167: chân 14 → +5В (điểm б)
+У22,1,НЕ ПРОСЛЕЖЕНО У22.1,"? #168 vùng trái/giữa, chữ nhỏ và nếp gấp ngang: thấy số chân nhưng chưa khóa chắc toàn đường"
+У22,2,НЕ ПРОСЛЕЖЕНО У22.2,"? #168 vùng trái/giữa, chữ nhỏ và nếp gấp ngang: thấy số chân nhưng chưa khóa chắc toàn đường"
+У22,3,НЕ ПРОСЛЕЖЕНО У22.3,"? #168 vùng trái/giữa, chữ nhỏ và nếp gấp ngang: thấy số chân nhưng chưa khóa chắc toàn đường"
+У22,4,НЕ ПРОСЛЕЖЕНО У22.4,"? #168 vùng trái/giữa, chữ nhỏ và nếp gấp ngang: thấy số chân nhưng chưa khóa chắc toàn đường"
+У22,5,НЕ ПРОСЛЕЖЕНО У22.5,"? #168 vùng trái/giữa, chữ nhỏ và nếp gấp ngang: thấy số chân nhưng chưa khóa chắc toàn đường"
+У22,6,НЕ ПРОСЛЕЖЕНО У22.6,"? #168 vùng trái/giữa, chữ nhỏ và nếp gấp ngang: thấy số chân nhưng chưa khóa chắc toàn đường"
+У22,8,НЕ ПРОСЛЕЖЕНО У22.8,"? #168 vùng trái/giữa, chữ nhỏ và nếp gấp ngang: thấy số chân nhưng chưa khóa chắc toàn đường"
+У22,9,НЕ ПРОСЛЕЖЕНО У22.9,"? #168 vùng trái/giữa, chữ nhỏ và nếp gấp ngang: thấy số chân nhưng chưa khóa chắc toàn đường"
+У22,10,НЕ ПРОСЛЕЖЕНО У22.10,"? #168 vùng trái/giữa, chữ nhỏ và nếp gấp ngang: thấy số chân nhưng chưa khóa chắc toàn đường"
+У22,11,НЕ ПРОСЛЕЖЕНО У22.11,"? #168 vùng trái/giữa, chữ nhỏ và nếp gấp ngang: thấy số chân nhưng chưa khóa chắc toàn đường"
+У22,12,НЕ ПРОСЛЕЖЕНО У22.12,"? #168 vùng trái/giữa, chữ nhỏ và nếp gấp ngang: thấy số chân nhưng chưa khóa chắc toàn đường"
+У22,13,НЕ ПРОСЛЕЖЕНО У22.13,"? #168 vùng trái/giữa, chữ nhỏ và nếp gấp ngang: thấy số chân nhưng chưa khóa chắc toàn đường"
+У22,7,П1:27 КОРПУС | П2:1 КОРПУС | П3:1 КОРПУС,Ghi chú 1 trên #167: chân 7 → Корпус (điểm a)
+У22,14,П1:1 +5В | П2:27 +5В,Ghi chú 2 trên #167: chân 14 → +5В (điểm б)
+У23,1,НЕ ПРОСЛЕЖЕНО У23.1,"? #168 vùng trái/giữa, chữ nhỏ và nếp gấp ngang: thấy số chân nhưng chưa khóa chắc toàn đường"
+У23,2,НЕ ПРОСЛЕЖЕНО У23.2,"? #168 vùng trái/giữa, chữ nhỏ và nếp gấp ngang: thấy số chân nhưng chưa khóa chắc toàn đường"
+У23,3,НЕ ПРОСЛЕЖЕНО У23.3,"? #168 vùng trái/giữa, chữ nhỏ và nếp gấp ngang: thấy số chân nhưng chưa khóa chắc toàn đường"
+У23,4,НЕ ПРОСЛЕЖЕНО У23.4,"? #168 vùng trái/giữa, chữ nhỏ và nếp gấp ngang: thấy số chân nhưng chưa khóa chắc toàn đường"
+У23,5,НЕ ПРОСЛЕЖЕНО У23.5,"? #168 vùng trái/giữa, chữ nhỏ và nếp gấp ngang: thấy số chân nhưng chưa khóa chắc toàn đường"
+У23,6,НЕ ПРОСЛЕЖЕНО У23.6,"? #168 vùng trái/giữa, chữ nhỏ và nếp gấp ngang: thấy số chân nhưng chưa khóa chắc toàn đường"
+У23,8,НЕ ПРОСЛЕЖЕНО У23.8,"? #168 vùng trái/giữa, chữ nhỏ và nếp gấp ngang: thấy số chân nhưng chưa khóa chắc toàn đường"
+У23,9,НЕ ПРОСЛЕЖЕНО У23.9,"? #168 vùng trái/giữa, chữ nhỏ và nếp gấp ngang: thấy số chân nhưng chưa khóa chắc toàn đường"
+У23,10,НЕ ПРОСЛЕЖЕНО У23.10,"? #168 vùng trái/giữa, chữ nhỏ và nếp gấp ngang: thấy số chân nhưng chưa khóa chắc toàn đường"
+У23,11,НЕ ПРОСЛЕЖЕНО У23.11,"? #168 vùng trái/giữa, chữ nhỏ và nếp gấp ngang: thấy số chân nhưng chưa khóa chắc toàn đường"
+У23,12,НЕ ПРОСЛЕЖЕНО У23.12,"? #168 vùng trái/giữa, chữ nhỏ và nếp gấp ngang: thấy số chân nhưng chưa khóa chắc toàn đường"
+У23,13,НЕ ПРОСЛЕЖЕНО У23.13,"? #168 vùng trái/giữa, chữ nhỏ và nếp gấp ngang: thấy số chân nhưng chưa khóa chắc toàn đường"
+У23,7,П1:27 КОРПУС | П2:1 КОРПУС | П3:1 КОРПУС,Ghi chú 1 trên #167: chân 7 → Корпус (điểm a)
+У23,14,П1:1 +5В | П2:27 +5В,Ghi chú 2 trên #167: chân 14 → +5В (điểm б)
+У24,1,НЕ ПРОСЛЕЖЕНО У24.1,"? #168 vùng trái/giữa, chữ nhỏ và nếp gấp ngang: thấy số chân nhưng chưa khóa chắc toàn đường"
+У24,2,НЕ ПРОСЛЕЖЕНО У24.2,"? #168 vùng trái/giữa, chữ nhỏ và nếp gấp ngang: thấy số chân nhưng chưa khóa chắc toàn đường"
+У24,3,НЕ ПРОСЛЕЖЕНО У24.3,"? #168 vùng trái/giữa, chữ nhỏ và nếp gấp ngang: thấy số chân nhưng chưa khóa chắc toàn đường"
+У24,4,НЕ ПРОСЛЕЖЕНО У24.4,"? #168 vùng trái/giữa, chữ nhỏ và nếp gấp ngang: thấy số chân nhưng chưa khóa chắc toàn đường"
+У24,5,НЕ ПРОСЛЕЖЕНО У24.5,"? #168 vùng trái/giữa, chữ nhỏ và nếp gấp ngang: thấy số chân nhưng chưa khóa chắc toàn đường"
+У24,6,НЕ ПРОСЛЕЖЕНО У24.6,"? #168 vùng trái/giữa, chữ nhỏ và nếp gấp ngang: thấy số chân nhưng chưa khóa chắc toàn đường"
+У24,8,НЕ ПРОСЛЕЖЕНО У24.8,"? #168 vùng trái/giữa, chữ nhỏ và nếp gấp ngang: thấy số chân nhưng chưa khóa chắc toàn đường"
+У24,9,НЕ ПРОСЛЕЖЕНО У24.9,"? #168 vùng trái/giữa, chữ nhỏ và nếp gấp ngang: thấy số chân nhưng chưa khóa chắc toàn đường"
+У24,10,НЕ ПРОСЛЕЖЕНО У24.10,"? #168 vùng trái/giữa, chữ nhỏ và nếp gấp ngang: thấy số chân nhưng chưa khóa chắc toàn đường"
+У24,11,НЕ ПРОСЛЕЖЕНО У24.11,"? #168 vùng trái/giữa, chữ nhỏ và nếp gấp ngang: thấy số chân nhưng chưa khóa chắc toàn đường"
+У24,12,НЕ ПРОСЛЕЖЕНО У24.12,"? #168 vùng trái/giữa, chữ nhỏ và nếp gấp ngang: thấy số chân nhưng chưa khóa chắc toàn đường"
+У24,13,НЕ ПРОСЛЕЖЕНО У24.13,"? #168 vùng trái/giữa, chữ nhỏ và nếp gấp ngang: thấy số chân nhưng chưa khóa chắc toàn đường"
+У24,7,П1:27 КОРПУС | П2:1 КОРПУС | П3:1 КОРПУС,Ghi chú 1 trên #167: chân 7 → Корпус (điểm a)
+У24,14,П1:1 +5В | П2:27 +5В,Ghi chú 2 trên #167: chân 14 → +5В (điểm б)
+У25,1,НЕ ПРОСЛЕЖЕНО У25.1,"? #168 vùng trái/giữa, chữ nhỏ và nếp gấp ngang: thấy số chân nhưng chưa khóa chắc toàn đường"
+У25,2,НЕ ПРОСЛЕЖЕНО У25.2,"? #168 vùng trái/giữa, chữ nhỏ và nếp gấp ngang: thấy số chân nhưng chưa khóa chắc toàn đường"
+У25,3,НЕ ПРОСЛЕЖЕНО У25.3,"? #168 vùng trái/giữa, chữ nhỏ và nếp gấp ngang: thấy số chân nhưng chưa khóa chắc toàn đường"
+У25,4,НЕ ПРОСЛЕЖЕНО У25.4,"? #168 vùng trái/giữa, chữ nhỏ và nếp gấp ngang: thấy số chân nhưng chưa khóa chắc toàn đường"
+У25,5,НЕ ПРОСЛЕЖЕНО У25.5,"? #168 vùng trái/giữa, chữ nhỏ và nếp gấp ngang: thấy số chân nhưng chưa khóa chắc toàn đường"
+У25,6,НЕ ПРОСЛЕЖЕНО У25.6,"? #168 vùng trái/giữa, chữ nhỏ và nếp gấp ngang: thấy số chân nhưng chưa khóa chắc toàn đường"
+У25,8,НЕ ПРОСЛЕЖЕНО У25.8,"? #168 vùng trái/giữa, chữ nhỏ và nếp gấp ngang: thấy số chân nhưng chưa khóa chắc toàn đường"
+У25,9,НЕ ПРОСЛЕЖЕНО У25.9,"? #168 vùng trái/giữa, chữ nhỏ và nếp gấp ngang: thấy số chân nhưng chưa khóa chắc toàn đường"
+У25,10,НЕ ПРОСЛЕЖЕНО У25.10,"? #168 vùng trái/giữa, chữ nhỏ và nếp gấp ngang: thấy số chân nhưng chưa khóa chắc toàn đường"
+У25,11,НЕ ПРОСЛЕЖЕНО У25.11,"? #168 vùng trái/giữa, chữ nhỏ và nếp gấp ngang: thấy số chân nhưng chưa khóa chắc toàn đường"
+У25,12,НЕ ПРОСЛЕЖЕНО У25.12,"? #168 vùng trái/giữa, chữ nhỏ và nếp gấp ngang: thấy số chân nhưng chưa khóa chắc toàn đường"
+У25,13,НЕ ПРОСЛЕЖЕНО У25.13,"? #168 vùng trái/giữa, chữ nhỏ và nếp gấp ngang: thấy số chân nhưng chưa khóa chắc toàn đường"
+У25,7,П1:27 КОРПУС | П2:1 КОРПУС | П3:1 КОРПУС,Ghi chú 1 trên #167: chân 7 → Корпус (điểm a)
+У25,14,П1:1 +5В | П2:27 +5В,Ghi chú 2 trên #167: chân 14 → +5В (điểm б)

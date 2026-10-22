@@ -1,0 +1,4 @@
+2026-10-22T09:11:27.739218Z ERROR codex_core::tools::router: error=apply_patch verification failed: invalid patch: multiple operations target E:\Alitum\Tự học Altium\Projects\MODULE\A313\BO TLTK DAU A\A313-V_codex\tmp\pdfs\review\a313-3\e3\e3_vs_e4.py
+2026-10-22T09:22:40.565958Z ERROR codex_core::tools::router: error=apply_patch verification failed: Failed to find expected lines in E:\Alitum\Tự học Altium\Projects\MODULE\A313\BO TLTK DAU A\A313-V_codex\tmp\pdfs\review\a313-3\e3\ric08_net.csv:
+R4,1,П1:10 ВХОД РГР ТТЛ,Тên tín hiệu đọc tại mũi tên vào điện trở trên #168
+2026-10-22T09:25:50.037849Z ERROR codex_core::tools::router: error=exec_command failed: CreateProcess { message: "Rejected(\"Failed to create unified exec process: CreateProcessWithLogonW failed: 267\")" }

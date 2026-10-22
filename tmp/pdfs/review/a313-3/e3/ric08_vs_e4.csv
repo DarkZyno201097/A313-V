@@ -1,0 +1,161 @@
+connector,pin,e3_signal,e4_signal,status,note
+П1,1,+5В,+5В,MATCH,
+П1,2,,5ОП,ONLY_E4,Э3 không có nhánh chân linh kiện đọc chắc tới chân này; không suy từ Э4
+П1,3,,6ОП,ONLY_E4,Э3 không có nhánh chân linh kiện đọc chắc tới chân này; không suy từ Э4
+П1,4,,0ОП,ONLY_E4,Э3 không có nhánh chân linh kiện đọc chắc tới chân này; không suy từ Э4
+П1,5,,1ОП,ONLY_E4,Э3 không có nhánh chân linh kiện đọc chắc tới chân này; không suy từ Э4
+П1,6,,4ОП,ONLY_E4,Э3 không có nhánh chân linh kiện đọc chắc tới chân này; không suy từ Э4
+П1,7,,7ОП,ONLY_E4,Э3 không có nhánh chân linh kiện đọc chắc tới chân này; không suy từ Э4
+П1,8,,2ОП,ONLY_E4,Э3 không có nhánh chân linh kiện đọc chắc tới chân này; không suy từ Э4
+П1,9,,"0,15с",ONLY_E4,Э3 không có nhánh chân linh kiện đọc chắc tới chân này; không suy từ Э4
+П1,10,ВХОД РГР ТТЛ,ВХОД ПРП ТТЛ,NAME_MISMATCH,"Tên đọc từ Э3 khác Э4; giữ nguyên hai cách đọc, xem ric08_mota.md"
+П1,11,ВХОД 1РК ТТЛ,ВХОД 1РК ТТЛ,MATCH,
+П1,12,ВХОД 2РК ТТЛ,ВХОД 2РК ТТЛ,MATCH,
+П1,13,ВХОД 3РК ТТЛ,ВХОД 3РК ТТЛ,MATCH,
+П1,14,5р Рг.К1,5р Рг.К1,MATCH,
+П1,15,6р Рг.К1,6р Рг.К1,MATCH,
+П1,16,7р Рг.К1,7р Рг.К1,MATCH,
+П1,17,8р Рг.К1,8р Рг.К1,MATCH,
+П1,18,9р Рг.К1,9р Рг.К1,MATCH,
+П1,19,10р Рг.К1,10р Рг.К1,MATCH,
+П1,21,1t-4,1t-4,MATCH,
+П1,22,,Д0,ONLY_E4,Э3 không có nhánh chân linh kiện đọc chắc tới chân này; không suy từ Э4
+П1,23,,1t16∧СТРОБ1,ONLY_E4,Э3 không có nhánh chân linh kiện đọc chắc tới chân này; không suy từ Э4
+П1,24,,СТРОБ4,ONLY_E4,Э3 không có nhánh chân linh kiện đọc chắc tới chân này; không suy từ Э4
+П1,25,12р Рг.К1,12р Рг.К1,MATCH,
+П1,27,КОРПУС,КОРПУС,MATCH,
+П1,28,М0,М0,MATCH,
+П1,29,М1,М1,MATCH,
+П1,30,М2,М2,MATCH,
+П1,31,М3,М3,MATCH,
+П1,32,М4,М4,MATCH,
+П1,33,М5,М5,MATCH,
+П1,34,М6,М6,MATCH,
+П1,35,М7,М7,MATCH,
+П1,36,М8,М8,MATCH,
+П1,37,М9,М9,MATCH,
+П1,38,М10,М10,MATCH,
+П1,39,М11,М11,MATCH,
+П1,40,М12,М12,MATCH,
+П1,41,М13,М13,MATCH,
+П1,42,М14,М14,MATCH,
+П1,43,М15,М15,MATCH,
+П1,44,,3п.КПА,ONLY_E4,Э3 không có nhánh chân linh kiện đọc chắc tới chân này; không suy từ Э4
+П1,45,Рг.Пр⇒М,Рг.Пр⇒М,MATCH,
+П1,46,М⇒РК1,М⇒РК1,MATCH,
+П1,47,М⇒РК2,М⇒РК2,MATCH,
+П1,48,М⇒Рг.К1,М⇒Рг.К1,MATCH,
+П1,49,М⇒Рг.К2,М⇒Рг.К2,MATCH,
+П1,50,,СТРОБ1,ONLY_E4,Э3 không có nhánh chân linh kiện đọc chắc tới chân này; không suy từ Э4
+П1,51,,СТРОБ1-1,ONLY_E4,Э3 không có nhánh chân linh kiện đọc chắc tới chân này; không suy từ Э4
+П1,52,,3ОП,ONLY_E4,Э3 không có nhánh chân linh kiện đọc chắc tới chân này; không suy từ Э4
+П1,53,6р Рг.К2,6р Рг.К2,MATCH,
+П2,1,КОРПУС,КОРПУС,MATCH,
+П2,2,,ОТВ.Д R15,ONLY_E4,Э3 không có nhánh chân linh kiện đọc chắc tới chân này; không suy từ Э4
+П2,3,,Призн.налич ПКн,ONLY_E4,Э3 không có nhánh chân linh kiện đọc chắc tới chân này; không suy từ Э4
+П2,4,1t-3,1t-3,MATCH,
+П2,5,1t-2,1t-2,MATCH,
+П2,6,1t-1,1t-1,MATCH,
+П2,7,РК-1,РК-1,MATCH,
+П2,8,РК-2,РК-2,MATCH,
+П2,9,РК-3,РК-3,MATCH,
+П2,10,РК-4,РК-4,MATCH,
+П2,11,РК-5,РК-5,MATCH,
+П2,12,РК-6,РК-6,MATCH,
+П2,13,РК-7,РК-7,MATCH,
+П2,14,РК-8,РК-8,MATCH,
+П2,15,РК-9,РК-9,MATCH,
+П2,16,РК-10,РК-10,MATCH,
+П2,17,РК-11,РК-11,MATCH,
+П2,18,РК-12,РК-12,MATCH,
+П2,19,РК-13,РК-13,MATCH,
+П2,20,РК-14,РК-14,MATCH,
+П2,21,РК-15,РК-15,MATCH,
+П2,22,РК-16,РК-16,MATCH,
+П2,23,РК-17,РК-17,MATCH,
+П2,24,РК-18,РК-18,MATCH,
+П2,25,РК-19,РК-19,MATCH,
+П2,26,РК-20,РК-20,MATCH,
+П2,27,+5В,+5В,MATCH,
+П2,28,РК-21,РК-21,MATCH,
+П2,29,РК-22,РК-22,MATCH,
+П2,30,РК-23,РК-23,MATCH,
+П2,31,РК-24,РК-24,MATCH,
+П2,32,РК-25,РК-25,MATCH,
+П2,33,РК-26,РК-26,MATCH,
+П2,34,РК-27,РК-27,MATCH,
+П2,35,РК-28,РК-28,MATCH,
+П2,36,РК-29,РК-29,MATCH,
+П2,37,РК-30,РК-30,MATCH,
+П2,38,РК-31,РК-31,MATCH,
+П2,39,РК-32,РК-32,MATCH,
+П2,40,РМ КПА,РМ КПА,MATCH,
+П2,41,Рг.К1 КПА,Рг.К1 КПА,MATCH,
+П2,42,Рг.К2 КПА,Рг.К2 КПА,MATCH,
+П2,43,5р Рг.К2,5р Рг.К2,MATCH,
+П2,44,6р Рг.К2,6р Рг.К2,MATCH,
+П2,45,7р Рг.К2,7р Рг.К2,MATCH,
+П2,46,8р Рг.К2,8р Рг.К2,MATCH,
+П2,47,9р Рг.К2,9р Рг.К2,MATCH,
+П2,48,0⇒РПР,0⇒РПР,MATCH,
+П2,49,,¬ИСПРАВН.,ONLY_E4,Э3 không có nhánh chân linh kiện đọc chắc tới chân này; không suy từ Э4
+П3,1,КОРПУС,КОРПУС,MATCH,
+П3,2,ИВЧ,ИВЧ,MATCH,
+П3,3,,7р Рг.Пр,ONLY_E4,Э3 không có nhánh chân linh kiện đọc chắc tới chân này; không suy từ Э4
+П3,4,,ПК вх.,ONLY_E4,Э3 không có nhánh chân linh kiện đọc chắc tới chân này; không suy từ Э4
+П3,5,0р Рг.К2,0р Рг.К2,MATCH,
+П3,6,1р Рг.К2,1р Рг.К2,MATCH,
+П3,7,2р Рг.К2,2р Рг.К2,MATCH,
+П3,8,М0,М0,MATCH,
+П3,9,М1,М1,MATCH,
+П3,10,М2,М2,MATCH,
+П3,11,М3,М3,MATCH,
+П3,12,М4,М4,MATCH,
+П3,13,М5,М5,MATCH,
+П3,14,М6,М6,MATCH,
+П3,15,М7,М7,MATCH,
+П3,16,М8,М8,MATCH,
+П3,17,М9,М9,MATCH,
+П3,18,М10,М10,MATCH,
+П3,19,М11,М11,MATCH,
+П3,20,М12,М12,MATCH,
+П3,21,М13,М13,MATCH,
+П3,22,М14,М14,MATCH,
+П3,23,М15,М15,MATCH,
+П3,24,3р Рг.К2,3р Рг.К2,MATCH,
+П3,25,4р Рг.К2,4р Рг.К2,MATCH,
+П3,27,,СТРОБ1,ONLY_E4,Э3 không có nhánh chân linh kiện đọc chắc tới chân này; không suy từ Э4
+П3,28,,СТРОБ1-1,ONLY_E4,Э3 không có nhánh chân linh kiện đọc chắc tới chân này; không suy từ Э4
+П3,29,,1t-4,ONLY_E4,Э3 không có nhánh chân linh kiện đọc chắc tới chân này; không suy từ Э4
+П3,30,,1t-3,ONLY_E4,Э3 không có nhánh chân linh kiện đọc chắc tới chân này; không suy từ Э4
+П3,31,,1t-2,ONLY_E4,Э3 không có nhánh chân linh kiện đọc chắc tới chân này; không suy từ Э4
+П3,32,,1t-1,ONLY_E4,Э3 không có nhánh chân linh kiện đọc chắc tới chân này; không suy từ Э4
+П3,34,,2ОП,ONLY_E4,Э3 không có nhánh chân linh kiện đọc chắc tới chân này; không suy từ Э4
+П3,35,,3ОП,ONLY_E4,Э3 không có nhánh chân linh kiện đọc chắc tới chân này; không suy từ Э4
+П3,36,,5ОП,ONLY_E4,Э3 không có nhánh chân linh kiện đọc chắc tới chân này; không suy từ Э4
+П3,37,,6ОП,ONLY_E4,Э3 không có nhánh chân linh kiện đọc chắc tới chân này; không suy từ Э4
+П3,38,,0ОП,ONLY_E4,Э3 không có nhánh chân linh kiện đọc chắc tới chân này; không suy từ Э4
+П3,39,,1ОП,ONLY_E4,Э3 không có nhánh chân linh kiện đọc chắc tới chân này; không suy từ Э4
+П3,40,,4ОП,ONLY_E4,Э3 không có nhánh chân linh kiện đọc chắc tới chân này; không suy từ Э4
+П3,41,,7ОП,ONLY_E4,Э3 không có nhánh chân linh kiện đọc chắc tới chân này; không suy từ Э4
+П3,42,Nоб БК,NАБбк,NAME_MISMATCH,"Tên đọc từ Э3 khác Э4; giữ nguyên hai cách đọc, xem ric08_mota.md"
+П3,43,4р Рг.К1,4р Рг.К1,MATCH,
+П3,44,11р Рг.К1,11р Рг.К1,MATCH,
+П3,46,13р Рг.К1,13р Рг.К1,MATCH,
+П3,47,14р Рг.К1,14р Рг.К1,MATCH,
+П3,48,15р Рг.К1,15р Рг.К1,MATCH,
+П3,49,,Рг.Пр⇒М,ONLY_E4,Э3 không có nhánh chân linh kiện đọc chắc tới chân này; không suy từ Э4
+П3,50,ВХОД 4РК ТТЛ,ВХОД 4РК ТТЛ,MATCH,
+П3,51,ВХОД 5РК ТТЛ,ВХОД 5РК ТТЛ,MATCH,
+П3,52,ВХОД 6РК ТТЛ,ВХОД 6РК ТТЛ,MATCH,
+П3,53,ВХОД 7РК ТТЛ,ВХОД 7РК ТТЛ,MATCH,
+П3,54,0⇒Рг.Пр.,0⇒Рг.Пр.,MATCH,
+П3,55,,"+3,5В",ONLY_E4,Э3 không có nhánh chân linh kiện đọc chắc tới chân này; không suy từ Э4
+П3,56,,1t0,ONLY_E4,Э3 không có nhánh chân linh kiện đọc chắc tới chân này; không suy từ Э4
+П3,59,10р Рг.К2,10р Рг.К2,MATCH,
+П3,60,11р Рг.К2,11р Рг.К2,MATCH,
+П3,61,,РМ КПА,ONLY_E4,Э3 không có nhánh chân linh kiện đọc chắc tới chân này; không suy từ Э4
+П3,62,,0⇒РПР,ONLY_E4,Э3 không có nhánh chân linh kiện đọc chắc tới chân này; không suy từ Э4
+П3,63,,Д0,ONLY_E4,Э3 không có nhánh chân linh kiện đọc chắc tới chân này; không suy từ Э4
+П3,64,,1t16∧СТРОБ1,ONLY_E4,Э3 không có nhánh chân linh kiện đọc chắc tới chân này; không suy từ Э4
+П3,65,,СТРОБ4,ONLY_E4,Э3 không có nhánh chân linh kiện đọc chắc tới chân này; không suy từ Э4
