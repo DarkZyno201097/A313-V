@@ -1,7 +1,7 @@
 # Prompt chuyển giao: Codex tiếp tục dự án A313-V / A-313-3
 
 > Dán nguyên khối dưới đây vào Codex (CLI hoặc Desktop) tại thư mục repo `A313-V`.
-> Soạn 2026-10-22 bởi Claude (phiên Local). Trạng thái tham chiếu: nhánh `codex/y1-y7-audit`, commit `c2a1b4b`.
+> Soạn 2026-10-22 bởi Claude (phiên Local). Trạng thái tham chiếu: nhánh `main` (đã gộp `codex/y1-y7-audit`), thư mục repo `2.BO TLTK DAU A_A313-V`.
 
 ---
 

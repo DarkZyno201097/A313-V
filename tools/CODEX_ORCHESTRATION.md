@@ -15,16 +15,16 @@ Kiểm thử thật trên máy này ngày 2026-10-22: `codex-cli 0.163.0`, đăn
 
 1. Claude viết `codex-runs/<ID>/task.md`: bối cảnh, file nguồn, việc phải làm, ràng buộc,
    **định dạng báo cáo bắt buộc**, tiêu chí đạt.
-2. Claude chạy (Codex làm trong worktree riêng, không chung file với Claude):
+2. Claude chạy (cùng thư mục repo; chỉ một AI ghi file tại một thời điểm — Claude không sửa file khi Codex đang chạy):
    ```bash
-   tools/codex_run.sh codex-runs/<ID>/task.md ../A313-V_codex codex-runs/<ID>/r1
+   tools/codex_run.sh codex-runs/<ID>/task.md . codex-runs/<ID>/r1
    ```
    `CODEX_SANDBOX=workspace-write` khi nhiệm vụ cần sửa file; mặc định `read-only`.
 3. Kết quả trong `r1/`: `last.md` (báo cáo), `events.jsonl`, `thread_id`, `git_status.txt`, `git_diff.txt`.
 4. Claude kiểm tra: mở lại từng trích dẫn (file/trang/ảnh), chạy script kiểm, xem diff.
 5. Chưa đạt → `task_fix.md` nêu đúng chỗ sai, giao lại **cùng phiên**:
    ```bash
-   tools/codex_run.sh codex-runs/<ID>/fix1.md ../A313-V_codex codex-runs/<ID>/r2 "$(cat codex-runs/<ID>/r1/thread_id)"
+   tools/codex_run.sh codex-runs/<ID>/fix1.md . codex-runs/<ID>/r2 "$(cat codex-runs/<ID>/r1/thread_id)"
    ```
 6. Đạt → Claude ghi checkpoint `PROJECT_HANDOFF.md`, commit trên nhánh của Codex, sang nhiệm vụ sau.
 
@@ -36,11 +36,11 @@ Kiểm thử thật trên máy này ngày 2026-10-22: `codex-cli 0.163.0`, đăn
 - Kết luận kỹ thuật chỉ nhận khi có căn cứ (bản vẽ, số chân, đường nối, kết quả script);
   ô Codex ghi "chưa xác minh" giữ nguyên, Claude không lấp.
 
-## 4. Worktree
+## 4. Thư mục làm việc
 
 ```bash
-git worktree add -b codex/<việc> ../A313-V_codex main   # tạo
-git worktree list                                       # xem
+# Từ 2026-10-22 người dùng chọn làm chung MỘT thư mục (worktree ../A313-V_codex đã gỡ).
+# Muốn tách nhánh cho một việc lớn: git switch -c codex/<việc>  (trong chính thư mục repo)
 ```
 
 ## 5. Cổng phê duyệt (người dùng yêu cầu 2026-10-22)

@@ -130,7 +130,7 @@ python tmp/pdfs/review/a313-3/e3/e3_check.py  # kiểm bom↔net 8 hình рис.
 4 script §11 chạy lại trên `main`: exit 0, không đổi file nào.
 
 **Cơ chế:** Claude = Orchestrator, Codex CLI = Executor. Cách chạy, giới hạn an toàn: `tools/CODEX_ORCHESTRATION.md`;
-script `tools/codex_run.sh`. Codex làm trong worktree riêng `../A313-V_codex` (nhánh `codex/y1-y7-audit`).
+script `tools/codex_run.sh`. Ban đầu Codex làm trong worktree `../A313-V_codex` (nhánh `codex/y1-y7-audit`); 2026-10-22 đã fast-forward vào `main` (`16ed722`) và gỡ worktree — nay mọi việc làm trong một thư mục repo, nhánh `main`.
 Đã thử thật: `codex exec` (đăng nhập ChatGPT) và `codex exec resume <thread_id>` đều chạy.
 
 **T01 — độ đầy đủ dữ liệu Y1–Y7 (A-313-3, рис.5–11): ĐẠT.** Báo cáo `codex-runs/T01-y1y7-audit/r1/last.md`,

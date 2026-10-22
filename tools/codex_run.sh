@@ -2,7 +2,7 @@
 # Giao một nhiệm vụ cho Codex CLI và gom kết quả để Claude kiểm tra.
 # Dùng:  tools/codex_run.sh TASK.md WORKDIR OUTDIR [SESSION_ID]
 #   TASK.md   đề bài (đọc qua stdin)
-#   WORKDIR   worktree riêng của Codex (không dùng chung với Claude)
+#   WORKDIR   thư mục repo (thường là "."); không sửa file song song khi Codex đang chạy
 #   OUTDIR    nơi ghi events.jsonl, last.md (báo cáo), thread_id, git_status.txt, git_diff.txt
 #   SESSION_ID có thì `codex exec resume` phiên cũ (giữ ngữ cảnh), không có thì mở phiên mới
 # Biến môi trường: CODEX_SANDBOX (mặc định read-only), CODEX_TIMEOUT giây (mặc định 1800).
