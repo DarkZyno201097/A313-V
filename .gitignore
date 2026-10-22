@@ -62,3 +62,6 @@ Project Logs*/
 # --- Log debug của Altium, file phiên Claude Code ---
 *.log
 .claude/
+
+# --- Ảnh tờ liên lạc sinh lại được bằng k3_kiemke.py / k3_goc.py ---
+tmp/pdfs/review/a313-3/kiemke/*.jpg

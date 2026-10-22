@@ -40,7 +40,8 @@ STM32, JTAG/boundary-scan, reverse engineering FPGA đời cũ.
 1. **Tài liệu gốc A32 là chỉ-đọc.** Không bao giờ sửa, đổi tên, hay di chuyển:
    `1.BVTK A313-V/`, `2.DKKT A313-V/`, `3.HDSD A313-V/`, `TMKT&HDSD A313-V/`,
    `BVTK-A313-V.04.pdf`, `BVTK-A313-V.06.pdf`, `A313 original/`,
-   `File mach in va mach nguyen ly_A313_V/`, `GIAO AN HLKT A313-V.*`.
+   `File mach in va mach nguyen ly_A313_V/`, `GIAO AN HLKT A313-V.*`,
+   `ЕУ.048.002.РЭ_A313-3/` (ảnh chụp bản giấy; tra trang ở `DANH-MUC_ANH_RE_A-313-3.md`).
    Bản chuyển đổi/trích xuất ghi ra file mới, đặt cạnh file gốc.
    **Repo chỉ chứa PDF** — mọi `.doc`/`.docx` bị `.gitignore` loại, chỉ có trên
    máy làm việc. Trên cloud không sửa được báo cáo Word.
@@ -117,6 +118,14 @@ Vin/Vo** (bài B08-1a+ trở đi) — chưa tính được gain/offset/độ tuy
 * **Nguồn gốc tín hiệu `~5V/400Hz` chưa rõ.** Chỉ xuất hiện ở trang 28/56 của
   BVTK. Tấm nguồn A313-V.08.01 chỉ có vào 27 V DC, không sinh 400 Hz
   (đã kiểm BV.30). Cần tìm trong tài liệu khối hoặc đo trên máy bay.
+  **Cập nhật 2026-10-20** (`PHAN-TICH_TOAN-KHOI_A313-V.md` §2.5): BV.01, TMKT §4/§6.5
+  và phụ lục đầu cắm chỉ ra **biến thế trên sát-xi** (`Tp1`), sơ cấp 3Ш4/55 (~36 V ФА)
+  và 3Ш4/56 (~36 V ФС qua cầu chì 4 A), thứ cấp → DC11.A5. Không bản vẽ nào vẽ biến
+  thế ⇒ vẫn phải đo (việc H2). Khối gốc A-313-3 cũng tạo `УПР. МОД 1/2` từ 5 V 400 Hz
+  pha AC (`A-313-3.HDSDKT.pdf` §2.2.2, trang PDF 49) — cùng nguồn lưới.
+  **Cập nhật 2026-10-22** (`SO-DO-NGUON_A-313-3.md` §2): trong khối Nga, ~5 V 400 Hz do **Тр1 ТН-12-40-400
+  trên khối nguồn У17** (рис.25) hạ từ ~36 V pha A/C (3Ш4/55–56 → 3Ш5/33, /25), ra 3Ш5/11–12 ⇒ là
+  điện áp xoay chiều hạ từ lưới 36 V 400 Hz, khớp giả thuyết biến thế của A313-V. Biên độ rms/peak vẫn phải đo.
 
 ### 4.7. Chưa làm: phân tích tấm **A313-V.05**
 
@@ -126,6 +135,10 @@ Tấm .05 là **chuyển mạch tín hiệu ra**: 57 vỏ `168КТ2Б` (= 228 kh
 (trang 24) và BV.21.
 
 ### 4.8. Mục tiêu tiếp theo: phân tích toàn khối và hướng sửa chữa
+
+**Rev. A đã lập 2026-10-20:** `PHAN-TICH_TOAN-KHOI_A313-V.md` (sơ đồ khối, từng tấm,
+cây chẩn đoán theo A-313-2, việc cần đo §5, bảng chưa chắc chắn §6) + script
+`tmp/pdfs/review/toan-khoi/tk_*.py`. Việc còn lại là đo phần cứng theo §5 (H1…H18).
 
 Người dùng muốn (làm trên cloud) phân tích **toàn bộ khối A313-V** và đưa ra
 hướng xử lý sửa chữa cho cả khối, không chỉ tấm .06. Nguồn đã có trong repo:
@@ -145,6 +158,14 @@ hướng xử lý sửa chữa cho cả khối, không chỉ tấm .06. Nguồn 
   xuất PDF (ví dụ nhãn rơ-le hiện thành `ro e PEC-49`, trang 7). Đọc ký hiệu
   thì dùng SchDoc hoặc BVTK, không tin bản PDF này.
 * `GIAO AN HLKT A313-V.pdf` — giáo án huấn luyện kỹ thuật (nguyên lý khối).
+
+### 4.9. Nhiệm vụ mới: sửa khối gốc Nga A-313-3 làm dự phòng cho A313-V
+
+Người dùng (2026-10-20): khối A313-V vẫn có trục trặc chưa rõ nguyên nhân ⇒ khôi phục bộ Nga
+A-313-2A + A-313-3 làm dự phòng; làm A-313-3 trước. Bàn ПС17-318/319 đang hỏng. Kế hoạch tổng
+quát: `KE-HOACH_KIEM-TRA_A-313-3.md`. Tập `A313 original/A-313-3.HDSDKT.pdf` **mất toàn bộ hình**
+(chỉ còn tên hình và danh mục linh kiện Y2–Y6) ⇒ đang chờ người dùng bổ sung sơ đồ theo §2 của
+kế hoạch; có sơ đồ mới lập kế hoạch chi tiết từng tấm.
 
 ---
 

@@ -89,3 +89,36 @@ Commit `0085cd7` trên `origin/main` là bản sạch, private, đủ tài liệ
 Mở phiên cloud trên repo `A313-V` cho `CLAUDE.md` §4.8 (phân tích toàn khối,
 hướng sửa chữa), bắt đầu từ `A313 original/A-313-2.pdf` (tìm hỏng hóc) và
 SchDoc các tấm; hoặc làm 4.2 (dời `tmp/pdfs/review/` → `Phan-bien/`).
+
+## 11. Trạng thái A-313-3 (cập nhật 2026-10-22)
+
+**Đã xong** (nhánh `claude/beautiful-lovelace-oamywv`):
+* Danh mục 249 ảnh bản giấy ЕУ3.048.002 РЭ: `DANH-MUC_ANH_RE_A-313-3.md` (trang ↔ ảnh ↔ рис.).
+* Э4/Y16 tr.142–157 chép ra CSV + kiểm chéo hai chiều + ma trận П1…П15: `SO-DO-DAU-NOI_E4_A-313-3.md`.
+* So sánh 3Ш3/3Ш3В/3Ш4/3Ш4В với TMKT A313-V: 252/268 chân trùng, cắm lẫn được về sơ đồ chân máy bay.
+* Э3 + перечень phần nguồn рис.20–26 và У24 рис.19: `SO-DO-NGUON_A-313-3.md`. Nguồn ~5 В 400 Гц khối Nga =
+  Тр1 ТН-12-40-400 trên У17.
+
+**Đang dở:**
+* Sơ đồ phần số Y1–Y7 (рис.5–11) và tương tự Y8–Y15 (рис.12–18) — chưa chép.
+* ~240 ô «?» trong bảng Э4 (`tmp/pdfs/review/a313-3/e4/p*.csv`, cột note) chưa soát từng ô.
+* Trang ảnh còn thiếu: 211, 220, 238, 240 (перечень nguồn/У24); góc trên-trái ảnh #233; các trang
+  ở `DANH-MUC_ANH_RE_A-313-3.md` §4; tờ gấp chụp chưa trọn.
+
+**Mâu thuẫn còn nghi vấn** (chi tiết: `SO-DO-NGUON_A-313-3.md` §3 N1–N10, `SO-DO-DAU-NOI_E4_A-313-3.md` §3, §5):
+* У24 chân 2/4: Э4 «ВКЛ./ОТКЛ.» ↔ Э3 «КОНТР. −5В / ИСПОЛН. УСТР-ВО».
+* У21: bản vẽ −20 В (ЕУ3.215.451) ↔ khối lắp −02 (−23 В).
+* У14/У15 nhãn РК I / РК II ghi lẫn giữa tr.142 và tr.149.
+* У18 R11 «680 кОм» (nghi 680 Ω); У23 nhánh +3,5 В chỉ ra ≈ 2,5 V; У17 T9/T10 B/E chung net E(T8).
+* Ma trận: cột «Выход 2б» ghi П3/23 (nghi П3/29); КП7/41,6 ↔ КП12/38,12 khác tên.
+
+**Việc kế tiếp:** người dùng chụp bổ sung các trang thiếu + đo nguội N1–N10 trên khối; sau đó chép Э3 phần số
+Y1–Y7 theo cùng cách (agent chép → script kiểm bom↔net).
+
+**Script** (chạy từ gốc repo, theo thứ tự):
+```
+python tmp/pdfs/review/a313-3/e4_sua.py     # áp các chỗ sửa đã kiểm trên ảnh vào e4/p*.csv (idempotent)
+python tmp/pdfs/review/a313-3/e4_check.py   # kiểm chéo hai chiều Э4 → e4/e4_all.csv, e4_mismatch.csv
+python tmp/pdfs/review/a313-3/e4_tmkt.py    # so 3Ш3/3Ш4 với TMKT A313-V → e4/e4_vs_tmkt.csv
+python tmp/pdfs/review/a313-3/e3/e3_check.py  # kiểm bom↔net 8 hình рис.19–26 + trị số danh định
+```

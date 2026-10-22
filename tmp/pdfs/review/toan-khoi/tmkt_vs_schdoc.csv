@@ -1,0 +1,226 @@
+connector,pin,signal,dc,dc_pin,schdoc_net,named,match
+3Ш4B,1,Корпус,DC1,A1,GND/MSEL0/MSEL1,True,True
+3Ш4B,2,Вход ПК1 1-2,DC1,C9,vhod pc1 1-2,True,True
+3Ш4B,3,Вход ПК1 3-4,DC1,A10,vhod pc1 3-4,True,True
+3Ш4B,4,Вход ПК1 5-6,DC1,B10,vhod pc1 5-6,True,True
+3Ш4B,5,Вход ПК1 7-8,DC1,C10,vhod pc1 7-8,True,True
+3Ш4B,6,Вход ПК1 9-10,DC1,A11,vhod pc1 9-10,True,True
+3Ш4B,7,Вход ПК1 11-12,DC1,B11,vhod pc1 11-12,True,True
+3Ш4B,8,Вход ПК1 13-14,DC1,C11,vhod pc1 13-14,True,True
+3Ш4B,9,Вход ПК1 15-16,DC1,A12,vhod pc1 15-16,True,True
+3Ш4B,10,Вход ПК2 1-2,DC1,B12,vhod pc2 1-2,True,True
+3Ш4B,11,Вход ПК2 3-4,DC1,C12,vhod pc2 3-4,True,True
+3Ш4B,12,Вход ПК2 5-6,DC1,A13,vhod pc2 5-6,True,True
+3Ш4B,13,Вход ПК2 7-8,DC1,B13,vhod pc2 7-8,True,True
+3Ш4B,14,Вход ПК2 9-10,DC1,C13,vhod pc2 9-10,True,True
+3Ш4B,15,Вход ПК2 11-12,DC1,A14,vhod pc2 11-12,True,True
+3Ш4B,16,Вход ПК2 13-14,DC1,B14,vhod pc2 13-14,True,True
+3Ш4,1,Корпус,DC13,A1,GND,True,True
+3Ш4,2,Выход РК1,DC13,A4,Выход РК1,True,True
+3Ш4,3,Выход РК2,DC13,C4,Выход РК2,True,True
+3Ш4,4,Выход РК3,DC13,C6,Выход РК3,True,True
+3Ш4,5,Выход РК4,DC13,B7,Выход РК4,True,True
+3Ш4,6,Выход РК5,DC13,B9,Выход РК5,True,True
+3Ш4,7,Выход РК6,DC13,A10,Выход РК6,True,True
+3Ш4,8,Выход РК7,DC13,A12,Выход РК7,True,True
+3Ш4,9,Выход РК8,DC13,C12,Выход РК8,True,True
+3Ш4,10,Выход РК9,DC13,B15,Выход РК9,True,True
+3Ш4,11,Выход РК10,DC13,A16,Выход РК10,True,True
+3Ш4,12,Выход РК11,DC13,A18,Выход РК11,True,True
+3Ш4,13,Выход РК12,DC13,C18,Выход РК12,True,True
+3Ш4,14,Выход РК13,DC13,C20,Выход РК13,True,True
+3Ш4,15,Выход РК14,DC13,B21,Выход РК14,True,True
+3Ш4,16,Выход РК15,DC13,B23,Выход РК15,True,True
+3Ш4B,17,Вход ПК2 15-16,DC1,C14,vhod pc2 15-16,True,True
+3Ш4B,18,ПК1-1,DC1,A23,pc1,True,True
+3Ш4B,19,СИ1-1,DC1,C16,xi,True,True
+3Ш4B,20,СВК1-1,DC1,A19,xvc1,True,True
+3Ш4B,21,СПК1-1,DC1,C19,xpc1,True,True
+3Ш4B,22,80 кГц 1-1,DC1,A15,80cgj,True,True
+3Ш4B,23,ПК1-2,DC1,B23,pc1,True,True
+3Ш4B,24,СИ1-2,DC1,A17,xi,True,True
+3Ш4B,25,СВК1-2,DC1,B19,xvc1,True,True
+3Ш4B,26,СПК1-2,DC1,A20,xpc1,True,True
+3Ш4B,27,80 кГц 1-2,DC1,B15,80cgj,True,True
+3Ш4B,28,ПК2-1,DC1,C23,pc2,True,True
+3Ш4B,29,СИ2-1,DC1,B17,xi,True,True
+3Ш4B,30,СВК2-1,DC1,B20,xvc2,True,True
+3Ш4B,31,СПК2-1,DC1,A22,xpc2,True,True
+3Ш4B,32,80 кГц 2-1,DC1,C15,80cgj,True,True
+3Ш4B,33,ПК2-2,DC1,A24,pc2,True,True
+3Ш4B,34,СИ2-2,DC1,C17,xi,True,True
+3Ш4B,35,СВК2-2,DC1,C20,xvc2,True,True
+3Ш4B,36,СПК2-2,DC1,B22,xpc2,True,True
+3Ш4,17,Выход РК16,DC13,A24,Выход РК16,True,True
+3Ш4,18,Выход РК17,DC13,B4,Выход РК17,True,True
+3Ш4,19,Выход РК18,DC13,A5,Выход РК18,True,True
+3Ш4,20,Выход РК19,DC13,A7,Выход РК19,True,True
+3Ш4,21,Выход РК20,DC13,C7,Выход РК20,True,True
+3Ш4,22,Выход РК21,DC13,C9,Выход РК21,True,True
+3Ш4,23,Выход РК22,DC13,B10,Выход РК22,True,True
+3Ш4,24,Выход РК23,DC13,B12,Выход РК23,True,True
+3Ш4,25,Выход РК24,DC13,A13,Выход РК24,True,True
+3Ш4,26,Выход РК25,DC13,C15,Выход РК25,True,True
+3Ш4,27,Выход РК26,DC13,B16,Выход РК26,True,True
+3Ш4,28,Выход РК27,DC13,B18,Выход РК27,True,True
+3Ш4,29,Выход РК28,DC13,A19,Выход РК28,True,True
+3Ш4,30,Выход РК29,DC13,A21,Выход РК29,True,True
+3Ш4,31,Выход РК30,DC13,C21,Выход РК30,True,True
+3Ш4,32,Выход РК31,DC13,C23,Выход РК31,True,True
+3Ш4,33,Выход РК32,DC13,B24,Выход РК32,True,True
+3Ш4,34,Корпус,DC11,A1,GND/a,True,True
+3Ш4B,37,80 кГц 2-2,DC1,A16,80cgj,True,True
+3Ш4B,38,Вход ПК3,DC1,B24,pc3,True,True
+3Ш4B,39,СИ БК,DC1,A18,xi bc,True,True
+3Ш4B,40,СПКМ,DC1,C22,xpcm,True,True
+3Ш4B,41,ПК Вход K3A,DC1,A25,pc vh c3a,True,True
+3Ш4B,42,ПК4,DC1,C24,pc4,True,True
+3Ш4B,43,СИ М,DC1,B18,xim,True,True
+3Ш4B,44,СВК1-ЦИ,DC1,A21,xvc xi1,True,False
+3Ш4B,45,80 кГц ЦИ,DC1,B16,80cgj,True,True
+3Ш4B,46,ПК1 ЦИ,DC1,B25,pc ji,True,False
+3Ш4B,47,СИ ЦИ,DC1,C18,xi ji,True,True
+3Ш4B,48,СВК2-ЦИ,DC1,B21,xvc xi2,True,False
+3Ш4B,49,СВК БК,DC1,C21,xvc bc,True,True
+3Ш4B,50,7p АЦИ,DC1,B4,7r aji,True,True
+3Ш4B,51,8p АЦИ,DC1,C4,8r aji,True,True
+3Ш4B,52,9p АЦИ,DC1,A5,9r aji,True,True
+3Ш4B,53,10p АЦИ,DC1,B5,10r aji,True,True
+3Ш4B,55,Вход 1РК ТТЛ,DC1,C5,vh 1rc ttl,True,True
+3Ш4B,56,Вход 2РК ТТЛ,DC1,A6,vh 2rc ttl,True,True
+3Ш4B,57,Вход 3РК ТТЛ,DC1,B6,vh 3rc ttl,True,True
+3Ш4B,58,Вход 4РК ТТЛ,DC1,C6,vh 4rc ttl,True,True
+3Ш4,46,Испр Ключ,DC13,C14,Испр Ключ,True,True
+3Ш4,48,Испр ТТЛ,DC2,B29,ixpravn ttl,True,False
+3Ш4,50,Запрет принуд пуска,DC1,B9,kapr[t prin kapuxc,True,False
+3Ш4,57,Корпус,DC6,A1,GND/OT,True,True
+3Ш4B,59,Вход 5РК ТТЛ,DC1,A7,vh 5rc ttl,True,True
+3Ш4B,60,Вход 6РК ТТЛ,DC1,B7,vh 6rc ttl,True,True
+3Ш4B,61,Вход 7РК ТТЛ,DC1,C7,vh 7rc ttl,True,True
+3Ш4B,62,Признак Нак ПКМ,DC1,A8,prikn nac pcm,True,False
+3Ш4B,67,Общий провод,DC1,A31,GND/MSEL0/MSEL1,True,True
+3Ш4,59,Корпус,DC8,A1,30/GND/a/ob]ii provod,True,True
+3Ш4,62,Вх. Пр. П (ТТЛ),DC1,B8,vh prikn p ttl,True,False
+3Ш4,65,Корпус,DC2,A1,GND/MSEL0/MSEL1,True,True
+3Ш4,66,Корпус,DC10,A1,GND/obs.prov,True,True
+3Ш3B,1,Корпус,DC12,A1,GND/a,True,True
+3Ш3B,2,Выход 1a ≈,DC12,A17,vih.1a==,True,True
+3Ш3B,3,Выход 1б ≈,DC12,C17,vih.1b==,True,True
+3Ш3B,4,Выход 2a ≈,DC12,A18,vih.2a==,True,True
+3Ш3B,5,Выход 2б ≈,DC12,C18,vih.2b==,True,True
+3Ш3B,6,Выход 3a ≈,DC12,A19,vih.3a==,True,True
+3Ш3B,7,Выход 3б ≈,DC12,C19,vih.3b==,True,True
+3Ш3B,8,Выход 4a ≈,DC12,A20,vih.4a==,True,True
+3Ш3B,9,Выход 4б ≈,DC12,C20,vih.4b==,True,True
+3Ш3,1,Корпус,DC3,A1,GND/a,True,True
+3Ш3,2,Вход PK-1,DC3,B10,vhod rc1,True,True
+3Ш3,3,Вход PK-2,DC3,C10,vhod rc2,True,True
+3Ш3,4,Вход PK-3,DC3,A11,vhod rc3,True,True
+3Ш3,5,Вход PK-4,DC3,B11,vhod rc4,True,True
+3Ш3,6,Вход PK-5,DC3,C11,vhod rc5,True,True
+3Ш3,7,Вход PK-6,DC3,A12,vhod rc6,True,True
+3Ш3,8,Вход PK-7,DC3,B12,vhod rc7,True,True
+3Ш3,9,Вход PK-8,DC3,C12,vhod rc8,True,True
+3Ш3B,10,Выход 5a ≈,DC12,A21,vih.5a==,True,True
+3Ш3B,11,Выход 5б ≈,DC12,C21,vih.5b==,True,True
+3Ш3B,12,Выход 6a ≈,DC12,A22,vih.6a==,True,True
+3Ш3B,13,Выход 6б ≈,DC12,C22,vih.6b==,True,True
+3Ш3B,14,Выход 7a ≈,DC12,A23,vih.7a==,True,True
+3Ш3B,15,Выход 8a ≈,DC12,A24,vih.8a==,True,True
+3Ш3B,16,Выход 7б ≈,DC12,C23,vih.7b==,True,True
+3Ш3B,17,Выход 8б ≈,DC12,C24,vih.8b==,True,True
+3Ш3B,18,Выход 9a,DC10,A15,vih.9a=,True,True
+3Ш3B,19,Выход 9б,DC10,C15,vih.9b=,True,True
+3Ш3B,20,Выход 23a,DC10,A25,vih.23a=,True,True
+3Ш3B,21,Выход 24a,DC10,B25,vih.24a=,True,True
+3Ш3B,22,Выход 10a,DC10,A16,vih.10a=,True,True
+3Ш3B,23,Выход 10б,DC10,C16,vih.10b=,True,True
+3Ш3B,24,Выход 11a,DC10,A17,vih.11a=,True,True
+3Ш3B,25,Выход 11б,DC10,C17,vih.11b=,True,True
+3Ш3B,26,Выход 12a,DC10,A18,vih.12a=,True,True
+3Ш3B,27,Выход 12б,DC10,C18,vih.12b=,True,True
+3Ш3B,28,Выход 13a,DC10,A19,vih.13a=,True,True
+3Ш3B,29,Выход 13б,DC10,C19,vih.13b=,True,True
+3Ш3B,30,Выход 14a,DC10,A20,vih.14a=,True,True
+3Ш3B,31,Выход 14б,DC10,C20,vih.14b=,True,True
+3Ш3B,32,Выход 15a,DC10,A21,vih.15a=,True,True
+3Ш3B,33,Выход 15б,DC10,C21,vih.15b=,True,True
+3Ш3B,34,Выход 16a,DC10,A22,vih.16a=,True,True
+3Ш3B,35,Выход 16б,DC10,C22,vih.16b=,True,True
+3Ш3B,36,Выход 17a,DC10,A23,vih.17a=,True,True
+3Ш3B,37,Выход 18a,DC10,B23,vih.18a=,True,True
+3Ш3,10,Вход PK-9,DC3,B18,vhod rc9,True,True
+3Ш3,11,Вход PK-10,DC3,C18,vhod rc10,True,True
+3Ш3,12,Вход PK-11,DC3,A19,vhod rc11,True,True
+3Ш3,13,Вход PK-12,DC3,B19,vhod rc12,True,True
+3Ш3,14,Вход PK-13,DC3,C19,vhod rc13,True,True
+3Ш3,15,Вход PK-14,DC3,A20,vhod rc14,True,True
+3Ш3,16,Вход PK-15,DC3,B20,vhod rc15,True,True
+3Ш3,17,Вход PK-16,DC3,C20,vhod rc16,True,True
+3Ш3,18,Вход 1a,DC3,A5,vhod 1a,True,True
+3Ш3,19,Вход 1б,DC3,B6,vhod 1b,True,True
+3Ш3,20,Вход 2a,DC3,B5,vhod 2a,True,True
+3Ш3,21,Вход 2б,DC3,C6,vhod 2b,True,True
+3Ш3,22,Вход 3a,DC3,C5,vhod 3a,True,True
+3Ш3,23,Вход 3б,DC3,A7,vhod 3b,True,True
+3Ш3,24,Вход 4a,DC3,A6,vhod 4a,True,True
+3Ш3,25,Вход 4б,DC3,B7,vhod 4b,True,True
+3Ш3,26,Вход 5a,DC3,C7,vhod 5a,True,True
+3Ш3,27,Вход 5б,DC3,A9,vhod 5b,True,True
+3Ш3,28,Вход 6a,DC3,A8,vhod 6a,True,True
+3Ш3,29,Вход 6б,DC3,B9,vhod 6b,True,True
+3Ш3,30,Вход 7a,DC3,B8,vhod 7a,True,True
+3Ш3,31,Вход 7б,DC3,C9,vhod 7b,True,True
+3Ш3,32,Вход 8a,DC3,C8,vhod 8a,True,True
+3Ш3,33,Вход 8б,DC3,A10,vhod 8b,True,True
+3Ш3,34,Вход 9a,DC3,A13,vhod 9a,True,True
+3Ш3,35,Вход 9б,DC3,B14,vhod 9b,True,True
+3Ш3,36,Вход 10a,DC3,B13,vhod 10a,True,True
+3Ш3,37,Вход 10б,DC3,C14,vhod 10b,True,True
+3Ш3B,38,Выход 19a,DC10,C23,vih.19a=,True,True
+3Ш3B,39,Выход 20a,DC10,A24,vih.20a=,True,True
+3Ш3B,40,Выход 21a,DC10,B24,vih.21a=,True,True
+3Ш3B,41,Выход 22a,DC10,C24,vih.22a=,True,True
+3Ш3B,42,Выход 25a,DC10,C25,vih.25a=,True,True
+3Ш3B,43,Выход 26a,DC10,A26,vih.26a=,True,True
+3Ш3B,44,Выход 27a,DC10,B26,vih.27a=,True,True
+3Ш3B,45,Выход 28a,DC10,C26,vih.28a=,True,True
+3Ш3B,46,Выход 29a,DC10,A27,vih.29a=,True,True
+3Ш3B,47,Выход 30a,DC10,B27,vih.30a=,True,True
+3Ш3B,48,Выход 31a,DC10,C27,vih.31a=,True,True
+3Ш3B,49,Выход 32a,DC10,A28,vih.32a=,True,True
+3Ш3B,54,Корпус,DC9,A1,GND/obs.prov,True,True
+3Ш3B,58,Вход 16a,DC3,C16,vhod 16a,True,True
+3Ш3B,59,Вход 16б,DC3,A18,vhod 16b,True,True
+3Ш3B,61,Корпус,DC7,A1,30/GND/a/ob]ii provod,True,True
+3Ш3,38,Вход 11a,DC3,C13,vhod 11a,True,True
+3Ш3,39,Вход 11б,DC3,A15,vhod 11b,True,True
+3Ш3,40,Вход 15a,DC3,B16,vhod 15a,True,True
+3Ш3,41,Вход 15б,DC3,C17,vhod 15b,True,True
+3Ш3,42,Вход 13a,DC3,C15,vhod 13a,True,True
+3Ш3,43,Вход 13б,DC3,A17,vhod 13b,True,True
+3Ш3,44,Вход 14a,DC3,A16,vhod 14a,True,True
+3Ш3,45,Вход 14б,DC3,B17,vhod 14b,True,True
+3Ш3,46,Вход K1-a,DC5,A7,Bhod_c1a,True,True
+3Ш3,47,Вход K1-б,DC5,B7,Bhod_c1b,True,True
+3Ш3,48,Вход K1-PK,DC5,C7,Bhod_c1rc,True,True
+3Ш3,49,Вход K2-a,DC5,A9,Bhod_c2a,True,True
+3Ш3,50,Вход K2-б,DC5,B9,Bhod_c2b,True,True
+3Ш3,51,Вход K2- PK,DC5,C9,Bhod_c2rc,True,True
+3Ш3,52,Вход K3-a,DC5,A11,Bhod_c3a,True,True
+3Ш3,53,Вход K3-б,DC5,B11,Bhod_c3b,True,True
+3Ш3,54,Вход K3- PK,DC5,C11,Bhod_c3rc,True,True
+3Ш3,55,Упр. t1,DC3,B24,upr. tk1,True,False
+3Ш3,56,Упр. t2,DC3,C24,upr. tk2,True,False
+3Ш3,57,Упр. t3,DC3,A25,upr. tk3,True,False
+3Ш3,58,Упр. t4,DC3,B25,upr. tk4,True,False
+3Ш3,59,Упр. T1,DC3,A23,upr. t1,True,True
+3Ш3,60,Упр. T2,DC3,B23,upr. t2,True,True
+3Ш3,61,Упр. T3,DC3,C23,upr. t3,True,True
+3Ш3,62,Упр. T4,DC3,A24,upr. t4,True,True
+3Ш3,63,Подкл. 1,DC3,A29,podcl. 1,True,True
+3Ш3B,65,Корпус,DC12,A31,GND/a,True,True
+3Ш3B,67,Общий провод,DC5,A1,GND/OT,True,True
+3Ш3,65,Общий провод,DC3,A31,GND/a,True,True
+3Ш3,66,Подкл. 2,DC3,B29,podcl. 2,True,True
+3Ш3,67,Общий провод,DC4,A1,GND/a,True,True

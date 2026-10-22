@@ -1,0 +1,247 @@
+{
+ "A313-V.01": {
+  "file": "TAM1_Xulytrungtam/PAGE1.SchDoc",
+  "symbols": 146,
+  "packages": 145,
+  "by_libref": {
+   "R_Dup1": 61,
+   "R": 16,
+   "CAP NP": 14,
+   "CT25244": 9,
+   "CAP": 7,
+   "74HC374": 4,
+   "thachanh4c": 3,
+   "T POINT A": 3,
+   "CY62256N": 3,
+   "CY14B101K": 3,
+   "DC96c": 2,
+   "CAPACITOR POL": 2,
+   "LED": 2,
+   "CON10A": 2,
+   "133LA8": 2,
+   "tlv1117cdcy": 2,
+   "ep1c12q240": 1,
+   "EPCS16": 1,
+   "CAP_Dup1": 1,
+   "1HT251": 1,
+   "TPS70248": 1,
+   "133LN1": 1,
+   "LM393": 1,
+   "7400_0_Dup1": 1,
+   "XTAL": 1,
+   "133LA3": 1
+  },
+  "nets": 551,
+  "named_nets": 325
+ },
+ "A313-V.02": {
+  "file": "TAM2_chuyenmachtinhieuvao/A313-2.SchDoc",
+  "symbols": 302,
+  "packages": 267,
+  "by_libref": {
+   "R": 231,
+   "168KT2B": 18,
+   "198-HT7": 12,
+   "DIODE ZENER": 2,
+   "DC96c": 2,
+   "2D908A": 2
+  },
+  "nets": 390,
+  "named_nets": 197
+ },
+ "A313-V.03": {
+  "file": "Tam3_Cum_tich_phan/A313_3.SchDoc",
+  "symbols": 266,
+  "packages": 198,
+  "by_libref": {
+   "R": 107,
+   "CAP NP": 27,
+   "168KT2b": 25,
+   "1R1001": 10,
+   "140YD1B": 10,
+   "CAP": 8,
+   "DIODE": 4,
+   "C": 3,
+   "DC96c": 2,
+   "LDS-A81R": 1,
+   "RESISTOR VAR": 1
+  },
+  "nets": 421,
+  "named_nets": 64
+ },
+ "A313-V.04": {
+  "file": "TAM4_Cumbiendoi/A313_4.SchDoc",
+  "symbols": 311,
+  "packages": 244,
+  "by_libref": {
+   "R": 144,
+   "168KT2b": 25,
+   "CAP NP": 22,
+   "168KT2B": 12,
+   "1R1001": 11,
+   "140YD1B": 8,
+   "DIODE": 7,
+   "C": 4,
+   "DIODE ZENER": 3,
+   "DC96c": 2,
+   "CAP POL": 2,
+   "RESISTOR VAR": 2,
+   "2N1132": 1,
+   "2D908A": 1
+  },
+  "nets": 432,
+  "named_nets": 65
+ },
+ "A313-V.05": {
+  "file": "Tam5_Chuyenmachtinhieura/A313_5.SchDoc",
+  "symbols": 173,
+  "packages": 173,
+  "by_libref": {
+   "R": 61,
+   "168KT2B": 57,
+   "CAP": 48,
+   "CAP NP": 5,
+   "DC96c": 2
+  },
+  "nets": 235,
+  "named_nets": 96
+ },
+ "A313-V.06": {
+  "file": "Tam6_khuyechdaitinhieura/A313_6.SchDoc",
+  "symbols": 277,
+  "packages": 234,
+  "by_libref": {
+   "R": 121,
+   "CAP NP": 41,
+   "140YD1B": 18,
+   "2N1132A": 16,
+   "2N1069": 16,
+   "168KT2b": 15,
+   "CAP POL": 5,
+   "DC96c": 2
+  },
+  "nets": 452,
+  "named_nets": 43
+ },
+ "A313-V.07": {
+  "file": "machbiendoilenhdon/machbiendoilenhdon.SchDoc",
+  "symbols": 145,
+  "packages": 121,
+  "by_libref": {
+   "R": 66,
+   "DIODE": 17,
+   "RELAY_SPDT": 16,
+   "CON1": 11,
+   "1HT-251": 9,
+   "CON40": 2
+  },
+  "nets": 206,
+  "named_nets": 70
+ },
+ "A313-V.07(Sheet1)": {
+  "file": "machbiendoilenhdon/Sheet1.SchDoc",
+  "symbols": 133,
+  "packages": 109,
+  "by_libref": {
+   "R": 66,
+   "RELAY_SPDT": 16,
+   "DIODE": 16,
+   "1HT-251": 9,
+   "CON40": 2
+  },
+  "nets": 204,
+  "named_nets": 70
+ },
+ "A313-V.08.01": {
+  "file": "machnguon_A313V/NGUON_A313.SchDoc",
+  "symbols": 51,
+  "packages": 51,
+  "by_libref": {
+   "CAP NP": 8,
+   "Res3": 8,
+   "LED3": 8,
+   "RESISTOR": 7,
+   "CAPACITOR": 5,
+   "CAPACITOR NON-POL": 3,
+   "ptn78020w": 2,
+   "thn30-2422": 2,
+   "INDUCTOR": 2,
+   "thn30-2415": 1,
+   "INDUCTOR_Dup1": 1,
+   "POT_Dup1": 1,
+   "PTN78020A": 1,
+   "CON31": 1,
+   "DC96c": 1
+  },
+  "nets": 115,
+  "named_nets": 76
+ },
+ "A313-V.08.02": {
+  "file": "machkiemtranguon/mach_kiem_tra_nguon.SchDoc",
+  "symbols": 89,
+  "packages": 89,
+  "by_libref": {
+   "RESISTOR": 39,
+   "DIODE": 12,
+   "RESISTOR VAR": 11,
+   "NPN ECB": 9,
+   "DIODE ZENER": 6,
+   "LDS-A81R": 4,
+   "K140UD1B": 4,
+   "CAP POL": 1,
+   "CAP NP_Dup1": 1,
+   "CAP NP": 1,
+   "CON31": 1
+  },
+  "nets": 126,
+  "named_nets": 16
+ },
+ "A313-V.08.02(ngoc)": {
+  "file": "machkiemtranguon/ngoc.SchDoc",
+  "symbols": 89,
+  "packages": 6,
+  "by_libref": {
+   "RESISTOR": 1,
+   "DIODE": 1,
+   "LDS-A81R": 1,
+   "NPN ECB": 1,
+   "CAP NP": 1,
+   "CON18": 1
+  },
+  "nets": 129,
+  "named_nets": 15
+ },
+ "DC13-96": {
+  "file": "machdaucam96chan_DC13/daucam96chan.SchDoc",
+  "symbols": 105,
+  "packages": 103,
+  "by_libref": {
+   "header1": 102,
+   "GIAC 32x3 (A,B,C)": 1
+  },
+  "nets": 97,
+  "named_nets": 1
+ },
+ "DAUCAM-31": {
+  "file": "machdaucam31chan_A313V/DAUCAM.SchDoc",
+  "symbols": 2,
+  "packages": 2,
+  "by_libref": {
+   "CON31": 2
+  },
+  "nets": 14,
+  "named_nets": 14
+ },
+ "A313-V.10": {
+  "file": "tamcaclinhkienroirac/A313_10.SchDoc",
+  "symbols": 7,
+  "packages": 7,
+  "by_libref": {
+   "Cap": 4,
+   "DIODE": 2,
+   "Header 14": 1
+  },
+  "nets": 5,
+  "named_nets": 5
+ }
+}

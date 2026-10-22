@@ -1,0 +1,398 @@
+ref,pin,net,note
+Ш1,1,X:1…10 +5В 15А,
+Ш1,2,X:1…10 +5В 15А,
+Ш1,3,X:1…10 +5В 15А,
+Ш1,4,X:1…10 +5В 15А,
+Ш1,5,X:1…10 +5В 15А,
+Ш1,6,X:1…10 +5В 15А,
+Ш1,7,X:1…10 +5В 15А,
+Ш1,8,X:1…10 +5В 15А,
+Ш1,9,X:1…10 +5В 15А,
+Ш1,10,X:1…10 +5В 15А,
+Ш1,18,"X:18…23,26…31 Корпус",Э3 vẽ thanh nối 1…10 và 18…31 liền nhau qua chỗ gập — coi là hai net riêng (theo bảng 3Ш5 p142)
+Ш1,19,"X:18…23,26…31 Корпус",
+Ш1,20,"X:18…23,26…31 Корпус",
+Ш1,21,"X:18…23,26…31 Корпус",
+Ш1,22,"X:18…23,26…31 Корпус",
+Ш1,23,"X:18…23,26…31 Корпус",
+Ш1,26,"X:18…23,26…31 Корпус",
+Ш1,27,"X:18…23,26…31 Корпус",
+Ш1,28,"X:18…23,26…31 Корпус",
+Ш1,29,"X:18…23,26…31 Корпус",
+Ш1,30,"X:18…23,26…31 Корпус",
+Ш1,31,"X:18…23,26…31 Корпус",
+Ш1,41,"X:41…43,47,48 +27В ВХОД",
+Ш1,42,"X:41…43,47,48 +27В ВХОД",
+Ш1,43,"X:41…43,47,48 +27В ВХОД",
+Ш1,47,"X:41…43,47,48 +27В ВХОД",
+Ш1,48,"X:41…43,47,48 +27В ВХОД",
+Ш1,45,"X:45,46 −6,3В 1А",
+Ш1,46,"X:45,46 −6,3В 1А",
+Ш1,25,X:25 ~36В 400Гц Ф.С,
+Пр2,2,X:25 ~36В 400Гц Ф.С,
+Ш1,33,X:33 ~36В 400Гц Ф.А,
+Тр1,2,X:33 ~36В 400Гц Ф.А,
+Ш1,11,X:11 ~5В 400Гц Ф.С,
+Тр1,9,X:11 ~5В 400Гц Ф.С,
+Ш1,12,X:12 ~5В 400Гц Ф.А,
+Тр1,8,X:12 ~5В 400Гц Ф.А,
+Ш1,13,X:13 Упр.(+5В),nút R8/R9 (đỉnh chiết áp ref +5 В)
+R8,2,X:13 Упр.(+5В),nút R8/R9 (đỉnh chiết áp ref +5 В)
+R9,1,X:13 Упр.(+5В),nút R8/R9 (đỉnh chiết áp ref +5 В)
+Ш1,14,"X:14 Упр.(−6,3В)","nút R35/R36 (phân áp hồi tiếp −6,3 В)"
+R35,2,"X:14 Упр.(−6,3В)","nút R35/R36 (phân áp hồi tiếp −6,3 В)"
+R36,1,"X:14 Упр.(−6,3В)","nút R35/R36 (phân áp hồi tiếp −6,3 В)"
+Пр2,1,N1,
+Тр1,1,N1,
+Тр1,2а,NC,đầu ra không nối trên Э3
+Тр1,2б,NC,đầu ra không nối trên Э3
+Тр1,10,NC,đầu ra không nối trên Э3
+Тр2,2,NC,đầu ra (chấm) không nối trên Э3
+Тр2,3,NC,đầu ra (chấm) không nối trên Э3
+Др3,2,"X:41…43,47,48 +27В ВХОД",
+Др3,4,"X:41…43,47,48 +27В ВХОД",
+Пр3,1,"X:41…43,47,48 +27В ВХОД",
+Др3,1,N2,
+Др3,3,N2,
+Пр1,1,N2,
+Пр4,1,N2,
+C17,+,N2,
+C18,+,N2,
+C19,+,N2,
+C20,+,N2,
+C21,+,N2,
+C22,+,N2,
+C23,+,N2,
+C24,+,N2,
+C25,+,N2,
+C26,+,N2,
+C27,+,N2,
+C28,+,N2,
+C29,+,N2,
+C30,+,N2,
+C31,+,N2,
+C32,+,N2,
+Пр1,2,N3,+27 В sau cầu chì (cực C khoá)
+Пр4,2,N3,+27 В sau cầu chì (cực C khoá)
+R6,1,N3,+27 В sau cầu chì (cực C khoá)
+T8,к,N3,+27 В sau cầu chì (cực C khoá)
+T9,к,N3,+27 В sau cầu chì (cực C khoá)
+T10,к,N3,+27 В sau cầu chì (cực C khoá)
+T11,к,N3,+27 В sau cầu chì (cực C khoá)
+Тр2,6,N3,+27 В sau cầu chì (cực C khoá)
+Тр2,8,N3,+27 В sau cầu chì (cực C khoá)
+Тр2,5,N4,nguồn tầng kích = +27 В ± điện áp cuộn 5-6/7-8 Тр2
+Тр2,7,N4,nguồn tầng kích = +27 В ± điện áp cuộn 5-6/7-8 Тр2
+R3,1,N4,nguồn tầng kích = +27 В ± điện áp cuộn 5-6/7-8 Тр2
+R5,1,N4,nguồn tầng kích = +27 В ± điện áp cuộn 5-6/7-8 Тр2
+R10,1,N4,nguồn tầng kích = +27 В ± điện áp cuộn 5-6/7-8 Тр2
+R13,1,N4,nguồn tầng kích = +27 В ± điện áp cuộn 5-6/7-8 Тр2
+T3,э,N4,nguồn tầng kích = +27 В ± điện áp cuộn 5-6/7-8 Тр2
+T6,э,N4,nguồn tầng kích = +27 В ± điện áp cuộn 5-6/7-8 Тр2
+R3,2,N5,
+R4,1,N5,
+R4,2,N6,
+T4,к,N6,
+T4,э,N7,
+R16,1,N7,
+T8,б,N7,
+T4,б,N8,
+T5,э,N8,
+R16,2,N8,
+R17,1,N8,
+T5,б,N9,
+T6,к,N9,
+R17,2,N9,
+T5,к,N10,
+R5,2,N10,
+T6,б,N11,
+R13,2,N11,
+C4,+,N11,
+R14,1,N11,
+T3,к,N12,
+C4,−,N12,
+R14,2,N12,
+R15,1,N12,
+T3,б,N13,
+R10,2,N13,
+R11,1,N13,
+T2,к,N14,
+R11,2,N14,
+T2,э,N15,
+R12,1,N15,
+T2,б,N16,
+R24,1,N16,
+R6,2,N17,~+13 В (Д814Д)
+R7,1,N17,~+13 В (Д814Д)
+Д1,к,N17,~+13 В (Д814Д)
+R7,2,N18,~+9 В (Д818Д) — nguồn/ref khuếch đại sai số
+Д2,к,N18,~+9 В (Д818Д) — nguồn/ref khuếch đại sai số
+C2,+,N18,~+9 В (Д818Д) — nguồn/ref khuếch đại sai số
+R8,1,N18,~+9 В (Д818Д) — nguồn/ref khuếch đại sai số
+T12,э,N18,~+9 В (Д818Д) — nguồn/ref khuếch đại sai số
+T15,э,N18,~+9 В (Д818Д) — nguồn/ref khuếch đại sai số
+R9,3,N19,R9.3 = con trượt
+C3,+,N19,R9.3 = con trượt
+T13,б,N19,R9.3 = con trượt
+T8,э,N20,"THEO HÌNH VẼ: B và E của T9, T10 (và B của T11) cùng nằm trên một net với E của T8 ⇒ tự mâu thuẫn (R22 bị nối tắt). Dự đoán ý thiết kế: E(T8)→B(T9,T10,T11) kiểu Darlington, E(T9…T11)=nút chuyển mạch. ĐO R(б-э) T9/T10 trên tấm"
+T9,б,N20,"THEO HÌNH VẼ: B và E của T9, T10 (và B của T11) cùng nằm trên một net với E của T8 ⇒ tự mâu thuẫn (R22 bị nối tắt). Dự đoán ý thiết kế: E(T8)→B(T9,T10,T11) kiểu Darlington, E(T9…T11)=nút chuyển mạch. ĐO R(б-э) T9/T10 trên tấm"
+T9,э,N20,"THEO HÌNH VẼ: B và E của T9, T10 (và B của T11) cùng nằm trên một net với E của T8 ⇒ tự mâu thuẫn (R22 bị nối tắt). Dự đoán ý thiết kế: E(T8)→B(T9,T10,T11) kiểu Darlington, E(T9…T11)=nút chuyển mạch. ĐO R(б-э) T9/T10 trên tấm"
+T10,б,N20,"THEO HÌNH VẼ: B và E của T9, T10 (và B của T11) cùng nằm trên một net với E của T8 ⇒ tự mâu thuẫn (R22 bị nối tắt). Dự đoán ý thiết kế: E(T8)→B(T9,T10,T11) kiểu Darlington, E(T9…T11)=nút chuyển mạch. ĐO R(б-э) T9/T10 trên tấm"
+T10,э,N20,"THEO HÌNH VẼ: B và E của T9, T10 (và B của T11) cùng nằm trên một net với E của T8 ⇒ tự mâu thuẫn (R22 bị nối tắt). Dự đoán ý thiết kế: E(T8)→B(T9,T10,T11) kiểu Darlington, E(T9…T11)=nút chuyển mạch. ĐO R(б-э) T9/T10 trên tấm"
+T11,б,N20,"THEO HÌNH VẼ: B và E của T9, T10 (và B của T11) cùng nằm trên một net với E của T8 ⇒ tự mâu thuẫn (R22 bị nối tắt). Dự đoán ý thiết kế: E(T8)→B(T9,T10,T11) kiểu Darlington, E(T9…T11)=nút chuyển mạch. ĐO R(б-э) T9/T10 trên tấm"
+T11,э,N20,"THEO HÌNH VẼ: B và E của T9, T10 (và B của T11) cùng nằm trên một net với E của T8 ⇒ tự mâu thuẫn (R22 bị nối tắt). Dự đoán ý thiết kế: E(T8)→B(T9,T10,T11) kiểu Darlington, E(T9…T11)=nút chuyển mạch. ĐO R(б-э) T9/T10 trên tấm"
+R22,1,N20,"THEO HÌNH VẼ: B và E của T9, T10 (và B của T11) cùng nằm trên một net với E của T8 ⇒ tự mâu thuẫn (R22 bị nối tắt). Dự đoán ý thiết kế: E(T8)→B(T9,T10,T11) kiểu Darlington, E(T9…T11)=nút chuyển mạch. ĐO R(б-э) T9/T10 trên tấm"
+R22,2,N20,"THEO HÌNH VẼ: B và E của T9, T10 (và B của T11) cùng nằm trên một net với E của T8 ⇒ tự mâu thuẫn (R22 bị nối tắt). Dự đoán ý thiết kế: E(T8)→B(T9,T10,T11) kiểu Darlington, E(T9…T11)=nút chuyển mạch. ĐO R(б-э) T9/T10 trên tấm"
+Д5,к,N20,"THEO HÌNH VẼ: B và E của T9, T10 (và B của T11) cùng nằm trên một net với E của T8 ⇒ tự mâu thuẫn (R22 bị nối tắt). Dự đoán ý thiết kế: E(T8)→B(T9,T10,T11) kiểu Darlington, E(T9…T11)=nút chuyển mạch. ĐO R(б-э) T9/T10 trên tấm"
+Д6,к,N20,"THEO HÌNH VẼ: B và E của T9, T10 (và B của T11) cùng nằm trên một net với E của T8 ⇒ tự mâu thuẫn (R22 bị nối tắt). Dự đoán ý thiết kế: E(T8)→B(T9,T10,T11) kiểu Darlington, E(T9…T11)=nút chuyển mạch. ĐO R(б-э) T9/T10 trên tấm"
+Д7,к,N20,"THEO HÌNH VẼ: B và E của T9, T10 (và B của T11) cùng nằm trên một net với E của T8 ⇒ tự mâu thuẫn (R22 bị nối tắt). Dự đoán ý thiết kế: E(T8)→B(T9,T10,T11) kiểu Darlington, E(T9…T11)=nút chuyển mạch. ĐO R(б-э) T9/T10 trên tấm"
+Д8,к,N20,"THEO HÌNH VẼ: B và E của T9, T10 (và B của T11) cùng nằm trên một net với E của T8 ⇒ tự mâu thuẫn (R22 bị nối tắt). Dự đoán ý thiết kế: E(T8)→B(T9,T10,T11) kiểu Darlington, E(T9…T11)=nút chuyển mạch. ĐO R(б-э) T9/T10 trên tấm"
+Д9,к,N20,"THEO HÌNH VẼ: B và E của T9, T10 (và B của T11) cùng nằm trên một net với E của T8 ⇒ tự mâu thuẫn (R22 bị nối tắt). Dự đoán ý thiết kế: E(T8)→B(T9,T10,T11) kiểu Darlington, E(T9…T11)=nút chuyển mạch. ĐO R(б-э) T9/T10 trên tấm"
+Д10,к,N20,"THEO HÌNH VẼ: B và E của T9, T10 (và B của T11) cùng nằm trên một net với E của T8 ⇒ tự mâu thuẫn (R22 bị nối tắt). Dự đoán ý thiết kế: E(T8)→B(T9,T10,T11) kiểu Darlington, E(T9…T11)=nút chuyển mạch. ĐO R(б-э) T9/T10 trên tấm"
+Д11,к,N20,"THEO HÌNH VẼ: B và E của T9, T10 (và B của T11) cùng nằm trên một net với E của T8 ⇒ tự mâu thuẫn (R22 bị nối tắt). Dự đoán ý thiết kế: E(T8)→B(T9,T10,T11) kiểu Darlington, E(T9…T11)=nút chuyển mạch. ĐO R(б-э) T9/T10 trên tấm"
+Д12,к,N20,"THEO HÌNH VẼ: B và E của T9, T10 (và B của T11) cùng nằm trên một net với E của T8 ⇒ tự mâu thuẫn (R22 bị nối tắt). Dự đoán ý thiết kế: E(T8)→B(T9,T10,T11) kiểu Darlington, E(T9…T11)=nút chuyển mạch. ĐO R(б-э) T9/T10 trên tấm"
+Д13,к,N20,"THEO HÌNH VẼ: B và E của T9, T10 (và B của T11) cùng nằm trên một net với E của T8 ⇒ tự mâu thuẫn (R22 bị nối tắt). Dự đoán ý thiết kế: E(T8)→B(T9,T10,T11) kiểu Darlington, E(T9…T11)=nút chuyển mạch. ĐO R(б-э) T9/T10 trên tấm"
+Д14,к,N20,"THEO HÌNH VẼ: B và E của T9, T10 (và B của T11) cùng nằm trên một net với E của T8 ⇒ tự mâu thuẫn (R22 bị nối tắt). Dự đoán ý thiết kế: E(T8)→B(T9,T10,T11) kiểu Darlington, E(T9…T11)=nút chuyển mạch. ĐO R(б-э) T9/T10 trên tấm"
+Д15,к,N20,"THEO HÌNH VẼ: B và E của T9, T10 (và B của T11) cùng nằm trên một net với E của T8 ⇒ tự mâu thuẫn (R22 bị nối tắt). Dự đoán ý thiết kế: E(T8)→B(T9,T10,T11) kiểu Darlington, E(T9…T11)=nút chuyển mạch. ĐO R(б-э) T9/T10 trên tấm"
+Д16,к,N20,"THEO HÌNH VẼ: B và E của T9, T10 (và B của T11) cùng nằm trên một net với E của T8 ⇒ tự mâu thuẫn (R22 bị nối tắt). Dự đoán ý thiết kế: E(T8)→B(T9,T10,T11) kiểu Darlington, E(T9…T11)=nút chuyển mạch. ĐO R(б-э) T9/T10 trên tấm"
+Д17,к,N20,"THEO HÌNH VẼ: B và E của T9, T10 (và B của T11) cùng nằm trên một net với E của T8 ⇒ tự mâu thuẫn (R22 bị nối tắt). Dự đoán ý thiết kế: E(T8)→B(T9,T10,T11) kiểu Darlington, E(T9…T11)=nút chuyển mạch. ĐO R(б-э) T9/T10 trên tấm"
+Д18,к,N20,"THEO HÌNH VẼ: B và E của T9, T10 (và B của T11) cùng nằm trên một net với E của T8 ⇒ tự mâu thuẫn (R22 bị nối tắt). Dự đoán ý thiết kế: E(T8)→B(T9,T10,T11) kiểu Darlington, E(T9…T11)=nút chuyển mạch. ĐO R(б-э) T9/T10 trên tấm"
+C53,1,N20,"THEO HÌNH VẼ: B và E của T9, T10 (và B của T11) cùng nằm trên một net với E của T8 ⇒ tự mâu thuẫn (R22 bị nối tắt). Dự đoán ý thiết kế: E(T8)→B(T9,T10,T11) kiểu Darlington, E(T9…T11)=nút chuyển mạch. ĐO R(б-э) T9/T10 trên tấm"
+C54,1,N20,"THEO HÌNH VẼ: B và E của T9, T10 (và B của T11) cùng nằm trên một net với E của T8 ⇒ tự mâu thuẫn (R22 bị nối tắt). Dự đoán ý thiết kế: E(T8)→B(T9,T10,T11) kiểu Darlington, E(T9…T11)=nút chuyển mạch. ĐO R(б-э) T9/T10 trên tấm"
+Др1,1,N20,"THEO HÌNH VẼ: B và E của T9, T10 (và B của T11) cùng nằm trên một net với E của T8 ⇒ tự mâu thuẫn (R22 bị nối tắt). Dự đoán ý thiết kế: E(T8)→B(T9,T10,T11) kiểu Darlington, E(T9…T11)=nút chuyển mạch. ĐO R(б-э) T9/T10 trên tấm"
+Др1,3,N20,"THEO HÌNH VẼ: B và E của T9, T10 (và B của T11) cùng nằm trên một net với E của T8 ⇒ tự mâu thuẫn (R22 bị nối tắt). Dự đoán ý thiết kế: E(T8)→B(T9,T10,T11) kiểu Darlington, E(T9…T11)=nút chuyển mạch. ĐO R(б-э) T9/T10 trên tấm"
+Тр2,1,N20,"THEO HÌNH VẼ: B và E của T9, T10 (và B của T11) cùng nằm trên một net với E của T8 ⇒ tự mâu thuẫn (R22 bị nối tắt). Dự đoán ý thiết kế: E(T8)→B(T9,T10,T11) kiểu Darlington, E(T9…T11)=nút chuyển mạch. ĐO R(б-э) T9/T10 trên tấm"
+Др1,2,N21,sau Др1 (điểm lấy hồi tiếp)
+Др1,4,N21,sau Др1 (điểm lấy hồi tiếp)
+C5,+,N21,sau Др1 (điểm lấy hồi tiếp)
+C6,+,N21,sau Др1 (điểm lấy hồi tiếp)
+C7,+,N21,sau Др1 (điểm lấy hồi tiếp)
+C8,+,N21,sau Др1 (điểm lấy hồi tiếp)
+C9,+,N21,sau Др1 (điểm lấy hồi tiếp)
+C10,+,N21,sau Др1 (điểm lấy hồi tiếp)
+C11,+,N21,sau Др1 (điểm lấy hồi tiếp)
+C12,+,N21,sau Др1 (điểm lấy hồi tiếp)
+C13,+,N21,sau Др1 (điểm lấy hồi tiếp)
+C14,+,N21,sau Др1 (điểm lấy hồi tiếp)
+Тр2,4,N21,sau Др1 (điểm lấy hồi tiếp)
+Др2,1,N21,sau Др1 (điểm lấy hồi tiếp)
+Др2,3,N21,sau Др1 (điểm lấy hồi tiếp)
+R18,1,N21,sau Др1 (điểm lấy hồi tiếp)
+Др2,2,X:1…10 +5В 15А,
+Др2,4,X:1…10 +5В 15А,
+C34,+,X:1…10 +5В 15А,
+C35,+,X:1…10 +5В 15А,
+C36,+,X:1…10 +5В 15А,
+C37,+,X:1…10 +5В 15А,
+C38,+,X:1…10 +5В 15А,
+Д31,а,X:1…10 +5В 15А,
+R32,1,X:1…10 +5В 15А,
+R32,2,N22,
+R33,1,N22,
+Д32,к,N22,
+Д31,у,N23,
+R31,1,N23,
+C39,+,N23,
+Д32,а,N23,
+T14,б,N24,
+R18,2,N24,
+T13,э,N25,
+T14,э,N25,
+R27,1,N25,
+T13,к,N26,
+T12,б,N26,
+C15,1,N26,
+T12,к,N27,
+Д24,а,N27,
+R25,1,N27,
+Д24,к,N28,
+R26,1,N28,
+C16,1,N28,
+T14,к,N29,
+T15,б,N29,
+C16,2,N29,
+C15,2,N30,
+Д25,к,N30,
+R29,1,N30,
+T15,к,N31,
+Д25,а,N31,
+R30,1,N31,
+R24,2,N31,
+Д1,а,"X:18…23,26…31 Корпус",
+Д2,а,"X:18…23,26…31 Корпус",
+C2,−,"X:18…23,26…31 Корпус",
+R9,2,"X:18…23,26…31 Корпус",
+C3,−,"X:18…23,26…31 Корпус",
+R12,2,"X:18…23,26…31 Корпус",
+R15,2,"X:18…23,26…31 Корпус",
+Д5,а,"X:18…23,26…31 Корпус",
+Д6,а,"X:18…23,26…31 Корпус",
+Д7,а,"X:18…23,26…31 Корпус",
+Д8,а,"X:18…23,26…31 Корпус",
+Д9,а,"X:18…23,26…31 Корпус",
+Д10,а,"X:18…23,26…31 Корпус",
+Д11,а,"X:18…23,26…31 Корпус",
+Д12,а,"X:18…23,26…31 Корпус",
+Д13,а,"X:18…23,26…31 Корпус",
+Д14,а,"X:18…23,26…31 Корпус",
+Д15,а,"X:18…23,26…31 Корпус",
+Д16,а,"X:18…23,26…31 Корпус",
+Д17,а,"X:18…23,26…31 Корпус",
+Д18,а,"X:18…23,26…31 Корпус",
+C53,2,"X:18…23,26…31 Корпус",
+C54,2,"X:18…23,26…31 Корпус",
+C5,−,"X:18…23,26…31 Корпус",
+C6,−,"X:18…23,26…31 Корпус",
+C7,−,"X:18…23,26…31 Корпус",
+C8,−,"X:18…23,26…31 Корпус",
+C9,−,"X:18…23,26…31 Корпус",
+C10,−,"X:18…23,26…31 Корпус",
+C11,−,"X:18…23,26…31 Корпус",
+C12,−,"X:18…23,26…31 Корпус",
+C13,−,"X:18…23,26…31 Корпус",
+C14,−,"X:18…23,26…31 Корпус",
+R25,2,"X:18…23,26…31 Корпус",
+R26,2,"X:18…23,26…31 Корпус",
+R27,2,"X:18…23,26…31 Корпус",
+R29,2,"X:18…23,26…31 Корпус",
+R30,2,"X:18…23,26…31 Корпус",
+C17,−,"X:18…23,26…31 Корпус",
+C18,−,"X:18…23,26…31 Корпус",
+C19,−,"X:18…23,26…31 Корпус",
+C20,−,"X:18…23,26…31 Корпус",
+C21,−,"X:18…23,26…31 Корпус",
+C22,−,"X:18…23,26…31 Корпус",
+C23,−,"X:18…23,26…31 Корпус",
+C24,−,"X:18…23,26…31 Корпус",
+C25,−,"X:18…23,26…31 Корпус",
+C26,−,"X:18…23,26…31 Корпус",
+C27,−,"X:18…23,26…31 Корпус",
+C28,−,"X:18…23,26…31 Корпус",
+C29,−,"X:18…23,26…31 Корпус",
+C30,−,"X:18…23,26…31 Корпус",
+C31,−,"X:18…23,26…31 Корпус",
+C32,−,"X:18…23,26…31 Корпус",
+C34,−,"X:18…23,26…31 Корпус",
+C35,−,"X:18…23,26…31 Корпус",
+C36,−,"X:18…23,26…31 Корпус",
+C37,−,"X:18…23,26…31 Корпус",
+C38,−,"X:18…23,26…31 Корпус",
+Д31,к,"X:18…23,26…31 Корпус",
+R31,2,"X:18…23,26…31 Корпус",
+C39,−,"X:18…23,26…31 Корпус",
+R33,2,"X:18…23,26…31 Корпус",
+Пр3,2,N32,
+Др5,1,N32,
+Др5,2,N33,+27 В sau Пр3/Др5
+C55,+,N33,+27 В sau Пр3/Др5
+C40,+,N33,+27 В sau Пр3/Др5
+T16,э,N33,+27 В sau Пр3/Др5
+R42,1,N33,+27 В sau Пр3/Др5
+R44,1,N33,+27 В sau Пр3/Др5
+T20,э,N33,+27 В sau Пр3/Др5
+T23,э,N33,+27 В sau Пр3/Др5
+T22,к,N33,+27 В sau Пр3/Др5
+T21,к,N33,+27 В sau Пр3/Др5
+T16,к,N34,
+C41,1,N34,
+R34,1,N34,
+C41,2,N35,
+R37,1,N35,
+T19,б,N35,
+T17,к,N35,
+T19,к,N36,
+C42,2,N36,
+R43,1,N36,
+C42,1,N37,
+R39,1,N37,
+T16,б,N37,
+T18,к,N37,
+T19,э,N38,
+R42,2,N38,
+T20,б,N38,
+T20,к,N39,
+R45,2,N39,
+C44,−,N39,
+R46,1,N39,
+T23,б,N40,
+R45,1,N40,
+C44,+,N40,
+T23,к,N41,
+T22,б,N41,
+R48,1,N41,
+T22,э,N42,
+T21,б,N42,
+R47,1,N42,
+T21,э,N43,"nút chuyển mạch −6,3 В"
+R47,2,N43,"nút chuyển mạch −6,3 В"
+R48,2,N43,"nút chuyển mạch −6,3 В"
+Др6,1,N43,"nút chuyển mạch −6,3 В"
+Д34,к,N43,"nút chuyển mạch −6,3 В"
+Д35,к,N43,"nút chuyển mạch −6,3 В"
+Д36,к,N43,"nút chuyển mạch −6,3 В"
+Д37,к,N43,"nút chuyển mạch −6,3 В"
+Д38,к,N43,"nút chuyển mạch −6,3 В"
+Д39,к,N43,"nút chuyển mạch −6,3 В"
+Д40,к,N43,"nút chuyển mạch −6,3 В"
+Д41,к,N43,"nút chuyển mạch −6,3 В"
+Д34,а,N44,
+Д35,а,N44,
+Д36,а,N44,
+Д37,а,N44,
+Д38,а,N44,
+Д39,а,N44,
+Д40,а,N44,
+Д41,а,N44,
+C45,−,N44,
+C46,−,N44,
+C47,−,N44,
+C48,−,N44,
+C49,−,N44,
+C50,−,N44,
+Др7,1,N44,
+Др7,2,N45,
+Др8,1,N45,
+Др8,2,"X:45,46 −6,3В 1А",
+C51,−,"X:45,46 −6,3В 1А",
+C52,−,"X:45,46 −6,3В 1А",
+Д23,а,"X:45,46 −6,3В 1А",
+T24,б,N46,
+Д23,к,N46,
+T24,к,N47,
+C43,+,N47,
+R49,2,N47,
+R49,1,N48,
+R44,2,N48,
+Д33,к,N48,
+R40,1,N48,
+R40,2,N49,
+R41,1,N49,
+T18,б,N49,
+T24,э,N50,? «шина M»: chỉ nối tới E của T24; vai trò T24/Д23 chưa rõ (xem mota)
+R36,2,N50,? «шина M»: chỉ nối tới E của T24; vai trò T24/Д23 chưa rõ (xem mota)
+R38,2,N50,? «шина M»: chỉ nối tới E của T24; vai trò T24/Д23 chưa rõ (xem mota)
+R41,2,N50,? «шина M»: chỉ nối tới E của T24; vai trò T24/Д23 chưa rõ (xem mota)
+Д33,а,N50,? «шина M»: chỉ nối tới E của T24; vai trò T24/Д23 chưa rõ (xem mota)
+T17,э,N51,
+T18,э,N51,
+R38,1,N51,
+R36,3,N52,R36.3 = con trượt
+T17,б,N52,R36.3 = con trượt
+C55,−,"X:18…23,26…31 Корпус",
+C40,−,"X:18…23,26…31 Корпус",
+R34,2,"X:18…23,26…31 Корпус",
+R37,2,"X:18…23,26…31 Корпус",
+R39,2,"X:18…23,26…31 Корпус",
+R43,2,"X:18…23,26…31 Корпус",
+R35,1,"X:18…23,26…31 Корпус",
+R46,2,"X:18…23,26…31 Корпус",
+Др6,2,"X:18…23,26…31 Корпус",
+C45,+,"X:18…23,26…31 Корпус",
+C46,+,"X:18…23,26…31 Корпус",
+C47,+,"X:18…23,26…31 Корпус",
+C48,+,"X:18…23,26…31 Корпус",
+C49,+,"X:18…23,26…31 Корпус",
+C50,+,"X:18…23,26…31 Корпус",
+C51,+,"X:18…23,26…31 Корпус",
+C52,+,"X:18…23,26…31 Корпус",
+C43,−,"X:18…23,26…31 Корпус",
