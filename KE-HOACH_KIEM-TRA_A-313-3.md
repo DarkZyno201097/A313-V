@@ -124,6 +124,8 @@ Cột "Thay thế tạm" là bản vẽ khác trong repo có thể dùng tạm:
 > chưa trọn (§4 của file đó). Cột «Sơ đồ» ở bảng trên chưa sửa — sẽ sửa khi chép xong từng tấm.
 > Э4/Y16 tr.142–152 đã chép và kiểm chéo: `SO-DO-DAU-NOI_E4_A-313-3.md`. Danh mục cấp khối tr.142 sửa
 > số hiệu У12/У13 (đảo), У14/У15, У24 = ЕУ2.072.139 và У21 = −20 В — xem §2 của file đó.
+> Э3 phần nguồn рис.20–26 và У24 рис.19 đã chép (BOM + netlist + mô tả + quy trình cấp điện thử):
+> `SO-DO-NGUON_A-313-3.md`; §3 của file đó là danh sách N1…N10 cần đo/chụp trước Giai đoạn 1.
 
 ---
 

@@ -123,6 +123,9 @@ Vin/Vo** (bài B08-1a+ trở đi) — chưa tính được gain/offset/độ tuy
   và 3Ш4/56 (~36 V ФС qua cầu chì 4 A), thứ cấp → DC11.A5. Không bản vẽ nào vẽ biến
   thế ⇒ vẫn phải đo (việc H2). Khối gốc A-313-3 cũng tạo `УПР. МОД 1/2` từ 5 V 400 Hz
   pha AC (`A-313-3.HDSDKT.pdf` §2.2.2, trang PDF 49) — cùng nguồn lưới.
+  **Cập nhật 2026-10-22** (`SO-DO-NGUON_A-313-3.md` §2): trong khối Nga, ~5 V 400 Hz do **Тр1 ТН-12-40-400
+  trên khối nguồn У17** (рис.25) hạ từ ~36 V pha A/C (3Ш4/55–56 → 3Ш5/33, /25), ra 3Ш5/11–12 ⇒ là
+  điện áp xoay chiều hạ từ lưới 36 V 400 Hz, khớp giả thuyết biến thế của A313-V. Biên độ rms/peak vẫn phải đo.
 
 ### 4.7. Chưa làm: phân tích tấm **A313-V.05**
 

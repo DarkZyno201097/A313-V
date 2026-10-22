@@ -48,7 +48,7 @@ def main():
     assert addrs('У16КП2/50;У24/11, У15/1') == [('У16КП2', 50), ('У24', 11), ('У15', 1)]
     assert resolve('Ш5', set()) == '3Ш5' and resolve('У14', {'У14П1'}) == 'У14П1' and resolve('У1П1', {'У1П1'}) == 'У1П1'
     rows = []
-    for f in sorted(DIR.glob('p[0-9]*.csv')):
+    for f in sorted(DIR.glob('p[0-9][0-9][0-9].csv')):
         for r in csv.DictReader(open(f, encoding='utf8')):
             p = key(r['pin'])
             if r['table'] == 'ПРИМЕЧ' or not (p.isdigit() or p in ('А', 'Б')):
