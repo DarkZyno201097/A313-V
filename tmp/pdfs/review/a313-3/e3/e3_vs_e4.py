@@ -10,7 +10,8 @@ import re
 from pathlib import Path
 
 D = Path(__file__).parent
-E4_FILES = {"У5": "p151.csv", "У7": "p152.csv"}
+E4_FILES = {"У1": "p150.csv", "У2": "p150.csv", "У3": "p151.csv", "У4": "p151.csv",
+            "У5": "p151.csv", "У6": "p152.csv", "У7": "p152.csv"}
 LAT = str.maketrans("ABCEHKMOPTXYacekmoptxy3", "АВСЕНКМОРТХУасекмортху3")
 
 
@@ -60,6 +61,16 @@ def main(argv=None):
             assert norm(old) == norm(signal), (
                 f"Э3: {table}/{pin} có hai tên: {old!r}, {signal!r}"
             )
+
+    # Bảng đầu nối chép riêng từ chính tờ Э3 (nếu có), gộp như chân netlist.
+    conn_path = D / f"ric{int(args.figure):02d}_conn.csv"
+    if conn_path.exists():
+        for row in csv.DictReader(open(conn_path, encoding="utf8")):
+            if not row["signal"].strip():
+                continue
+            key = (row["table"], int(row["pin"]))
+            old = e3.setdefault(key, row["signal"])
+            assert norm(old) == norm(row["signal"]), f"Э3: {key} netlist {old!r} ≠ bảng {row['signal']!r}"
 
     e4_path = D.parent / "e4" / E4_FILES[args.unit]
     wanted = {f"{args.unit}П1", f"{args.unit}П2", f"{args.unit}П3"}
