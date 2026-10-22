@@ -677,35 +677,35 @@ C4,1,П1:1 +5В | П2:27 +5В,Điểm б trên #168
 C4,2,П1:27 КОРПУС | П2:1 КОРПУС | П3:1 КОРПУС,Điểm a trên #168
 C5,1,П1:1 +5В | П2:27 +5В,C5: cực + nối điểm б trên #168
 C5,2,П1:27 КОРПУС | П2:1 КОРПУС | П3:1 КОРПУС,Điểm a trên #168
-R1,1,П2:40 РМ КПА,Tên tín hiệu đọc tại mũi tên vào điện trở trên #168
-R1,2,НЕ ПРОСЛЕЖЕНО R1.2,"? #168 vùng trái, chữ nhỏ/nếp gấp: thấy chân 2 nhưng không khóa chắc nút kế tiếp"
-R2,1,П2:41 Рг.К1 КПА,Tên tín hiệu đọc tại mũi tên vào điện trở trên #168
-R2,2,НЕ ПРОСЛЕЖЕНО R2.2,"? #168 vùng trái, chữ nhỏ/nếp gấp: thấy chân 2 nhưng không khóa chắc nút kế tiếp"
-R3,1,П2:42 Рг.К2 КПА,Tên tín hiệu đọc tại mũi tên vào điện trở trên #168
-R3,2,НЕ ПРОСЛЕЖЕНО R3.2,"? #168 vùng trái, chữ nhỏ/nếp gấp: thấy chân 2 nhưng không khóa chắc nút kế tiếp"
-R4,1,П1:10 ВХОД РГР ТТЛ,"? #167 bảng П1, góc phải: chữ giữa đọc gần «РГР»; Э4 chép «ПРП», giữ cả hai"
-R4,2,НЕ ПРОСЛЕЖЕНО R4.2,"? #168 vùng trái, chữ nhỏ/nếp gấp: thấy chân 2 nhưng không khóa chắc nút kế tiếp"
-R5,1,П1:11 ВХОД 1РК ТТЛ,Tên tín hiệu đọc tại mũi tên vào điện trở trên #168
-R5,2,НЕ ПРОСЛЕЖЕНО R5.2,"? #168 vùng trái, chữ nhỏ/nếp gấp: thấy chân 2 nhưng không khóa chắc nút kế tiếp"
-R6,1,П1:12 ВХОД 2РК ТТЛ,Tên tín hiệu đọc tại mũi tên vào điện trở trên #168
-R6,2,НЕ ПРОСЛЕЖЕНО R6.2,"? #168 vùng trái, chữ nhỏ/nếp gấp: thấy chân 2 nhưng không khóa chắc nút kế tiếp"
-R7,1,П3:50 ВХОД 4РК ТТЛ,Tên tín hiệu đọc tại mũi tên vào điện trở trên #168
-R7,2,НЕ ПРОСЛЕЖЕНО R7.2,"? #168 vùng trái, chữ nhỏ/nếp gấp: thấy chân 2 nhưng không khóa chắc nút kế tiếp"
-R8,1,П3:51 ВХОД 5РК ТТЛ,Tên tín hiệu đọc tại mũi tên vào điện trở trên #168
-R8,2,НЕ ПРОСЛЕЖЕНО R8.2,"? #168 vùng trái, chữ nhỏ/nếp gấp: thấy chân 2 nhưng không khóa chắc nút kế tiếp"
-R9,1,П3:52 ВХОД 6РК ТТЛ,Tên tín hiệu đọc tại mũi tên vào điện trở trên #168
-R9,2,НЕ ПРОСЛЕЖЕНО R9.2,"? #168 vùng trái, chữ nhỏ/nếp gấp: thấy chân 2 nhưng không khóa chắc nút kế tiếp"
-R10,1,П3:53 ВХОД 7РК ТТЛ,Tên tín hiệu đọc tại mũi tên vào điện trở trên #168
-R10,2,НЕ ПРОСЛЕЖЕНО R10.2,"? #168 vùng trái, chữ nhỏ/nếp gấp: thấy chân 2 nhưng không khóa chắc nút kế tiếp"
-R11,1,П1:13 ВХОД 3РК ТТЛ,Tên tín hiệu đọc tại mũi tên vào điện trở trên #168
-R11,2,НЕ ПРОСЛЕЖЕНО R11.2,"? #168 vùng trái, chữ nhỏ/nếp gấp: thấy chân 2 nhưng không khóa chắc nút kế tiếp"
-У8,1,НЕ ПРОСЛЕЖЕНО У8.1,"? #168 vùng trái/giữa, chữ nhỏ và nếp gấp ngang: thấy số chân nhưng chưa khóa chắc toàn đường"
+R1,1,П1:1 +5В | П2:27 +5В,#168 trái: đầu 1 nối rail б; ghi chú 2 #167 xác định б = +5В
+R1,2,П2:40 РМ КПА | П3:61 РМ КПА,? #168 trái dưới: П2/40 nối đầu 2 R1; #167 bảng П2/40 và П3/61 cùng đường 4; dấu gạch trên tên chưa chắc
+R2,1,П1:1 +5В | П2:27 +5В,#168 trái: đầu 1 nối rail б; ghi chú 2 #167 xác định б = +5В
+R2,2,П2:41 Рг.К1 КПА,#168 trái: đường đầu nối vào chân 2; chân 1 nối б
+R3,1,П1:1 +5В | П2:27 +5В,#168 trái: đầu 1 nối rail б; ghi chú 2 #167 xác định б = +5В
+R3,2,П2:42 Рг.К2 КПА,#168 trái: đường đầu nối vào chân 2; chân 1 nối б
+R4,1,П1:1 +5В | П2:27 +5В,#168 trái: đầu 1 nối rail б; ghi chú 2 #167 xác định б = +5В
+R4,2,П1:11 ВХОД 1РК ТТЛ,#168 trái: đường đầu nối vào chân 2; chân 1 nối б
+R5,1,П1:1 +5В | П2:27 +5В,#168 trái: đầu 1 nối rail б; ghi chú 2 #167 xác định б = +5В
+R5,2,П1:12 ВХОД 2РК ТТЛ,#168 trái: đường đầu nối vào chân 2; chân 1 nối б
+R6,1,П1:1 +5В | П2:27 +5В,#168 trái: đầu 1 nối rail б; ghi chú 2 #167 xác định б = +5В
+R6,2,П1:13 ВХОД 3РК ТТЛ,#168 trái: đường đầu nối vào chân 2; chân 1 nối б
+R7,1,П1:1 +5В | П2:27 +5В,#168 trái: đầu 1 nối rail б; ghi chú 2 #167 xác định б = +5В
+R7,2,П3:50 ВХОД 4РК ТТЛ,#168 trái: đường đầu nối vào chân 2; chân 1 nối б
+R8,1,П1:1 +5В | П2:27 +5В,#168 trái: đầu 1 nối rail б; ghi chú 2 #167 xác định б = +5В
+R8,2,П3:51 ВХОД 5РК ТТЛ,#168 trái: đường đầu nối vào chân 2; chân 1 nối б
+R9,1,П1:1 +5В | П2:27 +5В,#168 trái: đầu 1 nối rail б; ghi chú 2 #167 xác định б = +5В
+R9,2,П3:52 ВХОД 6РК ТТЛ,#168 trái: đường đầu nối vào chân 2; chân 1 nối б
+R10,1,П1:1 +5В | П2:27 +5В,#168 trái: đầu 1 nối rail б; ghi chú 2 #167 xác định б = +5В
+R10,2,П3:53 ВХОД 7РК ТТЛ,#168 trái: đường đầu nối vào chân 2; chân 1 nối б
+R11,1,П1:1 +5В | П2:27 +5В,#168 trái: đầu 1 nối rail б; ghi chú 2 #167 xác định б = +5В
+R11,2,П1:10 ВХОД РГР ТТЛ,"? #168 trái trên cạnh R11: nối П1/10 đọc rõ; chữ viết tay giữa nhãn mờ, giữ РГР/ПРП chưa phân định"
+У8,1,П3:54 0⇒Рг.Пр.,#168 trái trên: nhánh R1 nối cùng R13; mũi tên П3/54
 У8,2,НЕ ПРОСЛЕЖЕНО У8.2,"? #168 vùng trái/giữa, chữ nhỏ và nếp gấp ngang: thấy số chân nhưng chưa khóa chắc toàn đường"
 У8,3,НЕ ПРОСЛЕЖЕНО У8.3,"? #168 vùng trái/giữa, chữ nhỏ và nếp gấp ngang: thấy số chân nhưng chưa khóa chắc toàn đường"
 У8,4,НЕ ПРОСЛЕЖЕНО У8.4,"? #168 vùng trái/giữa, chữ nhỏ và nếp gấp ngang: thấy số chân nhưng chưa khóa chắc toàn đường"
 У8,6,НЕ ПРОСЛЕЖЕНО У8.6,"? #168 vùng trái/giữa, chữ nhỏ và nếp gấp ngang: thấy số chân nhưng chưa khóa chắc toàn đường"
 У8,8,НЕ ПРОСЛЕЖЕНО У8.8,"? #168 vùng trái/giữa, chữ nhỏ và nếp gấp ngang: thấy số chân nhưng chưa khóa chắc toàn đường"
-У8,10,П2:48 0⇒РПР,"Nhánh vào S của У8-2, #168 vùng trái trên"
+У8,10,П2:2 Отв.Д,? #168 trái trên: nhãn П2/2 Отв.Д vào S10; #167 bảng П2/2 có gạch xoá và chữ R15; chưa phân định tên cuối
 У8,11,НЕ ПРОСЛЕЖЕНО У8.11,"? #168 vùng trái/giữa, chữ nhỏ và nếp gấp ngang: thấy số chân nhưng chưa khóa chắc toàn đường"
 У8,12,НЕ ПРОСЛЕЖЕНО У8.12,"? #168 vùng trái/giữa, chữ nhỏ và nếp gấp ngang: thấy số chân nhưng chưa khóa chắc toàn đường"
 У8,13,П3:54 0⇒Рг.Пр.,"Nhánh vào R của У8-2, #168 vùng trái trên"
@@ -740,7 +740,7 @@ R11,2,НЕ ПРОСЛЕЖЕНО R11.2,"? #168 vùng trái, chữ nhỏ/nếp g�
 У10,7,П1:27 КОРПУС | П2:1 КОРПУС | П3:1 КОРПУС,Ghi chú 1 trên #167: chân 7 → Корпус (điểm a)
 У10,14,П1:1 +5В | П2:27 +5В,Ghi chú 2 trên #167: chân 14 → +5В (điểm б)
 У11,1,НЕ ПРОСЛЕЖЕНО У11.1,"? #168 vùng trái/giữa, chữ nhỏ và nếp gấp ngang: thấy số chân nhưng chưa khóa chắc toàn đường"
-У11,2,П1:45 Рг.Пр⇒М,#168 vùng trái giữa
+У11,2,П1:45 Рг.Пр⇒М | П3:49 Рг.Пр⇒М,#168 trái giữa: П1/45 tới chân 2; #167 bảng П1/45 và П3/49 cùng đường 8
 У11,3,НЕ ПРОСЛЕЖЕНО У11.3,"? #168 vùng trái/giữa, chữ nhỏ và nếp gấp ngang: thấy số chân nhưng chưa khóa chắc toàn đường"
 У11,4,НЕ ПРОСЛЕЖЕНО У11.4,"? #168 vùng trái/giữa, chữ nhỏ và nếp gấp ngang: thấy số chân nhưng chưa khóa chắc toàn đường"
 У11,5,НЕ ПРОСЛЕЖЕНО У11.5,"? #168 vùng trái/giữa, chữ nhỏ và nếp gấp ngang: thấy số chân nhưng chưa khóa chắc toàn đường"
@@ -767,8 +767,8 @@ R11,2,НЕ ПРОСЛЕЖЕНО R11.2,"? #168 vùng trái, chữ nhỏ/nếp g�
 У12,13,НЕ ПРОСЛЕЖЕНО У12.13,"? #168 vùng trái/giữa, chữ nhỏ và nếp gấp ngang: thấy số chân nhưng chưa khóa chắc toàn đường"
 У12,7,П1:27 КОРПУС | П2:1 КОРПУС | П3:1 КОРПУС,Ghi chú 1 trên #167: chân 7 → Корпус (điểm a)
 У12,14,П1:1 +5В | П2:27 +5В,Ghi chú 2 trên #167: chân 14 → +5В (điểm б)
-У13,1,НЕ ПРОСЛЕЖЕНО У13.1,"? #168 vùng trái/giữa, chữ nhỏ và nếp gấp ngang: thấy số chân nhưng chưa khóa chắc toàn đường"
-У13,2,НЕ ПРОСЛЕЖЕНО У13.2,"? #168 vùng trái/giữa, chữ nhỏ và nếp gấp ngang: thấy số chân nhưng chưa khóa chắc toàn đường"
+У13,1,П1:11 ВХОД 1РК ТТЛ,"#168 trái, cạnh R4: đường từ chân 2 R4 tới chân 1 У13"
+У13,2,П1:11 ВХОД 1РК ТТЛ,"#168 trái, cạnh R4: đường từ chân 2 R4 tới chân 2 У13"
 У13,3,НЕ ПРОСЛЕЖЕНО У13.3,"? #168 vùng trái/giữa, chữ nhỏ và nếp gấp ngang: thấy số chân nhưng chưa khóa chắc toàn đường"
 У13,4,НЕ ПРОСЛЕЖЕНО У13.4,"? #168 vùng trái/giữa, chữ nhỏ và nếp gấp ngang: thấy số chân nhưng chưa khóa chắc toàn đường"
 У13,5,НЕ ПРОСЛЕЖЕНО У13.5,"? #168 vùng trái/giữa, chữ nhỏ và nếp gấp ngang: thấy số chân nhưng chưa khóa chắc toàn đường"
@@ -784,12 +784,13 @@ R11,2,НЕ ПРОСЛЕЖЕНО R11.2,"? #168 vùng trái, chữ nhỏ/nếp g�
 У14,1,N17,"Я1У4/3 = 0р Рг.К1, #167 góc phải dưới"
 У14,2,N18,"Я1У4/6 = 1р Рг.К1, #167 góc phải dưới"
 У14,4,N19,"Я1У4/8 = 2р Рг.К1, #167 góc phải dưới"
-У14,5,П2:4 1t-3,#167 góc phải dưới
-У14,6,П2:5 1t-2,#167 góc phải dưới
-У14,8,П3:42 Nоб БК,? #167 góc phải dưới: chữ viết tay đọc gần «Nоб БК»; ký tự đầu/tổ hợp giữa không chắc
+У14,3,П2:4 1t-3 | П3:30 1t-3,#167 góc phải dưới: đường П2/4 vào chân 3; bảng П3/30 cùng đường 1
+У14,5,П2:5 1t-2 | П3:31 1t-2,#167 góc phải dưới: chân 5 nối tắt chân 6 có chấm nối tới П2/5
+У14,6,П2:5 1t-2 | П3:31 1t-2,#167 góc phải dưới và bảng đầu nối: cùng số đường 14/1/2/3 tương ứng; đọc hai đầu trên Э3
+У14,8,П3:42 Nоб БК,? #167 góc phải dưới và bảng П3/42: đã xem lại; chữ viết tay N/№ và об/АБ vẫn không phân định; giữ hai cách đọc Э3/Э4
 У14,9,N20,"Я1У4/11 = 3р Рг.К1, #167 góc phải dưới"
-У14,10,П2:6 1t-1,#167 góc phải dưới
-У14,13,П1:21 1t-4,#167 góc phải dưới
+У14,10,П2:6 1t-1 | П3:32 1t-1,#167 góc phải dưới và bảng đầu nối: cùng số đường 14/1/2/3 tương ứng; đọc hai đầu trên Э3
+У14,13,П1:21 1t-4 | П3:29 1t-4,#167 góc phải dưới và bảng đầu nối: cùng số đường 14/1/2/3 tương ứng; đọc hai đầu trên Э3
 У14,7,П1:27 КОРПУС | П2:1 КОРПУС | П3:1 КОРПУС,Ghi chú 1 trên #167: chân 7 → Корпус (điểm a)
 У14,14,П1:1 +5В | П2:27 +5В,Ghi chú 2 trên #167: chân 14 → +5В (điểm б)
 У15,1,НЕ ПРОСЛЕЖЕНО У15.1,"? #168 vùng trái/giữa, chữ nhỏ và nếp gấp ngang: thấy số chân nhưng chưa khóa chắc toàn đường"
@@ -827,23 +828,23 @@ R11,2,НЕ ПРОСЛЕЖЕНО R11.2,"? #168 vùng trái, chữ nhỏ/nếp g�
 У17,5,НЕ ПРОСЛЕЖЕНО У17.5,"? #168 vùng trái/giữa, chữ nhỏ và nếp gấp ngang: thấy số chân nhưng chưa khóa chắc toàn đường"
 У17,6,НЕ ПРОСЛЕЖЕНО У17.6,"? #168 vùng trái/giữa, chữ nhỏ và nếp gấp ngang: thấy số chân nhưng chưa khóa chắc toàn đường"
 У17,8,НЕ ПРОСЛЕЖЕНО У17.8,"? #168 vùng trái/giữa, chữ nhỏ và nếp gấp ngang: thấy số chân nhưng chưa khóa chắc toàn đường"
-У17,9,НЕ ПРОСЛЕЖЕНО У17.9,"? #168 vùng trái/giữa, chữ nhỏ và nếp gấp ngang: thấy số chân nhưng chưa khóa chắc toàn đường"
+У17,9,П1:12 ВХОД 2РК ТТЛ,"#168 trái, cạnh R5: đường từ chân 2 R5 tới chân 9 У17"
 У17,10,П1:38 М10 | П3:18 М10,#167↔#168: đường dữ liệu số 10 trên bó D
-У17,11,НЕ ПРОСЛЕЖЕНО У17.11,"? #168 vùng trái/giữa, chữ nhỏ và nếp gấp ngang: thấy số chân nhưng chưa khóa chắc toàn đường"
+У17,11,П1:13 ВХОД 3РК ТТЛ,"#168 trái, cạnh R6: đường từ chân 2 R6 tới chân 11 У17"
 У17,12,НЕ ПРОСЛЕЖЕНО У17.12,"? #168 vùng trái/giữa, chữ nhỏ và nếp gấp ngang: thấy số chân nhưng chưa khóa chắc toàn đường"
 У17,13,П1:39 М11 | П3:19 М11,#167↔#168: đường dữ liệu số 11 trên bó D
 У17,7,П1:27 КОРПУС | П2:1 КОРПУС | П3:1 КОРПУС,Ghi chú 1 trên #167: chân 7 → Корпус (điểm a)
 У17,14,П1:1 +5В | П2:27 +5В,Ghi chú 2 trên #167: chân 14 → +5В (điểm б)
 У18,1,П1:40 М12 | П3:20 М12,#167↔#168: đường dữ liệu số 12 trên bó D
-У18,2,НЕ ПРОСЛЕЖЕНО У18.2,"? #168 vùng trái/giữa, chữ nhỏ và nếp gấp ngang: thấy số chân nhưng chưa khóa chắc toàn đường"
+У18,2,П3:50 ВХОД 4РК ТТЛ,"#168 trái, cạnh R7: đường từ chân 2 R7 tới chân 2 У18"
 У18,3,НЕ ПРОСЛЕЖЕНО У18.3,"? #168 vùng trái/giữa, chữ nhỏ và nếp gấp ngang: thấy số chân nhưng chưa khóa chắc toàn đường"
 У18,4,П1:41 М13 | П3:21 М13,#167↔#168: đường dữ liệu số 13 trên bó D
 У18,5,НЕ ПРОСЛЕЖЕНО У18.5,"? #168 vùng trái/giữa, chữ nhỏ và nếp gấp ngang: thấy số chân nhưng chưa khóa chắc toàn đường"
-У18,6,НЕ ПРОСЛЕЖЕНО У18.6,"? #168 vùng trái/giữa, chữ nhỏ và nếp gấp ngang: thấy số chân nhưng chưa khóa chắc toàn đường"
+У18,6,П3:51 ВХОД 5РК ТТЛ,"#168 trái, cạnh R8: đường từ chân 2 R8 tới chân 6 У18"
 У18,8,НЕ ПРОСЛЕЖЕНО У18.8,"? #168 vùng trái/giữa, chữ nhỏ và nếp gấp ngang: thấy số chân nhưng chưa khóa chắc toàn đường"
-У18,9,НЕ ПРОСЛЕЖЕНО У18.9,"? #168 vùng trái/giữa, chữ nhỏ và nếp gấp ngang: thấy số chân nhưng chưa khóa chắc toàn đường"
+У18,9,П3:52 ВХОД 6РК ТТЛ,"#168 trái, cạnh R9: đường từ chân 2 R9 tới chân 9 У18"
 У18,10,П1:42 М14 | П3:22 М14,#167↔#168: đường dữ liệu số 14 trên bó D
-У18,11,НЕ ПРОСЛЕЖЕНО У18.11,"? #168 vùng trái/giữa, chữ nhỏ và nếp gấp ngang: thấy số chân nhưng chưa khóa chắc toàn đường"
+У18,11,П3:53 ВХОД 7РК ТТЛ,"#168 trái, cạnh R10: đường từ chân 2 R10 tới chân 11 У18"
 У18,12,НЕ ПРОСЛЕЖЕНО У18.12,"? #168 vùng trái/giữa, chữ nhỏ và nếp gấp ngang: thấy số chân nhưng chưa khóa chắc toàn đường"
 У18,13,П1:43 М15 | П3:23 М15,#167↔#168: đường dữ liệu số 15 trên bó D
 У18,7,П1:27 КОРПУС | П2:1 КОРПУС | П3:1 КОРПУС,Ghi chú 1 trên #167: chân 7 → Корпус (điểm a)

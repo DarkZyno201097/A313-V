@@ -51,7 +51,7 @@ connector,pin,e3_signal,e4_signal,status,note
 П1,52,,3ОП,ONLY_E4,Э3 không có nhánh chân linh kiện đọc chắc tới chân này; không suy từ Э4
 П1,53,6р Рг.К2,6р Рг.К2,MATCH,
 П2,1,КОРПУС,КОРПУС,MATCH,
-П2,2,,ОТВ.Д R15,ONLY_E4,Э3 không có nhánh chân linh kiện đọc chắc tới chân này; không suy từ Э4
+П2,2,Отв.Д,ОТВ.Д R15,NAME_MISMATCH,"Tên đọc từ Э3 khác Э4; giữ nguyên hai cách đọc, xem ric08_mota.md"
 П2,3,,Призн.налич ПКн,ONLY_E4,Э3 không có nhánh chân linh kiện đọc chắc tới chân này; không suy từ Э4
 П2,4,1t-3,1t-3,MATCH,
 П2,5,1t-2,1t-2,MATCH,
@@ -97,7 +97,7 @@ connector,pin,e3_signal,e4_signal,status,note
 П2,45,7р Рг.К2,7р Рг.К2,MATCH,
 П2,46,8р Рг.К2,8р Рг.К2,MATCH,
 П2,47,9р Рг.К2,9р Рг.К2,MATCH,
-П2,48,0⇒РПР,0⇒РПР,MATCH,
+П2,48,,0⇒РПР,ONLY_E4,Э3 không có nhánh chân linh kiện đọc chắc tới chân này; không suy từ Э4
 П2,49,,¬ИСПРАВН.,ONLY_E4,Э3 không có nhánh chân linh kiện đọc chắc tới chân này; không suy từ Э4
 П3,1,КОРПУС,КОРПУС,MATCH,
 П3,2,ИВЧ,ИВЧ,MATCH,
@@ -126,10 +126,10 @@ connector,pin,e3_signal,e4_signal,status,note
 П3,25,4р Рг.К2,4р Рг.К2,MATCH,
 П3,27,,СТРОБ1,ONLY_E4,Э3 không có nhánh chân linh kiện đọc chắc tới chân này; không suy từ Э4
 П3,28,,СТРОБ1-1,ONLY_E4,Э3 không có nhánh chân linh kiện đọc chắc tới chân này; không suy từ Э4
-П3,29,,1t-4,ONLY_E4,Э3 không có nhánh chân linh kiện đọc chắc tới chân này; không suy từ Э4
-П3,30,,1t-3,ONLY_E4,Э3 không có nhánh chân linh kiện đọc chắc tới chân này; không suy từ Э4
-П3,31,,1t-2,ONLY_E4,Э3 không có nhánh chân linh kiện đọc chắc tới chân này; không suy từ Э4
-П3,32,,1t-1,ONLY_E4,Э3 không có nhánh chân linh kiện đọc chắc tới chân này; không suy từ Э4
+П3,29,1t-4,1t-4,MATCH,
+П3,30,1t-3,1t-3,MATCH,
+П3,31,1t-2,1t-2,MATCH,
+П3,32,1t-1,1t-1,MATCH,
 П3,34,,2ОП,ONLY_E4,Э3 không có nhánh chân linh kiện đọc chắc tới chân này; không suy từ Э4
 П3,35,,3ОП,ONLY_E4,Э3 không có nhánh chân linh kiện đọc chắc tới chân này; không suy từ Э4
 П3,36,,5ОП,ONLY_E4,Э3 không có nhánh chân linh kiện đọc chắc tới chân này; không suy từ Э4
@@ -144,7 +144,7 @@ connector,pin,e3_signal,e4_signal,status,note
 П3,46,13р Рг.К1,13р Рг.К1,MATCH,
 П3,47,14р Рг.К1,14р Рг.К1,MATCH,
 П3,48,15р Рг.К1,15р Рг.К1,MATCH,
-П3,49,,Рг.Пр⇒М,ONLY_E4,Э3 không có nhánh chân linh kiện đọc chắc tới chân này; không suy từ Э4
+П3,49,Рг.Пр⇒М,Рг.Пр⇒М,MATCH,
 П3,50,ВХОД 4РК ТТЛ,ВХОД 4РК ТТЛ,MATCH,
 П3,51,ВХОД 5РК ТТЛ,ВХОД 5РК ТТЛ,MATCH,
 П3,52,ВХОД 6РК ТТЛ,ВХОД 6РК ТТЛ,MATCH,
@@ -154,7 +154,7 @@ connector,pin,e3_signal,e4_signal,status,note
 П3,56,,1t0,ONLY_E4,Э3 không có nhánh chân linh kiện đọc chắc tới chân này; không suy từ Э4
 П3,59,10р Рг.К2,10р Рг.К2,MATCH,
 П3,60,11р Рг.К2,11р Рг.К2,MATCH,
-П3,61,,РМ КПА,ONLY_E4,Э3 không có nhánh chân linh kiện đọc chắc tới chân này; không suy từ Э4
+П3,61,РМ КПА,РМ КПА,MATCH,
 П3,62,,0⇒РПР,ONLY_E4,Э3 không có nhánh chân linh kiện đọc chắc tới chân này; không suy từ Э4
 П3,63,,Д0,ONLY_E4,Э3 không có nhánh chân linh kiện đọc chắc tới chân này; không suy từ Э4
 П3,64,,1t16∧СТРОБ1,ONLY_E4,Э3 không có nhánh chân linh kiện đọc chắc tới chân này; không suy từ Э4

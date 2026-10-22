@@ -6,9 +6,9 @@ Nguồn chính: Э3 ảnh #167 (`20261021_101555.jpg`, trang tay 171) và #168
 (`20261021_101726.jpg`, trang 174). Bảng chân đối chiếu độc lập: Э4 trang
 151, `e4/p151.csv`, các bảng `У5П1`, `У5П2`, `У5П3`.
 
-Bản ghi: `ric08_bom.csv` có 86 ref vật lý; `ric08_net.csv` có 947 hàng
-chân, 392 tên net, trong đó 108 net nội bộ `N1…N108`. Có 118 chân đầu nối
-được gắn vào nhánh chân linh kiện đọc chắc. `e3_check.py` kiểm BOM↔net;
+Bản ghi: `ric08_bom.csv` có 86 ref vật lý; `ric08_net.csv` có 948 hàng
+chân, 372 tên net, trong đó 108 net nội bộ `N1…N108`. Có 124 địa chỉ đầu nối
+được parser nhận diện; một số tên còn dấu hỏi. `e3_check.py` kiểm BOM↔net;
 `e3_vs_e4.py 8 У5` sinh `ric08_vs_e4.csv` và so tên tín hiệu sau chuẩn
 hoá Latin↔Cyrillic.
 
@@ -55,54 +55,114 @@ CSV mở rộng ký hiệu cục bộ thành ref vật lý `1У1…7У4` và
 `8У5…15У7`. Mọi ref trong ПЭ đều thấy ít nhất ký hiệu hoặc chân nguồn trên
 Э3; không cần ngoại lệ “có trong ПЭ nhưng không thấy trên ảnh”.
 
-## 3. Đối chiếu Э3 ↔ Э4
+## 3. Đối chiếu Э3 ↔ Э4 — soát T03b
 
-| Kết quả | Số chân |
-|---|---:|
-| Khớp tên sau chuẩn hoá | 116 |
-| Lệch tên | 2 |
-| Chỉ có trong Э3 | 0 |
-| Chỉ có trong Э4 | 42 |
+Trạng thái: **soát một phần**, chưa nghiệm thu toàn bộ netlist. So với checkpoint
+`10c0ba1`: dấu hỏi 187 → 169 hàng; ONLY_E4 42 → 36; khớp 116 → 121;
+lệch tên 2 → 3; ONLY_E3 vẫn 0. Ba lệnh kiểm đều exit 0.
+Checker chỉ kiểm cấu trúc CSV, không chứng minh topology hoặc tính đầy đủ.
 
-Hai lệch tên thật sự được giữ nguyên cả hai phía:
+Các sửa đã xem trực tiếp trên crop #168 trái trên/giữa/dưới:
 
-| Chân | Э3 #167/#168 | Э4 p151.csv | Giải thích |
+- R1…R11: chân 1 nối б (+5В); tín hiệu nối chân 2. Sửa nhầm phía điện trở.
+- R11.2 nối П1/10; R4.2/R5.2/R6.2 nối П1/11, /12, /13.
+- Bổ sung nối từ R4.2 tới У13.1/.2; R5.2/R6.2 tới У17.9/.11;
+  R7.2…R10.2 tới У18.2/.6/.9/.11.
+- У8.1 nối chung У8.13, nhãn П3/54. У8.10 nối П2/2, không phải П2/48.
+- #167 góc phải dưới: У14.3 nhận П2/4; У14.5 nối chung .6 nhận П2/5.
+- #167 bảng đầu nối: П3/29…32 là các đầu cùng số đường với
+  П1/21 và П2/4…6; П3/49 cùng đường 8 với П1/45;
+  П3/61 cùng đường 4 với П2/40. Ghi các alias vào cùng net.
+
+### Lệch tên còn lại
+
+| Chân | Э3 giữ trong CSV | Э4 | Kết luận đọc lại |
 |---|---|---|---|
-| П1/10 | `ВХОД РГР ТТЛ` | `ВХОД ПРП ТТЛ` | #167 bảng П1, chữ viết tay giữa giống `РГР`; Э4 giống `ПРП`. Không dùng Э4 sửa ngược Э3. |
-| П3/42 | `Nоб БК` | `NАБбк` | #167 góc phải dưới, chữ đầu và cụm giữa rất khó phân biệt vì chữ nhỏ; ghi `?` ở hàng У14.8. |
+| П1/10 | ВХОД РГР ТТЛ | ВХОД ПРП ТТЛ | #167 bảng П1 và #168 cạnh R11: chữ viết tay mờ; chưa phân định. Đã chuyển nhãn về đúng R11.2. |
+| П3/42 | Nоб БК | NАБбк | #167 bảng П3 và đầu ra У14.8: N/№ và об/АБ chưa phân định. Giữ cả hai cách đọc. |
+| П2/2 | Отв.Д | ОТВ.Д R15 | #168 nhánh S10 của У8 ghi Отв.Д; #167 bảng П2/2 có gạch xoá và R15. Chưa quyết định tên sau sửa tay; giữ cả hai. |
 
-42 hàng `ONLY_E4` không được coi là mâu thuẫn tên. Chúng là các chân có tên
-trong bảng Э4 nhưng trên ảnh Э3 không lần được một nhánh tới **chân linh kiện**
-đủ chắc để đưa vào netlist: П1/2–9, /22–24, /44, /50–52; П2/2, /3, /49;
-П3/3, /4, /27–32, /34–41, /49, /55, /56, /61–65. Dù một số tên cũng hiện
-trong bảng đầu nối ở mép phải #167, CSV không tạo ref/chân linh kiện giả chỉ
-để tăng số khớp.
+### Các chân ONLY_E4 còn lại
 
-## 4. Chỗ chưa chắc
+Bảng dưới ghi riêng từng chân. “Chưa lần xong” không có nghĩa bản vẽ không
+có nhánh; không dùng Э4 để gán chân linh kiện. Lượt này chưa hoàn tất truy
+từng đường của các hàng này.
 
-Có 187 hàng chứa ký tự `?` trong cột `note`; không có `?` trong
-`ref`, `pin` hoặc tên net. Các hàng này ghi được số chân in trên sơ đồ
-nhưng chưa khóa chắc toàn bộ đường dây do vùng trái sát mép, chữ nhỏ và nếp
-gấp ngang của #168.
+| Chân | Tên Э4 để định vị | Kết quả tìm trên Э3 / phần còn thiếu |
+|---|---|---|
+| П1/2 | 5ОП | #167 bảng đầu nối có hàng tương ứng; chưa lần xong đường tới chân linh kiện trên #167/#168. |
+| П1/3 | 6ОП | #167 bảng đầu nối có hàng tương ứng; chưa lần xong đường tới chân linh kiện trên #167/#168. |
+| П1/4 | 0ОП | #167 bảng đầu nối có hàng tương ứng; chưa lần xong đường tới chân linh kiện trên #167/#168. |
+| П1/5 | 1ОП | #167 bảng đầu nối có hàng tương ứng; chưa lần xong đường tới chân linh kiện trên #167/#168. |
+| П1/6 | 4ОП | #167 bảng đầu nối có hàng tương ứng; chưa lần xong đường tới chân linh kiện trên #167/#168. |
+| П1/7 | 7ОП | #167 bảng đầu nối có hàng tương ứng; chưa lần xong đường tới chân linh kiện trên #167/#168. |
+| П1/8 | 2ОП | #167 bảng đầu nối có hàng tương ứng; chưa lần xong đường tới chân linh kiện trên #167/#168. |
+| П1/9 | 0,15с | #168 trái trên có mũi tên П1/9 vào cổng trước S của У8; cần khóa lại ref/chân cổng và dấu đảo, chưa thêm. |
+| П1/22 | Д0 | #167 bảng đầu nối có hàng tương ứng; chưa lần xong đường tới chân linh kiện trên #167/#168. |
+| П1/23 | 1t16∧СТРОБ1 | #167 bảng đầu nối có hàng tương ứng; chưa lần xong đường tới chân linh kiện trên #167/#168. |
+| П1/24 | СТРОБ4 | #167 bảng đầu nối có hàng tương ứng; chưa lần xong đường tới chân linh kiện trên #167/#168. |
+| П1/44 | 3п.КПА | #167 bảng đầu nối có hàng tương ứng; chưa lần xong đường tới chân linh kiện trên #167/#168. |
+| П1/50 | СТРОБ1 | #167 bảng đầu nối có hàng tương ứng; chưa lần xong đường tới chân linh kiện trên #167/#168. |
+| П1/51 | СТРОБ1-1 | #167 bảng đầu nối có hàng tương ứng; chưa lần xong đường tới chân linh kiện trên #167/#168. |
+| П1/52 | 3ОП | #167 bảng đầu nối có hàng tương ứng; chưa lần xong đường tới chân linh kiện trên #167/#168. |
+| П2/3 | Призн.налич ПКн | #167 bảng П2/3 chữ viết tay nhỏ; chưa xác nhận đường tới chân IC. |
+| П2/48 | 0⇒РПР | #167 bảng П2/48 có 0⇒РПР; bỏ gán sai vào У8.10 vì nhánh đó trên #168 ghi П2/2. Chưa khóa đích thật. |
+| П2/49 | ¬ИСПРАВН. | #167 bảng П2/49 có nhãn; chưa xác nhận dấu đảo và nhánh tới IC. |
+| П3/3 | 7р Рг.Пр | #167 bảng đầu nối có hàng tương ứng; chưa lần xong đường tới chân linh kiện trên #167/#168. |
+| П3/4 | ПК вх. | #167 bảng đầu nối có hàng tương ứng; chưa lần xong đường tới chân linh kiện trên #167/#168. |
+| П3/27 | СТРОБ1 | #167 bảng đầu nối có hàng tương ứng; chưa lần xong đường tới chân linh kiện trên #167/#168. |
+| П3/28 | СТРОБ1-1 | #167 bảng đầu nối có hàng tương ứng; chưa lần xong đường tới chân linh kiện trên #167/#168. |
+| П3/34 | 2ОП | #167 bảng đầu nối có hàng tương ứng; chưa lần xong đường tới chân linh kiện trên #167/#168. |
+| П3/35 | 3ОП | #167 bảng đầu nối có hàng tương ứng; chưa lần xong đường tới chân linh kiện trên #167/#168. |
+| П3/36 | 5ОП | #167 bảng đầu nối có hàng tương ứng; chưa lần xong đường tới chân linh kiện trên #167/#168. |
+| П3/37 | 6ОП | #167 bảng đầu nối có hàng tương ứng; chưa lần xong đường tới chân linh kiện trên #167/#168. |
+| П3/38 | 0ОП | #167 bảng đầu nối có hàng tương ứng; chưa lần xong đường tới chân linh kiện trên #167/#168. |
+| П3/39 | 1ОП | #167 bảng đầu nối có hàng tương ứng; chưa lần xong đường tới chân linh kiện trên #167/#168. |
+| П3/40 | 4ОП | #167 bảng đầu nối có hàng tương ứng; chưa lần xong đường tới chân linh kiện trên #167/#168. |
+| П3/41 | 7ОП | #167 bảng đầu nối có hàng tương ứng; chưa lần xong đường tới chân linh kiện trên #167/#168. |
+| П3/55 | +3,5В | #167 bảng đầu nối có hàng tương ứng; chưa lần xong đường tới chân linh kiện trên #167/#168. |
+| П3/56 | 1t0 | #167 bảng đầu nối có hàng tương ứng; chưa lần xong đường tới chân linh kiện trên #167/#168. |
+| П3/62 | 0⇒РПР | #167 bảng đầu nối có hàng tương ứng; chưa lần xong đường tới chân linh kiện trên #167/#168. |
+| П3/63 | Д0 | #167 bảng đầu nối có hàng tương ứng; chưa lần xong đường tới chân linh kiện trên #167/#168. |
+| П3/64 | 1t16∧СТРОБ1 | #167 bảng đầu nối có hàng tương ứng; chưa lần xong đường tới chân linh kiện trên #167/#168. |
+| П3/65 | СТРОБ4 | #167 bảng đầu nối có hàng tương ứng; chưa lần xong đường tới chân linh kiện trên #167/#168. |
 
-| Ref | Chân | Ảnh, vùng | Lý do |
+## 4. Chỗ chưa chắc — 169 hàng note có dấu hỏi
+
+Ba hàng R1.2, R11.2 và У14.8 đã xem lại nhưng còn khó đọc dấu đảo/chữ viết tay;
+У8.10 đã sửa địa chỉ, còn mâu thuẫn sửa tay ở bảng П2/2.
+Các hàng khác trong bảng dưới **chưa được soát hết từng chân ở T03b**:
+giữ dấu hỏi của checkpoint, không khẳng định tất cả đều không thể đọc.
+Các note cũ “thấy số chân” cần kiểm lại, đặc biệt các nhóm chân được liệt kê
+theo mẫu trong T03. Không dùng dữ liệu chưa soát để đấu dây.
+
+| Ref | Chân còn ? | Ảnh / vùng | Tình trạng |
 |---|---|---|---|
-| R4 | 1 | #167, bảng П1 góc phải | `РГР` hay `ПРП` không phân biệt chắc; giữ cách đọc Э3 và cách đọc Э4 riêng. |
-| R1…R11 | 2 | #168, vùng trái | Thấy chân 2 sau điện trở; nhánh kế tiếp đi qua chữ nhỏ/nếp gấp, không khóa net. |
-| У8 | 1, 2, 3, 4, 6, 8, 11, 12 | #168, trái trên | Số chân thấy được; tuyến dây/điểm giao nhỏ không đủ chắc. |
-| У9, У10 | 2, 3, 5, 6, 8, 9, 11, 12 | #168, trái trên | Chỉ bốn đầu ra 1, 4, 10, 13 khóa được với bó D. |
-| У11 | 1, 3–5, 8–13 | #168, trái giữa/đáy | Chỉ У11.2 và У11.6 có nhãn đầu nối đọc chắc. |
-| У12, У13 | 1–6, 8–13 | #168, trái dưới | Chữ và điểm giao gần mép/nếp gấp không đủ chắc. |
-| У14 | 8 | #167, góc phải dưới | Tên đầu ra П3/42 đọc gần `Nоб БК`, ký tự không chắc. |
-| У15, У16 | 1–6, 8–13 | #168, trái dưới | Tuyến dây nhỏ, nhiều giao cắt; không suy bằng loại IC. |
-| У17, У18 | 2, 3, 5, 6, 8, 9, 11, 12 | #168, trái/giữa | Chỉ các đầu ra 1, 4, 10, 13 khóa với bó D số 8…15. |
-| У19, У21 | 3–6, 8, 11–13 | #168, đáy | Các đầu vào có nhãn П1/П3 đã chép; các đầu còn lại chưa lần chắc. |
-| У20, У22…У25 | 1–6, 8–13 | #168, đáy và vùng nếp | Số chân in được ghi, nhưng không bịa nối qua vùng mờ/nếp gấp. |
+| R1 | 2 | #168 trái dưới; #167 bảng П2/П3 | Đã khóa nối; gạch trên tên chưa chắc. |
+| R11 | 2 | #168 trái trên; #167 bảng П1 | Đã khóa nối; РГР/ПРП chưa phân định. |
+| У8 | 2, 3, 4, 6, 8, 10, 11, 12 | #168 trái/giữa/đáy | Chưa hoàn tất soát từng chân; note T03 ghi chữ nhỏ/nếp gấp. |
+| У9 | 2, 3, 5, 6, 8, 9, 11, 12 | #168 trái/giữa/đáy | Chưa hoàn tất soát từng chân; note T03 ghi chữ nhỏ/nếp gấp. |
+| У10 | 2, 3, 5, 6, 8, 9, 11, 12 | #168 trái/giữa/đáy | Chưa hoàn tất soát từng chân; note T03 ghi chữ nhỏ/nếp gấp. |
+| У11 | 1, 3, 4, 5, 8, 9, 10, 11, 12, 13 | #168 trái/giữa/đáy | Chưa hoàn tất soát từng chân; note T03 ghi chữ nhỏ/nếp gấp. |
+| У12 | 1, 2, 3, 4, 5, 6, 8, 9, 10, 11, 12, 13 | #168 trái/giữa/đáy | Chưa hoàn tất soát từng chân; note T03 ghi chữ nhỏ/nếp gấp. |
+| У13 | 3, 4, 5, 6, 8, 9, 10, 11, 12, 13 | #168 trái/giữa/đáy | Chưa hoàn tất soát từng chân; note T03 ghi chữ nhỏ/nếp gấp. |
+| У14 | 8 | #167 phải dưới | Đã xem lại; chữ Nоб БК/NАБбк chưa phân định. |
+| У15 | 1, 2, 3, 4, 5, 6, 8, 9, 10, 11, 12, 13 | #168 trái/giữa/đáy | Chưa hoàn tất soát từng chân; note T03 ghi chữ nhỏ/nếp gấp. |
+| У16 | 1, 2, 3, 4, 5, 6, 8, 9, 10, 11, 12, 13 | #168 trái/giữa/đáy | Chưa hoàn tất soát từng chân; note T03 ghi chữ nhỏ/nếp gấp. |
+| У17 | 2, 3, 5, 6, 8, 12 | #168 trái/giữa/đáy | Chưa hoàn tất soát từng chân; note T03 ghi chữ nhỏ/nếp gấp. |
+| У18 | 3, 5, 8, 12 | #168 trái/giữa/đáy | Chưa hoàn tất soát từng chân; note T03 ghi chữ nhỏ/nếp gấp. |
+| У19 | 3, 4, 5, 6, 8, 11, 12, 13 | #168 trái/giữa/đáy | Chưa hoàn tất soát từng chân; note T03 ghi chữ nhỏ/nếp gấp. |
+| У20 | 1, 2, 3, 4, 5, 6, 8, 9, 10, 11, 12, 13 | #168 trái/giữa/đáy | Chưa hoàn tất soát từng chân; note T03 ghi chữ nhỏ/nếp gấp. |
+| У21 | 3, 4, 5, 6, 8, 11, 12, 13 | #168 trái/giữa/đáy | Chưa hoàn tất soát từng chân; note T03 ghi chữ nhỏ/nếp gấp. |
+| У22 | 1, 2, 3, 4, 5, 6, 8, 9, 10, 11, 12, 13 | #168 trái/giữa/đáy | Chưa hoàn tất soát từng chân; note T03 ghi chữ nhỏ/nếp gấp. |
+| У23 | 1, 2, 3, 4, 5, 6, 8, 9, 10, 11, 12, 13 | #168 trái/giữa/đáy | Chưa hoàn tất soát từng chân; note T03 ghi chữ nhỏ/nếp gấp. |
+| У24 | 1, 2, 3, 4, 5, 6, 8, 9, 10, 11, 12, 13 | #168 trái/giữa/đáy | Chưa hoàn tất soát từng chân; note T03 ghi chữ nhỏ/nếp gấp. |
+| У25 | 1, 2, 3, 4, 5, 6, 8, 9, 10, 11, 12, 13 | #168 trái/giữa/đáy | Chưa hoàn tất soát từng chân; note T03 ghi chữ nhỏ/nếp gấp. |
 
-## 5. Giới hạn
+## 5. Giới hạn và phần chưa làm
 
-Netlist này khóa đầy đủ cấu trúc chân của 15 ячейка, nguồn, bó D 0…15 và các
-nhánh đầu nối đọc chắc. Các tên `НЕ ПРОСЛЕЖЕНО ref.pin` là trạng thái chưa
-lần được, không phải tên net in trên bản vẽ và không được dùng để suy chức
-năng. Chưa đo thông mạch trên tấm У5 thật; chưa dùng Э4 hoặc datasheet để điền
-ngược các nhánh mờ của Э3.
+Chưa hoàn tất mục 1 và 2 T03b: còn 169 hàng dấu hỏi và 36 chân ONLY_E4 cần
+soát tiếp. Không tái xác nhận toàn bộ 15 ячейка hoặc bó dữ liệu trong lượt này.
+Các diễn giải ở §1 là dữ liệu kế thừa T03, chưa phải kết luận nghiệm thu T03b.
+Các tên `НЕ ПРОСЛЕЖЕНО ref.pin` chỉ là placeholder chưa truy dây.
+Chưa đo thông mạch trên tấm thật. Không commit, không sửa Э4 hoặc ảnh gốc.

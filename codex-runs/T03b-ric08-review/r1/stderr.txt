@@ -1,0 +1,4 @@
+2026-10-22T11:40:04.473647Z ERROR codex_core::tools::router: error=apply_patch verification failed: Failed to find expected lines in E:\Alitum\Tự học Altium\Projects\MODULE\A313\BO TLTK DAU A\A313-V_codex\tmp\pdfs\review\a313-3\e3\ric08_net.csv:
+У8,10,П2:48 0⇒РПР,"Nhánh vào S của У8-2, #168 vùng trái trên"
+2026-10-22T11:43:06.340398Z ERROR codex_core::tools::router: error=apply_patch verification failed: Failed to find expected lines in E:\Alitum\Tự học Altium\Projects\MODULE\A313\BO TLTK DAU A\A313-V_codex\tmp\pdfs\review\a313-3\e3\ric08_net.csv:
+У14,5,П2:4 1t-3,#167 góc phải dưới và bảng đầu nối: cùng số đường 14/1/2/3 tương ứng; đọc hai đầu trên Э3
