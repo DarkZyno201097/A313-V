@@ -72,7 +72,7 @@ def calc():
 KNOWN = {19: 'Д7 có trong перечень, không có trên Э3', 25: 'R28, Д3, Д4 có trong перечень, không có trên Э3 (góc ảnh #233 bị che)'}
 
 if __name__ == '__main__':
-    bad = [nn for nn in (19, 20, 21, 22, 23, 24, 25, 26) if not check(nn)]
+    bad = [nn for nn in (11, 19, 20, 21, 22, 23, 24, 25, 26) if not check(nn)]
     calc()
     assert set(bad) <= set(KNOWN), 'có ngoại lệ mới: %s' % (set(bad) - set(KNOWN))
     for nn in bad:
