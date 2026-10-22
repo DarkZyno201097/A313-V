@@ -1,0 +1,2 @@
+?? codex-runs/T04-ric06-y3/r2/
+?? codex-runs/T04-ric06-y3/task2.md
