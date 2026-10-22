@@ -118,6 +118,11 @@ Cột "Thay thế tạm" là bản vẽ khác trong repo có thể dùng tạm:
 - **Y1–Y7, Y17–Y23: không có thay thế.** Phần số của A313-V nằm trong FPGA; nguồn A313-V dùng
   module Traco/TI.
 
+> **Cập nhật 22/10/2026:** người dùng đã chụp bản giấy ЕУ3.048.002 РЭ (`ЕУ.048.002.РЭ_A313-3/`, 249 ảnh).
+> Phụ lục có Э4/Y16 (tr.142–157) và Э3 + ПЭ của hầu hết các tấm (рис.6–26) — xem
+> `DANH-MUC_ANH_RE_A-313-3.md` §2. Còn thiếu sơ đồ рис.5 (Y4), рис.15 (Y9) và nhiều tờ gấp chụp
+> chưa trọn (§4 của file đó). Cột «Sơ đồ» ở bảng trên chưa sửa — sẽ sửa khi chép xong từng tấm.
+
 ---
 
 ## 2. Danh sách xin bổ sung (theo thứ tự ưu tiên)
