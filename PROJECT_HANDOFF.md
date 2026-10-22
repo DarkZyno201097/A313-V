@@ -160,3 +160,19 @@ Mâu thuẫn ghi nhận: KE-HOACH ghi Y1/Y7 "thiếu danh mục" (theo bản d�
 
 **Codex không làm việc chép/khôi phục sơ đồ A-313-3 nữa** (từ chối T04 lượt 2, lý do chính sách). Chỉ giao Codex việc kiểm kê tài liệu / kiểm định dạng CSV; việc chép sơ đồ do Claude làm hoặc người dùng tự làm.
 **Đề xuất kế tiếp (sau T04):** người dùng chụp lại tờ 2/3 рис.6 và #168 рис.8 rõ hơn, xác định #155/#156 thuộc hình nào; sau đó Claude chép Y2 (рис.9) hoặc soát tiếp các thanh dọc рис.6.
+
+### 12.2. Tiếp nhận trực tiếp bởi Codex — 2026-10-22 21:00 +07:00
+
+- Yêu cầu hiện tại: Codex làm trực tiếp với người dùng, không qua Claude. Cơ chế điều phối ở §12 và các đề xuất resume Claude cũ chỉ là lịch sử. Lượt này chỉ tiếp nhận, chạy kiểm và chờ người dùng chọn nhiệm vụ.
+- Checkout: E:/Alitum/Tự học Altium/Projects/MODULE/A313/BO TLTK DAU A/2.BO TLTK DAU A_A313-V; baseline main `1450f2d`; nhánh checkpoint `codex/a313-v-intake-20261022`.
+- Đã đọc theo thứ tự yêu cầu: AGENTS, handoff, orchestration §5–6, ric11/08/06_mota, danh mục ảnh và trang.csv. Đã kiểm git status và log -8.
+- Kiểm ngay lượt này: chạy lại ric06_gen.py, e3_check.py, e3_vs_e4.py cho 6 У3 / 8 У5 / 11 У7, e4_check.py. Không phát sinh diff CSV; không sửa script hay tài liệu gốc.
+- Output chính: `bom 99 conn 176; net 818`; рис.6 `match 125 | name mismatch 32 | only E3 1 | only E4 9`; рис.8 `match 121 | name mismatch 3 | only E3 0 | only E4 36`; рис.11 `match 105 | name mismatch 0 | only E3 0 | only E4 1`.
+- Э4: `rows 2877 tables 58`; `reciprocal ok 1018 | mismatch 20 | target table not transcribed 22`; `struck-out rows skipped: 36`; `duplicate (table,pin): -`; `rows marked ?: 243`.
+- e3_check ghi nhận đúng ngoại lệ đã biết рис.6/19/25. PASS của checker chỉ là kiểm dữ liệu/cấu trúc, chưa xác nhận topology bằng ảnh hoặc nghiệm thu phần cứng.
+- §12.1 được tái xác nhận: рис.11 PASS phạm vi dữ liệu (166 ref/462 chân, 0 dòng ?); рис.8 PARTIAL (948 chân, 169 dòng ?); рис.6 PARTIAL (818 chân, 213 dòng ?, 166 chưa lần). Không đổi kết quả baseline. Các con số dòng ? đếm bằng csv.DictReader, kiểm mọi giá trị của từng hàng; chưa lần đếm prefix Unicode НЕ ПРОСЛЕЖЕНО trong net.
+- Thay đổi có sẵn, không thuộc lượt này: AGENTS.md, KE-HOACH_KIEM-TRA_A-313-3.md, PROMPT_CODEX_tiep-tuc_A313-3.md, README.md; IDEA.md chưa theo dõi. Không stage/commit các file này.
+- JARVIS: check hiện tại ok, không errors/warnings; chưa tìm thấy bản đồ/coverage A313 trong projects/work. Không dùng capability netlist-readers-and-compare vì phương ngữ khác CSV hiện tại. Chưa đăng ký/nạp dự án; giữ kết quả tại checkpoint này, cần thống nhất đăng ký riêng. Không có proposal của lượt này để consolidate.
+- AgentMemory: đã tìm hẹp theo tên checkout và A-313-3/T04; không dùng kết quả tìm kiếm để thay trạng thái repo.
+- Còn lại: chờ ảnh rõ tờ 2/3 рис.6 và #168 рис.8; #155/#156 vẫn chưa định danh lại. Theo hàng đợi người dùng: рис.9/Y2 trước, rồi рис.10, рис.7, Э4; chưa bắt đầu nhiệm vụ nào.
+- Bước kế tiếp duy nhất: người dùng chọn nhiệm vụ; sau mỗi nhiệm vụ báo cáo, commit checkpoint trên nhánh làm việc và dừng. Không push/merge/reset. Chưa kiểm trạng thái private trực tuyến trong lượt này.
