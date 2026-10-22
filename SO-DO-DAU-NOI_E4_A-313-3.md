@@ -96,3 +96,15 @@ nối vỏ tại đầu cắm 3Ш3**.
 * **У24 đọc 9 điện áp kiểm tra** (+5, −20, +10, +20, +6,3, −12,6, −10, −6,3, +12,6 В) và xuất ИСПР.ПИТ ЦВУ (3Ш2/35),
   НАПР. ВЫШЕ/НИЖЕ НОРМЫ (3Ш2/36, /37), ИСПР.ПИТ ППЗУ (3Ш2/39) sang A-313-2A — đây là các điểm đo đầu tiên của
   Giai đoạn 1 (nguồn) trong kế hoạch.
+
+## 5. Ma trận nối Y16 (tr.153–157) và so sánh với A313-V
+
+* **Ma trận П1…П15** (`e4/p153_157_matrix.csv`, `e4/matrix_nets.csv`, cách đọc ở `e4/matrix_notes.md`; tái tạo và kiểm
+  bằng `e4_matrix.py`): Пn = У16КПn; mỗi cột dọc là một dây, số ở điểm cắt là chân. 278 dây, 622 điểm nối.
+  Đối chiếu tên tín hiệu hai đầu với bảng КП: 261/278 khớp (kể cả khác chính tả). Hai ô bảng КП11 chép sai đã sửa
+  theo ma trận (`e4_sua.py`). Còn lại: 11 dây có đầu bảng КП để trống tên; КП7/41,6 «ВХОД а/б» ↔ КП12/38,12
+  «"а"/"б" ПР» (cần Э3 У11/У8); cột «Выход 2б» ghi П3/23 (trùng СИм) — gần như chắc là **П3/29** (lỗi bản vẽ).
+* **3Ш3/3Ш3В/3Ш4/3Ш4В so với phụ lục TMKT A313-V** (`e4_tmkt.py` → `e4/e4_vs_tmkt.csv`): 252/268 chân cùng tín hiệu;
+  10 chân bị gạch trên A-313-3 (3Ш4/36–45) thì A313-V để trống ⇒ hai khối **cắm lẫn được về sơ đồ chân máy bay**.
+  Khác: 3Ш3В/55 «Uоп ~5В» chỉ có ở A313-V (khối Nga tự tạo ~5 В 400 Гц trong У17, xem `SO-DO-NGUON_A-313-3.md` §2);
+  3Ш3В/60 −20 В (Nga) / −23 В (A313-V); 3Ш3В/63 −12,6 В / −12 В.
