@@ -122,6 +122,8 @@ Cột "Thay thế tạm" là bản vẽ khác trong repo có thể dùng tạm:
 > Phụ lục có Э4/Y16 (tr.142–157) và Э3 + ПЭ của hầu hết các tấm (рис.6–26) — xem
 > `DANH-MUC_ANH_RE_A-313-3.md` §2. Còn thiếu sơ đồ рис.5 (Y4), рис.15 (Y9) và nhiều tờ gấp chụp
 > chưa trọn (§4 của file đó). Cột «Sơ đồ» ở bảng trên chưa sửa — sẽ sửa khi chép xong từng tấm.
+> Э4/Y16 tr.142–152 đã chép và kiểm chéo: `SO-DO-DAU-NOI_E4_A-313-3.md`. Danh mục cấp khối tr.142 sửa
+> số hiệu У12/У13 (đảo), У14/У15, У24 = ЕУ2.072.139 và У21 = −20 В — xem §2 của file đó.
 
 ---
 
