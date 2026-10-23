@@ -1,5 +1,7 @@
 # Project Handoff
 
+> Checkpoint hiện tại: §13 R01, ngày 2026-10-23; các mục trước là lịch sử.
+
 > Checkpoint phiên, không phải nguồn sự thật lâu dài. Luật dự án và hàng đợi
 > việc ở `CLAUDE.md`; bản đồ thư mục và an toàn phần cứng ở `README.md`.
 
@@ -160,3 +162,74 @@ Mâu thuẫn ghi nhận: KE-HOACH ghi Y1/Y7 "thiếu danh mục" (theo bản d�
 
 **Codex không làm việc chép/khôi phục sơ đồ A-313-3 nữa** (từ chối T04 lượt 2, lý do chính sách). Chỉ giao Codex việc kiểm kê tài liệu / kiểm định dạng CSV; việc chép sơ đồ do Claude làm hoặc người dùng tự làm.
 **Đề xuất kế tiếp (sau T04):** người dùng chụp lại tờ 2/3 рис.6 và #168 рис.8 rõ hơn, xác định #155/#156 thuộc hình nào; sau đó Claude chép Y2 (рис.9) hoặc soát tiếp các thanh dọc рис.6.
+
+## 13. R01 — đổi tên ảnh bản giấy (2026-10-23)
+
+### 1. Current Task
+
+Đổi tên một lần 249 ảnh trong `ЕУ.048.002.РЭ_A313-3/`, giữ nguyên byte ảnh,
+chỉ số #NNN và mọi tham chiếu đang dùng. Người dùng cho phép ngoại lệ đổi tên;
+commit một lần có tiền tố `R01:`, không push.
+
+### 2. Current Project State
+
+Checkout hiện tại là thư mục gốc A313-V này. Theo xác nhận của người dùng,
+đã chuyển từ `codex/a313-v-intake-20261022` sang `main`, baseline
+`1450f2d7ce4bd03e3ac1e735cbdc063df3c0ccea`, giữ thay đổi đang dở.
+Checkpoint này đi cùng commit R01; tra commit bằng `git log -1 --grep="^R01:"`.
+
+### 3. Completed Work
+
+Đổi tên 249 ảnh (239 JPG, 10 HEIC) bằng `git mv`; 249 hash SHA-256 khớp trước/sau.
+`_DOI-TEN.csv` giữ tên cũ, tên mới, trang và hash. Thay tên trong 12 file tham chiếu.
+Danh mục có quy tắc tên, hậu tố ảnh bổ sung và tên dự kiến từng trang thiếu.
+AGENTS/CLAUDE ghi ngoại lệ đổi tên ngày 2026-10-23; ảnh tiếp tục chỉ-đọc.
+
+### 4. Important Decisions
+
+`page` trống giữ `trXXX` (19 ảnh); `kind=X` thêm `_x` (5 ảnh). Không suy số trang.
+Log `codex-runs/` ở cả vị trí cũ/mới giữ nguyên, tra qua bảng ánh xạ.
+`k3_kiemke.py` xếp theo aNNN để tránh đổi chỉ số khi tên mới xếp theo trang.
+
+### 5. Files Changed
+
+Danh sách 12 file đổi tham chiếu và output kiểm đầy đủ ở
+`tmp/pdfs/review/a313-3/kiemke/r01_verification.json`.
+Thêm `kiemke/doi_ten_anh.py`, `kiemke/test_doi_ten_anh.py`, bảng ánh xạ;
+sửa `k3_kiemke.py`, chú thích `k3_crop.py`, danh mục, AGENTS/CLAUDE và checkpoint.
+Chỉ stage câu mới R01 trong AGENTS/CLAUDE, giữ các sửa đổi có sẵn ngoài index.
+
+### 6. Verification Already Completed
+
+Kiểm trong lượt R01: `e4_check.py`, `e3/e3_check.py`, `e4_matrix.py` đều exit 0;
+stdout/stderr trước/sau khớp nguyên byte. Các hash output ghi trong JSON bằng chứng.
+Э4: 2877 dòng/58 bảng, reciprocal 1018, mismatch 20, chưa chép bảng đích 22,
+243 dòng có dấu hỏi. Ma trận: 282 cột, 622 giao điểm, 254 khớp, 24 lệch/thiếu tên.
+Э3 giữ ngoại lệ đã biết рис.6/19/25. Đây là kiểm dữ liệu, không xác nhận phần cứng.
+Bốn unit test của script đổi tên đạt; dry-run trước/sau đạt; sinh lại `k3_trang.py`
+exit 0 và `trang.csv` không đổi byte. Thứ tự kiểm kê và hai CSV khớp đủ a001…a249.
+Quét cả file ẩn/bị ignore bằng `rg -uu`: không còn tên cũ ngoài ánh xạ và log lịch sử.
+Đối chiếu snapshot SHA-256 trước nhiệm vụ: mọi file đọc được ngoài phạm vi R01 không đổi.
+
+### 7. Known-Good State
+
+249 ảnh không đổi nội dung; ánh xạ 1:1, tên mới duy nhất; tham chiếu hiện tại trỏ tên mới.
+Các kết quả phần cứng/kết luận kỹ thuật của §11–12 là kế thừa, không kiểm lại trong R01.
+
+### 8. Unfinished Work
+
+Không mở rộng sang phân tích sơ đồ hoặc sửa các mismatch kế thừa. Giữ nguyên các việc
+chụp bổ sung trong danh mục. JARVIS chưa có bản đồ/coverage A313 được đăng ký;
+chưa nạp/công bố R01, giữ chứng cứ trong repo. Không có proposal ID của R01 cần consolidate.
+Chủ đề cần nạp sau đăng ký: quy tắc tên/bảng ánh xạ, script và kiểm hồi quy, bẫy thứ tự #NNN.
+
+### 9. Risks / Open Questions
+
+File khóa Excel `~$a313.xlsx` bị khóa đọc nên không có hash; không tác động file này.
+Các thay đổi có sẵn (dời `File của A313-V/`, a313.xlsx, IDEA.md, tài liệu khác) giữ nguyên,
+không stage. Công cụ R01 giới hạn 249 ảnh cũ, không dùng để nhập ảnh bổ sung.
+
+### 10. Exact Next Step
+
+Sau commit R01, tra ảnh cần chụp ở `DANH-MUC_ANH_RE_A-313-3.md` §4;
+ảnh mới bắt đầu a250. Không push nếu chưa có yêu cầu riêng của người dùng.

@@ -1,9 +1,9 @@
 # Рис.8 — Устройство командного управления У5 của A-313-3
 
-Nguồn chính: Э3 ảnh #167 (`20261021_101555.jpg`, trang tay 171) và #168
-(`20261021_101653.jpg`, trang tay 172); ПЭ ảnh #169
-(`20261021_101707.jpg`, trang 173) và #170
-(`20261021_101726.jpg`, trang 174). Bảng chân đối chiếu độc lập: Э4 trang
+Nguồn chính: Э3 ảnh #167 (`RE_tr171_a167.jpg`, trang tay 171) và #168
+(`RE_tr172_a168.jpg`, trang tay 172); ПЭ ảnh #169
+(`RE_tr173_a169.jpg`, trang 173) và #170
+(`RE_tr174_a170.jpg`, trang 174). Bảng chân đối chiếu độc lập: Э4 trang
 151, `e4/p151.csv`, các bảng `У5П1`, `У5П2`, `У5П3`.
 
 Bản ghi: `ric08_bom.csv` có 86 ref vật lý; `ric08_net.csv` có 948 hàng

@@ -2,7 +2,7 @@
 
 Run from project root:
     python tmp/pdfs/review/a313-3/k3_crop.py OUT.jpg IDX[:x0,y0,x1,y1] [IDX[:box] ...] [--w 1600]
-IDX is the 1-based index in kiemke/kiemke.csv (sorted file names); box is in fractions of the
+IDX is the stable photo number aNNN in kiemke/kiemke.csv order; box is in fractions of the
 upright photo (default whole photo). Several crops are stacked vertically into OUT.jpg.
 Photos are read-only; only OUT.jpg is written.
 """

@@ -36,7 +36,9 @@ def sharpness(img):
 def main():
     assert bin(dhash(Image.new('L', (40, 40)))).count('1') == 0
     OUT.mkdir(parents=True, exist_ok=True)
-    files = sorted(p for p in SRC.iterdir() if p.suffix.lower() in ('.jpg', '.jpeg', '.heic'))
+    # Giữ #NNN ổn định: tên mới xếp theo trang sẽ làm lệch chỉ số ảnh.
+    files = sorted((p for p in SRC.iterdir() if p.suffix.lower() in ('.jpg', '.jpeg', '.heic')),
+                   key=lambda p: int(p.stem.split('_a')[1].split('_')[0]))
     rows, thumbs = [], []
     for p in files:
         try:

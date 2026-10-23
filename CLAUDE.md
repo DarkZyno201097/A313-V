@@ -42,6 +42,7 @@ STM32, JTAG/boundary-scan, reverse engineering FPGA đời cũ.
    `BVTK-A313-V.04.pdf`, `BVTK-A313-V.06.pdf`, `A313 original/`,
    `File mach in va mach nguyen ly_A313_V/`, `GIAO AN HLKT A313-V.*`,
    `ЕУ.048.002.РЭ_A313-3/` (ảnh chụp bản giấy; tra trang ở `DANH-MUC_ANH_RE_A-313-3.md`).
+   Thư mục `ЕУ.048.002.РЭ_A313-3/` đã đổi tên một lần ngày 2026-10-23 theo quy tắc trong `DANH-MUC_ANH_RE_A-313-3.md`, nội dung không đổi, ánh xạ ở `ЕУ.048.002.РЭ_A313-3/_DOI-TEN.csv`; từ nay vẫn chỉ-đọc.
    Bản chuyển đổi/trích xuất ghi ra file mới, đặt cạnh file gốc.
    **Repo chỉ chứa PDF** — mọi `.doc`/`.docx` bị `.gitignore` loại, chỉ có trên
    máy làm việc. Trên cloud không sửa được báo cáo Word.

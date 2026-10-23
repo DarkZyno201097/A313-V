@@ -1,0 +1,84 @@
+{
+  "baseline_head": "1450f2d7ce4bd03e3ac1e735cbdc063df3c0ccea",
+  "checks": [
+    {
+      "command": "python tmp/pdfs/review/a313-3/e4_check.py",
+      "exit_code": 0,
+      "stdout_equal": true,
+      "stderr_equal": true,
+      "stdout_sha256": "3534f156169116dfa9dade053fbca25da16ffe9a0d115d390f0964cabceb0cb3",
+      "stdout": "rows 2877 tables 58 : 3Ш1 3Ш2 3Ш3 3Ш3В 3Ш4 3Ш4В 3Ш5 3Ш7 ?П1(ИНТЕГРАТОРЫ) У10П1 У11П1 У11П2 У12 У13 У14П1 У15П1 У16КП1 У16КП10 У16КП11 У16КП12 У16КП13 У16КП15 У16КП2 У16КП3 У16КП4 У16КП5 У16КП7 У16КП8 У16КП9 У173Ш5 У18 У19 У1П1 У1П2 У1П3 У20 У21 У22 У23 У24 У2П1 У2П2 У2П3 У3П1 У3П2 У3П3 У4П1 У4П2 У4П3 У5П1 У5П2 У5П3 У6П1 У6П2 У6П3 У7П1 У7П2 У8П1\r\nreciprocal ok 1018 | mismatch 20 | target table not transcribed 22\r\nstruck-out rows skipped: 36\r\nduplicate (table,pin): -\r\nrows marked ?: 243\r\n",
+      "before_stdout_sha256": "3534f156169116dfa9dade053fbca25da16ffe9a0d115d390f0964cabceb0cb3",
+      "before_stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "after_stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "command": "python tmp/pdfs/review/a313-3/e3/e3_check.py",
+      "exit_code": 0,
+      "stdout_equal": true,
+      "stderr_equal": true,
+      "stdout_sha256": "29552193278e9d8f218d8ff7b6757f5d9809d3f9994cb123ec242a933f746fae",
+      "stdout": "ric06: bom 99 ref, net 818 chân, 360 net (85 N#)\r\n  trong bom không có trong net: —\r\n  trong net không có trong bom: ['C6', 'У15?т1', 'У16?т1', 'У5-4?']\r\n  N# < 2 chân: —\r\nric08: bom 86 ref, net 948 chân, 372 net (108 N#)\r\n  trong bom không có trong net: —\r\n  trong net không có trong bom: —\r\n  N# < 2 chân: —\r\nric11: bom 166 ref, net 462 chân, 159 net (51 N#)\r\n  trong bom không có trong net: —\r\n  trong net không có trong bom: —\r\n  N# < 2 chân: —\r\nric19: bom 111 ref, net 290 chân, 89 net (72 N#)\r\n  trong bom không có trong net: ['Д7']\r\n  trong net không có trong bom: —\r\n  N# < 2 chân: —\r\nric20: bom 44 ref, net 98 chân, 26 net (22 N#)\r\n  trong bom không có trong net: —\r\n  trong net không có trong bom: —\r\n  N# < 2 chân: —\r\nric21: bom 46 ref, net 102 chân, 25 net (21 N#)\r\n  trong bom không có trong net: —\r\n  trong net không có trong bom: —\r\n  N# < 2 chân: —\r\nric22: bom 43 ref, net 99 chân, 23 net (19 N#)\r\n  trong bom không có trong net: —\r\n  trong net không có trong bom: —\r\n  N# < 2 chân: —\r\nric23: bom 50 ref, net 113 chân, 25 net (21 N#)\r\n  trong bom không có trong net: —\r\n  trong net không có trong bom: —\r\n  N# < 2 chân: —\r\nric24: bom 40 ref, net 95 chân, 27 net (19 N#)\r\n  trong bom không có trong net: —\r\n  trong net không có trong bom: —\r\n  N# < 2 chân: —\r\nric25: bom 164 ref, net 397 chân, 63 net (53 N#)\r\n  trong bom không có trong net: ['R28', 'Д3', 'Д4']\r\n  trong net không có trong bom: —\r\n  N# < 2 chân: —\r\nric26: bom 47 ref, net 106 chân, 25 net (21 N#)\r\n  trong bom không có trong net: —\r\n  trong net không có trong bom: —\r\n  N# < 2 chân: —\r\n\r\nрис.24\r\n  −5 В: Vдвижка R4 = −4.35 В → движок ở 0.48 hành trình R4 từ корпус\r\n        dải chỉnh ≈ −0.65 … −9.65 В (giới hạn thêm bởi đầu vào −12,6 В)\r\n  Iст Д1 (R1, R4) ≈ 7.66 − 1.91 = 5.74 мА\r\n  Iст Д3 (R6, R8+R9) ≈ 7.66 − 2.81 = 4.85 мА\r\n  Iст Д4 (R12, R15+R16) ≈ 7.66 − 2.00 = 5.66 мА\r\n  +10 В: hệ số chia R11/R20 = 2.00; Vw cần = 4.35 В; dải Vw 3.375…9.0 В → Vout 8.05…19.30 В (thực tế ≤ ~10,6 В do đầu vào +12,6 В)\r\n        dòng phân áp R11+R20 = 3.33 мА\r\n  −10 В: |Vw| 6.00…9.00 В → движок R21 k = 0.665…0.965 (tỉ lệ từ корпус lên −10 В); dòng R21 = 4.55 мА\r\n  +3,5 В: Uвх 6.3 В → Vб(T11) không tải = 3.15 В (Д5 4,7 В không dẫn) → Vout ≈ 2.50 В; R_Thevenin 110 Ом\r\n  +3,5 В: Uвх 5.0 В → Vб(T11) không tải = 2.50 В (Д5 4,7 В không dẫn) → Vout ≈ 1.85 В; R_Thevenin 110 Ом\r\n\r\nрис.26\r\n  buck-boost đảo, CCM lý tưởng: D = U/(U+Uвх) = 0.318; Uвх 24…29,7 В → D 0.298…0.344\r\n  điện áp ngược trên T6/Д2 ≈ Uвх+U = 39.6 В (Uвх 29,7 → 42.3 В)\r\n  dòng trung bình qua Др2 ≈ Iн/(1−D) = 1.47 А tại 1 А\r\n  điểm cân bằng: U = Vz·(R2+R3+R4)/(R4+k·R3); cần (R2+R3+R4)/(R4+kR3) = 1.400 — R2…R4 thiếu (tr. 238)\r\n  ngưỡng bảo vệ: Iкз ≈ Vbe(T9)·(R17+R18)/(R17·R_Др3) — R17, R18, R_Др3 chưa biết\r\nngoại lệ đã biết ric6: C6 có trên Э3 tờ 1, không có trong ПЭ; У15?т1/У16?т1 (tờ 1) và У5-4? (tờ 3) trùng ký hiệu, chưa định danh\r\nngoại lệ đã biết ric19: Д7 có trong перечень, không có trên Э3\r\nngoại lệ đã biết ric25: R28, Д3, Д4 có trong перечень, không có trên Э3 (góc ảnh #233 bị che)\r\n",
+      "before_stdout_sha256": "29552193278e9d8f218d8ff7b6757f5d9809d3f9994cb123ec242a933f746fae",
+      "before_stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "after_stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "command": "python tmp/pdfs/review/a313-3/e4_matrix.py",
+      "exit_code": 0,
+      "stdout_equal": true,
+      "stderr_equal": true,
+      "stdout_sha256": "d144427e45bb1eb232d78bc0fbddb7577510e1e47e7062f9989eb0da736df701",
+      "stdout": "282 cột (4 cột trống: ['156-c09', '156-c11', '156-c14', '156-c16']), 622 giao điểm; 9 cột 1 chấm\r\nchân xuất hiện ở 2 cột: ['П3/23: 154-c35 & 157-c40']\r\nkhớp tên giữa mọi chân: 254; không khớp/thiếu tên: 24\r\nHEADER 153-c06 ЧТЕНИЕ УВВ | П1/17='ЧТ УВВ'; П9/21='¬ЧТ. УВВ'; П11/29='¬ЧТ. УВВ'\r\nMEMBERS 153-c09 СИ1-1 | П3/39='СИ 1-1'; П9/16='СИ'; П11/2='СИ1-1'\r\nMEMBERS 153-c25 Запрос А1 | П3/37=''; П9/48='ЗАПРОС А1'\r\nMEMBERS 153-c26 Запрос А2 | П3/12=''; П9/47='ЗАПРОС А2'\r\nMEMBERS 153-c27 АИ | П3/38=''; П9/46='АИ'\r\nMEMBERS 153-c28 Вход F1 | П2/19='ВХОД F1'; П9/45='F1'\r\nMEMBERS 153-c29 Вход F2 | П2/20='ВХОД F2'; П9/44='F2'\r\nMEMBERS 153-c30 Вход F3 | П2/21='ВХОД F3'; П9/43='F3'\r\nMEMBERS 153-c31 Вход F4 | П2/25='ВХОД F4'; П9/42='F4'\r\nMEMBERS 153-c38 И-3мкс / 16р Сч.К | П9/33='16рСчК'; П13/31='И-3мкс (6р Сч.К)'\r\nMEMBERS 153-c40 36И | П3/11=''; П11/53='36Н'\r\nMEMBERS 153-c41 35И | П3/36=''; П11/52='35Н'\r\nMEMBERS 153-c42 АИ | П3/10=''; П11/40='АИ'\r\nHEADER 154-c05 ¬Зп. ЦВУ (УВВ?) | П1/46='Зп.УВВ'; П11/28='¬ЗП. УВВ'\r\nMEMBERS 154-c10 ¬СВКцп-1 | П3/24='СВК 1-ЦИ'; П11/19='¬СВНцп-1'\r\nMEMBERS 155-c44 ¬Исправность | П2/48='ИСПРАВНОСТЬ'; П8/45='¬ИСПРАВН.'; П15/49='¬ИСПРАВН.'\r\nMEMBERS 156-c02 ¬ВНЕШН. ПРЕРЫВ. | П1/32=''\r\nMEMBERS 156-c03 ¬ВНЕШН. ПРЕРЫВ. | П1/33=''\r\nMEMBERS 156-c04 ¬ВНЕШН. ПРЕРЫВ. | П1/34=''\r\nMEMBERS 156-c05 ¬ВНЕШН. ПРЕРЫВ. | П1/35=''\r\nMEMBERS 156-c07 ОБЩ. ПРОВОДА | П2/24=''; П3/2='ОБЩИЙ ПРОВОД'; П4/27='Общий провод'; П5/1='Общий провод'; П7/1='Общий провод'; П12/1='Общий провод'\r\nMEMBERS 156-c17 -20В | П1/5='-23В'; П5/37='-20В'; П10/27='-20В'; П12/42='-20В'\r\nMEMBERS 156-c51 Упр. Ф | П10/32='УПР.ФУНК.'; П12/6='УПР.Ф'\r\nMEMBERS 157-c06 \"а\" ПР | П7/41='ВХОД а'; П12/38='„а\" ПР'\r\nMEMBERS 157-c07 \"б\" ПР | П7/6='ВХОД б'; П12/12='„б\" ПР'\r\nMEMBERS 157-c40 Выход 2б ⊓⊔ | П3/23='СИм'; П4/43='ВЫХОД 2б ⊓⊔'\r\n",
+      "before_stdout_sha256": "d144427e45bb1eb232d78bc0fbddb7577510e1e47e7062f9989eb0da736df701",
+      "before_stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "after_stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    }
+  ],
+  "photo_count": 249,
+  "image_hashes_match": 249,
+  "unknown_pages": [
+    75,
+    137,
+    138,
+    139,
+    181,
+    184,
+    185,
+    187,
+    188,
+    194,
+    197,
+    198,
+    222,
+    231,
+    232,
+    240,
+    246,
+    247,
+    249
+  ],
+  "references_updated": [
+    "tmp/pdfs/review/a313-3/kiemke/trang.csv",
+    "tmp/pdfs/review/a313-3/kiemke/kiemke.csv",
+    "tmp/pdfs/review/a313-3/e4_matrix.py",
+    "tmp/pdfs/review/a313-3/e4/e4_all.csv",
+    "tmp/pdfs/review/a313-3/e4/p146.csv",
+    "tmp/pdfs/review/a313-3/e4/p145.csv",
+    "tmp/pdfs/review/a313-3/e3/ric06_mota.md",
+    "tmp/pdfs/review/a313-3/e4/p151.csv",
+    "tmp/pdfs/review/a313-3/e4/p153_157_matrix.csv",
+    "tmp/pdfs/review/a313-3/e4/p152.csv",
+    "tmp/pdfs/review/a313-3/e3/ric08_mota.md",
+    "tmp/pdfs/review/a313-3/e3/ric11_mota.md"
+  ],
+  "unrelated_files_unchanged": true,
+  "inventory_order_preserved": true,
+  "old_references_remaining": 0,
+  "date": "2026-10-23",
+  "limits": [
+    "File khoa Excel ~$a313.xlsx khong doc duoc; khong sua file nay.",
+    "Khong doc lai so trang tu anh; dung nguyen trang.csv.",
+    "Khong thay doi cac ngoai le da biet cua E3/E4."
+  ]
+}

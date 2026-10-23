@@ -1,8 +1,8 @@
 # Рис.11 — Плата согласования У7 của A-313-3
 
-Nguồn chính: ảnh #180 (`20261021_102209.jpg`, trang tay 184, Э3); ПЭ ảnh #179
-(`20261021_102128.jpg`, trang 185); bản lắp ráp рис.27 ảnh #242
-(`20261021_143010.jpg`, trang 241). Bảng chân đối chiếu độc lập: Э4 trang 152,
+Nguồn chính: ảnh #180 (`RE_tr184_a180.jpg`, trang tay 184, Э3); ПЭ ảnh #179
+(`RE_tr185_a179.jpg`, trang 185); bản lắp ráp рис.27 ảnh #242
+(`RE_tr241_a242.jpg`, trang 241). Bảng chân đối chiếu độc lập: Э4 trang 152,
 `e4/p152.csv`, bảng `У7П1` và `У7П2`.
 
 Bản ghi: `ric11_bom.csv` có 166 ref vật lý; `ric11_net.csv` có 462 chân,

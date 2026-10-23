@@ -7,6 +7,29 @@ số trang đọc bằng mắt từ số viết tay, ô có `?` là chưa chắc
 
 Kiểm lại: `python tmp/pdfs/review/a313-3/k3_trang.py` → 226 trang thấy được trong khoảng 2…247.
 
+## 0. Quy tắc tên ảnh và cách tra
+
+Tên ảnh: `<SÁCH>_tr<TRANG>_a<SỐ ẢNH>[_<hậu tố>].<đuôi>`.
+
+- Sách này dùng `RE`; mã dành cho sách khác: `VT34` = SU-27-VT-34.44,
+  `VT28` = su-27-01-vt-28, `A2` = A-313-2, `VT72` = SU-C-VT-72.
+- `trNNN` lấy đúng cột `page` của `trang.csv`, đủ 3 chữ số; ô trống dùng `trXXX`, không đoán trang.
+- `aNNN` lấy cột `idx`, đủ 3 chữ số: chính là số **#NNN** trong tài liệu, không đánh số lại.
+- Ảnh cũ chỉ thêm `_x` khi `kind=X` (không phải trang sách); giữ nguyên đuôi `.jpg`/`.heic`.
+- Ví dụ **#167 → `RE_tr171_a167.jpg`**. Tra #NNN bằng `_aNNN`; tra trang bằng `RE_trNNN_`.
+- Ánh xạ tên cũ → tên mới và SHA-256: [_DOI-TEN.csv](ЕУ.048.002.РЭ_A313-3/_DOI-TEN.csv).
+  Log lịch sử trong `codex-runs/` (kể cả bản dời sang `File của A313-V/codex-runs/`) giữ tên cũ và tra qua bảng này.
+- Ảnh bổ sung dùng số tiếp theo **a250, a251…**, mỗi file có số riêng, không dùng lại số ảnh cũ.
+  Hậu tố tùy phần chụp: `_L` = nửa trái, `_R` = nửa phải, `_kt` = khung tên, `_cl` = cận cảnh.
+  Ví dụ `RE_tr167_a250_L.jpg`, `RE_tr167_a251_R.jpg`, `RE_tr167_a252_kt.jpg`.
+  Chỉ điền trang khi đọc được từ bản giấy; chưa rõ dùng `trXXX`.
+- Tên `a2xx` ở §4 là **mẫu dự kiến**, thay bằng số ảnh tiếp theo khi nhập ảnh; không phải tên file đã tồn tại.
+
+Đổi tên một lần ngày **2026-10-23**, nội dung ảnh không đổi; thư mục tiếp tục chỉ-đọc.
+Script `tmp/pdfs/review/a313-3/kiemke/doi_ten_anh.py` mặc định chỉ chạy thử;
+`--apply` dùng `git mv` và kiểm SHA-256. Đây là công cụ của đợt R01 gồm 249 ảnh,
+không dùng để tự đánh số lại ảnh bổ sung.
+
 ## 1. Cấu trúc cuốn sách
 
 | Trang | Ảnh | Nội dung |
@@ -62,11 +85,45 @@ xác nhận chỗ «Hình 13?» trong kế hoạch.
 ## 4. Cần chụp bổ sung (theo ưu tiên)
 
 1. **Tờ gấp chỉ chụp một phần** — đa số tờ Э3 khổ lớn bị cắt mất khung tên và một mép
-   (#156–#158, #161–#163, #171, #172, #175, #180, #184, #187, #204, #205, #211, #215, #219, #221).
+   (#156 (`RE_tr159_a156.jpg`), #157 (`RE_tr160_a157.jpg`), #158 (`RE_tr161_a158.jpg`),
+   #161 (`RE_tr164_a161.jpg`), #162 (`RE_tr166_a162.jpg`), #163 (`RE_tr165_a163.jpg`),
+   #171 (`RE_tr175_a171.jpg`), #172 (`RE_tr176_a172.jpg`), #175 (`RE_tr179_a175.jpg`),
+   #180 (`RE_tr184_a180.jpg`), #184 (`RE_trXXX_a184.jpg`), #187 (`RE_trXXX_a187.heic`),
+   #204 (`RE_tr202_a204.jpg`), #205 (`RE_tr203_a205.jpg`), #211 (`RE_tr209_a211.jpg`),
+   #215 (`RE_tr214_a215.jpg`), #219 (`RE_tr218_a219.jpg`), #221 (`RE_tr221_a221.jpg`)).
    Mở phẳng hết, chụp **từng nửa có chồng lấn ~20 %**, cộng một ảnh khung tên. Ưu tiên:
    Э4/Y16 (tr.142–157), nguồn рис.20–26, Y24 (рис.19).
-2. **Trang chưa thấy:** 24, 27, 29, 37, 42, 111, 121, 135 (phần TO — có thể là hình gấp);
-   167 (рис.7 tờ 3), 180, 188–190 (ПЭ рис.14?), 211, 220, 222, 238, 240, 245, 246.
+2. **Trang chưa thấy — tên dự kiến cho ảnh bổ sung:**
+
+   | Trang | Tên dự kiến |
+   |---|---|
+   | 24 | `RE_tr024_a2xx.jpg` |
+   | 27 | `RE_tr027_a2xx.jpg` |
+   | 29 | `RE_tr029_a2xx.jpg` |
+   | 37 | `RE_tr037_a2xx.jpg` |
+   | 42 | `RE_tr042_a2xx.jpg` |
+   | 111 | `RE_tr111_a2xx.jpg` |
+   | 121 | `RE_tr121_a2xx.jpg` |
+   | 135 | `RE_tr135_a2xx.jpg` |
+   | 167 | `RE_tr167_a2xx.jpg` |
+   | 180 | `RE_tr180_a2xx.jpg` |
+   | 188 | `RE_tr188_a2xx.jpg` |
+   | 189 | `RE_tr189_a2xx.jpg` |
+   | 190 | `RE_tr190_a2xx.jpg` |
+   | 211 | `RE_tr211_a2xx.jpg` |
+   | 220 | `RE_tr220_a2xx.jpg` |
+   | 222 | `RE_tr222_a2xx.jpg` |
+   | 238 | `RE_tr238_a2xx.jpg` |
+   | 240 | `RE_tr240_a2xx.jpg` |
+   | 245 | `RE_tr245_a2xx.jpg` |
+   | 246 | `RE_tr246_a2xx.jpg` |
+
+   Trang 24–135 trong danh sách thuộc phần TO (có thể là hình gấp); tr.167 là рис.7 tờ 3;
+   tr.188–190 nghi là ПЭ рис.14. Đây là danh sách cần tìm/chụp, không gán các trang này cho ảnh `trXXX`.
 3. **Sơ đồ chưa thấy:** рис.5 (Y4) và рис.15 (Y9) — chỉ có ПЭ. Phụ lục рис.1–4 (nếu có) cần
-   kiểm trên bản giấy.
-4. Đọc lại số trang: #75, #137–#139, #181, #184, #187, #188, #222, #231, #246, #247, #249.
+   kiểm trên bản giấy. Chưa xác định trang: tên dự kiến `RE_trXXX_a2xx.jpg` (điền trang khi có bằng chứng).
+4. Đọc lại số trang: #75 (`RE_trXXX_a075.jpg`), #137 (`RE_trXXX_a137.jpg`), #138 (`RE_trXXX_a138.jpg`),
+   #139 (`RE_trXXX_a139.jpg`), #181 (`RE_trXXX_a181.jpg`), #184 (`RE_trXXX_a184.jpg`),
+   #187 (`RE_trXXX_a187.heic`), #188 (`RE_trXXX_a188.heic`), #222 (`RE_trXXX_a222.jpg`),
+   #231 (`RE_trXXX_a231.heic`), #246 (`RE_trXXX_a246.heic`), #247 (`RE_trXXX_a247.jpg`),
+   #249 (`RE_trXXX_a249.jpg`).

@@ -11,8 +11,8 @@ import re
 from pathlib import Path
 
 E4 = Path('tmp/pdfs/review/a313-3/e4')
-PHOTO = {153: (150, '20261021_095336.jpg'), 154: (151, '20261021_095431.jpg'), 155: (152, '20261021_095528.jpg'),
-         156: (153, '20261021_095611.jpg'), 157: (154, '20261021_095638.jpg')}
+PHOTO = {153: (150, 'RE_tr153_a150.jpg'), 154: (151, 'RE_tr154_a151.jpg'), 155: (152, 'RE_tr155_a152.jpg'),
+         156: (153, 'RE_tr156_a153.jpg'), 157: (154, 'RE_tr157_a154.jpg')}
 
 # (tên cột, thành viên, ghi chú cột)
 P153 = [
