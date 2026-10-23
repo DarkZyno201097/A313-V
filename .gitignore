@@ -65,3 +65,4 @@ Project Logs*/
 
 # --- Ảnh tờ liên lạc sinh lại được bằng k3_kiemke.py / k3_goc.py ---
 tmp/pdfs/review/a313-3/kiemke/*.jpg
+tmp/pdfs/review/a313-3/vt/render/
