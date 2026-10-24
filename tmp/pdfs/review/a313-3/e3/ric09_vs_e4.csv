@@ -1,0 +1,143 @@
+connector,pin,e3_signal,e4_signal,status,note
+П1,1,б,+5В,NAME_MISMATCH,"Tên đọc từ Э3 khác Э4; giữ nguyên hai cách đọc, xem ric09_mota.md"
+П1,2,0рР?К2,0р РгК2,NAME_MISMATCH,"Tên đọc từ Э3 khác Э4; giữ nguyên hai cách đọc, xem ric09_mota.md"
+П1,3,1рР?К2,1р РгК2,NAME_MISMATCH,"Tên đọc từ Э3 khác Э4; giữ nguyên hai cách đọc, xem ric09_mota.md"
+П1,4,2рР?К2,2р РгК2,NAME_MISMATCH,"Tên đọc từ Э3 khác Э4; giữ nguyên hai cách đọc, xem ric09_mota.md"
+П1,5,3рР?К2,3р РгК2,NAME_MISMATCH,"Tên đọc từ Э3 khác Э4; giữ nguyên hai cách đọc, xem ric09_mota.md"
+П1,6,4рР?К2,4р РгК2,NAME_MISMATCH,"Tên đọc từ Э3 khác Э4; giữ nguyên hai cách đọc, xem ric09_mota.md"
+П1,7,Чтение УВВ,¬ЧТ. УВВ,NAME_MISMATCH,"Tên đọc từ Э3 khác Э4; giữ nguyên hai cách đọc, xem ric09_mota.md"
+П1,10,ПК вых,ПК Вых.,MATCH,
+П1,11,ПК вх,ПК Вх.,MATCH,
+П1,12,СИ,СИ,MATCH,
+П1,14,ИВЧ,ИВЧ,MATCH,
+П1,16,5рР?К2,5р РгК2,NAME_MISMATCH,"Tên đọc từ Э3 khác Э4; giữ nguyên hai cách đọc, xem ric09_mota.md"
+П1,17,Строб 1,СТРОБ1,MATCH,
+П1,18,Строб 1-1,СТРОБ1-1,MATCH,
+П1,19,Строб 2,СТРОБ2,MATCH,
+П1,20,Строб 3,СТРОБ3,MATCH,
+П1,21,СПКМ,¬СПКм,NAME_MISMATCH,"Tên đọc từ Э3 khác Э4; giữ nguyên hai cách đọc, xem ric09_mota.md"
+П1,22,СПК1К-1,¬СПК1-1,NAME_MISMATCH,"Tên đọc từ Э3 khác Э4; giữ nguyên hai cách đọc, xem ric09_mota.md"
+П1,23,СПК?К-1,¬СПК2-1,NAME_MISMATCH,"Tên đọc từ Э3 khác Э4; giữ nguyên hai cách đọc, xem ric09_mota.md"
+П1,24,0рС?К,0р. СчК,NAME_MISMATCH,"Tên đọc từ Э3 khác Э4; giữ nguyên hai cách đọc, xem ric09_mota.md"
+П1,25,1рС?К,1р. СчК,NAME_MISMATCH,"Tên đọc từ Э3 khác Э4; giữ nguyên hai cách đọc, xem ric09_mota.md"
+П1,26,2рС?К,2р СчК,NAME_MISMATCH,"Tên đọc từ Э3 khác Э4; giữ nguyên hai cách đọc, xem ric09_mota.md"
+П1,27,а,КОРПУС,NAME_MISMATCH,"Tên đọc từ Э3 khác Э4; giữ nguyên hai cách đọc, xem ric09_mota.md"
+П1,28,3рС?К,3р СчК,NAME_MISMATCH,"Tên đọc từ Э3 khác Э4; giữ nguyên hai cách đọc, xem ric09_mota.md"
+П1,32,R15,ОТВ. А R15,NAME_MISMATCH,"Tên đọc từ Э3 khác Э4; giữ nguyên hai cách đọc, xem ric09_mota.md"
+П1,33,,ЗАПРОС А1,ONLY_E4,Э3 không có nhánh chân linh kiện đọc chắc tới chân này; không suy từ Э4
+П1,34,,¬ЗАПРОС А2,ONLY_E4,Э3 không có nhánh chân linh kiện đọc chắc tới chân này; không suy từ Э4
+П1,35,,АИ,ONLY_E4,Э3 không có nhánh chân linh kiện đọc chắc tới chân này; không suy từ Э4
+П1,36,F1,F1,MATCH,
+П1,37,F2,F2,MATCH,
+П1,38,F3,F3,MATCH,
+П1,39,F4,F4,MATCH,
+П1,40,4рС?К,4р. СчК,NAME_MISMATCH,"Tên đọc từ Э3 khác Э4; giữ nguyên hai cách đọc, xem ric09_mota.md"
+П1,41,,¬Вр. М2,ONLY_E4,Э3 không có nhánh chân linh kiện đọc chắc tới chân này; không suy từ Э4
+П1,42,ВрМ1,¬Вр. М1,NAME_MISMATCH,"Tên đọc từ Э3 khác Э4; giữ nguyên hai cách đọc, xem ric09_mota.md"
+П1,43,t4,t4,MATCH,
+П1,44,t3,t3,MATCH,
+П1,45,t2,t2,MATCH,
+П1,46,t1,t1,MATCH,
+П1,47,Выд. ПК2,Выд. ПК2,MATCH,
+П1,48,16рС?К,16рСчК,NAME_MISMATCH,"Tên đọc từ Э3 khác Э4; giữ nguyên hai cách đọc, xem ric09_mota.md"
+П1,49,N01,"+12,6В",NAME_MISMATCH,"Tên đọc từ Э3 khác Э4; giữ nguyên hai cách đọc, xem ric09_mota.md"
+П1,51,Сброс РПР,Сброс РПР,MATCH,
+П1,52,в,"+3,5В",NAME_MISMATCH,"Tên đọc từ Э3 khác Э4; giữ nguyên hai cách đọc, xem ric09_mota.md"
+П2,1,Корпус,КОРПУС,MATCH,
+П2,4,1рР?К2,1р РгК2,NAME_MISMATCH,"Tên đọc từ Э3 khác Э4; giữ nguyên hai cách đọc, xem ric09_mota.md"
+П2,6,t4,t4,MATCH,
+П2,7,t3,t3,MATCH,
+П2,8,t2,t2,MATCH,
+П2,9,t1,t1,MATCH,
+П2,10,С?Д→М,СчД⇒М,NAME_MISMATCH,"Tên đọc từ Э3 khác Э4; giữ nguyên hai cách đọc, xem ric09_mota.md"
+П2,12,4рС?К,4рСчК,NAME_MISMATCH,"Tên đọc từ Э3 khác Э4; giữ nguyên hai cách đọc, xem ric09_mota.md"
+П2,13,3рС?К,3рСчК,NAME_MISMATCH,"Tên đọc từ Э3 khác Э4; giữ nguyên hai cách đọc, xem ric09_mota.md"
+П2,14,2рС?К,2рСчК,NAME_MISMATCH,"Tên đọc từ Э3 khác Э4; giữ nguyên hai cách đọc, xem ric09_mota.md"
+П2,15,1рС?К,1рСчК,NAME_MISMATCH,"Tên đọc từ Э3 khác Э4; giữ nguyên hai cách đọc, xem ric09_mota.md"
+П2,16,0рС?К,0рСчК,NAME_MISMATCH,"Tên đọc từ Э3 khác Э4; giữ nguyên hai cách đọc, xem ric09_mota.md"
+П2,17,2оп,2ОП,MATCH,
+П2,18,6оп,6ОП,MATCH,
+П2,19,7оп,7ОП,MATCH,
+П2,20,3оп,3ОП,MATCH,
+П2,21,?t-4,1t-4,NAME_MISMATCH,"Tên đọc từ Э3 khác Э4; giữ nguyên hai cách đọc, xem ric09_mota.md"
+П2,22,Строб 3,СТРОБ3,MATCH,
+П2,23,Строб 2,СТРОБ2,MATCH,
+П2,24,Строб 1-1,СТРОБ1-1,MATCH,
+П2,25,Строб 1,СТРОБ1,MATCH,
+П2,27,б,+5В,NAME_MISMATCH,"Tên đọc từ Э3 khác Э4; giữ nguyên hai cách đọc, xem ric09_mota.md"
+П2,29,Т4 пр,Т4пр.,MATCH,
+П2,30,Т3 пр,Т3пр.,MATCH,
+П2,31,Т2 пр,Т2пр.,MATCH,
+П2,32,Т1 пр,Т1пр.,MATCH,
+П2,33,6рР?К2,¬6р РгК2,NAME_MISMATCH,"Tên đọc từ Э3 khác Э4; giữ nguyên hai cách đọc, xem ric09_mota.md"
+П2,35,Д0,Д0,MATCH,
+П2,36,ИКО,¬ИКО,NAME_MISMATCH,"Tên đọc từ Э3 khác Э4; giữ nguyên hai cách đọc, xem ric09_mota.md"
+П2,37,Импульс счета,ИМП. СЧЕТА,NAME_MISMATCH,"Tên đọc từ Э3 khác Э4; giữ nguyên hai cách đọc, xem ric09_mota.md"
+П2,38,M15,М15,MATCH,
+П2,39,M14,М14,MATCH,
+П2,40,M13,М13,MATCH,
+П2,41,M12,М12,MATCH,
+П2,42,M11,М11,MATCH,
+П2,43,M10,М10,MATCH,
+П2,44,M9,М9,MATCH,
+П2,45,M8,М8,MATCH,
+П2,46,M7,М7,MATCH,
+П2,47,M6,М6,MATCH,
+П2,48,M5,М5,MATCH,
+П2,49,M4,М4,MATCH,
+П2,50,M3,М3,MATCH,
+П2,51,M2,М2,MATCH,
+П2,52,M1,М1,MATCH,
+П2,53,M0,М0,MATCH,
+П3,16,,ВХОД УТК,ONLY_E4,Э3 không có nhánh chân linh kiện đọc chắc tới chân này; không suy từ Э4
+П3,17,,ЗАПРЕТ МВ,ONLY_E4,Э3 không có nhánh chân linh kiện đọc chắc tới chân này; không suy từ Э4
+П3,19,5рР?К2,5р РгК2,NAME_MISMATCH,"Tên đọc từ Э3 khác Э4; giữ nguyên hai cách đọc, xem ric09_mota.md"
+П3,21,в,"+3,5В",NAME_MISMATCH,"Tên đọc từ Э3 khác Э4; giữ nguyên hai cách đọc, xem ric09_mota.md"
+П3,23,Исправность,¬ИСПРАВН.,NAME_MISMATCH,"Tên đọc từ Э3 khác Э4; giữ nguyên hai cách đọc, xem ric09_mota.md"
+П3,24,Принуд. пуск,Пр. ЗАП.,NAME_MISMATCH,"Tên đọc từ Э3 khác Э4; giữ nguyên hai cách đọc, xem ric09_mota.md"
+П3,25,Сброс РПР,Сброс РПР,MATCH,
+П3,26,Запр. принуд. пуска,ЗАПРЕТ ПР. ЗАП,NAME_MISMATCH,"Tên đọc từ Э3 khác Э4; giữ nguyên hai cách đọc, xem ric09_mota.md"
+П3,27,ИКО,¬ИКО,NAME_MISMATCH,"Tên đọc từ Э3 khác Э4; giữ nguyên hai cách đọc, xem ric09_mota.md"
+П3,28,ИВЧ,¬ИВЧ,NAME_MISMATCH,"Tên đọc từ Э3 khác Э4; giữ nguyên hai cách đọc, xem ric09_mota.md"
+П3,29,N01,"+12,6В",NAME_MISMATCH,"Tên đọc từ Э3 khác Э4; giữ nguyên hai cách đọc, xem ric09_mota.md"
+П3,30,СПК?К-1,¬СПК2-1,NAME_MISMATCH,"Tên đọc từ Э3 khác Э4; giữ nguyên hai cách đọc, xem ric09_mota.md"
+П3,31,СПК1К-1,¬СПК1-1,NAME_MISMATCH,"Tên đọc từ Э3 khác Э4; giữ nguyên hai cách đọc, xem ric09_mota.md"
+П3,32,СПКМ,¬СПКМ,NAME_MISMATCH,"Tên đọc từ Э3 khác Э4; giữ nguyên hai cách đọc, xem ric09_mota.md"
+П3,33,3рС?К,3р. СчК,NAME_MISMATCH,"Tên đọc từ Э3 khác Э4; giữ nguyên hai cách đọc, xem ric09_mota.md"
+П3,34,0рС?К,0р. СчК,NAME_MISMATCH,"Tên đọc từ Э3 khác Э4; giữ nguyên hai cách đọc, xem ric09_mota.md"
+П3,35,2оп,2ОП,MATCH,
+П3,36,7оп,7ОП,MATCH,
+П3,37,6оп,6ОП,MATCH,
+П3,38,3оп,3ОП,MATCH,
+П3,39,?t-4,,ONLY_E3,Tên có trên Э3; ô Э4 trống/không có — giữ nguyên hai nguồn
+П3,40,Строб 2,СТРОБ2,MATCH,
+П3,41,Строб 1,СТРОБ1,MATCH,
+П3,42,Выд. ПК2,Выд. ПК2,MATCH,
+П3,43,Т4 пр,Т4пр.,MATCH,
+П3,44,Т3 пр,Т3пр.,MATCH,
+П3,45,Т2 пр,Т2пр.,MATCH,
+П3,46,Т1 пр,Т1пр.,MATCH,
+П3,47,б,+5В,NAME_MISMATCH,"Tên đọc từ Э3 khác Э4; giữ nguyên hai cách đọc, xem ric09_mota.md"
+П3,48,M15,М15,MATCH,
+П3,49,M14,М14,MATCH,
+П3,50,M13,М13,MATCH,
+П3,51,M12,М12,MATCH,
+П3,52,M11,М11,MATCH,
+П3,53,M10,М10,MATCH,
+П3,54,M9,М9,MATCH,
+П3,55,M8,М8,MATCH,
+П3,56,M7,М7,MATCH,
+П3,57,M6,М6,MATCH,
+П3,58,M5,М5,MATCH,
+П3,59,M4,М4,MATCH,
+П3,60,M3,М3,MATCH,
+П3,61,M2,М2,MATCH,
+П3,62,M1,М1,MATCH,
+П3,63,M0,М0,MATCH,
+П3,64,Чтение УВВ,¬ЧТ,NAME_MISMATCH,"Tên đọc từ Э3 khác Э4; giữ nguyên hai cách đọc, xem ric09_mota.md"
+П3,65,Строб 1-1,СТРОБ1-1,MATCH,
+П3,66,Д0,Д0,MATCH,
+П3,67,СИ,СИ,MATCH,
+П3,68,ПК вх,ПК Вх.,MATCH,
+П3,69,ПК вых,ПК Вых.,MATCH,
+П3,70,а,КОРПУС,NAME_MISMATCH,"Tên đọc từ Э3 khác Э4; giữ nguyên hai cách đọc, xem ric09_mota.md"

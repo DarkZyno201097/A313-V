@@ -1,0 +1,50 @@
+﻿ref,name,qty,page,note
+У1,?,1,175,Ký hiệu khối CT2; không thấy mã IC
+У2,?,1,175,Ký hiệu khối CT2; không thấy mã IC
+У3,?,1,175,Ký hiệu khối CT2; không thấy mã IC
+У4,?,1,175,Ký hiệu khối CT2; không thấy mã IC
+У5,?,1,175,Không thấy mã IC; các cổng cùng ref chỉ tính một linh kiện
+У6,?,1,175,Không thấy mã IC; các cổng cùng ref chỉ tính một linh kiện
+У7,?,1,175,Không thấy mã IC; các cổng cùng ref chỉ tính một linh kiện
+У8,?,1,175,Không thấy mã IC; các cổng cùng ref chỉ tính một linh kiện
+У9,?,1,175,Không thấy mã IC; các cổng cùng ref chỉ tính một linh kiện
+У10,?,1,175,Không thấy mã IC; các cổng cùng ref chỉ tính một linh kiện
+У11,?,1,175,Không thấy mã IC; các cổng cùng ref chỉ tính một linh kiện
+У12,?,1,175,Không thấy mã IC; các cổng cùng ref chỉ tính một linh kiện
+У13,?,1,175,Không thấy mã IC; các cổng cùng ref chỉ tính một linh kiện
+У14,?,1,175;176,Không thấy mã IC; các cổng cùng ref chỉ tính một linh kiện
+У15,?,1,175,Không thấy mã IC; các cổng cùng ref chỉ tính một linh kiện
+У16,?,1,175,Không thấy mã IC; các cổng cùng ref chỉ tính một linh kiện
+У17,?,1,176,Khối 8 diode; không thấy mã linh kiện
+У18,?,1,176,Khối 8 diode; không thấy mã linh kiện
+У19,?,1,176,Không thấy mã IC; các cổng cùng ref chỉ tính một linh kiện
+У20,?,1,176,Không thấy mã IC; các cổng cùng ref chỉ tính một linh kiện
+У21,?,1,176,Không thấy mã IC; các cổng cùng ref chỉ tính một linh kiện
+У22,?,1,176,Không thấy mã IC; các cổng cùng ref chỉ tính một linh kiện
+У23,?,1,176,Không thấy mã IC; các cổng cùng ref chỉ tính một linh kiện
+R1,?,1,175,Không thấy trị số
+R2,?,1,176,Không thấy trị số
+R3,?,1,176,Không thấy trị số
+R4,?,1,176,Không thấy trị số
+R5,?,1,176,Không thấy trị số
+R6,?,1,176,Không thấy trị số
+R7,?,1,176,Không thấy trị số
+R8,?,1,176,Không thấy trị số
+R9,?,1,176,Không thấy trị số
+R10,?,1,176,Không thấy trị số
+R11,?,1,176,Không thấy trị số
+R12,?,1,176,Không thấy trị số
+R13,?,1,176,Không thấy trị số
+R14,?,1,176,Không thấy trị số
+R15,?,1,176,Không thấy trị số
+C1,?,1,175,Không thấy trị số; có dấu +
+C2,?,1,175,Không thấy trị số
+C3,?,1,175,Không thấy trị số
+C4,?,1,175,Không thấy trị số
+C5,?,1,176,Không thấy trị số; có dấu +
+C6,?,1,176,Không thấy trị số; có dấu +
+C7,?,1,176,Không thấy trị số; có dấu +
+C8,?,1,176,Không thấy trị số; có dấu +
+П1,?,1,176,Bảng đầu nối; không thấy mã/kiểu đầu nối
+П2,?,1,176,Bảng đầu nối; không thấy mã/kiểu đầu nối
+П3,?,1,176,Bảng đầu nối; không thấy mã/kiểu đầu nối

@@ -37,19 +37,25 @@ STM32, JTAG/boundary-scan, reverse engineering FPGA đời cũ.
 
 ## 3. Luật cứng
 
-1. **Tài liệu gốc A32 là chỉ-đọc.** Không bao giờ sửa, đổi tên, hay di chuyển:
-   `1.BVTK A313-V/`, `2.DKKT A313-V/`, `3.HDSD A313-V/`, `TMKT&HDSD A313-V/`,
-   `BVTK-A313-V.04.pdf`, `BVTK-A313-V.06.pdf`, `A313 original/`,
-   `File mach in va mach nguyen ly_A313_V/`, `GIAO AN HLKT A313-V.*`,
-   `ЕУ.048.002.РЭ_A313-3/` (ảnh chụp bản giấy; tra trang ở `DANH-MUC_ANH_RE_A-313-3.md`).
-   Thư mục `ЕУ.048.002.РЭ_A313-3/` đã đổi tên một lần ngày 2026-10-23 theo quy tắc trong `DANH-MUC_ANH_RE_A-313-3.md`, nội dung không đổi, ánh xạ ở `ЕУ.048.002.РЭ_A313-3/_DOI-TEN.csv`; từ nay vẫn chỉ-đọc.
+1. **Tài liệu gốc A32 là chỉ-đọc.** Không bao giờ sửa hay đổi tên:
+   `File của A313-V/1.BVTK A313-V/`, `File của A313-V/2.DKKT A313-V/`,
+   `File của A313-V/3.HDSD A313-V/`, `File của A313-V/TMKT&HDSD A313-V/`,
+   `File của A313-V/BVTK-A313-V.04.pdf`, `File của A313-V/BVTK-A313-V.06.pdf`,
+   `A313 original/`, `File của A313-V/File mach in va mach nguyen ly_A313_V/`,
+   `File của A313-V/GIAO AN HLKT A313-V.*`,
+   `ЕУ.048.002.РЭ(A313-3)/` (ảnh chụp bản giấy; tra trang ở `DANH-MUC_ANH_RE_A-313-3.md`).
+   **Di chuyển 2026-10-24** (người dùng tự làm ngoài Hermes, đã xác nhận): toàn bộ tài liệu gốc
+   A313-V dời từ thư mục gốc repo vào `File của A313-V/`, nội dung không đổi (đã kiểm diff = 0
+   khác biệt so với bản cũ trong git HEAD trước khi commit). Thư mục `ЕУ.048.002.РЭ(A313-3)/`
+   (đổi tên 2026-10-23, giữ ở gốc repo, không dời) đã đổi tên một lần theo quy tắc trong
+   `DANH-MUC_ANH_RE_A-313-3.md`, nội dung không đổi, ánh xạ ở `ЕУ.048.002.РЭ(A313-3)/_DOI-TEN.csv`;
+   từ nay vẫn chỉ-đọc.
    Bản chuyển đổi/trích xuất ghi ra file mới, đặt cạnh file gốc.
    **Repo chỉ chứa PDF** — mọi `.doc`/`.docx` bị `.gitignore` loại, chỉ có trên
    máy làm việc. Trên cloud không sửa được báo cáo Word.
-2. **Ảnh trong `KET-QUA-TEST_A313-V.06/` là số liệu đo thật** — không ghi đè.
+2. **Ảnh trong `File của A313-V/KET-QUA-TEST_A313-V.06/` là số liệu đo thật** — không ghi đè.
    Bản nén ghi thành file mới.
-3. **Repo GitHub phải private.** Nội dung là tài liệu kỹ thuật quân sự
-   (bản vẽ thiết kế Su-27 của A32). Không fork, không collaborator ngoài,
+3. **Repo GitHub phải private.** Nội dung là tài liệu kỹ thuật. Không fork, không collaborator ngoài,
    không bật public.
 4. **Không `git push` mà chưa được người dùng xác nhận.** Push rồi thì xoá
    khỏi history rất khó. Luôn chạy `git ls-files` cho người dùng xem trước.
@@ -174,12 +180,12 @@ kế hoạch; có sơ đồ mới lập kế hoạch chi tiết từng tấm.
 
 Dùng `pdfplumber`, phân loại theo **màu nét vẽ**:
 
-| Thành phần | `stroking_color` | Kiểu đối tượng |
-|---|---|---|
-| Dây nối | `(0.502, 0.0, 0.251)` nâu đỏ | `lines` |
-| Chân linh kiện | `(1.0, 0.0, 0.0)` đỏ | `lines` |
-| **Điểm nối (junction)** | `(1.0, 0.0, 1.0)` magenta | **`curves`** — không phải `lines` |
-| Ký hiệu linh kiện | `(0.0, 0.0, 1.0)` xanh | `lines` |
+| Thành phần                     | `stroking_color`                | Kiểu đối tượng                            |
+| -------------------------------- | --------------------------------- | ---------------------------------------------- |
+| Dây nối                        | `(0.502, 0.0, 0.251)` nâu đỏ | `lines`                                      |
+| Chân linh kiện                 | `(1.0, 0.0, 0.0)` đỏ          | `lines`                                      |
+| **Điểm nối (junction)** | `(1.0, 0.0, 1.0)` magenta       | **`curves`** — không phải `lines` |
+| Ký hiệu linh kiện             | `(0.0, 0.0, 1.0)` xanh          | `lines`                                      |
 
 Gộp net bằng union-find trên đầu mút đã snap + điểm nối + T-junction.
 Script tham chiếu: `tmp/pdfs/review/netlist_review.py`.

@@ -1,0 +1,177 @@
+table,pin,signal,photo,note
+П1,1,б,176,Điểm б; +5В; П1-1/П3-47 theo bó dây số 1 trang 176; 176: nhãn trong bảng = +5В
+П1,2,0рР?К2,176,176: nhãn trong bảng = 0рР?К2; không thấy đường ra ở hàng này; chưa gộp với lưới khác
+П1,3,1рР?К2,175+176,176: bó dây П1–П2 số 2; 175/176: đầu dây ghi rõ П1-3; 176: nhãn trong bảng = 1рР?К2
+П1,4,2рР?К2,176,176: đầu dây П1-4; các nhánh trực tiếp; 176: nhãn trong bảng = 2рР?К2
+П1,5,3рР?К2,176,176: đầu dây П1-5; các nhánh trực tiếp; 176: nhãn trong bảng = 3рР?К2
+П1,6,4рР?К2,176,176: nhãn trong bảng = 4рР?К2; không thấy đường ra ở hàng này; chưa gộp với lưới khác
+П1,7,Чтение УВВ,176,176: bó dây П3–П1 số 2; 176: nhãn trong bảng = Чтение УВВ
+П1,8,,176,"176: ô Цепь trống; không thấy đường nối tại hàng này; chưa xác định, không kết luận NC"
+П1,9,,176,"176: ô Цепь trống; không thấy đường nối tại hàng này; chưa xác định, không kết luận NC"
+П1,10,ПК вых,176,176: bó dây П3–П1 số 3; 176: nhãn trong bảng = ПК вых
+П1,11,ПК вх,176,176: bó dây П3–П1 số 4; 176: nhãn trong bảng = ПК вх
+П1,12,СИ,176,176: bó dây П3–П1 số 5; 176: nhãn trong bảng = СИ
+П1,13,,176,"176: ô Цепь trống; không thấy đường nối tại hàng này; chưa xác định, không kết luận NC"
+П1,14,ИВЧ,176,176: bó dây П3–П1 số 6; 176: nhãn trong bảng = ИВЧ
+П1,15,,176,"176: ô Цепь trống; không thấy đường nối tại hàng này; chưa xác định, không kết luận NC"
+П1,16,5рР?К2,176,176: bó dây П3–П1 số 7; 176: nhãn trong bảng = 5рР?К2
+П1,17,Строб 1,176,176: bó dây П1–П2 số 5; 176: bó dây П3–П1 số 8; 176: nhãn trong bảng = Строб 1
+П1,18,Строб 1-1,176,176: bó dây П1–П2 số 7; 176: bó dây П3–П1 số 9; 176: nhãn trong bảng = Строб 1-1
+П1,19,Строб 2,176,176: bó dây П1–П2 số 9; 176: bó dây П3–П1 số 10; 176: nhãn trong bảng = Строб 2
+П1,20,Строб 3,176,176: bó dây П1–П2 số 11; 176: nhãn trong bảng = Строб 3
+П1,21,СПКМ,176,176: bó dây П3–П1 số 12; 176: nhãn trong bảng = СПКМ
+П1,22,СПК1К-1,176,176: bó dây П3–П1 số 13; 176: nhãn trong bảng = СПК1К-1
+П1,23,СПК?К-1,176,176: bó dây П3–П1 số 15; 176: nhãn trong bảng = СПК?К-1
+П1,24,0рС?К,176,176: bó dây П1–П2 số 12; 176: bó dây П3–П1 số 16; 176: nhãn trong bảng = 0рС?К
+П1,25,1рС?К,176,176: bó dây П1–П2 số 13; 176: nhãn trong bảng = 1рС?К
+П1,26,2рС?К,176,176: bó dây П1–П2 số 14; 176: nhãn trong bảng = 2рС?К
+П1,27,а,175+176,176: mũi tên điểm а; 175: chú thích Корпус; 176: nhãn trong bảng = Корпус
+П1,28,3рС?К,176,176: bó dây П1–П2 số 1; 176: nhãn trong bảng = 3рС?К
+П1,29,,176,"176: ô Цепь trống; không thấy đường nối tại hàng này; chưa xác định, không kết luận NC"
+П1,30,,176,"176: ô Цепь trống; không thấy đường nối tại hàng này; chưa xác định, không kết luận NC"
+П1,31,,176,"176: ô Цепь trống; không thấy đường nối tại hàng này; chưa xác định, không kết luận NC"
+П1,32,R15,176,176: đường nối trực tiếp; 176: nhãn trong bảng = R15
+П1,33,,176,"176: ô Цепь trống; không thấy đường nối tại hàng này; chưa xác định, không kết luận NC"
+П1,34,,176,"176: ô Цепь trống; không thấy đường nối tại hàng này; chưa xác định, không kết luận NC"
+П1,35,,176,"176: ô Цепь trống; không thấy đường nối tại hàng này; chưa xác định, không kết luận NC"
+П1,36,F1,176,176: đầu dây ghi П1-36; C5 phía trái/không có dấu +; số chân tụ không ghi; 176: nhãn trong bảng = F1
+П1,37,F2,176,176: đầu dây ghi П1-37; C6 phía trái/không có dấu +; số chân tụ không ghi; 176: nhãn trong bảng = F2
+П1,38,F3,176,176: đầu dây ghi П1-38; C7 phía trái/không có dấu +; số chân tụ không ghi; 176: nhãn trong bảng = F3
+П1,39,F4,176,176: đầu dây ghi П1-39; C8 phía trái/không có dấu +; số chân tụ không ghi; 176: nhãn trong bảng = F4
+П1,40,4рС?К,176,176: bó dây П1–П2 số 3; 176: nhãn trong bảng = 4рС?К
+П1,41,,176,"176: ô Цепь trống; không thấy đường nối tại hàng này; chưa xác định, không kết luận NC"
+П1,42,ВрМ1,175+176,175: dây ghi rõ П1-42; hai đầu vào nối chung; 176: nhãn trong bảng = ВрМ1
+П1,43,t4,176,176: bó dây П1–П2 số 4; 176: nhãn trong bảng = t4
+П1,44,t3,176,176: bó dây П1–П2 số 6; 176: nhãn trong bảng = t3
+П1,45,t2,176,176: bó dây П1–П2 số 8; 176: nhãn trong bảng = t2
+П1,46,t1,176,176: bó dây П1–П2 số 10; 176: nhãn trong bảng = t1
+П1,47,Выд. ПК2,176,176: bó dây П3–П1 số 11; 176: nhãn trong bảng = Выд. ПК2
+П1,48,16рС?К,176,176: nhãn trong bảng = 16рС?К; không thấy đường ra ở hàng này; chưa gộp với lưới khác
+П1,49,N01,176,"176: bó dây П3–П1 số 14; nhãn nguồn trái dấu: П3-29 ghi −12,6В; П1-49 ghi +12,6В; 176: nhãn trong bảng = +12,6В"
+П1,50,,176,"176: ô Цепь trống; không thấy đường nối tại hàng này; chưa xác định, không kết luận NC"
+П1,51,Сброс РПР,176,176: bó dây П3–П1 số 17; 176: nhãn trong bảng = Сброс РПР
+П1,52,в,176,"Điểm в; +3,5В; П3-21/П1-52 theo bó dây số 18; 176: nhãn trong bảng = +3,5В"
+П1,53,,176,"176: ô Цепь trống; không thấy đường nối tại hàng này; chưa xác định, không kết luận NC"
+П2,1,Корпус,176,176: nhãn trong bảng = Корпус; không thấy đường ra ở hàng này; chưa gộp với lưới khác
+П2,2,,176,"176: ô Цепь trống; không thấy đường nối tại hàng này; chưa xác định, không kết luận NC"
+П2,3,,176,"176: ô Цепь trống; không thấy đường nối tại hàng này; chưa xác định, không kết luận NC"
+П2,4,1рР?К2,176,176: bó dây П1–П2 số 2; 176: nhãn trong bảng = 1рР?К2
+П2,5,,176,"176: ô Цепь trống; không thấy đường nối tại hàng này; chưa xác định, không kết luận NC"
+П2,6,t4,176,176: bó dây П1–П2 số 4; 176: nhãn trong bảng = t4
+П2,7,t3,176,176: bó dây П1–П2 số 6; 176: nhãn trong bảng = t3
+П2,8,t2,176,176: bó dây П1–П2 số 8; 176: nhãn trong bảng = t2
+П2,9,t1,176,176: bó dây П1–П2 số 10; 176: nhãn trong bảng = t1
+П2,10,С?Д→М,175+176,175: đầu dây П2-10; ? ký tự sau С chưa rõ; 176: nhãn trong bảng = С?Д→М
+П2,11,,176,"176: ô Цепь trống; không thấy đường nối tại hàng này; chưa xác định, không kết luận NC"
+П2,12,4рС?К,175+176,176: bó dây П1–П2 số 3; 175: đầu dây П2-12; ? chữ viết tay trong nhãn; 176: nhãn trong bảng = 4рС?К
+П2,13,3рС?К,176,176: bó dây П1–П2 số 1; 176: bó dây П3–П2 số 9; 176: nhãn trong bảng = 3рС?К
+П2,14,2рС?К,176,176: bó dây П1–П2 số 14; 176: nhãn trong bảng = 2рС?К
+П2,15,1рС?К,176,176: bó dây П1–П2 số 13; 176: nhãn trong bảng = 1рС?К
+П2,16,0рС?К,176,176: bó dây П1–П2 số 12; 176: nhãn trong bảng = 0рС?К
+П2,17,2оп,176,176: bó dây П3–П2 số 14; 176: nhãn trong bảng = 2оп
+П2,18,6оп,175+176,176: bó dây П3–П2 số 16; 175: cùng đầu dây ghi cả hai địa chỉ; 176: nhãn trong bảng = 6оп
+П2,19,7оп,176,176: bó dây П3–П2 số 18; 176: nhãn trong bảng = 7оп
+П2,20,3оп,176,176: bó dây П3–П2 số 20; 176: nhãn trong bảng = 3оп
+П2,21,?t-4,175+176,176: bó dây П3–П2 số 22; 175: cùng đầu dây ghi cả hai địa chỉ; 176: nhãn trong bảng = ?t-4
+П2,22,Строб 3,176,176: bó dây П1–П2 số 11; 176: nhãn trong bảng = Строб 3
+П2,23,Строб 2,176,176: bó dây П1–П2 số 9; 176: nhãn trong bảng = Строб 2
+П2,24,Строб 1-1,175+176,176: bó dây П1–П2 số 7; 175: đầu dây П2-24; 176: nhãn trong bảng = Строб 1-1
+П2,25,Строб 1,176,176: bó dây П1–П2 số 5; 176: nhãn trong bảng = Строб 1
+П2,26,,176,"176: ô Цепь trống; không thấy đường nối tại hàng này; chưa xác định, không kết luận NC"
+П2,27,б,176,Điểm б; +5В; П1-1/П3-47 theo bó dây số 1 trang 176; 176: nhãn trong bảng = +5В
+П2,28,,176,"176: ô Цепь trống; không thấy đường nối tại hàng này; chưa xác định, không kết luận NC"
+П2,29,Т4 пр,176,176: bó dây П3–П2 số 1; 176: nhãn trong bảng = Т4 пр
+П2,30,Т3 пр,176,176: bó dây П3–П2 số 2; 176: nhãn trong bảng = Т3 пр
+П2,31,Т2 пр,176,176: bó dây П3–П2 số 3; 176: nhãn trong bảng = Т2 пр
+П2,32,Т1 пр,176,176: bó dây П3–П2 số 4; 176: nhãn trong bảng = Т1 пр
+П2,33,6рР?К2,175+176,175: đầu dây П2-33; 176: nhãn trong bảng = 6рР?К2
+П2,34,,176,"176: ô Цепь trống; không thấy đường nối tại hàng này; chưa xác định, không kết luận NC"
+П2,35,Д0,175+176,176: bó dây П3–П2 số 5; 175: đầu dây ghi cả hai địa chỉ; 176: nhãn trong bảng = Д0
+П2,36,ИКО,176,176: bó dây П3–П2 số 6; 176: nhãn trong bảng = ИКО
+П2,37,Импульс счета,176,176: nhãn trong bảng = Импульс счета; không thấy đường ra ở hàng này; chưa gộp với lưới khác
+П2,38,M15,176,176: bó dây П3–П2 số 7; 176: nhãn trong bảng = M15
+П2,39,M14,176,176: bó dây П3–П2 số 8; 176: nhãn trong bảng = M14
+П2,40,M13,176,176: bó dây П3–П2 số 10; 176: nhãn trong bảng = M13
+П2,41,M12,176,176: bó dây П3–П2 số 11; 176: nhãn trong bảng = M12
+П2,42,M11,176,176: bó dây П3–П2 số 12; 176: nhãn trong bảng = M11
+П2,43,M10,176,176: bó dây П3–П2 số 13; 176: nhãn trong bảng = M10
+П2,44,M9,176,176: bó dây П3–П2 số 15; 176: nhãn trong bảng = M9
+П2,45,M8,176,176: bó dây П3–П2 số 17; 176: nhãn trong bảng = M8
+П2,46,M7,176,176: bó dây П3–П2 số 19; 176: nhãn trong bảng = M7
+П2,47,M6,176,176: bó dây П3–П2 số 21; 176: nhãn trong bảng = M6
+П2,48,M5,176,176: bó dây П3–П2 số 23; 176: nhãn trong bảng = M5
+П2,49,M4,176,176: bó dây П3–П2 số 24; 176: nhãn trong bảng = M4
+П2,50,M3,176,176: bó dây П3–П2 số 25; 176: nhãn trong bảng = M3
+П2,51,M2,176,176: bó dây П3–П2 số 26; 176: nhãn trong bảng = M2
+П2,52,M1,176,176: bó dây П3–П2 số 27; 176: nhãn trong bảng = M1
+П2,53,M0,176,176: bó dây П3–П2 số 28; 176: nhãn trong bảng = M0
+П3,1,,176,"176: ô Цепь trống; không thấy đường nối tại hàng này; chưa xác định, không kết luận NC"
+П3,2,,176,"176: ô Цепь trống; không thấy đường nối tại hàng này; chưa xác định, không kết luận NC"
+П3,3,,176,"176: ô Цепь trống; không thấy đường nối tại hàng này; chưa xác định, không kết luận NC"
+П3,4,,176,"176: ô Цепь trống; không thấy đường nối tại hàng này; chưa xác định, không kết luận NC"
+П3,5,,176,"176: ô Цепь trống; không thấy đường nối tại hàng này; chưa xác định, không kết luận NC"
+П3,6,,176,"176: ô Цепь trống; không thấy đường nối tại hàng này; chưa xác định, không kết luận NC"
+П3,7,,176,"176: ô Цепь trống; không thấy đường nối tại hàng này; chưa xác định, không kết luận NC"
+П3,8,,176,"176: ô Цепь trống; không thấy đường nối tại hàng này; chưa xác định, không kết luận NC"
+П3,9,,176,"176: ô Цепь trống; không thấy đường nối tại hàng này; chưa xác định, không kết luận NC"
+П3,10,,176,"176: ô Цепь trống; không thấy đường nối tại hàng này; chưa xác định, không kết luận NC"
+П3,11,,176,"176: ô Цепь trống; không thấy đường nối tại hàng này; chưa xác định, không kết luận NC"
+П3,12,,176,"176: ô Цепь trống; không thấy đường nối tại hàng này; chưa xác định, không kết luận NC"
+П3,13,,176,"176: ô Цепь trống; không thấy đường nối tại hàng này; chưa xác định, không kết luận NC"
+П3,14,,176,"176: ô Цепь trống; không thấy đường nối tại hàng này; chưa xác định, không kết luận NC"
+П3,15,,176,"176: ô Цепь trống; không thấy đường nối tại hàng này; chưa xác định, không kết luận NC"
+П3,16,,176,"176: ô Цепь trống; không thấy đường nối tại hàng này; chưa xác định, không kết luận NC"
+П3,17,,176,"176: ô Цепь trống; không thấy đường nối tại hàng này; chưa xác định, không kết luận NC"
+П3,18,,176,"176: ô Цепь trống; không thấy đường nối tại hàng này; chưa xác định, không kết luận NC"
+П3,19,5рР?К2,176,176: bó dây П3–П1 số 7; 176: nhãn trong bảng = 5рР?К2
+П3,20,,176,"176: ô Цепь trống; không thấy đường nối tại hàng này; chưa xác định, không kết luận NC"
+П3,21,в,176,"Điểm в; +3,5В; П3-21/П1-52 theo bó dây số 18; 176: nhãn trong bảng = +3,5В"
+П3,22,,176,"176: ô Цепь trống; không thấy đường nối tại hàng này; chưa xác định, không kết luận NC"
+П3,23,Исправность,175+176,175; 176: nhãn trong bảng = Исправность
+П3,24,Принуд. пуск,175+176,175; 176: nhãn trong bảng = Принуд. пуск
+П3,25,Сброс РПР,176,176: bó dây П3–П1 số 17; 176: nhãn trong bảng = Сброс РПР
+П3,26,Запр. принуд. пуска,175+176,175; 176: nhãn trong bảng = Запр. принуд. пуска
+П3,27,ИКО,176,176: bó dây П3–П2 số 6; 176: nhãn trong bảng = ИКО
+П3,28,ИВЧ,176,176: bó dây П3–П1 số 6; 176: nhãn trong bảng = ИВЧ
+П3,29,N01,176,"176: bó dây П3–П1 số 14; nhãn nguồn trái dấu: П3-29 ghi −12,6В; П1-49 ghi +12,6В; 176: nhãn trong bảng = −12,6В"
+П3,30,СПК?К-1,176,176: bó dây П3–П1 số 15; 176: nhãn trong bảng = СПК?К-1
+П3,31,СПК1К-1,176,176: bó dây П3–П1 số 13; 176: nhãn trong bảng = СПК1К-1
+П3,32,СПКМ,176,176: bó dây П3–П1 số 12; 176: nhãn trong bảng = СПКМ
+П3,33,3рС?К,176,176: bó dây П3–П2 số 9; 176: nhãn trong bảng = 3рС?К
+П3,34,0рС?К,176,176: bó dây П3–П1 số 16; 176: nhãn trong bảng = 0рС?К
+П3,35,2оп,176,176: bó dây П3–П2 số 14; 176: nhãn trong bảng = 2оп
+П3,36,7оп,176,176: bó dây П3–П2 số 18; 176: nhãn trong bảng = 7оп
+П3,37,6оп,175+176,176: bó dây П3–П2 số 16; 175: cùng đầu dây ghi cả hai địa chỉ; 176: nhãn trong bảng = 6оп
+П3,38,3оп,176,176: bó dây П3–П2 số 20; 176: nhãn trong bảng = 3оп
+П3,39,?t-4,175+176,176: bó dây П3–П2 số 22; 175: cùng đầu dây ghi cả hai địa chỉ; 176: nhãn trong bảng = ?t-4
+П3,40,Строб 2,176,176: bó dây П3–П1 số 10; 176: nhãn trong bảng = Строб 2
+П3,41,Строб 1,176,176: bó dây П3–П1 số 8; 176: nhãn trong bảng = Строб 1
+П3,42,Выд. ПК2,176,176: bó dây П3–П1 số 11; 176: nhãn trong bảng = Выд. ПК2
+П3,43,Т4 пр,176,176: bó dây П3–П2 số 1; 176: nhãn trong bảng = Т4 пр
+П3,44,Т3 пр,176,176: bó dây П3–П2 số 2; 176: nhãn trong bảng = Т3 пр
+П3,45,Т2 пр,176,176: bó dây П3–П2 số 3; 176: nhãn trong bảng = Т2 пр
+П3,46,Т1 пр,176,176: bó dây П3–П2 số 4; 176: nhãn trong bảng = Т1 пр
+П3,47,б,176,Điểm б; +5В; П1-1/П3-47 theo bó dây số 1 trang 176; 176: nhãn trong bảng = +5В
+П3,48,M15,175+176,176: bó dây П3–П2 số 7; 175: dây đầu ra ghi rõ số chân П3; 176: nhãn trong bảng = M15
+П3,49,M14,175+176,176: bó dây П3–П2 số 8; 175: dây đầu ra ghi rõ số chân П3; 176: nhãn trong bảng = M14
+П3,50,M13,175+176,176: bó dây П3–П2 số 10; 175: dây đầu ra ghi rõ số chân П3; 176: nhãn trong bảng = M13
+П3,51,M12,175+176,176: bó dây П3–П2 số 11; 175: dây đầu ra ghi rõ số chân П3; 176: nhãn trong bảng = M12
+П3,52,M11,175+176,176: bó dây П3–П2 số 12; 175: dây đầu ra ghi rõ số chân П3; 176: nhãn trong bảng = M11
+П3,53,M10,175+176,176: bó dây П3–П2 số 13; 175: dây đầu ra ghi rõ số chân П3; 176: nhãn trong bảng = M10
+П3,54,M9,175+176,176: bó dây П3–П2 số 15; 175: dây đầu ra ghi rõ số chân П3; 176: nhãn trong bảng = M9
+П3,55,M8,175+176,176: bó dây П3–П2 số 17; 175: dây đầu ra ghi rõ số chân П3; 176: nhãn trong bảng = M8
+П3,56,M7,175+176,176: bó dây П3–П2 số 19; 175: dây đầu ra ghi rõ số chân П3; 176: nhãn trong bảng = M7
+П3,57,M6,175+176,176: bó dây П3–П2 số 21; 175: dây đầu ra ghi rõ số chân П3; 176: nhãn trong bảng = M6
+П3,58,M5,175+176,176: bó dây П3–П2 số 23; 175: dây đầu ra ghi rõ số chân П3; 176: nhãn trong bảng = M5
+П3,59,M4,175+176,176: bó dây П3–П2 số 24; 175: dây đầu ra ghi rõ số chân П3; 176: nhãn trong bảng = M4
+П3,60,M3,175+176,176: bó dây П3–П2 số 25; 175: dây đầu ra ghi rõ số chân П3; 176: nhãn trong bảng = M3
+П3,61,M2,175+176,176: bó dây П3–П2 số 26; 175: dây đầu ra ghi rõ số chân П3; 176: nhãn trong bảng = M2
+П3,62,M1,175+176,176: bó dây П3–П2 số 27; 175: dây đầu ra ghi rõ số chân П3; 176: nhãn trong bảng = M1
+П3,63,M0,175+176,176: bó dây П3–П2 số 28; 175: dây đầu ra ghi rõ số chân П3; 176: nhãn trong bảng = M0
+П3,64,Чтение УВВ,176,176: bó dây П3–П1 số 2; 176: nhãn trong bảng = Чтение УВВ
+П3,65,Строб 1-1,176,176: bó dây П3–П1 số 9; 176: nhãn trong bảng = Строб 1-1
+П3,66,Д0,175+176,176: bó dây П3–П2 số 5; 175: đầu dây ghi cả hai địa chỉ; 176: nhãn trong bảng = Д0
+П3,67,СИ,176,176: bó dây П3–П1 số 5; 176: nhãn trong bảng = СИ
+П3,68,ПК вх,176,176: bó dây П3–П1 số 4; 176: nhãn trong bảng = ПК вх
+П3,69,ПК вых,176,176: bó dây П3–П1 số 3; 176: nhãn trong bảng = ПК вых
+П3,70,а,175+176,176: mũi tên điểm а; 175: chú thích Корпус; 176: nhãn trong bảng = Корпус

@@ -1,4 +1,16 @@
-# SƠ ĐỒ ĐẤU NỐI Э4 / TẤM CHUYỂN MẠCH Y16 — A-313-3 (bản chép)
+# SƠ ĐỒ ĐẤU NỐI KHỐI Э4 (ЕУ3.048.002 Э4) — A-313-3 (bản chép)
+
+**SỬA LẠI 2026-10-24 (quan trọng):** tiêu đề cũ "Tấm chuyển mạch Y16" là SAI — tài liệu
+này (tr.142-152, 11 lист, khung tên "ЕУ3.048.002 Э4 1/11"…"11/11") là **sơ đồ đấu nối
+CHUNG của toàn khối**, KHÔNG PHẢI của riêng Y16. Y16 có tài liệu Э3 RIÊNG (ma trận 5 lист,
+mã ЕУ3.661.064, nằm ở tr.153-157 — dữ liệu dưới đây KHÔNG áp dụng cho nó) — xem
+`A313-3_CONTROL/Y16/00_GHI-CHU.txt` và `KE-HOACH_KIEM-TRA_A-313-3.md` §1.5.
+
+**Lưu ý phạm vi (xác nhận người dùng 2026-10-23):** Э4 không chỉ là bảng đấu nối riêng của Y16.
+Đây là **sơ đồ kết nối đầy đủ của toàn khối**, gồm 3 loại liên kết: (a) đầu cắm ngoài
+(3Ш1/3Ш2/3Ш3/3Ш4/3Ш5/3Ш7) ↔ Y16; (b) Y16 ↔ các tấm Y1–Y24 khác; (c) tấm ↔ tấm trực tiếp
+(không qua Y16) qua cáp bẹ hoặc dây nối trực tiếp. File này + `e4/e4_all.csv` là nguồn dữ liệu
+chính để dựng bảng kết nối toàn khối — xem `PLAN_KET-NOI-TOAN-KHOI_A-313-3.md`.
 
 Nguồn: ảnh bản giấy ЕУ3.048.002 РЭ, Phụ lục tr.142–152 (ảnh #136, #140–#149; tra trong
 `DANH-MUC_ANH_RE_A-313-3.md`). Chép tay từ ảnh ra CSV: `tmp/pdfs/review/a313-3/e4/p142.csv` … `p152.csv`
@@ -28,7 +40,7 @@ Kết quả: 2877 dòng chân, 58 bảng, **1018 liên kết khớp hai chiều*
 | 150 | #147 | У1П1–П3, У2П1–П3, У16КП9, У16КП11 |
 | 151 | #148 | У3П1–П3, У4П1–П3, У5П1–П3, У16КП13, У16КП15 |
 | 152 | #149 | У6П1–П3, У7П1–П2, У8П1, У16КП8, У16КП10, У16КП12 |
-| 153–157 | #150–#154 | Ma trận П8…П15 — **chưa chép** |
+| 153–157 | #150–#154 | **Y16 Э3 riêng** (ЕУ3.661.064, л.1-5) — ma trận П1…П15, đã chép ra `tmp/pdfs/review/a313-3/e4/matrix_nets.csv` (282 net); KHÔNG thuộc tài liệu ЕУ3.048.002 Э4 ở trên dù chụp liên tiếp (sửa lần 2, 2026-10-24) |
 
 Bảng chân tấm (Уn Пm) ở tr.148, 151, 152 không ghi địa chỉ chữ — nối với У16КПk bằng nét vẽ
 từng hàng (cùng số chân, hoặc đảo kiểu 28−p / 71−p). Hai đầu của mỗi cặp được chép độc lập ở
@@ -53,7 +65,7 @@ một phần bảng và kiểm theo tên tín hiệu; У6П1 ↔ У16КП10 lệ
 | У13 | Коммутатор входной | **ЕУ3.628.121** | ⚠ kế hoạch ghi .122 |
 | У14 | Преобразователь **РК II** | **ВШ3.036.053** | ⚠ kế hoạch ghi «PK I, ВШ2.068.054»; nhưng tr.149 ghi dọc cạnh bảng У14 «РК I ВШ2.068.054» — mâu thuẫn trong chính bản vẽ, cần xem nhãn trên tấm thật |
 | У15 | Преобразователь **РК I** | ВШ2.068.054 | ⚠ ký hiệu vị trí bị rách; tr.149 ghi «РК II ВШ2.068.054-01» |
-| У16 | Плата коммутационная | ЕУ3.661.064 | khớp |
+| У16 | Плата коммутационная — **tấm sườn/backplane, KHÔNG có linh kiện** (xác nhận người dùng 2026-10-23); **CÓ Э3 riêng** (ma trận 5 лист, mã ЕУ3.661.064, ở tr.153-157 — KHÔNG thuộc tài liệu Э4 khối này; sửa lần 2, 2026-10-24, xem `KE-HOACH_KIEM-TRA_A-313-3.md` §1.5) | ЕУ3.661.064 | khớp |
 | У17 | УЛП 5 В 15 А | ЕУ3.215.469 | khớp |
 | У18 | УЛП +20 В 0,3 А | ЕУ3.215.446 | khớp |
 | У19 | УЛП +12,6 В 1 А | ЕУ3.215.452 | khớp |

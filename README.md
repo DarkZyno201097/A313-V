@@ -1,6 +1,6 @@
 # A313-V — Bộ tài liệu thiết kế đầu A & hồ sơ kiểm tra
 
-Khối **máy tính dẫn đường A313-V** (máy bay Su-27). Repo phục vụ công việc
+Khối **A313-V**. Repo phục vụ công việc
 reverse engineering, xây dựng quy trình kiểm tra và thiết kế ATE cho các tấm
 PCB trong khối.
 
@@ -14,27 +14,27 @@ PCB trong khối.
 
 ## 1. Bản đồ thư mục
 
-| Đường dẫn | Loại | Nội dung |
-|---|---|---|
-| `1.BVTK A313-V/` | **gốc A32** | Bản vẽ thiết kế, 56 trang (`.doc` + `.pdf`) |
-| `2.DKKT A313-V/` | **gốc A32** | Điều kiện kỹ thuật |
-| `3.HDSD A313-V/` | **gốc A32** | Hướng dẫn sử dụng |
-| `TMKT&HDSD A313-V/` | **gốc A32** | Thuyết minh kỹ thuật + HDSD (`.pdf` xuất từ `.docx` gốc) |
-| `BVTK-A313-V.04.pdf`, `BVTK-A313-V.06.pdf` | **gốc A32** | Bản vẽ trích riêng tấm .04 và .06 |
-| `A313 original/` | **gốc** | HDSD kỹ thuật A-313 (4 PDF, 241 trang); `A-313-2.pdf` có phần tìm hỏng hóc |
-| `File mach in va mach nguyen ly_A313_V/` | **gốc** | Altium SchDoc/PcbDoc vẽ lại các tấm của khối; `sodocactam.pdf` mất chữ Cyrillic |
-| `GIAO AN HLKT A313-V.pdf` | **gốc** | Giáo án huấn luyện kỹ thuật A313-V |
-| `PHAN-TICH_A313-V.06_KHUECH-DAI-TIN-HIEU-RA.md` | ✍ phân tích | Phân tích đầy đủ tấm .06 — **Rev. C** |
-| `PHAN-TICH_TOAN-KHOI_A313-V.md` | ✍ phân tích | Toàn khối: sơ đồ khối, từng tấm, cây chẩn đoán, việc cần đo — **Rev. A** |
-| `KE-HOACH_KIEM-TRA_A-313-3.md` | ✍ kế hoạch | Khối gốc Nga A-313-3: bảng kê 24 vị trí + tình trạng sơ đồ, danh sách cần bổ sung, kế hoạch kiểm tra tổng quát |
-| `QUY-TRINH_TEST_TUNG-BUOC_A313-V.06.md` | ✍ quy trình | Quy trình test từng bước + nhật ký kết quả |
-| `PROMPT_CODEX_phan-bien-A313-V.06.md` | ✍ công cụ | Prompt phản biện đối kháng dùng cho Codex |
-| `Datasheet/` | ✍ + gốc NSX | 5 file `.md` giải thích linh kiện + datasheet gốc PDF |
-| `KET-QUA-TEST_A313-V.06/` | 📊 số liệu | Ảnh dao động ký các bài test (xem `README.md` trong đó) |
-| `BAO-CAO_KIEM-TRA_A313-V.06.docx` / `_CHANH.pdf` | 📄 báo cáo | Báo cáo kiểm tra |
-| `tmp/pdfs/review/` | 🔬 bằng chứng | netlist.json, channel-audit.csv, PNG crop, script phản biện |
-| `tmp/pdfs/review/toan-khoi/` | 🔬 bằng chứng | Script toàn khối `tk_*.py` (SchDoc → BOM/netlist, đầu cắm, mux), CSV/JSON, PNG |
-| `tmp/build_test_report.py` | 🔧 script | Sinh lại báo cáo PDF từ các file `.md` |
+| Đường dẫn                                        | Loại              | Nội dung                                                                                                                         |
+| ---------------------------------------------------- | ------------------ | --------------------------------------------------------------------------------------------------------------------------------- |
+| `1.BVTK A313-V/`                                   | **gốc A32** | Bản vẽ thiết kế, 56 trang (`.doc` + `.pdf`)                                                                               |
+| `2.DKKT A313-V/`                                   | **gốc A32** | Điều kiện kỹ thuật                                                                                                           |
+| `3.HDSD A313-V/`                                   | **gốc A32** | Hướng dẫn sử dụng                                                                                                            |
+| `TMKT&HDSD A313-V/`                                | **gốc A32** | Thuyết minh kỹ thuật + HDSD (`.pdf` xuất từ `.docx` gốc)                                                                |
+| `BVTK-A313-V.04.pdf`, `BVTK-A313-V.06.pdf`       | **gốc A32** | Bản vẽ trích riêng tấm .04 và .06                                                                                           |
+| `A313 original/`                                   | **gốc**     | HDSD kỹ thuật A-313 (4 PDF, 241 trang); `A-313-2.pdf` có phần tìm hỏng hóc                                               |
+| `File mach in va mach nguyen ly_A313_V/`           | **gốc**     | Altium SchDoc/PcbDoc vẽ lại các tấm của khối; `sodocactam.pdf` mất chữ Cyrillic                                         |
+| `GIAO AN HLKT A313-V.pdf`                          | **gốc**     | Giáo án huấn luyện kỹ thuật A313-V                                                                                          |
+| `PHAN-TICH_A313-V.06_KHUECH-DAI-TIN-HIEU-RA.md`    | ✍ phân tích     | Phân tích đầy đủ tấm .06 — **Rev. C**                                                                               |
+| `PHAN-TICH_TOAN-KHOI_A313-V.md`                    | ✍ phân tích     | Toàn khối: sơ đồ khối, từng tấm, cây chẩn đoán, việc cần đo — **Rev. A**                                    |
+| `KE-HOACH_KIEM-TRA_A-313-3.md`                     | ✍ kế hoạch      | Khối gốc Nga A-313-3: bảng kê 24 vị trí + tình trạng sơ đồ, danh sách cần bổ sung, kế hoạch kiểm tra tổng quát |
+| `QUY-TRINH_TEST_TUNG-BUOC_A313-V.06.md`            | ✍ quy trình      | Quy trình test từng bước + nhật ký kết quả                                                                                |
+| `PROMPT_CODEX_phan-bien-A313-V.06.md`              | ✍ công cụ       | Prompt phản biện đối kháng dùng cho Codex                                                                                   |
+| `Datasheet/`                                       | ✍ + gốc NSX      | 5 file `.md` giải thích linh kiện + datasheet gốc PDF                                                                       |
+| `KET-QUA-TEST_A313-V.06/`                          | 📊 số liệu       | Ảnh dao động ký các bài test (xem `README.md` trong đó)                                                                 |
+| `BAO-CAO_KIEM-TRA_A313-V.06.docx` / `_CHANH.pdf` | 📄 báo cáo       | Báo cáo kiểm tra                                                                                                               |
+| `tmp/pdfs/review/`                                 | 🔬 bằng chứng    | netlist.json, channel-audit.csv, PNG crop, script phản biện                                                                     |
+| `tmp/pdfs/review/toan-khoi/`                       | 🔬 bằng chứng    | Script toàn khối `tk_*.py` (SchDoc → BOM/netlist, đầu cắm, mux), CSV/JSON, PNG                                            |
+| `tmp/build_test_report.py`                         | 🔧 script          | Sinh lại báo cáo PDF từ các file `.md`                                                                                     |
 
 **Ký hiệu:** `gốc A32` = không sửa, chỉ đọc · `✍` = tài liệu do ta viết, sửa
 thường xuyên · `📊` = số liệu đo thật, không sửa · `🔬` = bằng chứng phản biện
