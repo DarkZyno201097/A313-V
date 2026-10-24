@@ -7,8 +7,8 @@ connector,pin,e3_signal,e4_signal,status,note
 П1,6,,4ОП,ONLY_E4,Э3 không có nhánh chân linh kiện đọc chắc tới chân này; không suy từ Э4
 П1,7,,7ОП,ONLY_E4,Э3 không có nhánh chân linh kiện đọc chắc tới chân này; không suy từ Э4
 П1,8,,2ОП,ONLY_E4,Э3 không có nhánh chân linh kiện đọc chắc tới chân này; không suy từ Э4
-П1,9,,"0,15с",ONLY_E4,Э3 không có nhánh chân linh kiện đọc chắc tới chân này; không suy từ Э4
-П1,10,ВХОД РГР ТТЛ,ВХОД ПРП ТТЛ,NAME_MISMATCH,"Tên đọc từ Э3 khác Э4; giữ nguyên hai cách đọc, xem ric08_mota.md"
+П1,9,"0,15с","0,15с",MATCH,
+П1,10,ВХОД.П ТТЛ,ВХОД ПРП ТТЛ,NAME_MISMATCH,"Tên đọc từ Э3 khác Э4; giữ nguyên hai cách đọc, xem ric08_mota.md"
 П1,11,ВХОД 1РК ТТЛ,ВХОД 1РК ТТЛ,MATCH,
 П1,12,ВХОД 2РК ТТЛ,ВХОД 2РК ТТЛ,MATCH,
 П1,13,ВХОД 3РК ТТЛ,ВХОД 3РК ТТЛ,MATCH,
@@ -51,7 +51,7 @@ connector,pin,e3_signal,e4_signal,status,note
 П1,52,,3ОП,ONLY_E4,Э3 không có nhánh chân linh kiện đọc chắc tới chân này; không suy từ Э4
 П1,53,6р Рг.К2,6р Рг.К2,MATCH,
 П2,1,КОРПУС,КОРПУС,MATCH,
-П2,2,Отв.Д,ОТВ.Д R15,NAME_MISMATCH,"Tên đọc từ Э3 khác Э4; giữ nguyên hai cách đọc, xem ric08_mota.md"
+П2,2,R15,ОТВ.Д R15,NAME_MISMATCH,"Tên đọc từ Э3 khác Э4; giữ nguyên hai cách đọc, xem ric08_mota.md"
 П2,3,,Призн.налич ПКн,ONLY_E4,Э3 không có nhánh chân linh kiện đọc chắc tới chân này; không suy từ Э4
 П2,4,1t-3,1t-3,MATCH,
 П2,5,1t-2,1t-2,MATCH,
