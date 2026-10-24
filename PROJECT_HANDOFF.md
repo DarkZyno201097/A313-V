@@ -197,6 +197,20 @@ tự động không chạy được) — vẫn nên ưu tiên Claude tự chép 
 **Đề xuất kế tiếp (sau T05):** người dùng đối chiếu thủ công netlist Y2 (đặc biệt mâu thuẫn П1-49/П3-29) trước khi
 dùng; sau đó Claude chép Y1 (рис.10) hoặc Y6 (рис.7) theo thứ tự đề xuất cũ.
 
+### 12.2. Tiếp nhận trực tiếp bởi Codex — 2026-10-22 21:00 +07:00 (lịch sử, merge từ nhánh `codex/a313-v-intake-20261022`)
+
+- Yêu cầu hiện tại: Codex làm trực tiếp với người dùng, không qua Claude. Cơ chế điều phối ở §12 và các đề xuất resume Claude cũ chỉ là lịch sử. Lượt này chỉ tiếp nhận, chạy kiểm và chờ người dùng chọn nhiệm vụ.
+- Checkout: E:/Alitum/Tự học Altium/Projects/MODULE/A313/BO TLTK DAU A/2.BO TLTK DAU A_A313-V; baseline main `1450f2d`; nhánh checkpoint `codex/a313-v-intake-20261022`.
+- Đã đọc theo thứ tự yêu cầu: AGENTS, handoff, orchestration §5–6, ric11/08/06_mota, danh mục ảnh và trang.csv. Đã kiểm git status và log -8.
+- Kiểm ngay lượt này: chạy lại ric06_gen.py, e3_check.py, e3_vs_e4.py cho 6 У3 / 8 У5 / 11 У7, e4_check.py. Không phát sinh diff CSV; không sửa script hay tài liệu gốc.
+- Output chính: `bom 99 conn 176; net 818`; рис.6 `match 125 | name mismatch 32 | only E3 1 | only E4 9`; рис.8 `match 121 | name mismatch 3 | only E3 0 | only E4 36`; рис.11 `match 105 | name mismatch 0 | only E3 0 | only E4 1`.
+- Э4: `rows 2877 tables 58`; `reciprocal ok 1018 | mismatch 20 | target table not transcribed 22`; `struck-out rows skipped: 36`; `duplicate (table,pin): -`; `rows marked ?: 243`.
+- e3_check ghi nhận đúng ngoại lệ đã biết рис.6/19/25. PASS của checker chỉ là kiểm dữ liệu/cấu trúc, chưa xác nhận topology bằng ảnh hoặc nghiệm thu phần cứng.
+- §12.1 được tái xác nhận: рис.11 PASS phạm vi dữ liệu (166 ref/462 chân, 0 dòng ?); рис.8 PARTIAL (948 chân, 169 dòng ?); рис.6 PARTIAL (818 chân, 213 dòng ?, 166 chưa lần). Không đổi kết quả baseline. Các con số dòng ? đếm bằng csv.DictReader, kiểm mọi giá trị của từng hàng; chưa lần đếm prefix Unicode НЕ ПРОСЛЕЖЕНО trong net.
+- JARVIS: check hiện tại ok, không errors/warnings; chưa tìm thấy bản đồ/coverage A313 trong projects/work. Không dùng capability netlist-readers-and-compare vì phương ngữ khác CSV hiện tại. Chưa đăng ký/nạp dự án; giữ kết quả tại checkpoint này, cần thống nhất đăng ký riêng. Không có proposal của lượt này để consolidate.
+- AgentMemory: đã tìm hẹp theo tên checkout và A-313-3/T04; không dùng kết quả tìm kiếm để thay trạng thái repo.
+- **ĐÃ SUPERSEDED** bởi các lượt T05/T06 và việc chép Y2/Y3/Y4/Y6 sau đó (2026-10-23→24) — giữ lại đây chỉ làm nhật ký lịch sử, không còn phản ánh trạng thái hiện tại của dự án.
+
 ## 13. R01 — đổi tên ảnh bản giấy (2026-10-23)
 
 ### 1. Current Task
@@ -310,3 +324,4 @@ Dhash toàn ảnh bỏ sót tờ cắt/xoay; số hình VT28 chạy lại theo p
 - рис.6 (Y3): lần lại trên ảnh mới, НЕ ПРОСЛЕЖЕНО 166 → 95, dòng `?` 213 → 155; `e3_vs_e4 6 У3` không đổi (125/32/1/9). Khối ghi đè ở cuối `ric06_gen.py`.
 - рис.5 (Y4): đã quét — BOM 80 (ПЭ #137–#139), bảng đầu nối 176 hàng, `e3_vs_e4 5 У4` = 133 khớp / 25 lệch tên / 1 chỉ-Э3 / 3 chỉ-Э4; **chưa chép netlist** (`ric05_net.csv` rỗng, chưa vào `e3_check.py`). Chi tiết `e3/ric05_mota.md`.
 - Chưa cập nhật `Excel center control/Danh-muc-24-tam_A-313-3.xlsx` (file đang mở trong Excel). Việc kế: chép netlist рис.5; xác minh số trang a251 (159 hay 189).
+## 13. Y3/Y4 ảnh chụp lại (Claude, 2026-10-24)
