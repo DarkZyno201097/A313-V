@@ -23,9 +23,9 @@ Tên ảnh: `<SÁCH>_tr<TRANG>_a<SỐ ẢNH>[_<hậu tố>].<đuôi>`.
   Hậu tố tùy phần chụp: `_L` = nửa trái, `_R` = nửa phải, `_kt` = khung tên, `_cl` = cận cảnh.
   Ví dụ `RE_tr167_a250_L.jpg`, `RE_tr167_a251_R.jpg`, `RE_tr167_a252_kt.jpg`.
   Chỉ điền trang khi đọc được từ bản giấy; chưa rõ dùng `trXXX`.
-  **Số `a` cao nhất đã dùng tính đến 2026-10-24: `a265`** (Y4 a250-251, Y3 a252-254, Y6 a255-257,
-  Y16 a258-262, Y5 a263-264, Y9 a265 — ảnh bổ sung không ghi vào `_DOI-TEN.csv`, chỉ cần theo đúng mẫu tên + không trùng số).
-  Ảnh tiếp theo bắt đầu từ **a266**.
+  **Số `a` cao nhất đã dùng tính đến 2026-10-24: `a267`** (Y4 a250-251, Y3 a252-254, Y6 a255-257,
+  Y16 a258-262, Y5 a263-264, Y9 a265, Y11 a266-267 — ảnh bổ sung không ghi vào `_DOI-TEN.csv`, chỉ cần theo đúng mẫu tên + không trùng số).
+  Ảnh tiếp theo bắt đầu từ **a268**.
   Quy tắc này áp dụng cho **mọi ảnh chụp mới từ nay**, không riêng lô 249 ảnh gốc —
   không tự đặt tên khác (vd không dùng tiền tố tự chế như `E3_lisN-M_...`).
 - Tên `a2xx` ở §4 là **mẫu dự kiến**, thay bằng số ảnh tiếp theo khi nhập ảnh; không phải tên file đã tồn tại.
@@ -64,7 +64,7 @@ hoặc khung tên tờ sơ đồ. Cột «Tấm» theo `KE-HOACH_KIEM-TRA_A-313-
 | 14 | (mux vào) | Y12/Y13 | 191 (#186), #187 | ⚠ chưa thấy (có thể tr.188–190 thiếu) |
 | 15 | Интегратор | Y9 | **XÁC ĐỊNH 2026-10-24: `A313-3_CONTROL/Y9/RE_tr191_a265.jpg`**, mã viết tay "ЕУ3.072.043 Э3" (đọc là "04373", "Э3" dễ nhầm "73"), trang 191 ngay trước ПЭ | 192–196 (#189–#193) |
 | 16 | Преобразователь | Y8 | 197 (#195/#196/**#199 nét nhất**) | 198–201 (#200–#203) |
-| 17 | (chuyển mạch ra, Выход 1а…24а) | Y11 | 202–203 (#204, #205) | 204–205 (#206, #207) |
+| 17 | (chuyển mạch ra, Выход 1а…24а) | Y11 | **ẢNH THAY 2026-10-24 (rõ nét, đủ cả tờ): `A313-3_CONTROL/Y11/RE_tr202_a266.jpg` (л.1/2, mã ЕУ2.242.113), `RE_tr203_a267.jpg` (л.2/2)** | 204–205 (#206, #207) |
 | 18 | Усилители выходные (theo ПЭ tr.207) | Y10 | 206 (#208) | 207–208 (#209, #210) |
 | 19 | Плата контроля и сигнализации | Y24 | 209 (#211) | 210–213 (#212–#214) |
 | 20 | УЛП +20 В; 0,3 А | Y18 | 214 (#215) | 215–217 (#216–#218) |

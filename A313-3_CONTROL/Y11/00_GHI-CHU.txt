@@ -1,0 +1,25 @@
+Y11 — Коммутатор выходной (ЕУ2.242.113 Э3) — ẢNH THAY 2026-10-24
+
+Trước đây: 2 ảnh cũ (tr202, tr203) chỉ chụp 1 phần tờ gấp (DANH-MUC ghi
+"Tờ gấp chỉ chụp 1 phần"), "Chưa rõ — chờ chụp lại".
+
+Người dùng chụp lại rõ nét, đủ cả tờ 1/2 và 2/2 trong 1 lần chụp mỗi tờ:
+- RE_tr202_a266.jpg — л.1/2, mã "ЕУ2.242.113 л.1/2" (góc trái: "Условное
+  графическое обозначение", "Схема КТ25"), khối У1-У9 + 6 bảng đầu nối
+  П1-П6 phần tử (6 nhóm chân A1,B1,S1,A2,B2,S2...), ghi chú "Выводы 7 и 11
+  всех микросхем соединены с цепью 'о'". Trang viết tay "202".
+- RE_tr203_a267.jpg — л.2/2, mã "ЕУ2.242.113 ЭЗ" "2/2" rõ, khối У9-У17 +
+  2 bảng đầu nối П1/П2 đầy đủ (các chân Выход1а-24а, Упр.Т1-Т4, Упр.К1-К4,
+  OC "а"/OC "d"). Trang viết tay "203".
+Khớp đúng trang cũ (202/203), chỉ là bản chụp lại rõ hơn + đủ hơn.
+
+Ảnh cũ RE_tr202_a204.jpg, RE_tr203_a205.jpg đã XOÁ (bản gốc scan tổng vẫn
+còn trong ЕУ.048.002.РЭ(A313-3)/ nếu cần đối chiếu).
+
+File phụ: anh-bo-mach-that_2026-10-24.jpg — ảnh chụp BO MẠCH THẬT (không
+phải sơ đồ giấy), thấy nhãn in trên board (một phần "...8.242.113"), hữu
+ích để đối chiếu linh kiện thật nhưng KHÔNG theo quy tắc đặt tên RE_tr_a
+(quy tắc đó chỉ dành cho ảnh chụp bản giấy).
+
+Trạng thái: đang chép (xem tmp/pdfs/review/a313-3/e3/ric17_* — рис.17 =
+Y11 theo DANH-MUC_ANH_RE_A-313-3.md §2).
