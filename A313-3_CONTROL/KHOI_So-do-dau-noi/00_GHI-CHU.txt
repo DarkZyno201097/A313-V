@@ -20,9 +20,11 @@ Nội dung (theo KE-HOACH_KIEM-TRA_A-313-3.md dòng "Khối | Sơ đồ đấu n
   `tmp/pdfs/review/a313-3/e4/e4_all.csv` (58 bảng, 2877 dòng) và dùng để dựng
   bảng kết nối toàn khối (`A313-3_ket-noi-toan-khoi.xlsx`).
 
-File trong thư mục này (11 trang, л.1/11 … л.11/11, giữ nguyên tên gốc vì đã
-đúng — chỉ đổi THƯ MỤC chứa, không đổi tên file):
-  E4_01-11_tr142.jpg  ... E4_11-11_tr152.jpg
+File trong thư mục này (11 trang, л.1/11 … л.11/11; đổi tên 2026-10-24 theo
+quy tắc `RE_tr<TRANG>_a<SỐ GỐC>` ở DANH-MUC_ANH_RE_A-313-3.md §0, số `a` lấy
+từ `_DOI-TEN.csv` — tên gốc, không phải số mới — chỉ đổi THƯ MỤC chứa):
+  RE_tr142_a136.jpg  ... RE_tr152_a149.jpg
+  (trước đó gọi tạm E4_01-11_tr142.jpg … E4_11-11_tr152.jpg — SAI quy tắc)
 
 LƯU Ý: KHÔNG nhầm với Y16 (Плата коммутационная, ЕУ3.661.064 Э3) — Y16 có
 sơ đồ RIÊNG của nó (5 trang ma trận, xem `A313-3_CONTROL/Y16/00_GHI-CHU.txt`),

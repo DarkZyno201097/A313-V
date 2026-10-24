@@ -1,7 +1,7 @@
 # Ma trận nối tấm У16 «Плата коммутационная» — Э3 RIÊNG của Y16 (ЕУ3.661.064), tr.153–157
 
 **SỬA 2026-10-24:** tài liệu này KHÔNG phải Э4 (đã nhầm trước đây) — khung tên viết tay trên ảnh
-gốc (chụp lại rõ 2026-10-24, xem `A313-3_CONTROL/Y16/E3_matran_lis1-5_recapture-2026-10-24.jpg`)
+gốc (chụp lại rõ 2026-10-24, xem `A313-3_CONTROL/Y16/RE_trXXX_a258.jpg`)
 ghi rõ **"ЕУ3.661.064 Э3 л.N/5"**. Đây là sơ đồ RIÊNG của Y16 (ma trận cross-reference, không vẽ
 linh kiện vì Y16 không có linh kiện), KHÔNG PHẢI một phần của `ЕУ3.048.002 Э4` "Sơ đồ đấu nối khối"
 (tài liệu đó là tr.142-152, 11 lист riêng — xem `A313-3_CONTROL/KHOI_So-do-dau-noi/`).

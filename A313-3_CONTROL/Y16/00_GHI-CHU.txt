@@ -12,19 +12,21 @@ reference (không phải sơ đồ nguyên lý vẽ linh kiện, vì không có 
 Tài liệu này có 5 lист (trang), xác nhận qua khung tên viết tay "ЕУ3.661.064
 Э3 л.N/5" đọc được trực tiếp trên ảnh.
 
-File trong thư mục này (đã đổi tên 2026-10-24, trước đó bị gắn nhầm tiền tố
-"E4-matran" — SAI, đã sửa thành "E3_matran"):
-  E3_matran_lis1-5_tr153.jpg                 — chụp gốc 2026-10-23, л.1/5
-  E3_matran_lis2-5_tr154.jpg                 — chụp gốc 2026-10-23, л.2/5
-  E3_matran_lis3-5_tr155.jpg                 — chụp gốc 2026-10-23, л.3/5
-  E3_matran_lis4-5_tr156.jpg                 — chụp gốc 2026-10-23, л.4/5
-  E3_matran_lis5-5_tr157.jpg                 — chụp gốc 2026-10-23, л.5/5
-  E3_matran_lis1-5_recapture-2026-10-24.jpg  — chụp lại 2026-10-24, л.1/5 (mã ký hiệu đọc rõ)
-  E3_matran_lis2-5_recapture-2026-10-24.jpg  — chụp lại 2026-10-24, л.2/5 (mã ký hiệu đọc rõ)
-  E3_matran_lis3-5_recapture-2026-10-24.jpg  — chụp lại 2026-10-24, л.3/5 (mã ký hiệu đọc rõ)
-  E3_matran_lis4-5_recapture-2026-10-24.jpg  — chụp lại 2026-10-24, л.4/5 (mã ký hiệu đọc rõ)
-  E3_matran_lis5-5_recapture-2026-10-24.jpg  — chụp lại 2026-10-24, л.5/5 (mã ký hiệu đọc rõ)
-Mỗi cặp (lisN-5_trXXX + lisN-5_recapture) là 2 ảnh CÙNG một lист — giữ cả
+File trong thư mục này (đổi tên 2026-10-24 theo quy tắc `RE_tr<TRANG>_a<SỐ>`
+ở DANH-MUC_ANH_RE_A-313-3.md §0 — ảnh gốc dùng đúng số `a` từ `_DOI-TEN.csv`,
+ảnh bổ sung dùng số tiếp theo chưa dùng; trước đó dùng tiền tố tự chế
+"E3_matran_lisN-5" — SAI quy tắc, đã sửa):
+  RE_tr153_a150.jpg  — chụp gốc 2026-10-23, л.1/5
+  RE_tr154_a151.jpg  — chụp gốc 2026-10-23, л.2/5
+  RE_tr155_a152.jpg  — chụp gốc 2026-10-23, л.3/5
+  RE_tr156_a153.jpg  — chụp gốc 2026-10-23, л.4/5
+  RE_tr157_a154.jpg  — chụp gốc 2026-10-23, л.5/5
+  RE_trXXX_a258.jpg  — chụp lại 2026-10-24, л.1/5 (mã ký hiệu đọc rõ)
+  RE_trXXX_a259.jpg  — chụp lại 2026-10-24, л.2/5 (mã ký hiệu đọc rõ)
+  RE_trXXX_a260.jpg  — chụp lại 2026-10-24, л.3/5 (mã ký hiệu đọc rõ)
+  RE_trXXX_a261.jpg  — chụp lại 2026-10-24, л.4/5 (mã ký hiệu đọc rõ)
+  RE_trXXX_a262.jpg  — chụp lại 2026-10-24, л.5/5 (mã ký hiệu đọc rõ)
+Mỗi cặp (tr15N_aNNN + trXXX_a25N/26N) là 2 ảnh CÙNG một lист — giữ cả
 hai vì độ phân giải/góc chụp khác nhau, dùng bản nào đọc rõ hơn tại chỗ cần.
 
 QUAN TRỌNG — SỬA LỖI 2026-10-24: 11 ảnh trước đây đặt tên "E4_01-11_trXXX.jpg"

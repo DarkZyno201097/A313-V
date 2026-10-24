@@ -23,6 +23,11 @@ Tên ảnh: `<SÁCH>_tr<TRANG>_a<SỐ ẢNH>[_<hậu tố>].<đuôi>`.
   Hậu tố tùy phần chụp: `_L` = nửa trái, `_R` = nửa phải, `_kt` = khung tên, `_cl` = cận cảnh.
   Ví dụ `RE_tr167_a250_L.jpg`, `RE_tr167_a251_R.jpg`, `RE_tr167_a252_kt.jpg`.
   Chỉ điền trang khi đọc được từ bản giấy; chưa rõ dùng `trXXX`.
+  **Số `a` cao nhất đã dùng tính đến 2026-10-24: `a262`** (Y4 a250-251, Y3 a252-254, Y6 a255-257,
+  Y16 a258-262 — ảnh bổ sung không ghi vào `_DOI-TEN.csv`, chỉ cần theo đúng mẫu tên + không trùng số).
+  Ảnh tiếp theo bắt đầu từ **a263**.
+  Quy tắc này áp dụng cho **mọi ảnh chụp mới từ nay**, không riêng lô 249 ảnh gốc —
+  không tự đặt tên khác (vd không dùng tiền tố tự chế như `E3_lisN-M_...`).
 - Tên `a2xx` ở §4 là **mẫu dự kiến**, thay bằng số ảnh tiếp theo khi nhập ảnh; không phải tên file đã tồn tại.
 
 Đổi tên một lần ngày **2026-10-23**, nội dung ảnh không đổi; thư mục tiếp tục chỉ-đọc.
@@ -49,7 +54,7 @@ hoặc khung tên tờ sơ đồ. Cột «Tấm» theo `KE-HOACH_KIEM-TRA_A-313-
 |---|---|---|---|---|
 | 5 | Устройство программного управления (ЕУ3.057.138 Э3, 2 tờ) | Y4 | 158–159 (#155, #156); **chụp lại rõ 2026-10-24: `A313-3_CONTROL/Y4/RE_tr158_a250.jpg`, `RE_tr159_a251.jpg`** | #137–#139 (Приложение лист 22–24) |
 | 6 | Устройство управления обращением (ЕУ3.057.136 Э3, 3 tờ) | Y3 | tờ 1 #231/#232 (không số trang), tờ 2 tr.160 (#157), tờ 3 tr.161 (#158); **chụp lại rõ 2026-10-24: `A313-3_CONTROL/Y3/RE_trXXX_a252.jpg`, `RE_tr160_a253.jpg`, `RE_tr161_a254.jpg`** | 162–163 (#159, #160) |
-| 7 | Устройство управления преобразованием | Y6 | ~~164–166 (#161–#163); 167 thiếu~~ **THAY 2026-10-24: 3 ảnh chụp lại rõ nét đủ 3 lист** (`A313-3_CONTROL/Y6/E3_lis1-3_recapture-2026-10-24.jpg`…`lis3-3`), khung tên xác nhận "ЕУ3.057.140 л.N/3" | 168–170 (#164–#166) |
+| 7 | Устройство управления преобразованием | Y6 | ~~164–166 (#161–#163); 167 thiếu~~ **THAY 2026-10-24: 3 ảnh chụp lại rõ nét đủ 3 lист** (`A313-3_CONTROL/Y6/RE_trXXX_a255.jpg`…`a257.jpg`), khung tên xác nhận "ЕУ3.057.140 л.N/3" | 168–170 (#164–#166) |
 | 8 | Устройство командного управления | Y5 | 171–172 (#167, #168) | 173–174 (#169, #170) |
 | 9 | Преобразователь цифровых сигналов | Y2 | 175–176 (#171, #172) | 177–178 (#173, #174) |
 | 10 | Формирователь ПК и магистрали | Y1 | 179 (#175) ⚠ + tờ #75 kẹp ở tr.79/80 | 181–183 (#176–#178) |

@@ -8,10 +8,13 @@ dung (3 lист của sơ đồ ЕУ3.057.140), xác nhận qua khung tên viế
 LƯU Ý: 3 ảnh này ban đầu bị tải NHẦM vào thư mục Y5 (người dùng xác nhận
 2026-10-24: "tải nhầm thư mục, xử lý như Y6"). Đã dời đúng sang đây.
 
-File:
-  E3_lis1-3_recapture-2026-10-24.jpg  — л.1/3 (bảng П1/П2/П3 + khối Я1...Я4)
-  E3_lis2-3_recapture-2026-10-24.jpg  — л.2/3 (khối Я1...Я6, "Начало/Продолжение см.на листе")
-  E3_lis3-3_recapture-2026-10-24.jpg  — л.3/3 (tiếp theo, kết thúc mạch logic)
+File (đổi tên 2026-10-24 theo quy tắc `RE_tr<TRANG>_a<SỐ>[_hậu tố].<đuôi>` ở
+`DANH-MUC_ANH_RE_A-313-3.md` §0 — ảnh bổ sung dùng số tiếp theo, không trùng
+số cũ; `trXXX` vì chỉ xác nhận được số lист 1-3 nội bộ tài liệu, chưa đọc
+được số trang album in trên giấy):
+  RE_trXXX_a255.jpg  — л.1/3 (bảng П1/П2/П3 + khối Я1...Я4)
+  RE_trXXX_a256.jpg  — л.2/3 (khối Я1...Я6, "Начало/Продолжение см.на листе")
+  RE_trXXX_a257.jpg  — л.3/3 (tiếp theo, kết thúc mạch logic)
 
 Trạng thái trước đây: "chưa chép hoàn toàn", PROJECT_HANDOFF.md từng ghi
 "Y6 thiếu tr.167" (T01 audit 2026-10-22) — cần đối chiếu xem tr.167 cũ có

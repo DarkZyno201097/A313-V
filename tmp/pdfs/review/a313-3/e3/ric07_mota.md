@@ -1,6 +1,6 @@
 # Chép рис.7 — Y6 — ЕУ3.057.140 (Э3)
 
-- Phạm vi: chỉ ba ảnh E3_lis1-3_recapture-2026-10-24.jpg, E3_lis2-3_recapture-2026-10-24.jpg, E3_lis3-3_recapture-2026-10-24.jpg do người dùng chỉ định.
+- Phạm vi: chỉ ba ảnh RE_trXXX_a255.jpg, RE_trXXX_a256.jpg, RE_trXXX_a257.jpg (л.1/3, л.2/3, л.3/3; đổi tên 2026-10-24 theo quy tắc DANH-MUC_ANH_RE_A-313-3.md §0, trước đó tên tạm E3_lis1-3_recapture-2026-10-24.jpg…) do người dùng chỉ định.
 - Tên “Устройство управления преобразованием”, khối A-313-3, Y6 và рис.7 lấy từ yêu cầu; không thấy trọn khung tên để xác nhận độc lập các dòng này.
 - Chữ ghi tay nhìn thấy trên cả ba tờ: «ЕУ3.057.140 Э3»; số tờ ghi tay lần lượt «1/3», «2/3», «3/3».
 - Không thấy đủ khung tên tiêu chuẩn, ô người vẽ/duyệt hoặc bảng liệt kê linh kiện.
