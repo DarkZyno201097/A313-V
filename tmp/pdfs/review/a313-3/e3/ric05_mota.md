@@ -56,4 +56,4 @@ Nhãn chuyển tờ trên tờ 1 ghi chân nguồn + tên tín hiệu; tên mà 
 
 1. Lần 207 chân «НЕ ПРОСЛЕЖЕНО» (chủ yếu thanh dọc bộ giải mã tờ 1 và chốt RS У59/У60) và C3–C8.
 2. Đọc nốt ghi chú 1–2 (chân 7/14 nối «a» hay «б» — chữ bị cắt ở mép ảnh a250).
-2. Xác định số trang thật của a251 (159 hay 189) trên bản giấy.
+3. Xác định số trang thật của a251 (159 hay 189) trên bản giấy.
