@@ -1,0 +1,34 @@
+KHỐI — Sơ đồ đấu nối khối A-313-3 (ЕУ3.048.002 Э4)
+====================================================
+
+Tài liệu CHUNG của toàn khối A-313-3 — KHÔNG phải của riêng Y16 (sửa lỗi
+2026-10-24, trước đó 11 ảnh này nằm lẫn trong thư mục A313-3_CONTROL/Y16/
+và bị coi nhầm là tài liệu của Y16).
+
+Xác nhận qua khung tên viết tay trên ảnh gốc: "ЕУ3.048.002 Э4" "1/11" (trang
+đầu), xác nhận đủ 11 lист tới "11/11".
+
+Nội dung (theo KE-HOACH_KIEM-TRA_A-313-3.md dòng "Khối | Sơ đồ đấu nối khối"):
+- Danh mục đầy đủ 24 tấm Y1-Y24 (tên, mã ký hiệu, số lượng) — trang đầu tiên
+  (tr.142) là bảng BOM cấp khối, dùng để dựng `ky_hieu_chung` trong
+  `Excel center control/A313-3_ket-noi-toan-khoi.xlsx`.
+- Linh kiện rời rạc trên khối (không thuộc tấm nào): C1-C3, C5-C7 (К52-5
+  150 µF), Д1 (2Д201Г), Др1 (Д213В), Л1, Пр1 (10 A).
+- Bảng chân 7 đầu cắm ngoài: 3Ш1, 3Ш2 (sang A-313-2A), 3Ш3, 3Ш4 (máy bay),
+  3Ш5, 3Ш7 (kiểm tra) — РС50/РПКМ3-67/67.
+- Bảng chân nguồn và kết nối giữa các tấm — dữ liệu này đã được chép ra
+  `tmp/pdfs/review/a313-3/e4/e4_all.csv` (58 bảng, 2877 dòng) và dùng để dựng
+  bảng kết nối toàn khối (`A313-3_ket-noi-toan-khoi.xlsx`).
+
+File trong thư mục này (11 trang, л.1/11 … л.11/11, giữ nguyên tên gốc vì đã
+đúng — chỉ đổi THƯ MỤC chứa, không đổi tên file):
+  E4_01-11_tr142.jpg  ... E4_11-11_tr152.jpg
+
+LƯU Ý: KHÔNG nhầm với Y16 (Плата коммутационная, ЕУ3.661.064 Э3) — Y16 có
+sơ đồ RIÊNG của nó (5 trang ma trận, xem `A313-3_CONTROL/Y16/00_GHI-CHU.txt`),
+dù cả hai bộ ảnh được chụp liên tiếp trong cùng cuốn tài liệu giấy (tr.142-152
+= Э4 khối, tr.153-157 = Э3 riêng Y16) nên dễ bị gộp nhầm.
+
+Ưu tiên: **Э4 — ưu tiên 1** (bảng chân 3Ш1…3Ш7, cần cho mọi việc đo tại chỗ).
+Chi tiết: KE-HOACH_KIEM-TRA_A-313-3.md (dòng "Khối | Sơ đồ đấu nối khối"),
+SO-DO-DAU-NOI_E4_A-313-3.md.

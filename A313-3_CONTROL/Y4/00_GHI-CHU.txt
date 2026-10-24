@@ -1,0 +1,5 @@
+Y4 = рис.5 «Устройство программного управления», ЕУ3.057.138 Э3, 2 tờ.
+- RE_tr158_a250.jpg: tờ 1/2 (chụp lại 2026-10-24, cùng tờ với #155 = RE_tr158_a155.jpg)
+- RE_tr159_a251.jpg: tờ 2/2 (chụp lại 2026-10-24, cùng tờ với #156 = RE_tr159_a156.jpg)
+Trước đây #155/#156 bị xếp nhầm vào рис.6 (Y3) trong DANH-MUC_ANH_RE_A-313-3.md.
+ПЭ рис.5: #137-139 (số trang chưa đọc được).

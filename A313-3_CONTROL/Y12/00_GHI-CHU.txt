@@ -1,0 +1,3 @@
+⚠ Y12 và Y13 dùng CHUNG một hình trong tài liệu gốc (Hình 14, trang 191).
+Chưa tách được ranh giới giữa 2 tấm trên ảnh — cùng 2 file được copy vào cả Y12 và Y13.
+Cần chụp rõ hơn + đối chiếu danh mục linh kiện để tách.

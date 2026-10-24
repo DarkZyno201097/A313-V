@@ -1,0 +1,8 @@
+⚠ MÂU THUẪN DANH TÍNH chưa giải quyết giữa Y14 và Y15:
+- Danh mục cấp khối Э4 tr.142 ghi: У14 = Преобразователь РК II (ВШ3.036.053).
+- Nhưng CHÍNH Э4 tr.149 lại ghi dọc cạnh bảng У14: "РК I ВШ2.068.054" — ngược lại.
+- Ảnh sơ đồ nguyên lý (RE_tr188_a184.jpg) dùng CHUNG cho cả Y14 và Y15 (chưa tách được
+  12 hay 13 theo DANH-MUC).
+- Ảnh bố trí kèm theo (RE_tr243_a244_bo-tri.jpg = Рис.29) tự ghi "Преобразователь РК I"
+  nhưng KHÔNG tự nêu rõ là của Y14 hay Y15.
+=> PHẢI đọc nhãn in trực tiếp trên tấm thật để chốt đâu là Y14, đâu là Y15.
