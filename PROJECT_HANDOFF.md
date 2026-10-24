@@ -326,3 +326,9 @@ Dhash toàn ảnh bỏ sót tờ cắt/xoay; số hình VT28 chạy lại theo p
 - рис.5 (Y4): đã quét — BOM 80 (ПЭ #137–#139), bảng đầu nối 176 hàng, `e3_vs_e4 5 У4` = 133 khớp / 25 lệch tên / 1 chỉ-Э3 / 3 chỉ-Э4; **chưa chép netlist** (`ric05_net.csv` rỗng, chưa vào `e3_check.py`). Chi tiết `e3/ric05_mota.md`.
 - Chưa cập nhật `Excel center control/Danh-muc-24-tam_A-313-3.xlsx` (file đang mở trong Excel). Việc kế: chép netlist рис.5; xác minh số trang a251 (159 hay 189).
 ## 13. Y3/Y4 ảnh chụp lại (Claude, 2026-10-24)
+
+## 14. Y4 hoàn tất ghép, Y6 soát lại (Claude, 2026-10-24)
+- рис.5 (Y4): ghép tờ 2 do Codex đọc (`ric05_to2_raw.csv`) → 794 chân, 207 НЕ ПРОСЛЕЖЕНО; nhãn chuyển tờ khớp 9/9; phần tử gạch (У8, У22, У24, У27, R9, R10) trùng đúng chỗ ПЭ không có. Còn C3–C8, chân 7/14 «a»/«б».
+- рис.7 (Y6): Codex soát 196 dòng `?` → 23 đọc chắc, áp bằng `ric07_soat_apply.py`; còn 175 `?`; e3_vs_e4 7 У6 = 105/38/0/14. Chưa vào e3_check (14 ref `?`, 4 pin `?`); chưa có ảnh ПЭ рис.7.
+- Excel `Danh-muc-24-tam_A-313-3.xlsx` dòng Y6 đã cập nhật số mới.
+- Việc kế: chụp ПЭ рис.7 + chụp lại л.2/л.3 Y6 rõ hơn; lần nốt НЕ ПРОСЛЕЖЕНО Y3 (95), Y4 (207).
