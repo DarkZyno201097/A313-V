@@ -1,7 +1,9 @@
 # Рис.8 — Устройство командного управления У5 của A-313-3
 
-Nguồn chính: Э3 ảnh #167 (`RE_tr171_a167.jpg`, trang tay 171) và #168
-(`RE_tr172_a168.jpg`, trang tay 172); ПЭ ảnh #169
+Nguồn chính: Э3 ảnh #167 (`RE_tr171_a263.jpg`, trang tay 171 — chụp lại rõ nét
+2026-10-24, thay bản mờ `RE_tr171_a167.jpg` cũ) và #168
+(`RE_tr172_a264.jpg`, trang tay 172 — chụp lại rõ nét 2026-10-24, thay bản mờ
+`RE_tr172_a168.jpg` cũ); ПЭ ảnh #169
 (`RE_tr173_a169.jpg`, trang 173) và #170
 (`RE_tr174_a170.jpg`, trang 174). Bảng chân đối chiếu độc lập: Э4 trang
 151, `e4/p151.csv`, các bảng `У5П1`, `У5П2`, `У5П3`.
