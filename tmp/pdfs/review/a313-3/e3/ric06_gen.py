@@ -311,6 +311,45 @@ SHEET_ICS = {r for r, *_ in bom if r.startswith('У')}  # ghi chú 1, 2: mọi v
 for u in sorted(SHEET_ICS, key=lambda x: int(x[1:])):
     add(u, 7, GND, 'ghi chú 1 tờ 1'); add(u, 14, VCC, 'ghi chú 2 tờ 1')
 
+# ===== Lần lại trên ảnh chụp mới 2026-10-24 (tờ 2 = a253, tờ 3 = a254; A313-3_CONTROL/Y3/) =====
+_IDX = {(r, p): i for i, (r, p, *_) in enumerate(NET)}
+
+
+def fix(ref, pins, net, why):
+    for p in (pins if isinstance(pins, (list, tuple)) else [pins]):
+        i = _IDX[(ref, str(p))]  # chỉ ghi đè chân đã có, không thêm chân mới
+        NET[i] = (ref, str(p), net, why)
+
+
+A253, A254 = 'a253 tờ 2 (lần lại)', 'a254 tờ 3 (lần lại)'
+# Thanh điều khiển chung của trigger 136ТМ2: S ← У8-2.6, C ← П3/4 1t19, R ← П3/3 1t16
+for u, s, c, r in (('У16', [4], [3], [1]), ('У17', [10, 4], [11, 3], [13, 1]), ('У18', [10, 4], [11, 3], [13, 1])):
+    fix(u, s, 'N91', A253 + '; S nối thanh từ У8-2.6')
+    fix(u, c, 'П3:4 1t19', A253 + '; C nối thanh П3/4 1t19')
+    fix(u, r, 'П3:3 1t16', A253 + '; R nối thanh П3/3 1t16')
+fix('У8', 6, 'N91', A253 + '; ra đi phải lên rồi lên thanh S')
+# Hai thanh dọc của У19/У20: A = П3/60 0рСчК (chấm tại У8-4.12), B = ~0рСчК (У8-4.11)
+fix('У20', 10, 'П3:60 0рСчК', A253); fix('У19', [2, 10], 'П3:60 0рСчК', A253)
+fix('У20', [5, 13], '~0рСчК', A253); fix('У19', 5, '~0рСчК', A253)
+# Cột giữa
+fix('У31', 6, 'N34', A253 + '; ra 6 nối chấm trên dây У38.6')
+fix('У31', [11, 1], 'П3:54 5оп', A253); fix('У32', 5, 'П3:54 5оп', A253)
+fix('У32', 2, 'П3:5 Д4', A253 + '; chấm trên dọc Д4')
+V1 = A253 + '; thanh dọc sát cột chân (bắt đầu ở У31.3, kết thúc ở У34.12). ? chưa thấy nguồn: có thể là N30 (У30.8) — chỗ giao tại У31.4 không có chấm'
+fix('У31', [3, 10, 2], 'N93', V1); fix('У32', [3, 11, 1], 'N93', V1)
+fix('У33', [4, 11, 13], 'N93', V1); fix('У34', 12, 'N93', V1)
+fix('У29', 11, 'N94', A253 + '; ra 11 xuống rồi vào У33-3.1'); fix('У33', 1, 'N94', A253)
+# Tờ 3: chân chọn của bộ dồn kênh 136ЛР1 — X1 = N43 (У5-4.11 → У6-3.9/10), X2 = N44 (У6-3.8)
+fix('У2', [3, 13], 'N43', A254); fix('У3', [3, 13], 'N43', A254)
+fix('У2', [5, 10], 'N44', A254); fix('У3', [5, 10], 'N44', A254)
+fix('У5', [3, 13], 'N43', A254 + '; ? chân 13 theo dọc lệch nhẹ, suy theo quy luật У2/У3')
+fix('У5', [5, 9], 'N44', A254 + '; ? chân 9 theo quy luật У2/У3')
+# Tờ 3: giải mã 2→4. У10: A=N45, B=N46, Ā=N47, B̄=N48. У11: A=N53, B=N54, Ā=N55, B̄=N56
+fix('У10', [2, 4], 'N47', A254); fix('У10', [9, 13], 'N45', A254)
+fix('У10', [10, 1], 'N48', A254); fix('У10', [5, 12], 'N46', A254)
+fix('У11', [2, 4], 'N55', A254); fix('У11', [9, 13], 'N53', A254)
+fix('У11', [10, 1], 'N56', A254); fix('У11', [5, 12], 'N54', A254)
+
 # Net nội bộ chỉ có 1 chân = đầu kia nằm ở phần chưa lần được -> ghi rõ là chưa lần
 from collections import Counter
 cnt = Counter(n for _, _, n, _ in NET)

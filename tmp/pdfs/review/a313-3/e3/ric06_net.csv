@@ -75,21 +75,21 @@ C6,−,П1:27 Корпус | П2:1 Корпус | П3:1 Корпус,"#232 tờ 
 У17,2,П3:55 6оп,"#157 tờ 2; nhãn «П3/5?(1)» bị gấp, bảng tờ 1: 6оп = П3/55"
 У18,12,П3:52 2оп,#157 tờ 2
 У18,2,П3:54 5оп,#157 tờ 2
-У16,4,НЕ ПРОСЛЕЖЕНО У16.4,"? #157 tờ 2 S/C/R đi vào thanh dọc chung, chưa thấy chắc chấm nối/điểm xuất phát (ứng viên: 1t16=П3/3, 1t19=П3/4, đầu ra У8.6)"
-У16,3,НЕ ПРОСЛЕЖЕНО У16.3,"? #157 tờ 2 S/C/R đi vào thanh dọc chung, chưa thấy chắc chấm nối/điểm xuất phát (ứng viên: 1t16=П3/3, 1t19=П3/4, đầu ra У8.6)"
-У16,1,НЕ ПРОСЛЕЖЕНО У16.1,"? #157 tờ 2 S/C/R đi vào thanh dọc chung, chưa thấy chắc chấm nối/điểm xuất phát (ứng viên: 1t16=П3/3, 1t19=П3/4, đầu ra У8.6)"
-У17,10,НЕ ПРОСЛЕЖЕНО У17.10,"? #157 tờ 2 S/C/R đi vào thanh dọc chung, chưa thấy chắc chấm nối/điểm xuất phát (ứng viên: 1t16=П3/3, 1t19=П3/4, đầu ra У8.6)"
-У17,11,НЕ ПРОСЛЕЖЕНО У17.11,"? #157 tờ 2 S/C/R đi vào thanh dọc chung, chưa thấy chắc chấm nối/điểm xuất phát (ứng viên: 1t16=П3/3, 1t19=П3/4, đầu ra У8.6)"
-У17,13,НЕ ПРОСЛЕЖЕНО У17.13,"? #157 tờ 2 S/C/R đi vào thanh dọc chung, chưa thấy chắc chấm nối/điểm xuất phát (ứng viên: 1t16=П3/3, 1t19=П3/4, đầu ra У8.6)"
-У17,4,НЕ ПРОСЛЕЖЕНО У17.4,"? #157 tờ 2 S/C/R đi vào thanh dọc chung, chưa thấy chắc chấm nối/điểm xuất phát (ứng viên: 1t16=П3/3, 1t19=П3/4, đầu ra У8.6)"
-У17,3,НЕ ПРОСЛЕЖЕНО У17.3,"? #157 tờ 2 S/C/R đi vào thanh dọc chung, chưa thấy chắc chấm nối/điểm xuất phát (ứng viên: 1t16=П3/3, 1t19=П3/4, đầu ra У8.6)"
-У17,1,НЕ ПРОСЛЕЖЕНО У17.1,"? #157 tờ 2 S/C/R đi vào thanh dọc chung, chưa thấy chắc chấm nối/điểm xuất phát (ứng viên: 1t16=П3/3, 1t19=П3/4, đầu ra У8.6)"
-У18,10,НЕ ПРОСЛЕЖЕНО У18.10,"? #157 tờ 2 S/C/R đi vào thanh dọc chung, chưa thấy chắc chấm nối/điểm xuất phát (ứng viên: 1t16=П3/3, 1t19=П3/4, đầu ra У8.6)"
-У18,11,НЕ ПРОСЛЕЖЕНО У18.11,"? #157 tờ 2 S/C/R đi vào thanh dọc chung, chưa thấy chắc chấm nối/điểm xuất phát (ứng viên: 1t16=П3/3, 1t19=П3/4, đầu ra У8.6)"
-У18,13,НЕ ПРОСЛЕЖЕНО У18.13,"? #157 tờ 2 S/C/R đi vào thanh dọc chung, chưa thấy chắc chấm nối/điểm xuất phát (ứng viên: 1t16=П3/3, 1t19=П3/4, đầu ra У8.6)"
-У18,4,НЕ ПРОСЛЕЖЕНО У18.4,"? #157 tờ 2 S/C/R đi vào thanh dọc chung, chưa thấy chắc chấm nối/điểm xuất phát (ứng viên: 1t16=П3/3, 1t19=П3/4, đầu ra У8.6)"
-У18,3,НЕ ПРОСЛЕЖЕНО У18.3,"? #157 tờ 2 S/C/R đi vào thanh dọc chung, chưa thấy chắc chấm nối/điểm xuất phát (ứng viên: 1t16=П3/3, 1t19=П3/4, đầu ra У8.6)"
-У18,1,НЕ ПРОСЛЕЖЕНО У18.1,"? #157 tờ 2 S/C/R đi vào thanh dọc chung, chưa thấy chắc chấm nối/điểm xuất phát (ứng viên: 1t16=П3/3, 1t19=П3/4, đầu ra У8.6)"
+У16,4,N91,a253 tờ 2 (lần lại); S nối thanh từ У8-2.6
+У16,3,П3:4 1t19,a253 tờ 2 (lần lại); C nối thanh П3/4 1t19
+У16,1,П3:3 1t16,a253 tờ 2 (lần lại); R nối thanh П3/3 1t16
+У17,10,N91,a253 tờ 2 (lần lại); S nối thanh từ У8-2.6
+У17,11,П3:4 1t19,a253 tờ 2 (lần lại); C nối thanh П3/4 1t19
+У17,13,П3:3 1t16,a253 tờ 2 (lần lại); R nối thanh П3/3 1t16
+У17,4,N91,a253 tờ 2 (lần lại); S nối thanh từ У8-2.6
+У17,3,П3:4 1t19,a253 tờ 2 (lần lại); C nối thanh П3/4 1t19
+У17,1,П3:3 1t16,a253 tờ 2 (lần lại); R nối thanh П3/3 1t16
+У18,10,N91,a253 tờ 2 (lần lại); S nối thanh từ У8-2.6
+У18,11,П3:4 1t19,a253 tờ 2 (lần lại); C nối thanh П3/4 1t19
+У18,13,П3:3 1t16,a253 tờ 2 (lần lại); R nối thanh П3/3 1t16
+У18,4,N91,a253 tờ 2 (lần lại); S nối thanh từ У8-2.6
+У18,3,П3:4 1t19,a253 tờ 2 (lần lại); C nối thanh П3/4 1t19
+У18,1,П3:3 1t16,a253 tờ 2 (lần lại); R nối thanh П3/3 1t16
 У16,6,N10,#157 tờ 2
 У17,8,N11,#157 tờ 2
 У17,5,N12,#157 tờ 2
@@ -107,12 +107,12 @@ C6,−,П1:27 Корпус | П2:1 Корпус | П3:1 Корпус,"#232 tờ 
 У19,9,N14,#157 tờ 2
 У19,6,N19,#157 tờ 2
 У19,8,N20,#157 tờ 2
-У20,5,НЕ ПРОСЛЕЖЕНО У20.5,"? #157 tờ 2 đi vào thanh dọc chung, chưa thấy chắc chấm nối/điểm xuất phát"
-У20,10,НЕ ПРОСЛЕЖЕНО У20.10,"? #157 tờ 2 đi vào thanh dọc chung, chưa thấy chắc chấm nối/điểm xuất phát"
-У20,13,НЕ ПРОСЛЕЖЕНО У20.13,"? #157 tờ 2 đi vào thanh dọc chung, chưa thấy chắc chấm nối/điểm xuất phát"
-У19,2,НЕ ПРОСЛЕЖЕНО У19.2,"? #157 tờ 2 đi vào thanh dọc chung, chưa thấy chắc chấm nối/điểm xuất phát"
-У19,5,НЕ ПРОСЛЕЖЕНО У19.5,"? #157 tờ 2 đi vào thanh dọc chung, chưa thấy chắc chấm nối/điểm xuất phát"
-У19,10,НЕ ПРОСЛЕЖЕНО У19.10,"? #157 tờ 2 đi vào thanh dọc chung, chưa thấy chắc chấm nối/điểm xuất phát"
+У20,5,~0рСчК,a253 tờ 2 (lần lại)
+У20,10,П3:60 0рСчК,a253 tờ 2 (lần lại)
+У20,13,~0рСчК,a253 tờ 2 (lần lại)
+У19,2,П3:60 0рСчК,a253 tờ 2 (lần lại)
+У19,5,~0рСчК,a253 tờ 2 (lần lại)
+У19,10,П3:60 0рСчК,a253 tờ 2 (lần lại)
 У21,1,N10,#157 tờ 2
 У21,2,N10,#157 tờ 2
 У21,3,N10,#157 tờ 2
@@ -211,7 +211,7 @@ R35,1,N28,#157 tờ 2; số chân R quy ước
 R35,2,П1:27 Корпус | П2:1 Корпус | П3:1 Корпус,#157 tờ 2; số chân R quy ước
 У8,4,П1:27 Корпус | П2:1 Корпус | П3:1 Корпус,#157 tờ 2; vào nối «a»
 У8,5,П1:27 Корпус | П2:1 Корпус | П3:1 Корпус,#157 tờ 2; vào nối «a»
-У8,6,НЕ ПРОСЛЕЖЕНО У8.6,? #157 tờ 2 ra đi lên thanh dọc (ứng viên: chân S các trigger)
+У8,6,N91,a253 tờ 2 (lần lại); ra đi phải lên rồi lên thanh S
 У8,12,П3:60 0рСчК,#157 tờ 2; ? nhãn phần tử đọc «У8-4»; tờ 3 ghi nguồn «У19/11(2)»
 У8,13,П3:60 0рСчК,#157 tờ 2; ? nhãn phần tử đọc «У8-4»; tờ 3 ghi nguồn «У19/11(2)»
 У8,11,~0рСчК,#157 tờ 2; sang tờ 3 «У7/1(3)»
@@ -231,7 +231,7 @@ R35,2,П1:27 Корпус | П2:1 Корпус | П3:1 Корпус,#157 tờ 2;
 У31,4,N30,#157 tờ 2
 У29,12,N30,#157 tờ 2
 У29,13,N30,#157 tờ 2
-У29,11,НЕ ПРОСЛЕЖЕНО У29.11,"? #157 tờ 2 ra đi xuống, đi vào thanh dọc chung, chưa thấy chắc chấm nối/điểm xuất phát"
+У29,11,N94,a253 tờ 2 (lần lại); ra 11 xuống rồi vào У33-3.1
 У29,1,П3:47 Строб1,#157 tờ 2
 У29,2,П3:47 Строб1,#157 tờ 2
 У29,3,N31,#157 tờ 2
@@ -245,40 +245,40 @@ R35,2,П1:27 Корпус | П2:1 Корпус | П3:1 Корпус,#157 tờ 2;
 У31,5,П3:7 Д0,#157 tờ 2
 У31,9,П3:7 Д0,#157 tờ 2
 У31,13,П3:27 Д2,#157 tờ 2
-У31,3,НЕ ПРОСЛЕЖЕНО У31.3,"? #157 tờ 2 đi vào thanh dọc chung, chưa thấy chắc chấm nối/điểm xuất phát"
-У31,10,НЕ ПРОСЛЕЖЕНО У31.10,"? #157 tờ 2 đi vào thanh dọc chung, chưa thấy chắc chấm nối/điểm xuất phát"
-У31,11,НЕ ПРОСЛЕЖЕНО У31.11,"? #157 tờ 2 đi vào thanh dọc chung, chưa thấy chắc chấm nối/điểm xuất phát"
-У31,1,НЕ ПРОСЛЕЖЕНО У31.1,"? #157 tờ 2 đi vào thanh dọc chung, chưa thấy chắc chấm nối/điểm xuất phát"
-У31,2,НЕ ПРОСЛЕЖЕНО У31.2,"? #157 tờ 2 đi vào thanh dọc chung, chưa thấy chắc chấm nối/điểm xuất phát"
+У31,3,N93,"a253 tờ 2 (lần lại); thanh dọc sát cột chân (bắt đầu ở У31.3, kết thúc ở У34.12). ? chưa thấy nguồn: có thể là N30 (У30.8) — chỗ giao tại У31.4 không có chấm"
+У31,10,N93,"a253 tờ 2 (lần lại); thanh dọc sát cột chân (bắt đầu ở У31.3, kết thúc ở У34.12). ? chưa thấy nguồn: có thể là N30 (У30.8) — chỗ giao tại У31.4 không có chấm"
+У31,11,П3:54 5оп,a253 tờ 2 (lần lại)
+У31,1,П3:54 5оп,a253 tờ 2 (lần lại)
+У31,2,N93,"a253 tờ 2 (lần lại); thanh dọc sát cột chân (bắt đầu ở У31.3, kết thúc ở У34.12). ? chưa thấy nguồn: có thể là N30 (У30.8) — chỗ giao tại У31.4 không có chấm"
 У31,8,~М→РМ,#157 tờ 2; tờ 3 ghi «У31/8(2) М→РМ»
 У31,12,~М→РгК2,#157 tờ 2; tờ 3 ghi «У31/12(2) М→РгК2»
-У31,6,НЕ ПРОСЛЕЖЕНО У31.6,? #157 tờ 2 ra đi phải lên trên
+У31,6,N34,a253 tờ 2 (lần lại); ra 6 nối chấm trên dây У38.6
 У32,4,П3:5 Д4,#157 tờ 2; ? chấm nối
 У32,9,П3:55 6оп,#157 tờ 2; ? chấm nối
 У32,13,П3:58 4оп,#157 tờ 2
 У33,3,П3:58 4оп,#157 tờ 2; ? qua chấm x≈725
-У32,3,НЕ ПРОСЛЕЖЕНО У32.3,"? #157 tờ 2 đi vào thanh dọc chung, chưa thấy chắc chấm nối/điểm xuất phát"
-У32,5,НЕ ПРОСЛЕЖЕНО У32.5,"? #157 tờ 2 đi vào thanh dọc chung, chưa thấy chắc chấm nối/điểm xuất phát"
+У32,3,N93,"a253 tờ 2 (lần lại); thanh dọc sát cột chân (bắt đầu ở У31.3, kết thúc ở У34.12). ? chưa thấy nguồn: có thể là N30 (У30.8) — chỗ giao tại У31.4 không có chấm"
+У32,5,П3:54 5оп,a253 tờ 2 (lần lại)
 У32,10,НЕ ПРОСЛЕЖЕНО У32.10,"? #157 tờ 2 đi vào thanh dọc chung, chưa thấy chắc chấm nối/điểm xuất phát"
-У32,11,НЕ ПРОСЛЕЖЕНО У32.11,"? #157 tờ 2 đi vào thanh dọc chung, chưa thấy chắc chấm nối/điểm xuất phát"
-У32,1,НЕ ПРОСЛЕЖЕНО У32.1,"? #157 tờ 2 đi vào thanh dọc chung, chưa thấy chắc chấm nối/điểm xuất phát"
-У32,2,НЕ ПРОСЛЕЖЕНО У32.2,"? #157 tờ 2 đi vào thanh dọc chung, chưa thấy chắc chấm nối/điểm xuất phát"
+У32,11,N93,"a253 tờ 2 (lần lại); thanh dọc sát cột chân (bắt đầu ở У31.3, kết thúc ở У34.12). ? chưa thấy nguồn: có thể là N30 (У30.8) — chỗ giao tại У31.4 không có chấm"
+У32,1,N93,"a253 tờ 2 (lần lại); thanh dọc sát cột chân (bắt đầu ở У31.3, kết thúc ở У34.12). ? chưa thấy nguồn: có thể là N30 (У30.8) — chỗ giao tại У31.4 không có chấm"
+У32,2,П3:5 Д4,a253 tờ 2 (lần lại); chấm trên dọc Д4
 У32,8,~М→РгК1,#157 tờ 2; tờ 3 ghi «У32/8(2) М→РгК1»
 У32,12,~М→РК1,#157 tờ 2; tờ 3 ghi «У32/12(2) М→РК1»
 У32,6,~М→СчД,#157 tờ 2; ? tờ 3 ghi «У32/6(?) М→СчД»
 У33,5,П3:67 Д5,#157 tờ 2; ? chấm nối
-У33,11,П3:53 3оп,#157 tờ 2; ? chấm nối
+У33,11,N93,"a253 tờ 2 (lần lại); thanh dọc sát cột chân (bắt đầu ở У31.3, kết thúc ở У34.12). ? chưa thấy nguồn: có thể là N30 (У30.8) — chỗ giao tại У31.4 không có chấm"
 У34,10,П3:53 3оп,#157 tờ 2; ? qua đường x≈632
-У33,4,НЕ ПРОСЛЕЖЕНО У33.4,"? #157 tờ 2 đi vào thanh dọc chung, chưa thấy chắc chấm nối/điểm xuất phát"
+У33,4,N93,"a253 tờ 2 (lần lại); thanh dọc sát cột chân (bắt đầu ở У31.3, kết thúc ở У34.12). ? chưa thấy nguồn: có thể là N30 (У30.8) — chỗ giao tại У31.4 không có chấm"
 У33,10,НЕ ПРОСЛЕЖЕНО У33.10,"? #157 tờ 2 đi vào thanh dọc chung, chưa thấy chắc chấm nối/điểm xuất phát"
-У33,1,НЕ ПРОСЛЕЖЕНО У33.1,"? #157 tờ 2 đi vào thanh dọc chung, chưa thấy chắc chấm nối/điểm xuất phát"
+У33,1,N94,a253 tờ 2 (lần lại)
 У33,2,НЕ ПРОСЛЕЖЕНО У33.2,"? #157 tờ 2 đi vào thanh dọc chung, chưa thấy chắc chấm nối/điểm xuất phát"
-У33,13,НЕ ПРОСЛЕЖЕНО У33.13,"? #157 tờ 2 đi vào thanh dọc chung, chưa thấy chắc chấm nối/điểm xuất phát"
+У33,13,N93,"a253 tờ 2 (lần lại); thanh dọc sát cột chân (bắt đầu ở У31.3, kết thúc ở У34.12). ? chưa thấy nguồn: có thể là N30 (У30.8) — chỗ giao tại У31.4 không có chấm"
 У33,6,~М→РК2,#157 tờ 2; tờ 3 ghi «У33/6(2) М→РК2»
 У33,8,~РгПр→М,#157 tờ 2; tờ 3 ghi «У33/8(2) РгПр→М»
 У33,12,НЕ ПРОСЛЕЖЕНО У33.12,? #157 tờ 2 ra đi phải
 У34,9,N29,#157 tờ 2
-У34,12,НЕ ПРОСЛЕЖЕНО У34.12,"? #157 tờ 2 đi vào thanh dọc chung, chưa thấy chắc chấm nối/điểm xuất phát"
+У34,12,N93,"a253 tờ 2 (lần lại); thanh dọc sát cột chân (bắt đầu ở У31.3, kết thúc ở У34.12). ? chưa thấy nguồn: có thể là N30 (У30.8) — chỗ giao tại У31.4 không có chấm"
 У34,13,НЕ ПРОСЛЕЖЕНО У34.13,"? #157 tờ 2 đi vào thanh dọc chung, chưa thấy chắc chấm nối/điểm xuất phát"
 У34,4,НЕ ПРОСЛЕЖЕНО У34.4,"? #157 tờ 2 đi vào thanh dọc chung, chưa thấy chắc chấm nối/điểm xuất phát"
 У34,5,НЕ ПРОСЛЕЖЕНО У34.5,"? #157 tờ 2 đi vào thanh dọc chung, chưa thấy chắc chấm nối/điểm xuất phát"
@@ -387,31 +387,31 @@ R9,2,П1:1 +5В | П2:27 +5В,#157 tờ 2; kéo lên «б»
 У5-4?,11,N43,"#158 tờ 3; ? nhãn đọc «У5-4» nhưng У5 là 136ЛР1 (У5-1/У5-2 dùng chân 13) — trùng chân, chưa định danh"
 У6,9,N43,#158 tờ 3
 У6,10,N43,#158 tờ 3
-У6,8,НЕ ПРОСЛЕЖЕНО У6.8,? đầu kia của N44 chưa lần được; #158 tờ 3
+У6,8,N44,#158 tờ 3
 У2,2,П1:27 Корпус | П2:1 Корпус | П3:1 Корпус,#158 tờ 3; vào nối «a»
 У2,4,П3:35 5рРгК1,#158 tờ 3
-У2,3,НЕ ПРОСЛЕЖЕНО У2.3,"? #158 tờ 3 chân chọn của bộ dồn kênh ЛР1, đi vào thanh dọc (ứng viên: У5.11 hoặc У6.8)"
-У2,5,НЕ ПРОСЛЕЖЕНО У2.5,"? #158 tờ 3 chân chọn của bộ dồn kênh ЛР1, đi vào thanh dọc (ứng viên: У5.11 hoặc У6.8)"
+У2,3,N43,a254 tờ 3 (lần lại)
+У2,5,N44,a254 tờ 3 (lần lại)
 У2,1,N42,#158 tờ 3
 У2,9,П3:36 6рРгК1,#158 tờ 3
-У2,13,НЕ ПРОСЛЕЖЕНО У2.13,"? #158 tờ 3 chân chọn của bộ dồn kênh ЛР1, đi vào thanh dọc (ứng viên: У5.11 hoặc У6.8)"
-У2,10,НЕ ПРОСЛЕЖЕНО У2.10,"? #158 tờ 3 chân chọn của bộ dồn kênh ЛР1, đi vào thanh dọc (ứng viên: У5.11 hoặc У6.8)"
+У2,13,N43,a254 tờ 3 (lần lại)
+У2,10,N44,a254 tờ 3 (lần lại)
 У2,6,N45,#158 tờ 3
 У2,8,N46,#158 tờ 3
 У4,1,N45,#158 tờ 3
 У4,2,N45,#158 tờ 3
-У4,3,НЕ ПРОСЛЕЖЕНО У4.3,? đầu kia của N47 chưa lần được; #158 tờ 3
+У4,3,N47,#158 tờ 3
 У4,4,N46,#158 tờ 3
 У4,5,N46,#158 tờ 3
-У4,6,НЕ ПРОСЛЕЖЕНО У4.6,? đầu kia của N48 chưa lần được; #158 tờ 3
-У10,1,НЕ ПРОСЛЕЖЕНО У10.1,"? #158 tờ 3 giải mã 2→4, đường dọc dày, chưa lần chắc từng chấm"
-У10,2,НЕ ПРОСЛЕЖЕНО У10.2,"? #158 tờ 3 giải mã 2→4, đường dọc dày, chưa lần chắc từng chấm"
-У10,4,НЕ ПРОСЛЕЖЕНО У10.4,"? #158 tờ 3 giải mã 2→4, đường dọc dày, chưa lần chắc từng chấm"
-У10,5,НЕ ПРОСЛЕЖЕНО У10.5,"? #158 tờ 3 giải mã 2→4, đường dọc dày, chưa lần chắc từng chấm"
-У10,9,НЕ ПРОСЛЕЖЕНО У10.9,"? #158 tờ 3 giải mã 2→4, đường dọc dày, chưa lần chắc từng chấm"
-У10,10,НЕ ПРОСЛЕЖЕНО У10.10,"? #158 tờ 3 giải mã 2→4, đường dọc dày, chưa lần chắc từng chấm"
-У10,12,НЕ ПРОСЛЕЖЕНО У10.12,"? #158 tờ 3 giải mã 2→4, đường dọc dày, chưa lần chắc từng chấm"
-У10,13,НЕ ПРОСЛЕЖЕНО У10.13,"? #158 tờ 3 giải mã 2→4, đường dọc dày, chưa lần chắc từng chấm"
+У4,6,N48,#158 tờ 3
+У10,1,N48,a254 tờ 3 (lần lại)
+У10,2,N47,a254 tờ 3 (lần lại)
+У10,4,N47,a254 tờ 3 (lần lại)
+У10,5,N46,a254 tờ 3 (lần lại)
+У10,9,N45,a254 tờ 3 (lần lại)
+У10,10,N48,a254 tờ 3 (lần lại)
+У10,12,N46,a254 tờ 3 (lần lại)
+У10,13,N45,a254 tờ 3 (lần lại)
 У10,3,N49,#158 tờ 3
 У10,6,N50,#158 tờ 3
 У10,8,N51,#158 tờ 3
@@ -430,28 +430,28 @@ R9,2,П1:1 +5В | П2:27 +5В,#157 tờ 2; kéo lên «б»
 У13,11,П2:35 К1,#158 tờ 3
 У3,2,П3:61 1рСчК,#158 tờ 3
 У3,4,П3:37 7рРгК1,#158 tờ 3
-У3,3,НЕ ПРОСЛЕЖЕНО У3.3,"? #158 tờ 3 chân chọn của bộ dồn kênh ЛР1, đi vào thanh dọc (ứng viên: У5.11 hoặc У6.8)"
-У3,5,НЕ ПРОСЛЕЖЕНО У3.5,"? #158 tờ 3 chân chọn của bộ dồn kênh ЛР1, đi vào thanh dọc (ứng viên: У5.11 hoặc У6.8)"
+У3,3,N43,a254 tờ 3 (lần lại)
+У3,5,N44,a254 tờ 3 (lần lại)
 У3,1,П3:62 2рСчК,#158 tờ 3
 У3,9,П3:38 8рРгК1,#158 tờ 3
-У3,13,НЕ ПРОСЛЕЖЕНО У3.13,"? #158 tờ 3 chân chọn của bộ dồn kênh ЛР1, đi vào thanh dọc (ứng viên: У5.11 hoặc У6.8)"
-У3,10,НЕ ПРОСЛЕЖЕНО У3.10,"? #158 tờ 3 chân chọn của bộ dồn kênh ЛР1, đi vào thanh dọc (ứng viên: У5.11 hoặc У6.8)"
+У3,13,N43,a254 tờ 3 (lần lại)
+У3,10,N44,a254 tờ 3 (lần lại)
 У3,6,N53,#158 tờ 3
 У3,8,N54,#158 tờ 3
 У4,9,N53,#158 tờ 3
 У4,10,N53,#158 tờ 3
-У4,8,НЕ ПРОСЛЕЖЕНО У4.8,? đầu kia của N55 chưa lần được; #158 tờ 3
+У4,8,N55,#158 tờ 3
 У4,12,N54,#158 tờ 3
 У4,13,N54,#158 tờ 3
-У4,11,НЕ ПРОСЛЕЖЕНО У4.11,? đầu kia của N56 chưa lần được; #158 tờ 3
-У11,1,НЕ ПРОСЛЕЖЕНО У11.1,"? #158 tờ 3 giải mã 2→4, chưa lần chắc từng chấm"
-У11,2,НЕ ПРОСЛЕЖЕНО У11.2,"? #158 tờ 3 giải mã 2→4, chưa lần chắc từng chấm"
-У11,4,НЕ ПРОСЛЕЖЕНО У11.4,"? #158 tờ 3 giải mã 2→4, chưa lần chắc từng chấm"
-У11,5,НЕ ПРОСЛЕЖЕНО У11.5,"? #158 tờ 3 giải mã 2→4, chưa lần chắc từng chấm"
-У11,9,НЕ ПРОСЛЕЖЕНО У11.9,"? #158 tờ 3 giải mã 2→4, chưa lần chắc từng chấm"
-У11,10,НЕ ПРОСЛЕЖЕНО У11.10,"? #158 tờ 3 giải mã 2→4, chưa lần chắc từng chấm"
-У11,12,НЕ ПРОСЛЕЖЕНО У11.12,"? #158 tờ 3 giải mã 2→4, chưa lần chắc từng chấm"
-У11,13,НЕ ПРОСЛЕЖЕНО У11.13,"? #158 tờ 3 giải mã 2→4, chưa lần chắc từng chấm"
+У4,11,N56,#158 tờ 3
+У11,1,N56,a254 tờ 3 (lần lại)
+У11,2,N55,a254 tờ 3 (lần lại)
+У11,4,N55,a254 tờ 3 (lần lại)
+У11,5,N54,a254 tờ 3 (lần lại)
+У11,9,N53,a254 tờ 3 (lần lại)
+У11,10,N56,a254 tờ 3 (lần lại)
+У11,12,N54,a254 tờ 3 (lần lại)
+У11,13,N53,a254 tờ 3 (lần lại)
 У11,3,N57,#158 tờ 3
 У11,6,N58,#158 tờ 3
 У11,8,N59,#158 tờ 3
@@ -470,12 +470,12 @@ R9,2,П1:1 +5В | П2:27 +5В,#157 tờ 2; kéo lên «б»
 У14,11,П3:31 Т1,#158 tờ 3
 У5,2,П3:63 3рСчК,#158 tờ 3
 У5,4,П3:39 9рРгК1,#158 tờ 3
-У5,3,НЕ ПРОСЛЕЖЕНО У5.3,"? #158 tờ 3 chân chọn của bộ dồn kênh ЛР1, đi vào thanh dọc (ứng viên: У5.11 hoặc У6.8)"
-У5,5,НЕ ПРОСЛЕЖЕНО У5.5,"? #158 tờ 3 chân chọn của bộ dồn kênh ЛР1, đi vào thanh dọc (ứng viên: У5.11 hoặc У6.8)"
+У5,3,N43,"a254 tờ 3 (lần lại); ? chân 13 theo dọc lệch nhẹ, suy theo quy luật У2/У3"
+У5,5,N44,a254 tờ 3 (lần lại); ? chân 9 theo quy luật У2/У3
 У5,1,П3:64 4рСчК,#158 tờ 3
 У5,10,П3:40 10рРгК1,#158 tờ 3
-У5,13,НЕ ПРОСЛЕЖЕНО У5.13,"? #158 tờ 3 chân chọn của bộ dồn kênh ЛР1, đi vào thanh dọc (ứng viên: У5.11 hoặc У6.8)"
-У5,9,НЕ ПРОСЛЕЖЕНО У5.9,"? #158 tờ 3 chân chọn của bộ dồn kênh ЛР1, đi vào thanh dọc (ứng viên: У5.11 hoặc У6.8)"
+У5,13,N43,"a254 tờ 3 (lần lại); ? chân 13 theo dọc lệch nhẹ, suy theo quy luật У2/У3"
+У5,9,N44,a254 tờ 3 (lần lại); ? chân 9 theo quy luật У2/У3
 У5,6,N61,#158 tờ 3
 У5,8,N62,#158 tờ 3
 У6,1,N61,#158 tờ 3
