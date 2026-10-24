@@ -51,8 +51,8 @@ connector,pin,e3_signal,e4_signal,status,note
 П2,3,Вход 5РК ТТП,ВХОД 5РК ТТЛ,NAME_MISMATCH,"Tên đọc từ Э3 khác Э4; giữ nguyên hai cách đọc, xem ric07_mota.md"
 П2,4,Вход 6РК ТТП,ВХОД 6РК ТТЛ,NAME_MISMATCH,"Tên đọc từ Э3 khác Э4; giữ nguyên hai cách đọc, xem ric07_mota.md"
 П2,5,Вход 7РК ТТП,ВХОД 7РК ТТЛ,NAME_MISMATCH,"Tên đọc từ Э3 khác Э4; giữ nguyên hai cách đọc, xem ric07_mota.md"
-П2,6,,0р.Рг.К2,ONLY_E4,Э3 không có nhánh chân linh kiện đọc chắc tới chân này; không suy từ Э4
-П2,7,,1р.Рг.К2,ONLY_E4,Э3 không có nhánh chân linh kiện đọc chắc tới chân này; không suy từ Э4
+П2,6,0рРгК2,0р.Рг.К2,MATCH,
+П2,7,1рРгК2,1р.Рг.К2,MATCH,
 П2,8,2рРгК2,2р.Рг.К2,MATCH,
 П2,9,3рРгК2,3р.Рг.К2,MATCH,
 П2,10,4рРгК2,4р.Рг.К2,MATCH,
@@ -105,12 +105,12 @@ connector,pin,e3_signal,e4_signal,status,note
 П3,10,,РМ КПА,ONLY_E4,Э3 không có nhánh chân linh kiện đọc chắc tới chân này; không suy từ Э4
 П3,15,,1t0,ONLY_E4,Э3 không có nhánh chân linh kiện đọc chắc tới chân này; không suy từ Э4
 П3,16,"+3,5В","+3,5В",MATCH,
-П3,17,,0⇒Рг.ПР,ONLY_E4,Э3 không có nhánh chân linh kiện đọc chắc tới chân này; không suy từ Э4
+П3,17,0 → РгПР,0⇒Рг.ПР,NAME_MISMATCH,"Tên đọc từ Э3 khác Э4; giữ nguyên hai cách đọc, xem ric07_mota.md"
 П3,18,Вход 7РК ТТП,ВХОД 7РК ТТЛ,NAME_MISMATCH,"Tên đọc từ Э3 khác Э4; giữ nguyên hai cách đọc, xem ric07_mota.md"
 П3,19,Вход 6РК ТТП,ВХОД 6РК ТТЛ,NAME_MISMATCH,"Tên đọc từ Э3 khác Э4; giữ nguyên hai cách đọc, xem ric07_mota.md"
 П3,20,Вход 5РК ТТП,ВХОД 5РК ТТЛ,NAME_MISMATCH,"Tên đọc từ Э3 khác Э4; giữ nguyên hai cách đọc, xem ric07_mota.md"
 П3,21,Вход 4РК ТТП,ВХОД 4РК ТТЛ,NAME_MISMATCH,"Tên đọc từ Э3 khác Э4; giữ nguyên hai cách đọc, xem ric07_mota.md"
-П3,22,,Рг.ПР⇒М,ONLY_E4,Э3 không có nhánh chân linh kiện đọc chắc tới chân này; không suy từ Э4
+П3,22,РгПР → М,Рг.ПР⇒М,NAME_MISMATCH,"Tên đọc từ Э3 khác Э4; giữ nguyên hai cách đọc, xem ric07_mota.md"
 П3,23,15рРгК1,15р.Рг.К1,MATCH,
 П3,24,14рРгК1,14р.Рг.К1,MATCH,
 П3,25,13рРгК1,13р.Рг.К1,MATCH,
