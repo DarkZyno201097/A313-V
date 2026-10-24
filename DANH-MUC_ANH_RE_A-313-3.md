@@ -47,9 +47,9 @@ hoặc khung tên tờ sơ đồ. Cột «Tấm» theo `KE-HOACH_KIEM-TRA_A-313-
 
 | Рис. | Tên (Nga) | Tấm | Sơ đồ Э3 (trang/ảnh) | ПЭ (trang/ảnh) |
 |---|---|---|---|---|
-| 5 | Устройство программного управления | Y4 | ⚠ chưa thấy tờ sơ đồ | #137–#139 (số trang chưa đọc được) |
-| 6 | Устройство управления обращением (ЕУ3.057.136 Э3, 3 tờ) | Y3 | 158–161 (#155–#158); tờ 1 chụp lại #231/#232 | 162–163 (#159, #160) |
-| 7 | Устройство управления преобразованием | Y6 | 164–166 (#161–#163); **167 thiếu** | 168–170 (#164–#166) |
+| 5 | Устройство программного управления (ЕУ3.057.138 Э3, 2 tờ) | Y4 | 158–159 (#155, #156); **chụp lại rõ 2026-10-24: `A313-3_CONTROL/Y4/RE_tr158_a250.jpg`, `RE_tr159_a251.jpg`** | #137–#139 (Приложение лист 22–24) |
+| 6 | Устройство управления обращением (ЕУ3.057.136 Э3, 3 tờ) | Y3 | tờ 1 #231/#232 (không số trang), tờ 2 tr.160 (#157), tờ 3 tr.161 (#158); **chụp lại rõ 2026-10-24: `A313-3_CONTROL/Y3/RE_trXXX_a252.jpg`, `RE_tr160_a253.jpg`, `RE_tr161_a254.jpg`** | 162–163 (#159, #160) |
+| 7 | Устройство управления преобразованием | Y6 | ~~164–166 (#161–#163); 167 thiếu~~ **THAY 2026-10-24: 3 ảnh chụp lại rõ nét đủ 3 lист** (`A313-3_CONTROL/Y6/E3_lis1-3_recapture-2026-10-24.jpg`…`lis3-3`), khung tên xác nhận "ЕУ3.057.140 л.N/3" | 168–170 (#164–#166) |
 | 8 | Устройство командного управления | Y5 | 171–172 (#167, #168) | 173–174 (#169, #170) |
 | 9 | Преобразователь цифровых сигналов | Y2 | 175–176 (#171, #172) | 177–178 (#173, #174) |
 | 10 | Формирователь ПК и магистрали | Y1 | 179 (#175) ⚠ + tờ #75 kẹp ở tr.79/80 | 181–183 (#176–#178) |
@@ -78,7 +78,7 @@ xác nhận chỗ «Hình 13?» trong kế hoạch.
 ## 3. Ảnh trùng, ảnh hỏng
 
 * Chụp lặp cùng trang: tr.52 (#46, #47) · tr.141 (#134, #135) · tr.197 (#195, #196, #199 — dùng #199) ·
-  рис.6 tờ 1 (#155 và #231, #232).
+  рис.6 tờ 1 (#231, #232). **Sửa 2026-10-24:** #155/#156 là рис.5 (Y4) tờ 1/2, không thuộc рис.6 (khớp ПЭ рис.5: R5–R8, C7, C8).
 * Nhóm trùng do dhash báo sai: G003 (#235 = tr.233, #241 = tr.239 — hai trang ПЭ khác nhau).
 * Không phải trang sách: #185 (đồng hồ), #194 (chụp hỏng), #197/#198 (ổ cắm 27 V), #240 (sàn).
 
@@ -120,10 +120,23 @@ xác nhận chỗ «Hình 13?» trong kế hoạch.
 
    Trang 24–135 trong danh sách thuộc phần TO (có thể là hình gấp); tr.167 là рис.7 tờ 3;
    tr.188–190 nghi là ПЭ рис.14. Đây là danh sách cần tìm/chụp, không gán các trang này cho ảnh `trXXX`.
-3. **Sơ đồ chưa thấy:** рис.5 (Y4) và рис.15 (Y9) — chỉ có ПЭ. Phụ lục рис.1–4 (nếu có) cần
+3. **Sơ đồ chưa thấy:** рис.15 (Y9) (рис.5/Y4 đã có — xem §2) — chỉ có ПЭ. Phụ lục рис.1–4 (nếu có) cần
    kiểm trên bản giấy. Chưa xác định trang: tên dự kiến `RE_trXXX_a2xx.jpg` (điền trang khi có bằng chứng).
 4. Đọc lại số trang: #75 (`RE_trXXX_a075.jpg`), #137 (`RE_trXXX_a137.jpg`), #138 (`RE_trXXX_a138.jpg`),
    #139 (`RE_trXXX_a139.jpg`), #181 (`RE_trXXX_a181.jpg`), #184 (`RE_trXXX_a184.jpg`),
    #187 (`RE_trXXX_a187.heic`), #188 (`RE_trXXX_a188.heic`), #222 (`RE_trXXX_a222.jpg`),
    #231 (`RE_trXXX_a231.heic`), #246 (`RE_trXXX_a246.heic`), #247 (`RE_trXXX_a247.jpg`),
    #249 (`RE_trXXX_a249.jpg`).
+
+## 5. Ảnh chụp bổ sung 2026-10-24 (lưu trong `A313-3_CONTROL/`, không chép vào thư mục RE)
+
+| Số | File | Hình / tờ | Thay cho |
+|---|---|---|---|
+| a250 | `A313-3_CONTROL/Y4/RE_tr158_a250.jpg` | рис.5 (Y4) tờ 1/2 | #155 |
+| a251 | `A313-3_CONTROL/Y4/RE_tr159_a251.jpg` | рис.5 (Y4) tờ 2/2 — ? số viết tay đọc giống «189» | #156 |
+| a252 | `A313-3_CONTROL/Y3/RE_trXXX_a252.jpg` | рис.6 (Y3) tờ 1/3 | #231, #232 |
+| a253 | `A313-3_CONTROL/Y3/RE_tr160_a253.jpg` | рис.6 (Y3) tờ 2/3 | #157 |
+| a254 | `A313-3_CONTROL/Y3/RE_tr161_a254.jpg` | рис.6 (Y3) tờ 3/3 | #158 |
+
+Ảnh chụp phẳng, đủ mép và khung, độ phân giải 1926×2568 (a252: 1536×2048). Bản cũ #155–#158, #231, #232 vẫn giữ
+trong thư mục RE (chỉ xoá bản sao trong `A313-3_CONTROL/Y3/`).

@@ -5,7 +5,10 @@ Dữ liệu sinh lại bằng `ric06_gen.py` (bản đọc tay mã hoá trong sc
 `ric06_net.csv`. Kiểm: `e3_check.py` (рис.6 ghi ở KNOWN), `e3_vs_e4.py 6 У3` → `ric06_vs_e4.csv`.
 
 **Trạng thái: CHÉP MỘT PHẦN.** Netlist chưa đủ tin cậy để đấu dây hay làm đồ gá. 818 chân, trong đó
-166 chân «НЕ ПРОСЛЕЖЕНО» (thấy chân trên Э3 nhưng chưa lần chắc đường nối); 213 dòng có `?`.
+95 chân «НЕ ПРОСЛЕЖЕНО» (thấy chân trên Э3 nhưng chưa lần chắc đường nối); 155 dòng có `?`.
+**Cập nhật 2026-10-24:** lần lại trên ảnh chụp mới a253 (tờ 2) và a254 (tờ 3) — trước đó 166 / 213. Đã chốt: thanh S/C/R
+của trigger У16–У18 (S ← У8-2.6, C ← П3/4 1t19, R ← П3/3 1t16); thanh 0рСчК/~0рСчК của У19/У20; chân chọn X1 = У5-4.11,
+X2 = У6-3.8 của các bộ dồn kênh У2/У3/У5; bộ giải mã У10/У11. Khối ghi đè nằm ở cuối `ric06_gen.py` («Lần lại trên ảnh chụp mới»).
 
 ## 1. Nguồn và định danh tờ
 
@@ -16,7 +19,8 @@ Dữ liệu sinh lại bằng `ric06_gen.py` (bản đọc tay mã hoá trong sc
 | #158 (`RE_tr161_a158.jpg`, trang tay 161) | **Tờ 3**: К1–К4, Т1–Т4, t1–t4, R1–R4 + РА АЦИ, КША7–КША15 | «Начало см. на листе 2»; R1–R4 khớp ПЭ |
 | #159, #160 | ПЭ trang 162, 163 | Tiêu đề «…устройства управления обращением (рис.6)» |
 
-**Nghi vấn về danh mục ảnh:** `DANH-MUC_ANH_RE_A-313-3.md` §2 xếp #155–#158 cho рис.6. Nhưng #155 có C7, C8,
+**Đã giải quyết 2026-10-24:** #155/#156 là рис.5 (Y4), xem `ric05_mota.md`. Ghi chú cũ:
+`DANH-MUC_ANH_RE_A-313-3.md` §2 xếp #155–#158 cho рис.6. Nhưng #155 có C7, C8,
 R11 và #156 có R5–R8, «Пр1» — **ПЭ рис.6 không có R5–R8, C7, C8**. Vậy #155/#156 nhiều khả năng **không thuộc
 рис.6** (có thể là рис.7 hoặc hình khác). Chưa sửa danh mục; cần người dùng đối chiếu bản giấy.
 
