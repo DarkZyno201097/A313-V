@@ -26,3 +26,8 @@ Trạng thái 2026-10-24: ĐÃ CHÉP PARTIAL — xem
 / `ric07_conn.csv` (173 chân П1/П2/П3) / `ric07_mota.md`. Kiểm chéo Э3↔Э4
 (`ric07_vs_e4.csv`): 139 chân Э3/157 chân Э4, khớp 103, lệch tên 36 (phần lớn
 do viết tắt khác nhau, không phải lỗi thật), chỉ-Э4 18. Chi tiết: PROJECT_HANDOFF.md T06.
+
+Cập nhật 2026-10-24 (soát lại): Codex đọc lại 196 dòng `?` → 23 đọc chắc, đã áp
+(ric07_soat_apply.py); còn 175 dòng `?`. e3_vs_e4 7 У6: 105 khớp / 38 lệch tên / 14 chỉ-Э4.
+Chưa có ПЭ рис.7 (77 linh kiện chưa có trị số). a255, a257: chỉ đổi thẻ EXIF Orientation để
+hiển thị đứng, điểm ảnh không đổi.

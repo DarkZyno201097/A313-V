@@ -36,3 +36,14 @@
 - BOM có cả khung chức năng và IC bên trong: không cộng toàn bộ qty thành tổng số linh kiện.
 - Chưa xác nhận ký hiệu nào là gạch bỏ thật; các vết mờ/giao dây không được tự gán là “gạch bỏ trên bản vẽ”.
 - Không đối chiếu Э4, không dùng nguồn ngoài ba ảnh, không kiểm điện/hardware; mọi hàng có ? phải đọc lại trước khi dùng làm dữ liệu kết nối.
+
+## Cập nhật 2026-10-24 — soát lại (Codex đọc ảnh, Claude áp)
+- Codex soát 196 dòng có `?` của ric07_net.csv trên ba ảnh a255–a257 → `ric07_soat_raw.csv`: 23 `ro`, 173 `van_chua_ro`
+  (lý do: mờ, chữ nhỏ, nếp gấp, dây giao dày; chia đều л.1 60, л.2 50, л.3 63).
+- `ric07_soat_apply.py` áp 23 dòng `ro` (chạy lại không đổi kết quả): 19 dòng netlist + 4 ô bảng đầu nối
+  (П2/6 «0рРгК2», П2/7 «1рРгК2», П3/17 «0 → РгПР», П3/22 «РгПР → М»). Net gộp mới không có tên rõ đặt `SOAT:…`.
+- Netlist còn 175 dòng `?`. `e3_vs_e4.py 7 У6`: 105 khớp / 38 lệch tên / 0 chỉ-Э3 / 14 chỉ-Э4 (trước 103/36/0/18).
+  Kiểm chéo: 4 ô bảng mới đọc đều khớp Э4 (П3/17, П3/22 chỉ khác cách viết `→`/`⇒`).
+- **Chưa vào `e3_check.py`:** 14 dòng `ref = ?` và 4 dòng `pin = ?` làm trùng khoá (ref, chân) — cần định danh trước.
+- **Chưa có trị số linh kiện:** cả 77 dòng BOM `name = ?` vì chưa có ảnh ПЭ рис.7 (cần chụp bổ sung).
+- Đề xuất: chụp lại л.2, л.3 độ phân giải cao hơn (a256/a257 chỉ 1536×2048) và chụp ПЭ рис.7.
