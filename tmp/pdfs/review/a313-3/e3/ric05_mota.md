@@ -1,10 +1,11 @@
 # Рис.5 — Устройство программного управления (У4) của A-313-3, ЕУ3.057.138 Э3
 
 Người quét: Claude, 2026-10-24. Dữ liệu sinh bằng `ric05_gen.py` → `ric05_bom.csv`, `ric05_conn.csv`;
-`ric05_net.csv` **chỉ có dòng tiêu đề** (netlist chưa chép). Đối chiếu: `e3_vs_e4.py 5 У4` → `ric05_vs_e4.csv`.
+`ric05_net.csv`. Đối chiếu: `e3_vs_e4.py 5 У4` → `ric05_vs_e4.csv`; `e3_check.py` (ngoại lệ KNOWN: C3–C8).
 
-**Trạng thái: ĐÃ QUÉT (danh mục + bảng đầu nối), CHƯA CHÉP NETLIST.** Chưa đưa рис.5 vào `e3_check.py`
-(checker yêu cầu mọi ref của BOM có trong netlist).
+**Trạng thái (2026-10-24): CHÉP MỘT PHẦN — 794 chân, 207 «НЕ ПРОСЛЕЖЕНО».** Tờ 1 do Claude chép (415 chân kể cả
+chân 7/14); tờ 2 do Codex đọc ảnh a251 → `ric05_to2_raw.csv` (422 dòng, 126 dòng `?`), Claude ghép bằng union-find
+trong `ric05_gen.py`. Chưa chép: C3–C8 (tờ 1). Netlist chưa đủ tin cậy để đấu dây.
 
 ## 1. Nguồn và định danh
 
@@ -43,8 +44,16 @@ to ảnh a250 xác nhận cách đọc Э3, giữ cả hai nguồn:
 | П3/41 | gạch xoá «СчК→М» | «Сч.К⇒М» | như рис.6 П3/30 |
 | П3/42 | «18рСчК» | trống | |
 
+## 3a. Kiểm chéo hai tờ
+
+Nhãn chuyển tờ trên tờ 1 ghi chân nguồn + tên tín hiệu; tên mà Codex lần ra ở tờ 2 khớp 9/9:
+«У28/6(2) 7рСчК» = П1/26 7рСчК · «У26/8(2) 6рСчК» = П1/25 · «У26/6(2) 5рСчК» = П1/24 · «У28/8(2) 8рСчК» = П1/28 ·
+«У7/6(2) 10рСчК» = П1/30 · «У9/6(2)» = П1/31 11рСчК · «У9/8(2)» = П1/32 12рСчК · «У38/6(2) строб1-1» = П2/30 ·
+«У36/8(2) строб1» = net 13 chân. Phần tử gạch bỏ (Codex): У8, У22, У24, У27 (4 phần tử mỗi vỏ), R9, R10 — **trùng
+đúng các ký hiệu ПЭ không có** ⇒ bản vẽ và ПЭ nhất quán.
+
 ## 4. Việc tiếp theo
 
-1. Chép netlist 2 tờ (ảnh a250/a251 đủ nét; chia ô 3×4, phóng 1,7×). Ghi vào `ric05_gen.py`, rồi thêm `5` vào
-   tuple `e3_check.py`.
+1. Lần 207 chân «НЕ ПРОСЛЕЖЕНО» (chủ yếu thanh dọc bộ giải mã tờ 1 và chốt RS У59/У60) và C3–C8.
+2. Đọc nốt ghi chú 1–2 (chân 7/14 nối «a» hay «б» — chữ bị cắt ở mép ảnh a250).
 2. Xác định số trang thật của a251 (159 hay 189) trên bản giấy.

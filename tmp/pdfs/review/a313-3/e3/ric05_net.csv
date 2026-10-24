@@ -7,15 +7,15 @@ R11,2,П1:49 Запрет ВрМ,a250 tờ 1
 У39,5,П2:7 1t-4,a250 tờ 1; nhãn «У58/3 1t-4»
 У39,12,П2:7 1t-4,a250 tờ 1; nhãn «У58/3 1t-4»
 У39,10,П3:15 0оп,a250 tờ 1; nhãn «У46/6 0оп»
-У39,4,У38.6,"a250 tờ 1; ? nhãn «У38/6(2)», nét từ chân 4 vòng xuống chân 13"
-У39,13,У38.6,"a250 tờ 1; ? nhãn «У38/6(2)», nét từ chân 4 vòng xuống chân 13"
+У39,4,П2:30 строб1-1,"a250 tờ 1; ? nhãn «У38/6(2)», nét từ chân 4 vòng xuống chân 13; net tờ 1 «У38.6» = «П2:30 строб1-1» ở tờ 2"
+У39,13,П2:30 строб1-1,"a250 tờ 1; ? nhãn «У38/6(2)», nét từ chân 4 vòng xuống chân 13; net tờ 1 «У38.6» = «П2:30 строб1-1» ở tờ 2"
 У39,6,П1:3 ВрМ1,a250 tờ 1
 У39,8,П1:2 ВрМ2,a250 tờ 1
-У40,13,У28.6,a250 tờ 1; nhãn «У28/6(2) 7рСчК»
+У40,13,П1:26 7рСчК,a250 tờ 1; nhãn «У28/6(2) 7рСчК»; net tờ 1 «У28.6» = «П1:26 7рСчК» ở tờ 2
 У40,1,НЕ ПРОСЛЕЖЕНО У40.1,"? a250 tờ 1 vào thanh dọc chung của bộ giải mã, chưa lần chắc chấm nối"
 У40,2,НЕ ПРОСЛЕЖЕНО У40.2,"? a250 tờ 1 vào thanh dọc chung của bộ giải mã, chưa lần chắc chấm nối"
 У40,12,N1,a250 tờ 1
-У40,4,У26.8,a250 tờ 1; nhãn «У26/8(2) 6рСчК»
+У40,4,П1:25 6рСчК,a250 tờ 1; nhãn «У26/8(2) 6рСчК»; net tờ 1 «У26.8» = «П1:25 6рСчК» ở tờ 2
 У40,3,НЕ ПРОСЛЕЖЕНО У40.3,"? a250 tờ 1 vào thanh dọc chung của bộ giải mã, chưa lần chắc chấm nối"
 У40,5,НЕ ПРОСЛЕЖЕНО У40.5,"? a250 tờ 1 vào thanh dọc chung của bộ giải mã, chưa lần chắc chấm nối"
 У40,6,N2,a250 tờ 1
@@ -23,7 +23,7 @@ R11,2,П1:49 Запрет ВрМ,a250 tờ 1
 У41,2,НЕ ПРОСЛЕЖЕНО У41.2,"? a250 tờ 1 vào thanh dọc chung của bộ giải mã, chưa lần chắc chấm nối"
 У41,13,НЕ ПРОСЛЕЖЕНО У41.13,"? a250 tờ 1 vào thanh dọc chung của bộ giải mã, chưa lần chắc chấm nối"
 У41,12,N3,a250 tờ 1
-У41,3,У26.6,a250 tờ 1; nhãn «У26/6(2) 5рСчК»
+У41,3,П1:24 5рСчК,a250 tờ 1; nhãn «У26/6(2) 5рСчК»; net tờ 1 «У26.6» = «П1:24 5рСчК» ở tờ 2
 У41,4,НЕ ПРОСЛЕЖЕНО У41.4,"? a250 tờ 1 vào thanh dọc chung của bộ giải mã, chưa lần chắc chấm nối"
 У41,5,НЕ ПРОСЛЕЖЕНО У41.5,"? a250 tờ 1 vào thanh dọc chung của bộ giải mã, chưa lần chắc chấm nối"
 У41,6,НЕ ПРОСЛЕЖЕНО У41.6,"? a250 tờ 1 đầu ra ghi số «5» trên sơ đồ, đi tới У46.12/13"
@@ -76,7 +76,7 @@ R11,2,П1:49 Запрет ВрМ,a250 tờ 1
 У50,1,НЕ ПРОСЛЕЖЕНО У50.1,"? a250 tờ 1 133ЛР1: nhãn «У39/6(2) строб1» mờ, đầu ra hai phần tử cùng ghi «8»"
 У50,13,НЕ ПРОСЛЕЖЕНО У50.13,"? a250 tờ 1 133ЛР1: nhãn «У39/6(2) строб1» mờ, đầu ra hai phần tử cùng ghi «8»"
 У50,8,НЕ ПРОСЛЕЖЕНО У50.8,"? a250 tờ 1 133ЛР1: nhãn «У39/6(2) строб1» mờ, đầu ra hai phần tử cùng ghi «8»"
-У43,1,У28.8,a250 tờ 1; nhãn «У28/8(2) 8рСчК»
+У43,1,П1:28 8рСчК,a250 tờ 1; nhãn «У28/8(2) 8рСчК»; net tờ 1 «У28.8» = «П1:28 8рСчК» ở tờ 2
 У43,2,НЕ ПРОСЛЕЖЕНО У43.2,"? a250 tờ 1 vào thanh dọc chung của bộ giải mã, chưa lần chắc chấm nối"
 У43,13,НЕ ПРОСЛЕЖЕНО У43.13,"? a250 tờ 1 vào thanh dọc chung của bộ giải mã, chưa lần chắc chấm nối"
 У43,12,N9,a250 tờ 1; còn nhánh ra nhãn «У34/2(2)»
@@ -98,7 +98,7 @@ R11,2,П1:49 Запрет ВрМ,a250 tờ 1
 У44,2,НЕ ПРОСЛЕЖЕНО У44.2,"? a250 tờ 1 vào thanh dọc chung của bộ giải mã, chưa lần chắc chấm nối"
 У44,13,НЕ ПРОСЛЕЖЕНО У44.13,"? a250 tờ 1 vào thanh dọc chung của bộ giải mã, chưa lần chắc chấm nối"
 У44,12,N12,a250 tờ 1
-У44,5,У7.6,a250 tờ 1; ? nhãn «У7/6(2) 10рСчК»
+У44,5,П1:30 10рСчК,a250 tờ 1; ? nhãn «У7/6(2) 10рСчК»; net tờ 1 «У7.6» = «П1:30 10рСчК» ở tờ 2
 У44,3,НЕ ПРОСЛЕЖЕНО У44.3,"? a250 tờ 1 vào thanh dọc chung của bộ giải mã, chưa lần chắc chấm nối"
 У44,4,НЕ ПРОСЛЕЖЕНО У44.4,"? a250 tờ 1 vào thanh dọc chung của bộ giải mã, chưa lần chắc chấm nối"
 У44,6,N13,a250 tờ 1
@@ -123,14 +123,14 @@ R11,2,П1:49 Запрет ВрМ,a250 tờ 1
 У57,11,П3:4 Д5,a250 tờ 1
 У53,13,П3:65 Д1,a250 tờ 1
 У52,2,П3:64 Д0,a250 tờ 1
-У45,1,У9.8,a250 tờ 1; ? nhãn «У9/8(2)»
+У45,1,П1:32 12рСчК,a250 tờ 1; ? nhãn «У9/8(2)»; net tờ 1 «У9.8» = «П1:32 12рСчК» ở tờ 2
 У45,2,НЕ ПРОСЛЕЖЕНО У45.2,? a250 tờ 1 vào từ nét vòng phía dưới
 У45,3,N15,a250 tờ 1
 У45,4,N15,a250 tờ 1
 У45,5,НЕ ПРОСЛЕЖЕНО У45.5,? a250 tờ 1 nét đi xuống
 У45,6,П1:10 2t4,a250 tờ 1
 У57,9,П1:10 2t4,a250 tờ 1; nhãn «У57/9 2t4»
-У45,10,У9.6,a250 tờ 1; ? nhãn «У9/6(2)»
+У45,10,П1:31 11рСчК,a250 tờ 1; ? nhãn «У9/6(2)»; net tờ 1 «У9.6» = «П1:31 11рСчК» ở tờ 2
 У45,9,НЕ ПРОСЛЕЖЕНО У45.9,? a250 tờ 1 vào thanh dọc
 У45,8,N16,a250 tờ 1
 У45,12,НЕ ПРОСЛЕЖЕНО У45.12,? a250 tờ 1 vào thanh dọc
@@ -292,6 +292,385 @@ R11,2,П1:49 Запрет ВрМ,a250 tờ 1
 У57,10,НЕ ПРОСЛЕЖЕНО У57.10,"? a250 tờ 1 133ЛА4 vùng dưới phải, chưa lần chắc"
 У57,12,НЕ ПРОСЛЕЖЕНО У57.12,"? a250 tờ 1 133ЛА4 vùng dưới phải, chưa lần chắc"
 У57,13,НЕ ПРОСЛЕЖЕНО У57.13,"? a250 tờ 1 133ЛА4 vùng dưới phải, chưa lần chắc"
+У6,11,M2_1,a251 tờ 2 (Codex đọc)
+R1,2,M2_1,a251 tờ 2 (Codex đọc)
+C1,1,M2_1,a251 tờ 2 (Codex đọc)
+У6,9,M2_2,a251 tờ 2 (Codex đọc)
+У6,10,M2_2,a251 tờ 2 (Codex đọc)
+R2,1,M2_2,a251 tờ 2 (Codex đọc)
+C1,2,M2_2,a251 tờ 2 (Codex đọc)
+C2,1,M2_2,a251 tờ 2 (Codex đọc)
+У15,8,M2_3,a251 tờ 2 (Codex đọc)
+R12,1,M2_3,a251 tờ 2 (Codex đọc)
+R12,2,П1:27 Корпус | П2:1 Корпус | П3:70 Корпус,a251 tờ 2 (Codex đọc)
+R3,2,П1:27 Корпус | П2:1 Корпус | П3:70 Корпус,a251 tờ 2 (Codex đọc)
+R4,2,П1:27 Корпус | П2:1 Корпус | П3:70 Корпус,a251 tờ 2 (Codex đọc)
+R5,?,П1:7 80кГц-2,a251 tờ 2 (Codex đọc); nhãn «П1/7(1) 80кГц-2»; ? dưới cột phải; không đọc thấy số chân ở đầu này.
+R6,?,П1:5 80кГц-1,a251 tờ 2 (Codex đọc); nhãn «П1/5(1) 80кГц-1»; ? dưới cột phải; không đọc thấy số chân ở đầu này.
+У33,8,M2_4,a251 tờ 2 (Codex đọc)
+R3,1,M2_4,a251 tờ 2 (Codex đọc)
+R5,1,M2_4,a251 tờ 2 (Codex đọc)
+R6,1,M2_4,a251 tờ 2 (Codex đọc)
+R7,1,M2_4,a251 tờ 2 (Codex đọc)
+R7,?,П1:9 80кГц ЦИ,a251 tờ 2 (Codex đọc); nhãn «П1/9(1) 80кГц ЦИ»; ? dưới cột phải; không đọc thấy số chân ở đầu này.
+У35,8,M2_5,a251 tờ 2 (Codex đọc)
+R4,1,M2_5,a251 tờ 2 (Codex đọc)
+R8,1,M2_5,a251 tờ 2 (Codex đọc)
+R8,?,П1:14 СИ ЦИ,a251 tờ 2 (Codex đọc); nhãn «П1/14(1) СИ ЦИ»; ? dưới cột phải; không đọc thấy số chân ở đầu này.
+У6,12,M2_6,a251 tờ 2 (Codex đọc)
+У6,13,M2_6,a251 tờ 2 (Codex đọc)
+R1,1,M2_6,a251 tờ 2 (Codex đọc)
+Пэ1,1,M2_6,a251 tờ 2 (Codex đọc)
+У6,8,M2_7,a251 tờ 2 (Codex đọc)
+У6,1,M2_7,a251 tờ 2 (Codex đọc)
+У6,2,M2_7,a251 tờ 2 (Codex đọc)
+R2,2,M2_7,a251 tờ 2 (Codex đọc)
+C2,2,M2_7,a251 tờ 2 (Codex đọc)
+Пэ1,2,M2_7,a251 tờ 2 (Codex đọc)
+У1,1,НЕ ПРОСЛЕЖЕНО У1.1,? a251 tờ 2 (Codex đọc); ? cột trái; chưa lần chắc đường dây hoặc nhãn tại đầu mút.
+У1,10,НЕ ПРОСЛЕЖЕНО У1.10,? a251 tờ 2 (Codex đọc); ? cột trái; chưa lần chắc đường dây hoặc nhãn tại đầu mút.
+У1,12,НЕ ПРОСЛЕЖЕНО У1.12,? a251 tờ 2 (Codex đọc); ? cột trái; chưa lần chắc đường dây hoặc nhãn tại đầu mút.
+У1,13,НЕ ПРОСЛЕЖЕНО У1.13,? a251 tờ 2 (Codex đọc); ? cột trái; chưa lần chắc đường dây hoặc nhãn tại đầu mút.
+У1,2,НЕ ПРОСЛЕЖЕНО У1.2,? a251 tờ 2 (Codex đọc); ? cột trái; chưa lần chắc đường dây hoặc nhãn tại đầu mút.
+У1,4,НЕ ПРОСЛЕЖЕНО У1.4,? a251 tờ 2 (Codex đọc); ? cột trái; chưa lần chắc đường dây hoặc nhãn tại đầu mút.
+У1,6,НЕ ПРОСЛЕЖЕНО У1.6,? a251 tờ 2 (Codex đọc); ? cột trái; chưa lần chắc đường dây hoặc nhãn tại đầu mút.
+У1,8,НЕ ПРОСЛЕЖЕНО У1.8,? a251 tờ 2 (Codex đọc); ? cột trái; chưa lần chắc đường dây hoặc nhãn tại đầu mút.
+У3,5,M2_8,a251 tờ 2 (Codex đọc)
+У3,11,M2_8,a251 tờ 2 (Codex đọc)
+У10,9,M2_8,a251 tờ 2 (Codex đọc)
+У10,10,M2_8,a251 tờ 2 (Codex đọc)
+У10,12,M2_9,a251 tờ 2 (Codex đọc)
+У10,13,M2_9,a251 tờ 2 (Codex đọc)
+У3,9,M2_10,a251 tờ 2 (Codex đọc)
+У10,1,M2_10,a251 tờ 2 (Codex đọc)
+У10,2,M2_10,a251 tờ 2 (Codex đọc)
+У10,3,M2_11,a251 tờ 2 (Codex đọc)
+У10,4,M2_11,a251 tờ 2 (Codex đọc)
+У10,5,M2_11,a251 tờ 2 (Codex đọc)
+У16,1,M2_11,a251 tờ 2 (Codex đọc)
+У32,2,M2_11,a251 tờ 2 (Codex đọc)
+У5,5,M2_12,a251 tờ 2 (Codex đọc)
+У5,11,M2_12,a251 tờ 2 (Codex đọc)
+У11,12,M2_12,a251 tờ 2 (Codex đọc)
+У11,13,M2_12,a251 tờ 2 (Codex đọc)
+У4,5,M2_13,a251 tờ 2 (Codex đọc)
+У4,11,M2_13,a251 tờ 2 (Codex đọc)
+У11,1,M2_13,a251 tờ 2 (Codex đọc)
+У11,2,M2_13,a251 tờ 2 (Codex đọc)
+У11,3,M2_14,a251 tờ 2 (Codex đọc)
+У11,4,M2_14,a251 tờ 2 (Codex đọc)
+У11,5,M2_14,a251 tờ 2 (Codex đọc)
+У29,1,M2_14,a251 tờ 2 (Codex đọc)
+У4,9,M2_15,a251 tờ 2 (Codex đọc)
+У12,1,M2_15,a251 tờ 2 (Codex đọc)
+У12,2,M2_15,a251 tờ 2 (Codex đọc)
+У11,9,M2_16,a251 tờ 2 (Codex đọc)
+У11,10,M2_16,a251 tờ 2 (Codex đọc)
+У12,3,M2_16,a251 tờ 2 (Codex đọc)
+У29,13,M2_16,a251 tờ 2 (Codex đọc)
+У5,9,M2_17,a251 tờ 2 (Codex đọc)
+У12,4,M2_17,a251 tờ 2 (Codex đọc)
+У12,5,M2_17,a251 tờ 2 (Codex đọc)
+У12,6,П3:42 18рСчК,a251 tờ 2 (Codex đọc); nhãn «П3/42(1) 18рСчК»
+У13,2,НЕ ПРОСЛЕЖЕНО У13.2,? a251 tờ 2 (Codex đọc); ? cột trái; chưa lần chắc đường dây hoặc nhãn tại đầu mút.
+У13,3,НЕ ПРОСЛЕЖЕНО У13.3,? a251 tờ 2 (Codex đọc); ? cột trái; chưa lần chắc đường dây hoặc nhãn tại đầu mút.
+У13,5,НЕ ПРОСЛЕЖЕНО У13.5,? a251 tờ 2 (Codex đọc); ? cột trái; chưa lần chắc đường dây hoặc nhãn tại đầu mút.
+У14,1,M2_18,a251 tờ 2 (Codex đọc)
+У14,2,M2_18,a251 tờ 2 (Codex đọc)
+У14,3,M2_19,a251 tờ 2 (Codex đọc)
+У14,4,M2_19,a251 tờ 2 (Codex đọc)
+У13,4,M2_20,a251 tờ 2 (Codex đọc)
+У14,5,M2_20,a251 tờ 2 (Codex đọc)
+У14,6,НЕ ПРОСЛЕЖЕНО У14.6,? a251 tờ 2 (Codex đọc); ? cột trái; chưa lần chắc đường dây hoặc nhãn tại đầu mút.
+У14,8,НЕ ПРОСЛЕЖЕНО У14.8,? a251 tờ 2 (Codex đọc); ? cột trái; chưa lần chắc đường dây hoặc nhãn tại đầu mút.
+У13,6,M2_21,a251 tờ 2 (Codex đọc)
+У14,10,M2_21,a251 tờ 2 (Codex đọc)
+У14,9,M2_21,a251 tờ 2 (Codex đọc)
+У16,10,НЕ ПРОСЛЕЖЕНО У16.10,? a251 tờ 2 (Codex đọc); ? cột giữa; chưa lần chắc đường dây hoặc nhãn tại đầu mút.
+У16,11,НЕ ПРОСЛЕЖЕНО У16.11,? a251 tờ 2 (Codex đọc); ? cột giữa; chưa lần chắc đường dây hoặc nhãn tại đầu mút.
+У16,12,НЕ ПРОСЛЕЖЕНО У16.12,? a251 tờ 2 (Codex đọc); ? cột giữa; chưa lần chắc đường dây hoặc nhãn tại đầu mút.
+У16,13,НЕ ПРОСЛЕЖЕНО У16.13,? a251 tờ 2 (Codex đọc); ? cột giữa; chưa lần chắc đường dây hoặc nhãn tại đầu mút.
+У16,2,НЕ ПРОСЛЕЖЕНО У16.2,? a251 tờ 2 (Codex đọc); ? cột giữa; chưa lần chắc đường dây hoặc nhãn tại đầu mút.
+У16,4,НЕ ПРОСЛЕЖЕНО У16.4,? a251 tờ 2 (Codex đọc); ? cột giữa; chưa lần chắc đường dây hoặc nhãn tại đầu mút.
+У17,1,НЕ ПРОСЛЕЖЕНО У17.1,? a251 tờ 2 (Codex đọc); ? cột giữa; chưa lần chắc đường dây hoặc nhãn tại đầu mút.
+У17,10,НЕ ПРОСЛЕЖЕНО У17.10,? a251 tờ 2 (Codex đọc); ? cột giữa; chưa lần chắc đường dây hoặc nhãn tại đầu mút.
+У17,12,НЕ ПРОСЛЕЖЕНО У17.12,? a251 tờ 2 (Codex đọc); ? cột giữa; chưa lần chắc đường dây hoặc nhãn tại đầu mút.
+У17,13,НЕ ПРОСЛЕЖЕНО У17.13,? a251 tờ 2 (Codex đọc); ? cột giữa; chưa lần chắc đường dây hoặc nhãn tại đầu mút.
+У17,2,НЕ ПРОСЛЕЖЕНО У17.2,? a251 tờ 2 (Codex đọc); ? cột giữa; chưa lần chắc đường dây hoặc nhãn tại đầu mút.
+У16,8,M2_22,a251 tờ 2 (Codex đọc)
+У17,3,M2_22,a251 tờ 2 (Codex đọc)
+У17,4,НЕ ПРОСЛЕЖЕНО У17.4,? a251 tờ 2 (Codex đọc); ? cột giữa; chưa lần chắc đường dây hoặc nhãn tại đầu mút.
+У17,6,НЕ ПРОСЛЕЖЕНО У17.6,? a251 tờ 2 (Codex đọc); ? cột giữa; chưa lần chắc đường dây hoặc nhãn tại đầu mút.
+У18,1,НЕ ПРОСЛЕЖЕНО У18.1,? a251 tờ 2 (Codex đọc); ? cột giữa; chưa lần chắc đường dây hoặc nhãn tại đầu mút.
+У18,10,НЕ ПРОСЛЕЖЕНО У18.10,? a251 tờ 2 (Codex đọc); ? cột giữa; chưa lần chắc đường dây hoặc nhãn tại đầu mút.
+У18,12,НЕ ПРОСЛЕЖЕНО У18.12,? a251 tờ 2 (Codex đọc); ? cột giữa; chưa lần chắc đường dây hoặc nhãn tại đầu mút.
+У18,13,НЕ ПРОСЛЕЖЕНО У18.13,? a251 tờ 2 (Codex đọc); ? cột giữa; chưa lần chắc đường dây hoặc nhãn tại đầu mút.
+У18,2,НЕ ПРОСЛЕЖЕНО У18.2,? a251 tờ 2 (Codex đọc); ? cột giữa; chưa lần chắc đường dây hoặc nhãn tại đầu mút.
+У17,8,M2_23,a251 tờ 2 (Codex đọc)
+У18,3,M2_23,a251 tờ 2 (Codex đọc)
+У18,4,НЕ ПРОСЛЕЖЕНО У18.4,? a251 tờ 2 (Codex đọc); ? cột giữa; chưa lần chắc đường dây hoặc nhãn tại đầu mút.
+У18,6,НЕ ПРОСЛЕЖЕНО У18.6,? a251 tờ 2 (Codex đọc); ? cột giữa; chưa lần chắc đường dây hoặc nhãn tại đầu mút.
+У19,1,НЕ ПРОСЛЕЖЕНО У19.1,? a251 tờ 2 (Codex đọc); ? cột giữa; chưa lần chắc đường dây hoặc nhãn tại đầu mút.
+У19,10,НЕ ПРОСЛЕЖЕНО У19.10,? a251 tờ 2 (Codex đọc); ? cột giữa; chưa lần chắc đường dây hoặc nhãn tại đầu mút.
+У19,12,НЕ ПРОСЛЕЖЕНО У19.12,? a251 tờ 2 (Codex đọc); ? cột giữa; chưa lần chắc đường dây hoặc nhãn tại đầu mút.
+У19,13,НЕ ПРОСЛЕЖЕНО У19.13,? a251 tờ 2 (Codex đọc); ? cột giữa; chưa lần chắc đường dây hoặc nhãn tại đầu mút.
+У19,2,НЕ ПРОСЛЕЖЕНО У19.2,? a251 tờ 2 (Codex đọc); ? cột giữa; chưa lần chắc đường dây hoặc nhãn tại đầu mút.
+У18,8,M2_24,a251 tờ 2 (Codex đọc)
+У19,3,M2_24,a251 tờ 2 (Codex đọc)
+У19,4,НЕ ПРОСЛЕЖЕНО У19.4,? a251 tờ 2 (Codex đọc); ? cột giữa; chưa lần chắc đường dây hoặc nhãn tại đầu mút.
+У19,6,НЕ ПРОСЛЕЖЕНО У19.6,? a251 tờ 2 (Codex đọc); ? cột giữa; chưa lần chắc đường dây hoặc nhãn tại đầu mút.
+У2,1,НЕ ПРОСЛЕЖЕНО У2.1,? a251 tờ 2 (Codex đọc); ? cột trái; chưa lần chắc đường dây hoặc nhãn tại đầu mút.
+У2,10,НЕ ПРОСЛЕЖЕНО У2.10,? a251 tờ 2 (Codex đọc); ? cột trái; chưa lần chắc đường dây hoặc nhãn tại đầu mút.
+У2,11,НЕ ПРОСЛЕЖЕНО У2.11,? a251 tờ 2 (Codex đọc); ? cột trái; chưa lần chắc đường dây hoặc nhãn tại đầu mút.
+У2,12,НЕ ПРОСЛЕЖЕНО У2.12,? a251 tờ 2 (Codex đọc); ? cột trái; chưa lần chắc đường dây hoặc nhãn tại đầu mút.
+У2,13,НЕ ПРОСЛЕЖЕНО У2.13,? a251 tờ 2 (Codex đọc); ? cột trái; chưa lần chắc đường dây hoặc nhãn tại đầu mút.
+У2,2,НЕ ПРОСЛЕЖЕНО У2.2,? a251 tờ 2 (Codex đọc); ? cột trái; chưa lần chắc đường dây hoặc nhãn tại đầu mút.
+У2,3,НЕ ПРОСЛЕЖЕНО У2.3,? a251 tờ 2 (Codex đọc); ? cột trái; chưa lần chắc đường dây hoặc nhãn tại đầu mút.
+У2,4,НЕ ПРОСЛЕЖЕНО У2.4,? a251 tờ 2 (Codex đọc); ? cột trái; chưa lần chắc đường dây hoặc nhãn tại đầu mút.
+У2,6,НЕ ПРОСЛЕЖЕНО У2.6,"? a251 tờ 2 (Codex đọc); ? cột trái, У2.1/У2.2; hai đầu ra trên ảnh đều giống số 6, không tự sửa số hoặc gộp hai đường."
+У20,1,НЕ ПРОСЛЕЖЕНО У20.1,? a251 tờ 2 (Codex đọc); ? cột giữa; chưa lần chắc đường dây hoặc nhãn tại đầu mút.
+У20,10,НЕ ПРОСЛЕЖЕНО У20.10,? a251 tờ 2 (Codex đọc); ? cột giữa; chưa lần chắc đường dây hoặc nhãn tại đầu mút.
+У20,12,НЕ ПРОСЛЕЖЕНО У20.12,? a251 tờ 2 (Codex đọc); ? cột giữa; chưa lần chắc đường dây hoặc nhãn tại đầu mút.
+У20,13,НЕ ПРОСЛЕЖЕНО У20.13,? a251 tờ 2 (Codex đọc); ? cột giữa; chưa lần chắc đường dây hoặc nhãn tại đầu mút.
+У20,2,НЕ ПРОСЛЕЖЕНО У20.2,? a251 tờ 2 (Codex đọc); ? cột giữa; chưa lần chắc đường dây hoặc nhãn tại đầu mút.
+У19,8,M2_25,a251 tờ 2 (Codex đọc)
+У20,3,M2_25,a251 tờ 2 (Codex đọc)
+У20,4,НЕ ПРОСЛЕЖЕНО У20.4,? a251 tờ 2 (Codex đọc); ? cột giữa; chưa lần chắc đường dây hoặc nhãn tại đầu mút.
+У20,6,НЕ ПРОСЛЕЖЕНО У20.6,? a251 tờ 2 (Codex đọc); ? cột giữa; chưa lần chắc đường dây hoặc nhãn tại đầu mút.
+У1,11,M2_26,a251 tờ 2 (Codex đọc)
+У20,8,M2_26,a251 tờ 2 (Codex đọc)
+У16,6,M2_27,a251 tờ 2 (Codex đọc)
+У21,9,M2_27,a251 tờ 2 (Codex đọc)
+У21,10,M2_27,a251 tờ 2 (Codex đọc)
+У16,9,M2_28,a251 tờ 2 (Codex đọc)
+У21,1,M2_28,a251 tờ 2 (Codex đọc)
+У21,2,M2_28,a251 tờ 2 (Codex đọc)
+У16,3,M2_29,a251 tờ 2 (Codex đọc)
+У21,3,M2_29,a251 tờ 2 (Codex đọc)
+У21,4,M2_29,a251 tờ 2 (Codex đọc)
+У21,5,M2_29,a251 tờ 2 (Codex đọc)
+У21,6,П3:11 0рСчК,a251 tờ 2 (Codex đọc); nhãn «П3/11(1) 0рСчК»
+У21,8,"П2:19 0,15с","a251 tờ 2 (Codex đọc); nhãn «П2/19 0,15сек»"
+У17,9,M2_30,a251 tờ 2 (Codex đọc)
+У23,12,M2_30,a251 tờ 2 (Codex đọc)
+У23,13,M2_30,a251 tờ 2 (Codex đọc)
+У17,5,M2_31,a251 tờ 2 (Codex đọc)
+У17,11,M2_31,a251 tờ 2 (Codex đọc)
+У23,1,M2_31,a251 tờ 2 (Codex đọc)
+У23,2,M2_31,a251 tờ 2 (Codex đọc)
+У23,3,M2_32,a251 tờ 2 (Codex đọc)
+У23,4,M2_32,a251 tờ 2 (Codex đọc)
+У23,5,M2_32,a251 tờ 2 (Codex đọc)
+У23,6,П3:10 1рСчК,a251 tờ 2 (Codex đọc); nhãn «П3/10(1) 1рСчК»
+У23,8,П3:9 2рСчК,a251 tờ 2 (Codex đọc); nhãn «П3/9(1) 2рСчК»
+У23,11,M2_33,a251 tờ 2 (Codex đọc)
+У23,10,M2_33,a251 tờ 2 (Codex đọc)
+У23,9,M2_33,a251 tờ 2 (Codex đọc)
+У18,9,M2_34,a251 tờ 2 (Codex đọc)
+У25,12,M2_34,a251 tờ 2 (Codex đọc)
+У25,13,M2_34,a251 tờ 2 (Codex đọc)
+У18,5,M2_35,a251 tờ 2 (Codex đọc)
+У18,11,M2_35,a251 tờ 2 (Codex đọc)
+У25,1,M2_35,a251 tờ 2 (Codex đọc)
+У25,2,M2_35,a251 tờ 2 (Codex đọc)
+У25,3,M2_36,a251 tờ 2 (Codex đọc)
+У25,4,M2_36,a251 tờ 2 (Codex đọc)
+У25,5,M2_36,a251 tờ 2 (Codex đọc)
+У25,6,П3:8 3рСчК,a251 tờ 2 (Codex đọc); nhãn «П3/8(1) 3рСчК»
+У25,8,П3:7 4рСчК,a251 tờ 2 (Codex đọc); nhãn «П3/7(1) 4рСчК»
+У25,11,M2_37,a251 tờ 2 (Codex đọc)
+У25,10,M2_37,a251 tờ 2 (Codex đọc)
+У25,9,M2_37,a251 tờ 2 (Codex đọc)
+У19,9,M2_38,a251 tờ 2 (Codex đọc)
+У26,12,M2_38,a251 tờ 2 (Codex đọc)
+У26,13,M2_38,a251 tờ 2 (Codex đọc)
+У19,5,M2_39,a251 tờ 2 (Codex đọc)
+У19,11,M2_39,a251 tờ 2 (Codex đọc)
+У26,1,M2_39,a251 tờ 2 (Codex đọc)
+У26,2,M2_39,a251 tờ 2 (Codex đọc)
+У26,3,У26.3,a251 tờ 2 (Codex đọc)
+У26,4,У26.3,a251 tờ 2 (Codex đọc)
+У26,5,У26.3,a251 tờ 2 (Codex đọc)
+У26,6,П1:24 5рСчК,a251 tờ 2 (Codex đọc); nhãn «П1/24(1) 5рСчК»
+У26,8,П1:25 6рСчК,a251 tờ 2 (Codex đọc); nhãn «П1/25(1) 6рСчК»
+У26,11,У26.11,a251 tờ 2 (Codex đọc)
+У26,10,У26.11,a251 tờ 2 (Codex đọc)
+У26,9,У26.11,a251 tờ 2 (Codex đọc)
+У20,9,M2_40,a251 tờ 2 (Codex đọc)
+У28,12,M2_40,a251 tờ 2 (Codex đọc)
+У28,13,M2_40,a251 tờ 2 (Codex đọc)
+У20,5,M2_41,a251 tờ 2 (Codex đọc)
+У20,11,M2_41,a251 tờ 2 (Codex đọc)
+У28,1,M2_41,a251 tờ 2 (Codex đọc)
+У28,2,M2_41,a251 tờ 2 (Codex đọc)
+У28,3,У28.3,a251 tờ 2 (Codex đọc)
+У28,4,У28.3,a251 tờ 2 (Codex đọc)
+У28,5,У28.3,a251 tờ 2 (Codex đọc)
+У28,6,П1:26 7рСчК,a251 tờ 2 (Codex đọc); nhãn «П1/26(1) 7рСчК»
+У28,8,П1:28 8рСчК,a251 tờ 2 (Codex đọc); nhãn «П1/28(1) 8рСчК»
+У28,11,У28.11,a251 tờ 2 (Codex đọc)
+У28,10,У28.11,a251 tờ 2 (Codex đọc)
+У28,9,У28.11,a251 tờ 2 (Codex đọc)
+У29,10,НЕ ПРОСЛЕЖЕНО У29.10,? a251 tờ 2 (Codex đọc); ? cột phải; chưa lần chắc đường dây hoặc nhãn tại đầu mút.
+У29,11,НЕ ПРОСЛЕЖЕНО У29.11,? a251 tờ 2 (Codex đọc); ? cột phải; chưa lần chắc đường dây hoặc nhãn tại đầu mút.
+У29,12,НЕ ПРОСЛЕЖЕНО У29.12,? a251 tờ 2 (Codex đọc); ? cột phải; chưa lần chắc đường dây hoặc nhãn tại đầu mút.
+У29,2,НЕ ПРОСЛЕЖЕНО У29.2,? a251 tờ 2 (Codex đọc); ? cột phải; chưa lần chắc đường dây hoặc nhãn tại đầu mút.
+У10,8,M2_42,a251 tờ 2 (Codex đọc)
+У29,3,M2_42,a251 tờ 2 (Codex đọc)
+У29,4,НЕ ПРОСЛЕЖЕНО У29.4,? a251 tờ 2 (Codex đọc); ? cột phải; chưa lần chắc đường dây hoặc nhãn tại đầu mút.
+У3,1,НЕ ПРОСЛЕЖЕНО У3.1,? a251 tờ 2 (Codex đọc); ? cột trái; chưa lần chắc đường dây hoặc nhãn tại đầu mút.
+У3,10,НЕ ПРОСЛЕЖЕНО У3.10,? a251 tờ 2 (Codex đọc); ? cột trái; chưa lần chắc đường dây hoặc nhãn tại đầu mút.
+У3,12,НЕ ПРОСЛЕЖЕНО У3.12,? a251 tờ 2 (Codex đọc); ? cột trái; chưa lần chắc đường dây hoặc nhãn tại đầu mút.
+У3,13,НЕ ПРОСЛЕЖЕНО У3.13,? a251 tờ 2 (Codex đọc); ? cột trái; chưa lần chắc đường dây hoặc nhãn tại đầu mút.
+У3,2,НЕ ПРОСЛЕЖЕНО У3.2,? a251 tờ 2 (Codex đọc); ? cột trái; chưa lần chắc đường dây hoặc nhãn tại đầu mút.
+У3,3,НЕ ПРОСЛЕЖЕНО У3.3,? a251 tờ 2 (Codex đọc); ? cột trái; chưa lần chắc đường dây hoặc nhãn tại đầu mút.
+У3,4,НЕ ПРОСЛЕЖЕНО У3.4,? a251 tờ 2 (Codex đọc); ? cột trái; chưa lần chắc đường dây hoặc nhãn tại đầu mút.
+У3,6,НЕ ПРОСЛЕЖЕНО У3.6,? a251 tờ 2 (Codex đọc); ? cột trái; chưa lần chắc đường dây hoặc nhãn tại đầu mút.
+У11,11,M2_43,a251 tờ 2 (Codex đọc)
+У30,1,M2_43,a251 tờ 2 (Codex đọc)
+У30,10,НЕ ПРОСЛЕЖЕНО У30.10,? a251 tờ 2 (Codex đọc); ? cột phải; chưa lần chắc đường dây hoặc nhãn tại đầu mút.
+У10,6,M2_44,a251 tờ 2 (Codex đọc)
+У30,11,M2_44,a251 tờ 2 (Codex đọc); ? cột phải; chưa lần chắc đường dây hoặc nhãn tại đầu mút.
+У30,13,M2_44,a251 tờ 2 (Codex đọc)
+У30,12,НЕ ПРОСЛЕЖЕНО У30.12,? a251 tờ 2 (Codex đọc); ? cột phải; chưa lần chắc đường dây hoặc nhãn tại đầu mút.
+У30,2,НЕ ПРОСЛЕЖЕНО У30.2,? a251 tờ 2 (Codex đọc); ? cột phải; chưa lần chắc đường dây hoặc nhãn tại đầu mút.
+У30,3,НЕ ПРОСЛЕЖЕНО У30.3,? a251 tờ 2 (Codex đọc); ? cột phải; chưa lần chắc đường dây hoặc nhãn tại đầu mút.
+У30,4,НЕ ПРОСЛЕЖЕНО У30.4,? a251 tờ 2 (Codex đọc); ? cột phải; chưa lần chắc đường dây hoặc nhãn tại đầu mút.
+У31,10,НЕ ПРОСЛЕЖЕНО У31.10,? a251 tờ 2 (Codex đọc); ? cột phải; chưa lần chắc đường dây hoặc nhãn tại đầu mút.
+У11,6,M2_45,a251 tờ 2 (Codex đọc)
+У31,11,M2_45,a251 tờ 2 (Codex đọc)
+У31,12,НЕ ПРОСЛЕЖЕНО У31.12,? a251 tờ 2 (Codex đọc); ? cột phải; chưa lần chắc đường dây hoặc nhãn tại đầu mút.
+У31,13,НЕ ПРОСЛЕЖЕНО У31.13,? a251 tờ 2 (Codex đọc); ? cột phải; chưa lần chắc đường dây hoặc nhãn tại đầu mút.
+У31,2,НЕ ПРОСЛЕЖЕНО У31.2,? a251 tờ 2 (Codex đọc); ? cột phải; chưa lần chắc đường dây hoặc nhãn tại đầu mút.
+У11,8,M2_46,a251 tờ 2 (Codex đọc)
+У31,3,M2_46,a251 tờ 2 (Codex đọc)
+У31,4,НЕ ПРОСЛЕЖЕНО У31.4,? a251 tờ 2 (Codex đọc); ? cột phải; chưa lần chắc đường dây hoặc nhãn tại đầu mút.
+У32,1,НЕ ПРОСЛЕЖЕНО У32.1,? a251 tờ 2 (Codex đọc); ? cột phải; chưa lần chắc đường dây hoặc nhãn tại đầu mút.
+У31,5,M2_47,a251 tờ 2 (Codex đọc)
+У32,9,M2_47,a251 tờ 2 (Codex đọc)
+У32,10,M2_47,a251 tờ 2 (Codex đọc)
+У32,12,M2_47,a251 tờ 2 (Codex đọc)
+У32,13,M2_47,a251 tờ 2 (Codex đọc)
+У32,4,M2_48,a251 tờ 2 (Codex đọc)
+У32,5,M2_48,a251 tờ 2 (Codex đọc)
+У31,1,M2_49,a251 tờ 2 (Codex đọc)
+У32,6,M2_49,a251 tờ 2 (Codex đọc)
+У32,8,П3:22 строб3,a251 tờ 2 (Codex đọc); nhãn «П3/22(1) строб3»
+У31,9,M2_50,a251 tờ 2 (Codex đọc)
+У33,1,M2_50,a251 tờ 2 (Codex đọc)
+У33,2,M2_50,a251 tờ 2 (Codex đọc)
+У33,3,M2_50,a251 tờ 2 (Codex đọc)
+У33,4,M2_50,a251 tờ 2 (Codex đọc)
+У33,5,M2_50,a251 tờ 2 (Codex đọc)
+У33,6,M2_50,a251 tờ 2 (Codex đọc)
+У34,1,НЕ ПРОСЛЕЖЕНО У34.1,? a251 tờ 2 (Codex đọc); ? cột phải; chưa lần chắc đường dây hoặc nhãn tại đầu mút.
+У34,3,M2_51,a251 tờ 2 (Codex đọc)
+У34,4,M2_51,a251 tờ 2 (Codex đọc)
+У34,5,M2_51,a251 tờ 2 (Codex đọc)
+У15,1,M2_52,a251 tờ 2 (Codex đọc)
+У15,2,M2_52,a251 tờ 2 (Codex đọc)
+У15,3,M2_52,a251 tờ 2 (Codex đọc)
+У15,4,M2_52,a251 tờ 2 (Codex đọc)
+У15,5,M2_52,a251 tờ 2 (Codex đọc)
+У15,6,M2_52,a251 tờ 2 (Codex đọc)
+У34,8,M2_52,a251 tờ 2 (Codex đọc)
+У34,10,M2_53,a251 tờ 2 (Codex đọc)
+У34,9,M2_53,a251 tờ 2 (Codex đọc)
+У34,6,M2_54,a251 tờ 2 (Codex đọc)
+У35,1,M2_54,a251 tờ 2 (Codex đọc)
+У35,2,M2_54,a251 tờ 2 (Codex đọc)
+У35,3,M2_54,a251 tờ 2 (Codex đọc)
+У35,4,M2_54,a251 tờ 2 (Codex đọc)
+У35,5,M2_54,a251 tờ 2 (Codex đọc)
+У35,6,M2_54,a251 tờ 2 (Codex đọc)
+У29,6,M2_55,a251 tờ 2 (Codex đọc)
+У36,9,M2_55,a251 tờ 2 (Codex đọc)
+У36,10,M2_55,a251 tờ 2 (Codex đọc)
+У36,12,M2_55,a251 tờ 2 (Codex đọc)
+У36,13,M2_55,a251 tờ 2 (Codex đọc)
+У36,1,M2_56,a251 tờ 2 (Codex đọc)
+У36,2,M2_56,a251 tờ 2 (Codex đọc)
+У36,4,M2_56,a251 tờ 2 (Codex đọc)
+У36,5,M2_56,a251 tờ 2 (Codex đọc)
+У36,6,П2:31 строб1,a251 tờ 2 (Codex đọc); nhãn «П2/31(1) строб1»
+У29,8,M2_57,a251 tờ 2 (Codex đọc)
+У37,9,M2_57,a251 tờ 2 (Codex đọc)
+У37,10,M2_57,a251 tờ 2 (Codex đọc)
+У37,12,M2_57,a251 tờ 2 (Codex đọc)
+У37,13,M2_57,a251 tờ 2 (Codex đọc)
+У37,1,M2_58,a251 tờ 2 (Codex đọc)
+У37,2,M2_58,a251 tờ 2 (Codex đọc)
+У37,4,M2_58,a251 tờ 2 (Codex đọc)
+У37,5,M2_58,a251 tờ 2 (Codex đọc)
+У37,6,НЕ ПРОСЛЕЖЕНО У37.6,? a251 tờ 2 (Codex đọc); ? cột phải; chưa lần chắc đường dây hoặc nhãn tại đầu mút.
+У37,8,П2:4 строб4,a251 tờ 2 (Codex đọc); nhãn «П2/4(1) строб4»
+У30,8,M2_59,a251 tờ 2 (Codex đọc)
+У38,9,M2_59,a251 tờ 2 (Codex đọc)
+У38,10,M2_59,a251 tờ 2 (Codex đọc)
+У38,12,M2_59,a251 tờ 2 (Codex đọc)
+У38,13,M2_59,a251 tờ 2 (Codex đọc)
+У30,6,M2_60,a251 tờ 2 (Codex đọc)
+У38,1,M2_60,a251 tờ 2 (Codex đọc)
+У38,2,M2_60,a251 tờ 2 (Codex đọc)
+У38,4,M2_60,a251 tờ 2 (Codex đọc)
+У38,5,M2_60,a251 tờ 2 (Codex đọc)
+У38,6,П2:30 строб1-1,a251 tờ 2 (Codex đọc); nhãn «П2/30(1) строб1-1»
+У38,8,П3:21 строб2,a251 tờ 2 (Codex đọc); nhãn «П3/21(1) строб2»
+У4,1,НЕ ПРОСЛЕЖЕНО У4.1,? a251 tờ 2 (Codex đọc); ? cột trái; chưa lần chắc đường dây hoặc nhãn tại đầu mút.
+У4,10,НЕ ПРОСЛЕЖЕНО У4.10,? a251 tờ 2 (Codex đọc); ? cột trái; chưa lần chắc đường dây hoặc nhãn tại đầu mút.
+У4,12,НЕ ПРОСЛЕЖЕНО У4.12,? a251 tờ 2 (Codex đọc); ? cột trái; chưa lần chắc đường dây hoặc nhãn tại đầu mút.
+У4,13,НЕ ПРОСЛЕЖЕНО У4.13,? a251 tờ 2 (Codex đọc); ? cột trái; chưa lần chắc đường dây hoặc nhãn tại đầu mút.
+У4,2,НЕ ПРОСЛЕЖЕНО У4.2,? a251 tờ 2 (Codex đọc); ? cột trái; chưa lần chắc đường dây hoặc nhãn tại đầu mút.
+У3,8,M2_61,a251 tờ 2 (Codex đọc)
+У4,3,M2_61,a251 tờ 2 (Codex đọc)
+У4,4,НЕ ПРОСЛЕЖЕНО У4.4,? a251 tờ 2 (Codex đọc); ? cột trái; chưa lần chắc đường dây hoặc nhãn tại đầu mút.
+У4,6,НЕ ПРОСЛЕЖЕНО У4.6,? a251 tờ 2 (Codex đọc); ? cột trái; chưa lần chắc đường dây hoặc nhãn tại đầu mút.
+У34,2,M2_62,a251 tờ 2 (Codex đọc)
+У5,1,НЕ ПРОСЛЕЖЕНО У5.1,? a251 tờ 2 (Codex đọc); ? cột trái; chưa lần chắc đường dây hoặc nhãn tại đầu mút.
+У5,10,НЕ ПРОСЛЕЖЕНО У5.10,? a251 tờ 2 (Codex đọc); ? cột trái; chưa lần chắc đường dây hoặc nhãn tại đầu mút.
+У5,12,НЕ ПРОСЛЕЖЕНО У5.12,? a251 tờ 2 (Codex đọc); ? cột trái; chưa lần chắc đường dây hoặc nhãn tại đầu mút.
+У5,13,НЕ ПРОСЛЕЖЕНО У5.13,? a251 tờ 2 (Codex đọc); ? cột trái; chưa lần chắc đường dây hoặc nhãn tại đầu mút.
+У5,2,НЕ ПРОСЛЕЖЕНО У5.2,? a251 tờ 2 (Codex đọc); ? cột trái; chưa lần chắc đường dây hoặc nhãn tại đầu mút.
+У4,8,M2_63,a251 tờ 2 (Codex đọc)
+У5,3,M2_63,a251 tờ 2 (Codex đọc)
+У5,4,НЕ ПРОСЛЕЖЕНО У5.4,? a251 tờ 2 (Codex đọc); ? cột trái; chưa lần chắc đường dây hoặc nhãn tại đầu mút.
+У5,6,НЕ ПРОСЛЕЖЕНО У5.6,? a251 tờ 2 (Codex đọc); ? cột trái; chưa lần chắc đường dây hoặc nhãn tại đầu mút.
+У5,8,НЕ ПРОСЛЕЖЕНО У5.8,? a251 tờ 2 (Codex đọc); ? cột trái; chưa lần chắc đường dây hoặc nhãn tại đầu mút.
+У36,8,У36.8,a251 tờ 2 (Codex đọc)
+У6,3,M2_64,a251 tờ 2 (Codex đọc)
+У6,4,M2_64,a251 tờ 2 (Codex đọc)
+У10,11,M2_65,a251 tờ 2 (Codex đọc)
+У6,5,M2_65,a251 tờ 2 (Codex đọc)
+У1,3,M2_66,a251 tờ 2 (Codex đọc)
+У6,6,M2_66,a251 tờ 2 (Codex đọc)
+У1,9,M2_67,a251 tờ 2 (Codex đọc)
+У7,12,M2_67,a251 tờ 2 (Codex đọc)
+У7,13,M2_67,a251 tờ 2 (Codex đọc)
+У1,5,M2_68,a251 tờ 2 (Codex đọc)
+У7,1,M2_68,a251 tờ 2 (Codex đọc)
+У7,2,M2_68,a251 tờ 2 (Codex đọc)
+У7,3,У7.3,a251 tờ 2 (Codex đọc)
+У7,4,У7.3,a251 tờ 2 (Codex đọc)
+У7,5,У7.3,a251 tờ 2 (Codex đọc)
+У7,6,П1:30 10рСчК,a251 tờ 2 (Codex đọc); nhãn «П1/30(1) 10рСчК»
+У7,8,П1:29 9рСчК,a251 tờ 2 (Codex đọc); nhãn «П1/29(1) 9рСчК»
+У7,11,У7.11,a251 tờ 2 (Codex đọc)
+У7,10,У7.11,a251 tờ 2 (Codex đọc)
+У7,9,У7.11,a251 tờ 2 (Codex đọc)
+У9,11,M2_69,a251 tờ 2 (Codex đọc)
+У9,9,M2_69,a251 tờ 2 (Codex đọc)
+У9,10,M2_69,a251 tờ 2 (Codex đọc)
+У2,9,M2_70,a251 tờ 2 (Codex đọc)
+У9,12,M2_70,a251 tờ 2 (Codex đọc)
+У9,13,M2_70,a251 tờ 2 (Codex đọc)
+У2,5,M2_71,a251 tờ 2 (Codex đọc)
+У9,1,M2_71,a251 tờ 2 (Codex đọc)
+У9,2,M2_71,a251 tờ 2 (Codex đọc)
+У9,3,M2_72,a251 tờ 2 (Codex đọc)
+У9,4,M2_72,a251 tờ 2 (Codex đọc)
+У9,5,M2_72,a251 tờ 2 (Codex đọc)
+У9,6,П1:31 11рСчК,a251 tờ 2 (Codex đọc); nhãn «П1/31(1) 11рСчК»
+У9,8,П1:32 12рСчК,a251 tờ 2 (Codex đọc); nhãn «П1/32(1) 12рСчК»
 У1,7,GHI-CHU-1 chân 7,ghi chú 1 tờ 1 «Выводы 7 всех микросхем подключить к потен…» — chữ cuối bị cắt
 У1,14,GHI-CHU-2 chân 14,ghi chú 2 tờ 1 «Выводы 14 всех микросхем подключить к потен…» — chữ cuối bị cắt
 У2,7,GHI-CHU-1 chân 7,ghi chú 1 tờ 1 «Выводы 7 всех микросхем подключить к потен…» — chữ cuối bị cắt

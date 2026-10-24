@@ -70,7 +70,7 @@ def calc():
     print(f'  ngưỡng bảo vệ: Iкз ≈ Vbe(T9)·(R17+R18)/(R17·R_Др3) — R17, R18, R_Др3 chưa biết')
 
 
-KNOWN = {5: 'tờ 2 (a251) chưa chép: R1–R8, R12, C1–C8, Пэ1 chưa có chân; tờ 1 đã chép', 6: 'C6 có trên Э3 tờ 1, không có trong ПЭ; У15?т1/У16?т1 (tờ 1) và У5-4? (tờ 3) trùng ký hiệu, chưa định danh', 19: 'Д7 có trong перечень, không có trên Э3', 25: 'R28, Д3, Д4 có trong перечень, không có trên Э3 (góc ảnh #233 bị che)'}
+KNOWN = {5: 'C3–C8 (tụ lọc nguồn, tờ 1) chưa lần chân', 6: 'C6 có trên Э3 tờ 1, không có trong ПЭ; У15?т1/У16?т1 (tờ 1) và У5-4? (tờ 3) trùng ký hiệu, chưa định danh', 19: 'Д7 có trong перечень, không có trên Э3', 25: 'R28, Д3, Д4 có trong перечень, không có trên Э3 (góc ảnh #233 bị che)'}
 
 if __name__ == '__main__':
     bad = [nn for nn in (5, 6, 8, 11, 19, 20, 21, 22, 23, 24, 25, 26) if not check(nn)]

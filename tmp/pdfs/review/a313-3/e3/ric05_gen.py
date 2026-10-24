@@ -180,6 +180,85 @@ q('У55', [1, 2, 4, 5, 9, 10, 12], BUS); q('У56', [1, 2, 4, 5, 9, 10, 12], BUS)
 q('У57', [2, 4, 5, 6, 8, 10, 12, 13], S1 + ' 133ЛА4 vùng dưới phải, chưa lần chắc')
 
 # ---- Tờ 2 (a251): nhiệm vụ giao Codex — chèn khối của Codex vào DƯỚI dòng này
+# Nguồn: ric05_to2_raw.csv — Codex đọc ảnh a251 (2026-10-24), giữ nguyên làm bằng chứng; ghép ở đây.
+import re as _re
+S2 = 'a251 tờ 2 (Codex đọc)'
+CONN = {(r['table'], int(r['pin'])): r['signal'] for r in csv.DictReader(open(E3 / 'ric05_conn.csv', encoding='utf8'))}
+GND2 = 'П1:27 Корпус | П2:1 Корпус | П3:70 Корпус'
+raw = list(csv.DictReader(open(E3 / 'ric05_to2_raw.csv', encoding='utf-8-sig')))
+BOMREF = {r for r, _ in bom}
+GACH = sorted({x['ref'] for x in raw if x['ref'] not in BOMREF})
+assert set(GACH) <= {'R9', 'R10', 'У8', 'У22', 'У24', 'У27'}, GACH  # chỉ phần tử gạch bỏ mới được ngoài ПЭ
+rows = [x for x in raw if x['ref'] in BOMREF]
+par = {}
+
+
+def find(a):
+    while par.setdefault(a, a) != a:
+        par[a] = par[par[a]]; a = par[a]
+    return a
+
+
+def union(a, b):
+    par[find(a)] = find(b)
+
+
+label = {}   # node → tên net đầu nối / nguồn
+lab_note = {}
+for x in rows:
+    me = (x['ref'], x['pin'])
+    find(me)
+    for t in [t.strip() for t in x['noi_toi'].split(';')]:
+        if not t or t == '?':
+            continue
+        if t in ('a', 'а'):
+            label.setdefault(me, GND2); continue
+        if t == 'б':
+            label.setdefault(me, VCC); continue
+        m = _re.fullmatch(r'П([123])/(\d+)(?:\(1\))?\s*(.*)', t)
+        if m:
+            tb, pn = 'П' + m.group(1), int(m.group(2))
+            label[me] = f'{tb}:{pn} {CONN[(tb, pn)]}'
+            lab_note[me] = f'nhãn «{t}»'; continue
+        pins = _re.findall(r'(У\d+|R\d+|C\d+|Пэ1)[./](\d+)', t)
+        assert pins, (me, t)
+        for ref, pn in pins:
+            if ref in BOMREF:
+                union(me, (ref, pn))
+groups = {}
+for n in list(par):
+    groups.setdefault(find(n), []).append(n)
+XREF = {'У7.3', 'У7.6', 'У7.8', 'У7.11', 'У9.6', 'У9.8', 'У26.3', 'У26.6', 'У26.8', 'У26.11', 'У28.3', 'У28.6', 'У28.8',
+        'У28.11', 'У36.8', 'У38.6'}  # tên net tờ 1 đã gọi sang tờ 2
+k2 = 0
+XMAP = {}
+raw_by = {(x['ref'], x['pin']): x for x in rows}
+for root, mem in sorted(groups.items()):
+    labs = sorted({label[n] for n in mem if n in label})
+    xs = sorted({f'{r}.{p}' for r, p in mem} & XREF)
+    if labs:
+        name = labs[0]
+    elif xs:
+        name = xs[0]
+    elif len(mem) >= 2:
+        k2 += 1; name = f'M2_{k2}'
+    else:
+        name = None
+    extra = ('; ? nhiều nhãn: ' + ' / '.join(labs)) if len(labs) > 1 else ''
+    extra += ('; ? nhiều net tờ 1: ' + ', '.join(xs)) if len(xs) > 1 else ''
+    for x in xs:
+        if name != x:
+            XMAP[x] = name  # net tờ 1 đặt theo chân nguồn → đổi sang tên đã chốt ở tờ 2
+    for n in mem:
+        if n not in raw_by:
+            continue  # chân chỉ được nhắc tới, không có dòng riêng: bỏ, để dòng của chính nó quyết định
+        x = raw_by[n]
+        note = '; '.join(s for s in (S2, lab_note.get(n, ''), x['note']) if s) + extra
+        if name is None:
+            NET.append((n[0], n[1], f'НЕ ПРОСЛЕЖЕНО {n[0]}.{n[1]}', '? ' + note))
+        else:
+            NET.append((n[0], n[1], name, note))
+NET = [(r, p, XMAP.get(n, n), (note + f'; net tờ 1 «{n}» = «{XMAP[n]}» ở tờ 2') if n in XMAP else note) for r, p, n, note in NET]
 # ---- hết khối tờ 2
 
 # Chân 7/14 mọi vi mạch theo ghi chú 1, 2 tờ 1 (chữ cuối bị cắt ở mép ảnh: chưa đọc được nối tới «a» hay «б»)
