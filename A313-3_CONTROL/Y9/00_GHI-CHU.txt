@@ -1,2 +1,23 @@
-DANH-MUC ghi "⚠ chưa xác định" cho sơ đồ nguyên lý Y9 (Интеграторы).
-Chỉ có ПЭ trang 192-196, chưa rõ sơ đồ Э3 nằm ở đâu — chưa copy vào đây.
+Y9 — Интеграторы (ЕУ3.072.043 Э3) — XÁC ĐỊNH ĐƯỢC 2026-10-24
+
+Trước đây DANH-MUC ghi "⚠ chưa xác định" — chỉ có ПЭ trang 192-196, chưa rõ
+sơ đồ Э3 nằm ở đâu.
+
+Người dùng upload 1 ảnh rõ nét 2026-10-24: chụp toàn bộ tờ gấp lớn (A3+)
+trong một lần (2560x1090 px), đọc được:
+- Mã viết tay: "ЕУЗ.072.04373" → đọc là "ЕУ3.072.043 Э3" (chữ "Э3" viết
+  liền dễ đọc nhầm thành "73") — KHỚP đúng mã Y9 trong DANH-MUC.
+- Trang viết tay: "191" — ngay trước ПЭ 192-196 đã biết, hợp lý về vị trí
+  trong tập tài liệu.
+- Ghi chú trên ảnh: "Контакты 'Л' микросхем 168КТ2Б/168КТ2В соединить с
+  шиной питания +6,3В (П1/18), а контакты 'М' ... +3,5В (П1/19)."
+- Nhiều cụm mạch con nhìn thấy: ЦАП2В, "Схема усилителя 4-х",
+  "Схема подогревателя 6-х", bảng đầu nối П1 bên phải.
+
+File: RE_tr191_a265.jpg (đổi tên 2026-10-24 theo quy tắc
+DANH-MUC_ANH_RE_A-313-3.md §0 — ảnh mới hoàn toàn, không phải recapture
+của ảnh cũ, dùng số a tiếp theo).
+
+Trạng thái: ảnh RÕ, đủ để zoom đọc chi tiết IC/chân/net. Đang chép
+(xem tmp/pdfs/review/a313-3/e3/ric15_* nếu đã tạo — рис.15 = Y9 theo
+DANH-MUC_ANH_RE §2).
