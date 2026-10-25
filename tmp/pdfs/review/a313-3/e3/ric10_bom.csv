@@ -1,0 +1,83 @@
+ref,name,qty,page,note
+У45,"Диодная матрица ИЛИ (8 диодов), тип не напечатан",1,1,"Ảnh RE_tr179_a175.jpg, góc trên-trái; ký hiệu đọc là '445' trên sơ đồ — do chữ 'У' viết tay có nét gần giống số '4', nhưng theo dải đánh số toàn tấm (У1-У65) và cách viết nhất quán với các ký hiệu 'У' rõ ràng khác trên cùng ảnh, kết luận đây là 'У45'. LƯU Ý: có NHÃN TRÙNG — phía dưới-phải tấm (gần У63) cũng xuất hiện nhãn đọc gần giống 'У45.1'/'У45.2' (xem ghi chú ref У45(2) trong net.csv) — chưa xác định đây là 1 IC nhiều section vẽ tách hay đọc nhầm 2 IC khác nhau."
+У64,"Диодная матрица ИЛИ (8 диодов), tiếp theo У45",1,1,"Ảnh RE_tr179_a175.jpg, dưới У45 cùng cột trái; nhãn đọc '464'→'У64' (lý do đọc như У45 ở trên). Cấp tín hiệu cho У11/У12."
+У9,"Регистр/буфер (IC 13 chân kiểu К155ТМ-like, tên loại không in)",1,1,"Ảnh RE_tr179_a175.jpg; nhận đầu vào từ dãy diode У45 (chân ra 12 → 'Р23/2' → '3,3В'); đã soi kỹ."
+У10,"Регистр/буфер, tiếp theo У9",1,1,"Ảnh RE_tr179_a175.jpg; cùng cột với У9, nhận từ У45."
+У11,"Регистр/буфер, nhận từ У64",1,1,"Ảnh RE_tr179_a175.jpg; cột trái, dưới У64."
+У12,"Регистр/буфер, tiếp theo У11",1,1,"Ảnh RE_tr179_a175.jpg; nhận từ У64, output → 'Р29/2' → '3,3В'."
+У1,"IC logic nhiều section (.1,.2,.3), tên loại không in",1,1,"Ảnh RE_tr179_a175.jpg, cụm logic góc trên-phải, khối chữ thập chéo nét (nghi flip-flop/XOR); các section .1/.2/.3 thấy rõ vị trí nhưng nối chân cụ thể chưa tách được do nhiều đường chồng sát nhau."
+У2,"IC logic nhiều section (.1,.2), cùng cụm với У1",1,1,"Ảnh RE_tr179_a175.jpg, cụm chữ thập chéo nét cùng У1."
+У4,"IC logic, 1 section (.1) thấy ở đáy cụm góc trên-phải",1,1,"Ảnh RE_tr179_a175.jpg, chỉ thấy 1 box .1; không rõ còn section nào khác trên tấm này."
+У5,"IC logic, section .1/.2",1,1,"Ảnh RE_tr179_a175.jpg, vùng giữa-phải, gần nhãn 'ПК вх'/'Эоп' qua R20."
+У6,"IC logic, section .1/.2 (x2 vị trí)",1,1,"Ảnh RE_tr179_a175.jpg; xuất hiện ở 2 chỗ: gần nhãn 'ОрС4к' (cạnh У64) VÀ lần nữa ở vùng giữa-phải (s1_midright) — có thể 1 IC nhiều section dùng ở 2 chỗ trên cùng trang, chưa xác nhận chắc chắn là cùng 1 ref vật lý hay trùng số ngẫu nhiên."
+У7,"IC logic, section .1/.2/.4 (nhiều vị trí)",1,1,"Ảnh RE_tr179_a175.jpg; .4 gần nhãn 'ЗрС4к', .1/.2 ở vùng giữa-phải."
+У8,"IC logic, section .1/.2",1,1,Ảnh RE_tr179_a175.jpg; xuất hiện ở cụm góc trên-phải và gần У64.
+У13,"IC logic, 1 section (.1?) — đọc chưa chắc chắn",1,1,"Ảnh RE_tr179_a175.jpg, vùng giữa-phải (s1_midright); chữ số '13' có thể đọc nhầm, độ tin cậy thấp."
+У14,"IC logic, section .1/.2/.4",1,1,"Ảnh RE_tr179_a175.jpg, góc trên-trái cụm logic phải; nhãn 'П3/40(1)' 'СТ1-1(1)'/'СТ2-1' dẫn vào."
+У15,"IC logic, section .1/.2",1,1,"Ảnh RE_tr179_a175.jpg; .1 nhận từ У14, nhãn 'П3/31(1)' 'стрoд2'."
+У16,"IC logic, section .1/.2",1,1,"Ảnh RE_tr179_a175.jpg; nhãn vào 'П3/5(1)/До', 'П3/35(1)/Топ'."
+У17,"IC logic, section .1/.2",1,1,"Ảnh RE_tr179_a175.jpg; nhãn vào '23/8(1)/стр1-1', 'П3/30(1)3/стр1'."
+У43,"IC logic, section .2",1,1,Ảnh RE_tr179_a175.jpg; đầu ra nối 'П3/46(1)/D→РДР'.
+У44,"IC logic, nhiều section — vị trí & số thứ tự chưa chắc chắn",1,1,"Ảnh RE_tr179_a175.jpg; thấy ở vùng giữa-phải và gần bảng А/Б góc dưới-trái; chữ số hàng chục có thể lẫn với У49/У45, độ tin cậy trung bình."
+У46,"IC logic, section .1/.2/.4 (nhiều vị trí)",1,1,"Ảnh RE_tr179_a175.jpg; .4 ở vùng giữa-phải (→'П3/13(1)/ПК вх'), .1/.2 gần đáy ('П1/18(1)/КИЗл16р','П1/19(1)/КИЗл17р')."
+У47,"IC logic, section .1/.2/.3/.4",1,1,"Ảnh RE_tr179_a175.jpg, bảng А/Б góc dưới-trái, cột thu gom bên phải cùng của 4 chuỗi hàng 0-15."
+У49,"IC logic, section .1/.2 — chữ số chục chưa chắc chắn",1,1,"Ảnh RE_tr179_a175.jpg, chuỗi hàng 0-3 của bảng А/Б; có thể là У49 hoặc số lân cận, nét viết tay mờ."
+У50,"IC logic, section .1/.2",1,1,"Ảnh RE_tr179_a175.jpg, đầu chuỗi hàng 0-3 bảng А/Б, nhận trực tiếp từ các dòng 0,1,2,3."
+У51,"IC logic, section .1/.2",1,1,"Ảnh RE_tr179_a175.jpg, đầu chuỗi hàng 4-7 bảng А/Б."
+У52,"IC logic, section — chữ số chục chưa chắc chắn",1,1,"Ảnh RE_tr179_a175.jpg, giữa chuỗi hàng 8-11 và 12-15 bảng А/Б; đọc gần giống 'У52', độ tin cậy trung bình."
+У53,"IC logic, section — chữ số chục chưa chắc chắn",1,1,"Ảnh RE_tr179_a175.jpg, giữa chuỗi hàng 8-15 bảng А/Б; đọc gần giống 'У53', độ tin cậy trung bình."
+У54,"IC logic, section .1/.2",1,1,"Ảnh RE_tr179_a175.jpg, đầu chuỗi hàng 8-11 bảng А/Б."
+У56,"IC logic, section — nhãn chỉ đọc được 1 phần '456.?'",1,1,"Ảnh RE_tr179_a175.jpg, đầu chuỗi hàng 12-15 bảng А/Б; chữ số sau dấu chấm không đọc được do mép ảnh."
+У61,"IC logic, section .2/.3",1,1,"Ảnh RE_tr179_a175.jpg, vùng mạch phân cực transistor (gần У63)."
+У62,"IC logic, section .3",1,1,"Ảnh RE_tr179_a175.jpg, vùng mạch phân cực transistor (gần У63)."
+У63,"Cụm 2 transistor (loại không in), có khung bao quanh",1,1,"Ảnh RE_tr179_a175.jpg, góc dưới-phải; 2 ký hiệu transistor NPN (hình tròn+mũi tên) trong 1 khung kẻ, chân 12/4/5/11 vào, 3/10 ra; đưa tín hiệu ra 'Исправн.ключ'(П1/39), 'Исправн.ТТЛ'(П1/38), 'Исправн.'(П1/40). LƯU Ý: đề bài ban đầu gọi cụm này là 'У3' nhưng ảnh đọc trực tiếp là 'У63' — ghi nhận sai khác này, KHÔNG dùng tên 'У3' vì không thấy chữ đó trên ảnh."
+R18,Резистор (trị số Ω không in),1,1,"Ảnh RE_tr179_a175.jpg, đầu vào cụm У63, nối tụ C7."
+R19,Резистор (trị số Ω không in) — vị trí đọc chưa chắc chắn,1,1,"Ảnh RE_tr179_a175.jpg, gần R18/C6 trong cụm phân cực У63; nhãn mờ ở ảnh tổng quan, chưa có crop riêng xác nhận."
+R20,Резистор (trị số Ω không in),1,1,"Ảnh RE_tr179_a175.jpg, vùng giữa-phải, nhãn 'б 1 R20 2 3' 'П3/36(2)/Эоп' dẫn vào У5.1."
+R21,Резистор (trị số Ω không in) — vị trí đọc chưa chắc chắn,1,1,"Ảnh RE_tr179_a175.jpg, gần R19/C6; chưa có crop riêng xác nhận."
+R23,Điện trở hoặc nhãn điểm nối 'Р23/2' — chưa phân biệt chắc chắn,1,1,"Ảnh RE_tr179_a175.jpg; chữ 'R23/2' (hay 'Р23/2') xuất hiện ở đầu ra chân 12 của dãy diode У45, dẫn tới nhãn '3,3В'. KHÔNG vẽ ký hiệu điện trở (hình chữ nhật) tại vị trí này — có thể đây là NHÃN SỐ TIẾP ĐIỂM/ĐƯỜNG DÂY chứ không phải linh kiện điện trở thật; ghi vào BOM thận trọng với cảnh báo này, KHÔNG khẳng định là điện trở vật lý."
+R29,Điện trở hoặc nhãn điểm nối 'Р29/2' — chưa phân biệt chắc chắn,1,1,"Ảnh RE_tr179_a175.jpg; tương tự R23 nhưng ở đầu ra dãy diode У64. Cùng cảnh báo: có thể là nhãn tiếp điểm, không phải điện trở vật lý vẽ ký hiệu."
+C1,Конденсатор (trị số không in),1,1,"Ảnh RE_tr179_a175.jpg, hàng tụ đáy trang, nối thanh а/б."
+C2,Конденсатор (trị số không in),1,1,"Ảnh RE_tr179_a175.jpg, hàng tụ đáy trang, nối thanh а/б."
+C3,Конденсатор (trị số không in),1,1,"Ảnh RE_tr179_a175.jpg, hàng tụ đáy trang, nối thanh а/б."
+C4,Конденсатор (trị số không in),1,1,"Ảnh RE_tr179_a175.jpg, hàng tụ đáy trang, nối thanh а/б."
+C5,"Конденсатор có cực (+), trị số không in",1,1,"Ảnh RE_tr179_a175.jpg, tụ riêng biệt cạnh C1-C4, có dấu '+', nối thanh а/б."
+C6,Конденсатор (trị số không in) — vị trí đọc chưa chắc chắn,1,1,"Ảnh RE_tr179_a175.jpg, gần R19/R21 vùng phân cực У63; chưa có crop riêng, đọc từ ảnh tổng quan độ phân giải thấp hơn."
+C7,"Конденсатор có cực (+), trị số không in",1,1,"Ảnh RE_tr179_a175.jpg, nối R18, nạp cho cụm У63."
+У58,"IC logic, section .1/.2",1,2,"Ảnh RE_trXXX_a075.jpg, góc trên-trái, tách biệt khỏi lưới chính; .1 nhận 'П2/29/ИВЧ' ra 'П3/43/ИВЧ'; .2 nhận 'П3/7/Чт'."
+У31,"IC logic 4-section (.1-.4), tầng 1 của khối giải mã hàng 0-3",1,2,"Ảnh RE_trXXX_a075.jpg, lưới IC chính, nhận trực tiếp từ các dòng vào 0,1,2,3 bên trái."
+У29,"IC logic 4-section (.1-.4), tầng 2 khối hàng 0-3",1,2,"Ảnh RE_trXXX_a075.jpg, nhận từ У31, ra nhãn số '0,1,2,3'."
+У27,"IC logic 4-section (.1-.4), tầng 3 khối hàng 0-3",1,2,"Ảnh RE_trXXX_a075.jpg, nhận từ У29."
+У23,"IC logic, section .1/.2, tầng ra khối hàng 0-3",1,2,"Ảnh RE_trXXX_a075.jpg, nhận từ У27, feeding tiếp ra bên phải."
+У24,"IC logic, section .1, tầng ra khối hàng 0-3",1,2,"Ảnh RE_trXXX_a075.jpg, tiếp sau У23."
+У32,"IC logic 4-section (.1-.4), tầng 1 khối hàng 4-7",1,2,"Ảnh RE_trXXX_a075.jpg, nhận từ dòng vào 4,5,6,7."
+У30,"IC logic 4-section (.1-.4), tầng 2 khối hàng 4-7",1,2,"Ảnh RE_trXXX_a075.jpg, nhận từ У32."
+У28,"IC logic 4-section (.1-.4), tầng 3 khối hàng 4-7",1,2,"Ảnh RE_trXXX_a075.jpg, nhận từ У30."
+У25,"IC logic, section .1/.2, tầng ra khối hàng 4-7",1,2,"Ảnh RE_trXXX_a075.jpg, nhận từ У28."
+У26,"IC logic, section .1/.2, tầng ra khối hàng 4-7",1,2,"Ảnh RE_trXXX_a075.jpg, tiếp sau У25."
+У44b,"IC logic, section .4, đầu khối hàng 8 — trang 2, tên trùng У44 trang1",1,2,"Ảnh RE_trXXX_a075.jpg; nhãn đọc 'У44.4' ở mép dưới ảnh s2_icgrid_top.jpg. TRÙNG số với 'У44' đã ghi ở trang 1 (page=1) — có thể là đánh số độc lập theo từng trang (không phải cùng vật lý) hoặc đọc nhầm; KHÔNG gộp 2 dòng BOM vì chưa xác nhận là cùng ref thực. Vì checker yêu cầu ref duy nhất, trang 2 ghi 'У44b' — ĐÂY VẪN LÀ 'У44' trên ảnh gốc, hậu tố 'b' chỉ là giải pháp tránh đụng độ khoá BOM."
+У39,"IC logic 4-section (.1-.4), tầng khối hàng 8-11 — chữ số chục chưa chắc chắn",1,2,"Ảnh RE_trXXX_a075.jpg; đọc gần giống 'У39', độ phân giải ảnh gốc thấp ở vùng này (scale 640x807), độ tin cậy trung bình."
+У37,"IC logic 4-section (.1-.4), tầng khối hàng 8-11 — chữ số chục chưa chắc chắn",1,2,Ảnh RE_trXXX_a075.jpg; tương tự У39 về độ tin cậy.
+У33,"IC logic, section .2, tầng ra khối hàng 8",1,2,"Ảnh RE_trXXX_a075.jpg, nhãn '433.2' ở rìa phải lưới IC."
+У41,"IC logic, section .1/.2/.3 — chữ số chục chưa chắc chắn",1,2,"Ảnh RE_trXXX_a075.jpg, khối hàng 8-11 tiếp theo У39/У37; độ tin cậy trung bình."
+У34,"IC logic, section .1, tầng ra khối hàng 8-11",1,2,Ảnh RE_trXXX_a075.jpg.
+У40,"IC logic 4-section (.1-.4), tầng khối hàng 12-15",1,2,Ảnh RE_trXXX_a075.jpg.
+У38,"IC logic 4-section (.1-.4), tầng khối hàng 12-15",1,2,Ảnh RE_trXXX_a075.jpg.
+У35,"IC logic, section .1/.2, tầng ra khối hàng 12-15",1,2,Ảnh RE_trXXX_a075.jpg.
+У36,"IC logic, section .1, tầng ra khối hàng 12-15",1,2,Ảnh RE_trXXX_a075.jpg.
+Д1,Диод (loại không in) — ref riêng của trang 2,1,2,"Ảnh RE_trXXX_a075.jpg, gần R22 ở rìa phải lưới IC (ref CÓ THỂ trùng số với Д1 ở các tấm khác trong kho — không liên quan tới dữ liệu này, không gộp)."
+R22,Резистор (trị số Ω không in),1,2,"Ảnh RE_trXXX_a075.jpg, cạnh Д1, rìa phải lưới IC."
+У18,"IC logic, section .1",1,2,"Ảnh RE_trXXX_a075.jpg, góc dưới-trái, đầu mạng điện trở R24-R33; feeding R24,R25,R26."
+У19,"IC logic, section .1",1,2,"Ảnh RE_trXXX_a075.jpg, tiếp theo У18.1, nhãn vào 'П3/33/Зап'; feeding R27,R28."
+У20,"IC logic, section .1",1,2,"Ảnh RE_trXXX_a075.jpg, tiếp theo У19.1, nhãn vào 'П3/29/Выд.ПК2'; feeding R29,R30,R31."
+У21,"IC logic, section .1 — SUY RA theo trình tự, chưa zoom riêng xác nhận nhãn",1,2,"Ảnh RE_trXXX_a075.jpg, box thứ 4 trong chuỗi У18.1→У19.1→У20.1→?, nhãn vào 'П3/34/6оп'; feeding R32,R33. Số thứ tự 'У21' SUY RA từ quy luật tăng dần của 3 IC trước (18,19,20), KHÔNG đọc trực tiếp được chữ số trên ảnh do góc chụp/độ phân giải — ghi nhận là suy luận, không phải đọc trực tiếp."
+R24,Резистор (trị số Ω không in),1,2,Ảnh RE_trXXX_a075.jpg; У18.1 → R24 → 'П1/21/ПК1-1'.
+R25,Резистор (trị số Ω không in),1,2,Ảnh RE_trXXX_a075.jpg; У18.1 → R25 → 'П1/22/ПК1-2'.
+R26,Резистор (trị số Ω không in),1,2,"Ảnh RE_trXXX_a075.jpg; У18.1 → R26 → nhãn 'd' (thanh chung, không phải chân П1 cụ thể)."
+R27,Резистор (trị số Ω không in),1,2,Ảnh RE_trXXX_a075.jpg; У19.1 → R27 → 'П1/24/ПК2-2'.
+R28,Резистор (trị số Ω không in),1,2,Ảnh RE_trXXX_a075.jpg; У19.1 → R28 → 'П1/23/ПК2-1'.
+R29b,"Резистор (trị số Ω không in) — trang 2, tên trùng R29 trang1",1,2,"Ảnh RE_trXXX_a075.jpg; У20.1 → R29 → nhãn 'd'. LƯU Ý: trùng ký hiệu 'R29' với trang 1 (ở đó 'Р29/2' là nhãn tiếp điểm gần dãy diode У64, KHÔNG phải cùng linh kiện) — vì checker yêu cầu ref duy nhất trong BOM, ref trang 2 được ghi 'R29b' để tránh trùng; đây VẪN LÀ 'R29' trên ảnh gốc, hậu tố 'b' chỉ là giải pháp kỹ thuật tránh đụng độ khoá BOM."
+R30,Резистор (trị số Ω không in),1,2,"Ảnh RE_trXXX_a075.jpg; У20.1 → R30 → 'П1/25', nhãn chữ dưới đọc không chắc chắn ('ПКдж' hoặc 'ПКдк', nét chữ nghiêng khó phân biệt)."
+R31,Резистор (trị số Ω không in),1,2,Ảnh RE_trXXX_a075.jpg; У20.1 → R31 → nhãn 'd'.
+R32,Резистор (trị số Ω không in),1,2,"Ảnh RE_trXXX_a075.jpg; У21.1(suy ra) → R32 → 'П1/28', nhãn chữ dưới đọc không chắc chắn ('ПКц1' hoặc 'ПКц4')."
+R33,Резистор (trị số Ω không in),1,2,Ảnh RE_trXXX_a075.jpg; У21.1(suy ra) → R33 → nhãn 'd'.

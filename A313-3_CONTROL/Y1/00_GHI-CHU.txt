@@ -1,0 +1,27 @@
+Y1 — «Формирователь ПК и магистрали», ЕУ2.035.587, рис.10.
+
+Chép PARTIAL 2026-10-25: dataset `ric10_*` trong `tmp/pdfs/review/a313-3/e3/`.
+Nguồn: 2 tờ sơ đồ `RE_tr179_a175.jpg` (tờ 1, trang 179) và `RE_trXXX_a075.jpg`
+(tờ 2, kẹp vật lý tr.79/80, catalogue gọi "tờ #75"). Ảnh `Y1.jpg` là ảnh chụp
+PCB thật (upload GitHub ngoài phiên), KHÔNG dùng làm nguồn chép, chỉ tham khảo.
+
+BOM 82 ref (cả 2 tờ); net 115 dòng (53 truy trực tiếp, 62 placeholder —
+lý do chủ yếu là KHỐI LƯỢNG linh kiện lớn (~82 ref/2 tờ), không phải một vết
+hỏng ảnh cụ thể như các tấm khác); bảng đầu nối: `П3` (48 dòng, designator đọc
+trực tiếp, xác nhận qua spot-check độc lập) + 2 bảng phụ chưa rõ designator
+`П3-right-1`/`П3-right-2` (mép phải trang bị cắt khỏi khung ảnh khi chụp).
+`check_ric10.py` PASS (coordinator chạy lại độc lập, khớp).
+
+Spot-check độc lập của coordinator: xác nhận cấu trúc khối У63 (2 transistor,
+3 tín hiệu lỗi) và bảng П3 (header + 3 dòng đầu khớp đúng); SỬA 1 điểm của
+subagent — designator "П3" THỰC SỰ in trực tiếp trên ảnh, không phải suy luận
+như báo cáo ban đầu.
+
+CHƯA XÁC NHẬN 100%: tờ 1 và tờ 2 có thực sự là cùng một bản vẽ рис.10 hay
+không — bằng chứng ủng hộ khá mạnh (dải số ref không trùng, cùng phong cách
+nhãn П1/П2/П3/xx(1)) nhưng KHÔNG tìm được một cặp nhãn П3/xx khớp trực tiếp
+giữa 2 tờ. Xem `ric10_mota.md` §"Xác nhận hai tờ..." để biết chi tiết.
+
+2 trùng ref cố ý giữ minh bạch (không gộp ngầm): У44/У44b, R29/R29b (hậu tố
+"b" chỉ là giải pháp tránh đụng khoá CSV, trên ảnh gốc cả hai đều ghi không
+có hậu tố).

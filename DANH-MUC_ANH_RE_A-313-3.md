@@ -57,7 +57,7 @@ hoặc khung tên tờ sơ đồ. Cột «Tấm» theo `KE-HOACH_KIEM-TRA_A-313-
 | 7 | Устройство управления преобразованием | Y6 | ~~164–166 (#161–#163); 167 thiếu~~ **THAY 2026-10-24: 3 ảnh chụp lại rõ nét đủ 3 lист** (`A313-3_CONTROL/Y6/RE_trXXX_a255.jpg`…`a257.jpg`), khung tên xác nhận "ЕУ3.057.140 л.N/3" | 168–170 (#164–#166) |
 | 8 | Устройство командного управления | Y5 | 171–172 (#167, #168); **chụp lại rõ nét 2026-10-24: `A313-3_CONTROL/Y5/RE_tr171_a263.jpg`, `RE_tr172_a264.jpg`**, thay ảnh cũ mờ (đã xoá khỏi thư mục làm việc, bản gốc vẫn còn trong `ЕУ.048.002.РЭ(A313-3)/`) | 173–174 (#169, #170) |
 | 9 | Преобразователь цифровых сигналов | Y2 | 175–176 (#171, #172) | 177–178 (#173, #174) |
-| 10 | Формирователь ПК и магистрали | Y1 | 179 (#175) ⚠ + tờ #75 kẹp ở tr.79/80 | 181–183 (#176–#178) |
+| 10 | Формирователь ПК и магистрали | Y1 | **Chép PARTIAL 2026-10-25:** dataset `ric10_*` (82 ref BOM, net 115 dòng — 53 truy trực tiếp/62 placeholder do khối lượng lớn, bảng `П3` 48 dòng + 2 bảng phụ `П3-right-1/2` chưa rõ designator). `check_ric10.py` PASS. Chưa xác nhận 100% tờ 1 (tr.179) và tờ 2 (tờ #75) là cùng một bản vẽ — xem `ric10_mota.md` | 181–183 (#176–#178) |
 | 11 | Плата согласования | Y7 | 184 (#180) | 185 (#179) |
 | 12 | Преобразователь РК II | Y15 | **Chép PARTIAL 2026-10-25:** dùng chung ảnh `A313-3_CONTROL/Y14/RE_tr188_a184.jpg` (byte-identical ở Y15) với Y14; dataset `ric12_13_*`: BOM 42 ref, net 92 dòng (51 truy trực tiếp, 41 placeholder, checker PASS), bảng đầu nối П1 43 dòng. Khối У3-2/3/4 bị gạch chéo X (không lắp), У3-1 riêng phục vụ "Исправн" | 187 (#183) |
 | 13 | Преобразователь РК I | Y14 | như trên — cùng dataset `ric12_13_*`; mã viết tay đọc được trên ảnh phụ (Y15) là "ВШ2.068.054 Э3" | #181 (số viết tay «185» trùng #179) |
