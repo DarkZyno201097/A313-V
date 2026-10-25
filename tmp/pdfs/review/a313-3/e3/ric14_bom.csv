@@ -1,0 +1,27 @@
+ref,name,qty,page,note
+Я1,Ячейка сигнала,1,189,"Ảnh RE_tr189_a268.jpg; ref đọc trực tiếp; là socket/contact-field (16,15,14,13,12,11,10,9,1-8) nối У4/У5/У6 — xem ric14_net.csv. Chân 1-8 truy được (→ bó dây 'a'); chân 9-16 chưa truy do vết ố/nếp gấp ngang giữa trang."
+Я2,Ячейка сигнала,1,189,Ảnh RE_tr189_a268.jpg; ref đọc trực tiếp; cùng cấu trúc socket như Я1. Chân 1-8 truy được; chân 9-16 chưa truy (lý do như Я1).
+Я3,Ячейка команда,1,189,"Ảnh RE_tr189_a268.jpg; ref đọc trực tiếp; cùng cấu trúc socket như Я1/Я2, thêm 1 dây tới ký hiệu nối đất gần chân 9/10 chưa xác định rõ. Chân 1-8 truy được; chân 9-16 chưa truy."
+У1,Устройство/блок схемы,1,189,"Ref thấy trong cụm Ячейка сигнала (khối ở bìa trái dưới trang, nhãn 'Я1,Я2'); đã soi ở độ phóng đại 2x (ric14_ya12_full.png) — không có chữ tên/loại linh kiện in trên sơ đồ, chỉ có số chân 1-14 (trừ 4). Xác nhận cùng tập số chân (1,2,3,5,6,7,8,9,10,11,12,13,14) như У5 → cùng loại module vật lý, nhưng VỊ TRÍ của chân 11 và 14 trên hình vẽ dường như hoán đổi so với У4/У5/У6/У7/У9 (chưa chắc chắn, có thể đọc nhầm chữ số viết tay — xem ric14_net.csv dòng У1.11-14)."
+У3,Устройство/блок схемы,1,189,Ref thấy trong cụm Ячейка сигнала; cùng khối với У1 (xem ghi chú У1). Không có chữ tên/loại linh kiện in trên sơ đồ dù đã soi kỹ.
+У4,Устройство/блок схемы,1,189,"Ref đọc trực tiếp; đã soi ở độ phóng đại 2-3x (ric14_u4_tight.png, ric14_u456.png) — không có chữ tên/loại linh kiện. Xác nhận tập chân giống У5 (1,2,3,5,6,7,8,9,10,11,12,13,14). Chân phải nối lên У5 (trái), chân trái nối xuống cụm socket Я1/Я2/Я3 — xem ric14_net.csv."
+У5,Устройство/блок схемы,1,189,"Ref đọc trực tiếp; đã soi kỹ (ric14_u5_bridge.png 8x) — không có chữ tên/loại linh kiện. Chân 2,3,6,7,8,9 đã truy chi tiết trong ric14_net.csv (đã SỬA một lỗi gộp nhầm chân 2↔6 của phiên trước)."
+У6,Устройство/блок схемы,1,189,"Ref đọc trực tiếp; đã soi (ric14_u6_bridge.png 8x) — không có chữ tên/loại linh kiện. Chân 3,6 (và nghi vấn 2,7) đã truy ra nhánh 29/30 → Р2/Р3 → thanh +6,3В — xem ric14_net.csv."
+У7,Устройство/блок схемы,1,189,"Ref đọc trực tiếp trong cụm Ячейка команд; đã soi kỹ (ric14_ya3_full.png, ric14_ya3_top_left.png) — không có chữ tên/loại linh kiện. Chân 1,5,10,12 đã truy qua hàng diode không-đánh-ref → Р8-Р11 → tiếp điểm ngoài 1-4; chân 9 → tiếp điểm 16. Xem ric14_net.csv."
+У9,Устройство/блок схемы,1,189,"Ref đọc trực tiếp trong cụm Ячейка команд; cùng khối với У7. Chân 1,5,10,12 đã truy qua diode → Р12-Р15 → tiếp điểm 5-8; chân 3,2,6,9,13 → tiếp điểm 15,14,13,12,11; chân 11 chung nút với Д1. Xem ric14_net.csv."
+Р1,Резистор,1,189,"Ref thấy trực tiếp trong nhánh У5; ĐÃ TRUY ĐẦY ĐỦ 2 đầu: trái = nhánh 28 (У5 chân 6+9), phải = thanh б (+6,3В). Đã soi kỹ ở nhiều độ phóng đại (ric14_right_rail.png) — KHÔNG có chữ trị số (Ω) in trên sơ đồ, chỉ có ref 'Р1'."
+Р2,Резистор,1,189,"Ref thấy trực tiếp ở nhánh У6; ĐÃ TRUY ĐẦY ĐỦ 2 đầu: trái = nhánh 29 (У6 chân 3, nghi ngờ thêm 2/7), phải = thanh б (+6,3В). Không có chữ trị số trên sơ đồ dù đã soi kỹ."
+Р3,Резистор,1,189,"Ref thấy trực tiếp ở nhánh У6; ĐÃ TRUY ĐẦY ĐỦ 2 đầu: trái = nhánh 30 (У6 chân 6), phải = thanh б (+6,3В). Không có chữ trị số trên sơ đồ."
+Р4,Резистор,1,189,"Ref thấy trực tiếp ở lề phải nhánh đầu ra; ĐÃ TRUY: phải = thanh б (+6,3В); trái = nhánh 31 (nguồn phía trên chưa xác định chân cụ thể — nghi từ socket Я3). Không có chữ trị số."
+Р5,Резистор,1,189,"Ref thấy trực tiếp ở lề phải nhánh đầu ra; ĐÃ TRUY: phải = thanh б (+6,3В); trái = nhánh 32 (nguồn phía trên chưa xác định). Không có chữ trị số."
+Р6,Резистор,1,189,"Ref thấy trực tiếp ở lề phải nhánh đầu ra; ĐÃ TRUY: phải = thanh б (+6,3В); trái = nhánh 33 (nguồn phía trên chưa xác định). Không có chữ trị số."
+Р7,Резистор,1,189,"Ref thấy trực tiếp ở lề phải nhánh đầu ra; ĐÃ TRUY: phải = thanh б (+6,3В); trái = nhánh 34 (nguồn phía trên chưa xác định). Không có chữ trị số."
+Р8,Резистор,1,189,Ref đọc trực tiếp trong cụm Ячейка команд; ĐÃ TRUY: nối từ У7 chân 1 qua diode #1 → ra tiếp điểm ngoài 1 (của Я3). Không có chữ trị số trên sơ đồ dù đã soi kỹ (ric14_ya3_full.png).
+Р9,Резистор,1,189,Ref đọc trực tiếp; ĐÃ TRUY: У7 chân 5 qua diode #2 → ra tiếp điểm ngoài 2. Không có chữ trị số.
+Р10,Резистор,1,189,Ref đọc trực tiếp; ĐÃ TRUY: У7 chân 10 qua diode #3 → ra tiếp điểm ngoài 3. Không có chữ trị số.
+Р11,Резистор,1,189,Ref đọc trực tiếp; ĐÃ TRUY: У7 chân 12 qua diode #4 → ra tiếp điểm ngoài 4. Không có chữ trị số.
+Р12,Резистор,1,189,Ref đọc trực tiếp; ĐÃ TRUY: У9 chân 1 qua diode #5 → ra tiếp điểm ngoài 5. Không có chữ trị số.
+Р13,Резистор,1,189,Ref đọc trực tiếp; ĐÃ TRUY: У9 chân 5 qua diode #6 → ra tiếp điểm ngoài 6. Không có chữ trị số.
+Р14,Резистор,1,189,Ref đọc trực tiếp; ĐÃ TRUY: У9 chân 10 qua diode #7 → ra tiếp điểm ngoài 7. Không có chữ trị số.
+Р15,Резистор,1,189,Ref đọc trực tiếp; ĐÃ TRUY: У9 chân 12 qua diode #8 → ra tiếp điểm ngoài 8; đầu vào chung nút với Д1. Không có chữ trị số.
+Д1,Диод,1,189,"Ref thấy ở cuối nhánh điện trở cụm Ячейка команд; ĐÃ TRUY ĐẦY ĐỦ: đầu vào chung nút với У9 chân 11/12 và đầu vào Р15, đầu ra → tiếp điểm ngoài 9. Không có chữ loại diode in trên sơ đồ dù đã soi ở ric14_ya3_d1.png. LƯU Ý: hàng 8 ký hiệu 'diode-like' phía trên Р8-Р15 KHÔNG có ref riêng trên sơ đồ — không được gán nhầm là Д1."

@@ -1,3 +1,7 @@
-⚠ Y12 và Y13 dùng CHUNG một hình trong tài liệu gốc (Hình 14, trang 191).
-Chưa tách được ranh giới giữa 2 tấm trên ảnh — cùng 2 file được copy vào cả Y12 và Y13.
-Cần chụp rõ hơn + đối chiếu danh mục linh kiện để tách.
+Y12 dùng chung một sơ đồ Э3 với Y13 theo xác nhận của người dùng.
+Ảnh chụp rõ: `RE_tr189_a268.jpg` (trang viết tay 189; mã ghi trên ảnh
+`ЕУ3.628.121 Э3`), đã copy byte-identical từ ảnh Y13 sang thư mục này.
+Không nhân đôi dataset: dùng chung một bộ chép рис.14 trong `tmp/pdfs/review/a313-3/e3/ric14_*`. Hiện BOM 26 ref; net 111 dòng (90 truy trực tiếp, 21 placeholder, checker PASS); bảng `Контакт / Цепь` đã chép 37 dòng (1–34, 35/A/B), hai hàng 9–10 đã chốt là `Выход У5 синх/осн`. `Рис.14` trong cột table chỉ là khóa bộ dữ liệu; bản vẽ không ghi mã đầu nối.
+Ảnh cũ #186/#187 còn giữ làm tham khảo; không dùng chúng làm nguồn sơ đồ đã xác nhận.
+Mã tấm Y12 được ghi riêng theo bảng Э4 là `ЕУ3.628.122`; mã trên sơ đồ chung
+không tự chứng minh mã tấm vật lý Y12.

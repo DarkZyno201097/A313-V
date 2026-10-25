@@ -16,10 +16,10 @@ Khớp đúng trang cũ (202/203), chỉ là bản chụp lại rõ hơn + đủ
 Ảnh cũ RE_tr202_a204.jpg, RE_tr203_a205.jpg đã XOÁ (bản gốc scan tổng vẫn
 còn trong ЕУ.048.002.РЭ(A313-3)/ nếu cần đối chiếu).
 
-File phụ: anh-bo-mach-that_2026-10-24.jpg — ảnh chụp BO MẠCH THẬT (không
-phải sơ đồ giấy), thấy nhãn in trên board (một phần "...8.242.113"), hữu
-ích để đối chiếu linh kiện thật nhưng KHÔNG theo quy tắc đặt tên RE_tr_a
-(quy tắc đó chỉ dành cho ảnh chụp bản giấy).
+Ảnh bo mạch thật: Y11.jpg — ảnh chụp BO MẠCH THẬT (không phải sơ đồ giấy),
+thấy nhãn in trên board (một phần "...8.242.113"), hữu ích để đối chiếu linh
+kiện thật. Giữ tên Y11.jpg theo quy ước ảnh bo mạch trên GitHub; không áp dụng
+quy tắc RE_tr_a (chỉ dành cho ảnh chụp bản giấy).
 
 Trạng thái: đang chép (xem tmp/pdfs/review/a313-3/e3/ric17_* — рис.17 =
 Y11 theo DANH-MUC_ANH_RE_A-313-3.md §2).

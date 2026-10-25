@@ -65,8 +65,8 @@ Cột "Thay thế tạm" là bản vẽ khác trong repo có thể dùng tạm:
 
 | Vị trí | Tên                                                          | Số hiệu        | Sơ đồ nguyên lý ([A3])  | Danh mục LK     | Thay thế tạm trong repo                                                      | Cần anh/chị bổ sung              |
 | -------- | ------------------------------------------------------------- | ---------------- | ---------------------------- | ---------------- | ------------------------------------------------------------------------------ | ----------------------------------- |
-| Y12      | Bộ chuyển mạch cửa vào (1)                               | ЕУ3.628.121 ⚠ | Hình 14 — **thiếu** | **thiếu** | ◐ A313-V.02: gộp 2 tấm làm 1, thêm tầng U2/U14 ([TK] §3.2)              | Э3 + danh mục; lắp ráp Hình 32 |
-| Y13      | Bộ chuyển mạch cửa vào (2)                               | ЕУ3.628.122 ⚠ | Hình 14 — **thiếu** | **thiếu** | ◐ như trên                                                                  | như trên                          |
+| Y12      | Bộ chuyển mạch cửa vào (1)                               | ЕУ3.628.122 | Hình 14 — ảnh chung đã có (`RE_tr189_a268.jpg`), chép PARTIAL | BOM 26 ref; net 111 dòng (90 truy trực tiếp, 21 placeholder, checker PASS); bảng chân `ric14_conn.csv` 37 dòng (1–34, 35/A/B) đã chốt đủ, kể cả hàng 9–10 | ◐ A313-V.02: gộp 2 tấm làm 1, thêm tầng U2/U14 ([TK] §3.2) | sơ đồ Э3 dùng chung với Y13; mã trên ảnh là .121 |
+| Y13      | Bộ chuyển mạch cửa vào (2)                               | ЕУ3.628.121 | Hình 14 — ảnh chung đã có (`RE_tr189_a268.jpg`), chép PARTIAL | BOM 26 ref; net 111 dòng (90 truy trực tiếp, 21 placeholder, checker PASS); bảng chân `ric14_conn.csv` 37 dòng (1–34, 35/A/B) đã chốt đủ, kể cả hàng 9–10 | ◐ như trên | lắp ráp Рис.32 xác nhận mã .121 |
 | Y9       | Các bộ tích phân (gồm tầng mux K)                       | ЕУ3.072.043    | Hình 15 — **thiếu** | **thiếu** | ◐ A313-V.03 (ЦУС, tầng K đúng cấu trúc gốc)                          | Э3 + danh mục                     |
 | Y8       | Bộ biến đổi                                               | ЕУ3.036.157    | Hình 16 — **thiếu** | **thiếu** | ✅ A313-V.04: cùng topo **và cùng số hiệu** với mô tả Y8 (§1.4) | Э3 để chốt                      |
 | Y11      | Bộ chuyển mạch cửa ra (АЗУ 49 ô)                      | ЕУ2.242.113    | Hình 17 — **thiếu** | **thiếu** | ✅ A313-V.05 chép theo У11 ([TMKT] §6.4)                                    | Э3 để chốt                      |
@@ -91,10 +91,8 @@ Cột "Thay thế tạm" là bản vẽ khác trong repo có thể dùng tạm:
 
 ⚠ **Lệch số hiệu trong chính [A3]:**
 
-- Bảng 6 ghi Y12 = ЕУ3.628.121, Y13 = ЕУ3.628.122; danh mục Hình 3 ghi ngược lại (u12 = .122,
-  u13 = .121), và bản dịch còn ghi nhầm u13 là "chuyển mạch cửa **ra**".
-- Y24: Bảng 7 ghi ЕУ3.215.139, danh mục Hình 3 ghi ЕУ2.072.139.
-- ⇒ Đọc số hiệu trên nhãn tấm thật để chốt.
+- Bảng 6 [A3] ghi Y12 = ЕУ3.628.121, Y13 = ЕУ3.628.122; sơ đồ đấu nối cấp khối tr.142 và bản vẽ lắp ráp Рис.32 xác nhận ngược lại: Y12 = ЕУ3.628.122, Y13 = ЕУ3.628.121. Người dùng xác nhận hai tấm dùng chung một sơ đồ Э3; ảnh mới trang tay 189 ghi mã .121 và được lưu a268 cho cả hai thư mục. Giữ mã tấm riêng theo nguồn Э4/lắp ráp; mã ghi trên sơ đồ chung không đổi danh tính tấm Y12.
+- Y24: Bảng 7 ghi ЕУ3.215.139, danh mục Hình 3 ghi ЕУ2.072.139 — vẫn chưa chốt.
 
 **Tài liệu ngoài tập A-313-3 cũng cần** (được nhắc trong [A1] §2.4):
 

@@ -1,2 +1,6 @@
-⚠ Y12 và Y13 dùng CHUNG một hình (xem ghi chú trong thư mục Y12).
-Ảnh bố trí (lắp ráp) Рис.32 đã đọc rõ, xác nhận mã ЕУ3.628.121 cho Y13.
+Y12 và Y13 dùng chung một sơ đồ Э3 theo xác nhận của người dùng.
+Ảnh chụp rõ mới: `RE_tr189_a268.jpg` (trang viết tay 189; mã ghi trên ảnh
+`ЕУ3.628.121 Э3`). Cùng một file được copy byte-identical vào thư mục Y12;
+chỉ duy trì một bộ dữ liệu chép рис.14 trong `tmp/pdfs/review/a313-3/e3/ric14_*`. Hiện BOM 26 ref; net 111 dòng (90 truy trực tiếp, 21 placeholder, checker PASS); bảng `Контакт / Цепь` đã chép 37 dòng (1–34, 35/A/B), hai hàng 9–10 đã chốt là `Выход У5 синх/осн`. `Рис.14` trong cột table chỉ là khóa bộ dữ liệu; bản vẽ không ghi mã đầu nối.
+Ảnh cũ #186/#187 được giữ tham khảo, không còn dùng làm nguồn sơ đồ đã xác nhận.
+Ảnh bố trí (lắp ráp) Рис.32 vẫn xác nhận mã tấm Y13 là `ЕУ3.628.121`.

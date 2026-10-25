@@ -100,7 +100,7 @@ nối vỏ tại đầu cắm 3Ш3**.
 
 * **5 В 400 Hz đi vào bộ chuyển mạch vào:** 3Ш5/12 «~5В 400Гц Ф.А» → У16КП2/49 → У12 (Вход 12) (chân 11/12 của 3Ш5 nằm trên nếp gấp,
   chưa chắc). Giả thuyết: điện áp chuẩn xoay chiều cho kênh tự kiểm của mux vào, cùng nguồn với `УПР.МОД`
-  (CLAUDE.md §4.6) — cần Э3 của Y12 (рис.14) để chốt.
+  (CLAUDE.md §4.6) — ảnh Э3 chung Y12/Y13 có tại `A313-3_CONTROL/Y12/RE_tr189_a268.jpg` (mã trên ảnh ЕУ3.628.121 Э3). Bộ `ric14_*` đã chép mở rộng: BOM 26 ref, net 111 dòng (90 truy trực tiếp, checker PASS). Bảng `Контакт / Цепь` 37 dòng đã chốt đủ, kể cả hàng 9/10 (`Выход У5 синх/осн`). Chưa đủ dữ liệu để chốt nguồn/đường đi của tín hiệu 5 В 400 Hz.
 * **~36 В 400 Hz** vào 3Ш4/55 (pha A) và 3Ш4/56 (pha C), đi tiếp 3Ш5/33, 3Ш5/25 (dây xoắn) sang khối nguồn — giống
   A313-V.
 * **Tín hiệu bị bỏ khi chế tạo:** 3Ш2/28–31 và 3Ш4/42–45 «ВНЕШН. ПРЕРЫВ.», 3Ш4/36–41 (ВИ, 35И, 36И, ЗАПРОС Д1/Д2, ДИ)

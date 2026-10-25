@@ -23,9 +23,9 @@ Tên ảnh: `<SÁCH>_tr<TRANG>_a<SỐ ẢNH>[_<hậu tố>].<đuôi>`.
   Hậu tố tùy phần chụp: `_L` = nửa trái, `_R` = nửa phải, `_kt` = khung tên, `_cl` = cận cảnh.
   Ví dụ `RE_tr167_a250_L.jpg`, `RE_tr167_a251_R.jpg`, `RE_tr167_a252_kt.jpg`.
   Chỉ điền trang khi đọc được từ bản giấy; chưa rõ dùng `trXXX`.
-  **Số `a` cao nhất đã dùng tính đến 2026-10-24: `a267`** (Y4 a250-251, Y3 a252-254, Y6 a255-257,
-  Y16 a258-262, Y5 a263-264, Y9 a265, Y11 a266-267 — ảnh bổ sung không ghi vào `_DOI-TEN.csv`, chỉ cần theo đúng mẫu tên + không trùng số).
-  Ảnh tiếp theo bắt đầu từ **a268**.
+  **Số `a` cao nhất đã dùng tính đến 2026-10-25: `a268`** (Y4 a250-251, Y3 a252-254, Y6 a255-257,
+  Y16 a258-262, Y5 a263-264, Y9 a265, Y11 a266-267, Y12/Y13 a268 cùng một ảnh được lưu ở hai thư mục).
+  Ảnh bổ sung tiếp theo bắt đầu từ **a269**.
   Quy tắc này áp dụng cho **mọi ảnh chụp mới từ nay**, không riêng lô 249 ảnh gốc —
   không tự đặt tên khác (vd không dùng tiền tố tự chế như `E3_lisN-M_...`).
 - Tên `a2xx` ở §4 là **mẫu dự kiến**, thay bằng số ảnh tiếp theo khi nhập ảnh; không phải tên file đã tồn tại.
@@ -61,7 +61,7 @@ hoặc khung tên tờ sơ đồ. Cột «Tấm» theo `KE-HOACH_KIEM-TRA_A-313-
 | 11 | Плата согласования | Y7 | 184 (#180) | 185 (#179) |
 | 12 | Преобразователь РК II | Y15 | #184 (mạch rơ-le РК/Упр, chưa rõ 12 hay 13) | 187 (#183) |
 | 13 | Преобразователь РК I | Y14 | như trên | #181 (số viết tay «185» trùng #179) |
-| 14 | (mux vào) | Y12/Y13 | 191 (#186), #187 | ⚠ chưa thấy (có thể tr.188–190 thiếu) |
+| 14 | (mux vào; dùng chung cho Y12/Y13 theo xác nhận người dùng) | Y12/Y13 | **Ảnh chụp lại rõ 2026-10-25:** tr.189 `A313-3_CONTROL/Y13/RE_tr189_a268.jpg` + bản sao tại Y12; mã ghi trên ảnh ЕУ3.628.121 Э3. Chép PARTIAL (mở rộng 2026-10-25): `ric14_bom.csv` 26 ref; `ric14_net.csv` 111 dòng (90 truy trực tiếp, 21 placeholder, `check_ric14.py` PASS); bảng `Контакт / Цепь` trong `ric14_conn.csv` 37 dòng (1–34, 35/A/B) đã chốt đủ. Vùng chưa truy: Я1-3 chân 9–16 (vết ố/nếp gấp giấy thật), phần lớn У4 và У1/У3 (giới hạn thời gian của subagent, không phải giới hạn ảnh) | ПЭ riêng chưa thấy; BOM sơ bộ đã có trong `ric14_bom.csv` |
 | 15 | Интегратор | Y9 | **XÁC ĐỊNH 2026-10-24: `A313-3_CONTROL/Y9/RE_tr191_a265.jpg`**, mã viết tay "ЕУ3.072.043 Э3" (đọc là "04373", "Э3" dễ nhầm "73"), trang 191 ngay trước ПЭ | 192–196 (#189–#193) |
 | 16 | Преобразователь | Y8 | 197 (#195/#196/**#199 nét nhất**) | 198–201 (#200–#203) |
 | 17 | (chuyển mạch ra, Выход 1а…24а) | Y11 | **ẢNH THAY 2026-10-24 (rõ nét, đủ cả tờ): `A313-3_CONTROL/Y11/RE_tr202_a266.jpg` (л.1/2, mã ЕУ2.242.113), `RE_tr203_a267.jpg` (л.2/2)** | 204–205 (#206, #207) |
@@ -113,7 +113,6 @@ xác nhận chỗ «Hình 13?» trong kế hoạch.
    | 167 | `RE_tr167_a2xx.jpg` |
    | 180 | `RE_tr180_a2xx.jpg` |
    | 188 | `RE_tr188_a2xx.jpg` |
-   | 189 | `RE_tr189_a2xx.jpg` |
    | 190 | `RE_tr190_a2xx.jpg` |
    | 211 | `RE_tr211_a2xx.jpg` |
    | 220 | `RE_tr220_a2xx.jpg` |
@@ -133,7 +132,7 @@ xác nhận chỗ «Hình 13?» trong kế hoạch.
    #231 (`RE_trXXX_a231.heic`), #246 (`RE_trXXX_a246.heic`), #247 (`RE_trXXX_a247.jpg`),
    #249 (`RE_trXXX_a249.jpg`).
 
-## 5. Ảnh chụp bổ sung 2026-10-24 (lưu trong `A313-3_CONTROL/`, không chép vào thư mục RE)
+## 5. Ảnh chụp bổ sung (lưu trong `A313-3_CONTROL/`, không chép vào thư mục RE)
 
 | Số | File | Hình / tờ | Thay cho |
 |---|---|---|---|
@@ -142,6 +141,7 @@ xác nhận chỗ «Hình 13?» trong kế hoạch.
 | a252 | `A313-3_CONTROL/Y3/RE_trXXX_a252.jpg` | рис.6 (Y3) tờ 1/3 | #231, #232 |
 | a253 | `A313-3_CONTROL/Y3/RE_tr160_a253.jpg` | рис.6 (Y3) tờ 2/3 | #157 |
 | a254 | `A313-3_CONTROL/Y3/RE_tr161_a254.jpg` | рис.6 (Y3) tờ 3/3 | #158 |
+| a268 | `A313-3_CONTROL/Y13/RE_tr189_a268.jpg` + bản sao `A313-3_CONTROL/Y12/RE_tr189_a268.jpg` | Sơ đồ chung Y12/Y13 theo xác nhận người dùng; trang tay 189, mã trên ảnh ЕУ3.628.121 Э3 | thay nguồn cũ #186/#187 cho việc chép sơ đồ |
 
 Ảnh chụp phẳng, đủ mép và khung, độ phân giải 1926×2568 (a252: 1536×2048). Bản cũ #155–#158, #231, #232 vẫn giữ
 trong thư mục RE (chỉ xoá bản sao trong `A313-3_CONTROL/Y3/`).
