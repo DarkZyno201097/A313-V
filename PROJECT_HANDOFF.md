@@ -364,3 +364,6 @@ Dhash toàn ảnh bỏ sót tờ cắt/xoay; số hình VT28 chạy lại theo p
 - Nguồn RE_tr206_a208 (nét hơn ảnh chụp lại); ПЭ a209/a210. `ric18_*`: BOM 82, net 425, П1 53; e3_check PASS (đã thêm 18 vào tuple), `e3_vs_e4.py 18 У10` = 39/4/0/1 (thêm У10 → p148.csv).
 - Cùng topo A313-V.06. Phát hiện: М/~М = «УПР МОД.1/2» (Э4); ПЭ R24 = 2,05 kΩ; đế 168КТ2 → +6,3/+3,5 В (khác .06 thả nổi).
 - Còn `?`: tên net đất ⊥, vài số chân (mota §5), C14–C16 không có trong ПЭ.
+
+## 16. Y21 (рис.22) ảnh chụp lại (Claude, 2026-10-25)
+- Thay bản sao #221 trong A313-3_CONTROL/Y21 bằng ảnh rõ `RE_tr221_a270.jpg` (điểm ảnh y như file 1792809368073…, chỉ thêm EXIF xoay). Xác nhận chấm nối lá 7 ↔ C5…C8 (N13), nhãn Д2, R16; Пр1 «1А» vs перечень «2А» vẫn mâu thuẫn. e3_check PASS.

@@ -18,7 +18,7 @@ AUTO = '<!-- AUTO: sinh bởi tools/kb_check.py, không sửa tay dưới dòng 
 
 # Y, tên Nga, số hiệu, рис. (Э3), tiền tố file ric, tương đương A313-V, vai trò [nguồn]
 TAM = [
-    ('Y1', 'Формирователь ПК и магистрали', 'ЕУ2.035.587', '10', None, '.01 (FPGA)',
+    ('Y1', 'Формирователь ПК и магистрали', 'ЕУ2.035.587', '10', 'ric10', '.01 (FPGA)',
      'Tạo và thu mã nối tiếp ПК từ thanh ghi РПР; điều khiển bus chính КШЗп/КШЧт sang A-313-2A [HDSD A-313-3 §2.2.1].'),
     ('Y2', 'Преобразователь цифровых сигналов', 'ВШ3.036.056', '9', 'ric09', '.01 (FPGA)',
      'Biến đổi tín hiệu số: tần số / cự ly → mã (bộ đếm СчД) [HDSD A-313-3 §2.2.1; KE-HOACH §1.1].'),

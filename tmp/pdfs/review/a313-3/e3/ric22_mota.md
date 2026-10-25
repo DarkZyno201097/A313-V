@@ -1,6 +1,6 @@
 # рис.22 — УЛП minus 20 В; 0,3 А (ЕУ3.215.451 Э3), khối У21
 
-Nguồn: ảnh #221 (sơ đồ, trang 221; số cũ gạch «189»), #222 (перечень, «Лист 89», không có số trang viết tay),
+Nguồn: **ảnh chụp lại rõ nét `A313-3_CONTROL/Y21/RE_tr221_a270.jpg` (2026-10-25)**; ảnh cũ #221 (sơ đồ, trang 221; số cũ gạch «189»), #222 (перечень, «Лист 89», không có số trang viết tay),
 #223 (tr.223, Лист 90), #224 (tr.224, Лист 91). Bảng `ric22_bom.csv`, `ric22_net.csv`; số liệu dưới đây do
 `e3_ric2223.py` tính.
 
@@ -54,13 +54,14 @@ Lưu ý: dải chỉnh lên tới 37,8 V chỉ là toán học. Thực tế bị
 
 ## 3. Chưa chắc / thiếu
 
-1. **Giao điểm T9.э ↔ C5…C8 / anode Д2 (N13):** trên ảnh, dây từ lá 7 đến emitter T9 cắt đường dọc C5…C8 mà
+1. ~~**Giao điểm T9.э ↔ C5…C8 / anode Д2 (N13)**~~ — **ĐÃ XÁC NHẬN 2026-10-25 trên ảnh a270: có chấm nối** giữa dây lá 7 → T9
+   và đường dọc C5…C8 (đường này lên tới anode Д2). Ghi chú cũ: trên ảnh #221, dây từ lá 7 đến emitter T9 cắt đường dọc C5…C8 mà
    **không thấy chấm nối**. Việc gộp vào N13 là suy theo chức năng: nếu không nối thì ray âm của khâu điều khiển
    không có đường về đầu ra, và lời tả trong HDSD về cảm biến Др3 cũng không thực hiện được. Phải kiểm bằng ohm kế
    trên tấm.
-2. **Nhãn Д2** trên bản vẽ đọc như «12». Ký hiệu D2 lấy theo перечень.
-3. **Nhãn R16** cạnh T9 đọc như «R6»/«R16». Chọn R16 vì R6 đã có ở cặp vi sai.
-4. **Пр1:** bản vẽ ghi «1А», перечень ghi «ВП1-2-**2А** 250В».
+2. ~~**Nhãn Д2**~~ — đọc rõ «Д2» trên a270.
+3. **Nhãn R16** cạnh T9: trên a270 đọc «R16» (hai chữ số chồng nét). Giữ R16.
+4. **Пр1:** bản vẽ ghi «1А» (xác nhận trên a270), перечень ghi «ВП1-2-**2А** 250В» — mâu thuẫn vẫn còn, xem nhãn trên tấm.
 5. **Kол. của Д1/Д2** bị lệch dòng (chỉ thấy một chữ «I»). Giả định mỗi loại 1 cái.
 6. **Перечень #222 không có tiêu đề** («Перечень элементов … (рис.22)»): phần đầu tờ không thấy trong ảnh. Ảnh #222
    cũng không có số trang viết tay. Việc gán #222 cho рис.22 dựa trên: R1…R16 khớp sơ đồ, Лист 89 → 90 → 91 liên tục

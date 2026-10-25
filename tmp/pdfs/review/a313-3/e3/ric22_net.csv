@@ -63,8 +63,8 @@ T6,э,N12,nút chuyển mạch (emitter khoá)
 R13,2,N12,
 R14,2,N12,
 Др2,1,N12,
-Д2,к,N12,
-Д2,а,N13,lá 7 = −20 В trước Др3; nối T9.э↔C5…C8 suy theo chức năng (giao điểm không thấy chấm)
+Д2,к,N12,nhãn «Д2» đọc rõ trên a270
+Д2,а,N13,lá 7 = −20 В trước Др3; nối T9.э↔C5…C8 XÁC NHẬN có chấm nối trên ảnh a270 (chụp lại 2026-10-25)
 Др3,1,N13,
 C5,−,N13,C5…C8 vẽ gộp
 C6,−,N13,
@@ -76,7 +76,7 @@ R6,2,N13,
 Д1,а,N13,
 X,3,X:3 −20В,
 Др3,2,X:3 −20В,
-R16,1,X:3 −20В,
+R16,1,X:3 −20В,nhãn «R16» trên a270 (chồng nét «R6»)
 C10,−,X:3 −20В,
 C11,−,X:3 −20В,
 T9,б,N14,
