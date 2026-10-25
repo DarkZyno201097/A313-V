@@ -11,7 +11,8 @@ from pathlib import Path
 
 D = Path(__file__).parent
 E4_FILES = {"У1": "p150.csv", "У2": "p150.csv", "У3": "p151.csv", "У4": "p151.csv",
-            "У5": "p151.csv", "У6": "p152.csv", "У7": "p152.csv"}
+            "У5": "p151.csv", "У6": "p152.csv", "У7": "p152.csv",
+            "У10": "p148.csv"}
 LAT = str.maketrans("ABCEHKMOPTXYacekmoptxy3", "АВСЕНКМОРТХУасекмортху3")
 
 

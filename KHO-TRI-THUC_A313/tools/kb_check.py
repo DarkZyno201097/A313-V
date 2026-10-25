@@ -37,7 +37,7 @@ TAM = [
      'Bộ biến đổi tương tự–số / số–tương tự (so sánh, bộ phối hợp) [HDSD §2.2.2; KE-HOACH §1.4].'),
     ('Y9', 'Интеграторы', 'ЕУ3.072.043', '15', 'ric15', '.03',
      'Các bộ tích phân có nhớ + tầng mux K, tích phân trước mã hoá [HDSD; ric15_mota].'),
-    ('Y10', 'Усилители выходные', 'ЕУ2.032.463', '18', None, '.06 (◐)',
+    ('Y10', 'Усилители выходные', 'ЕУ2.032.463', '18', 'ric18', '.06 (cùng topo)',
      'Khuếch đại cửa ra 16 kênh, điều chế 400 Hz cho СКТ [HDSD; KE-HOACH §1.2].'),
     ('Y11', 'Коммутатор выходной', 'ЕУ2.242.113', '17', 'ric17', '.05',
      'Chuyển mạch cửa ra / bộ nhớ tương tự 49 ô (Выход 1а…24а) [HDSD; ric17_mota].'),

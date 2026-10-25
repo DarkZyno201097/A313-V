@@ -350,3 +350,8 @@ Dhash toàn ảnh bỏ sót tờ cắt/xoay; số hình VT28 chạy lại theo p
 - **Spot-check độc lập của coordinator** (2 vùng ảnh, tự crop từ `RE_tr188_a184.jpg`, không dùng crop của subagent): xác nhận đúng cấu trúc khối bị gạch X (3 relay У3-2/3/4 cùng các linh kiện Р3/Д3/Р9/Р10/Р12/Р8/Р6, nhãn Режим/П1/42/Корпус/П1/41 khớp) và khối riêng У3-1 (pin14←Исправн/П1/43, pin2→Р13, nhãn Корпус/+5В/П1/1 lân cận) — khớp tốt với báo cáo subagent trên cả hai vùng kiểm tra.
 - Còn tồn: 2 chỗ mâu thuẫn số chân trên chính bản vẽ chưa giải quyết (П1/26 vs П1/27; nhãn dây Упр.В-2/В- vs nhãn trong bảng П1) — subagent cố ý để ngỏ thay vì đoán, ghi rõ trong `ric12_13_mota.md`. Định danh Y14 vs Y15 (14=РК I hay 13=РК I) vẫn còn mâu thuẫn cũ giữa Э4 tr.142 và tr.149 — chưa giải quyết, xem `00_GHI-CHU.txt` Y14/Y15.
 - Đã cập nhật `00_GHI-CHU.txt` Y14/Y15, `KE-HOACH_KIEM-TRA_A-313-3.md`, `DANH-MUC_ANH_RE_A-313-3.md`, Excel danh mục (2 dòng Y14/Y15, lưu+đọc lại xác nhận). `SO-DO-DAU-NOI_E4_A-313-3.md` không có mục Y14/Y15 (phạm vi file này là truy nguồn tín hiệu qua đầu nối E4, Y12/Y13 chỉ được nhắc vì liên quan tín hiệu ~5V 400Hz — không áp dụng cho Y14/Y15) — cố tình không sửa. Chưa commit/push.
+
+## 15. Y10 (рис.18) đã chép (Claude, 2026-10-25)
+- Nguồn RE_tr206_a208 (nét hơn ảnh chụp lại); ПЭ a209/a210. `ric18_*`: BOM 82, net 425, П1 53; e3_check PASS (đã thêm 18 vào tuple), `e3_vs_e4.py 18 У10` = 39/4/0/1 (thêm У10 → p148.csv).
+- Cùng topo A313-V.06. Phát hiện: М/~М = «УПР МОД.1/2» (Э4); ПЭ R24 = 2,05 kΩ; đế 168КТ2 → +6,3/+3,5 В (khác .06 thả nổi).
+- Còn `?`: tên net đất ⊥, vài số chân (mota §5), C14–C16 không có trong ПЭ.

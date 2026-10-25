@@ -73,7 +73,7 @@ def calc():
 KNOWN = {5: 'C3–C8 (tụ lọc nguồn, tờ 1) chưa lần chân', 6: 'C6 có trên Э3 tờ 1, không có trong ПЭ; У15?т1/У16?т1 (tờ 1) và У5-4? (tờ 3) trùng ký hiệu, chưa định danh', 19: 'Д7 có trong перечень, không có trên Э3', 25: 'R28, Д3, Д4 có trong перечень, không có trên Э3 (góc ảnh #233 bị che)'}
 
 if __name__ == '__main__':
-    bad = [nn for nn in (5, 6, 8, 11, 19, 20, 21, 22, 23, 24, 25, 26) if not check(nn)]
+    bad = [nn for nn in (5, 6, 8, 11, 18, 19, 20, 21, 22, 23, 24, 25, 26) if not check(nn)]
     calc()
     assert set(bad) <= set(KNOWN), 'có ngoại lệ mới: %s' % (set(bad) - set(KNOWN))
     for nn in bad:
