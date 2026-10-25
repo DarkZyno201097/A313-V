@@ -1,7 +1,13 @@
 """Sinh ric25_bom.csv và ric25_net.csv cho рис.25 УЛП 5 В 15 А (ЕУ3.215.469 Э3).
-Nguồn: ảnh #233 (sơ đồ, trang 231), #234–#238 (перечень, trang 232–236), #248 (сборочный).
+Nguồn: ảnh #233 (sơ đồ, trang 231, ĐÃ XÓA — thay bằng RE_tr231_a269.jpg rõ nét hơn, soát lại
+2026-10-25), #234–#238 (перечень, trang 232–236), #248 (сборочный).
 Chạy từ gốc repo: python3 tmp/pdfs/review/a313-3/e3/ric25_gen.py
 Kiểm tra chéo + tính giá trị danh định: ric25_tinh.py
+
+Soát lại 2026-10-25 bằng ảnh mới A313-3_CONTROL/Y17/RE_tr231_a269.jpg (thẳng, rõ, không gập
+nếp, không bị giấy che góc trên-trái) — các note có tiền tố "ĐÃ XÁC NHẬN bằng ảnh mới
+RE_tr231_a269.jpg 2026-10-25" là xác nhận/sửa theo ảnh này; các mục ghi "đã thử với ảnh mới,
+vẫn không xác định được" là giới hạn đọc/hiểu mạch chứ không phải ảnh mờ.
 """
 import csv
 from pathlib import Path
@@ -31,14 +37,14 @@ b('R12', 'Резистор С2-23-0,25-330 Ом±10%-Б-Д', 232)
 b('R13', 'Резистор С2-23-0,25-2,7 кОм±10%-Б-Д', 232)
 b('R14', 'Резистор С2-23-0,25-10 кОм±10%-Б-Д', 232)
 b('R15', 'Резистор С2-23-0,25-10 кОм±10%-Б-Д', 232)
-b('R16', 'Резистор С2-23-0,25-1,2 кОм±10%-Б-Д', 232, '? trên Э3 in nhầm «R6» (B-E của T4); gán R16=trên/R17=dưới là SUY ĐOÁN — đo trên tấm')
-b('R17', 'Резистор С2-23-0,25-5,6 кОм±10%-Б-Д', 232, '? trên Э3 in nhầm «R7» (B-E của T5); xem R16')
+b('R16', 'Резистор С2-23-0,25-1,2 кОм±10%-Б-Д', 232, 'ĐÃ XÁC NHẬN bằng ảnh mới RE_tr231_a269.jpg 2026-10-25: nhãn lặp lại cạnh T4/T5 quả thực in lại y hệt «R6»/«R7» (không phải «R16»/«R17»), xác nhận có 2 cặp nhãn trùng tên trên Э3. Gán R16=trên/R17=dưới vẫn chỉ là SUY ĐOÁN theo thứ tự in trong перечень — ảnh không cho thêm căn cứ để phân biệt — đo trên tấm')
+b('R17', 'Резистор С2-23-0,25-5,6 кОм±10%-Б-Д', 232, 'ĐÃ XÁC NHẬN bằng ảnh mới RE_tr231_a269.jpg 2026-10-25: xem R16 — nhãn thật trên Э3 vẫn là «R7» lặp lại, gán R17=dưới vẫn là suy đoán')
 b('R22', 'Резистор С2-23-0,5-24 Ом±10%-Б-Д', 232, 'B-E của T11')
 b('R24', 'Резистор С2-23-0,25-5,6 кОм±10%-Б-Д', 232)
 b('R25', 'Резистор С2-23-0,25-1,5 кОм±10%-Б-Д', 232)
 b('R26', 'Резистор С2-23-0,25-5,1 кОм±10%-Б-Д', 232)
 b('R27', 'Резистор С2-23-0,25-6,8 кОм±10%-Б-Д', 232)
-b('R28', 'Резистор С2-23-0,25-560 Ом±10%-Б-Д', 232, '? KHÔNG thấy nhãn R28 trên Э3; có trên сборочный #248. Nghi = phần tử in «R18» (T14.б ← Др2.1)')
+b('R28', 'Резистор С2-23-0,25-560 Ом±10%-Б-Д', 232, 'ĐÃ XÁC NHẬN bằng ảnh mới RE_tr231_a269.jpg 2026-10-25: vẫn KHÔNG thấy nhãn «R28» trên Э3 dù ảnh rõ hơn nhiều; có trên сборочный #248. Nghi = phần tử in «R18» (T14.б ← Др2.1) — việc khớp giá trị 560 Ом vẫn là suy luận chéo với #248/перечень, trang 231 (Э3) không ghi trị số')
 b('R29', 'Резистор С2-23-0,25-5,1 кОм±10%-Б-Д', 232)
 b('R30', 'Резистор С2-23-0,25-1,5 кОм±10%-Б-Д', 233)
 b('R31', 'Резистор С2-23-0,25-56 Ом±10%-Б-Д', 233, 'cực điều khiển Д31 → корпус')
@@ -60,7 +66,7 @@ b('R46', 'Резистор С2-23-0,25-5,6 кОм±10%-Б-Д', 233)
 b('R47', 'Резистор С2-23-0,25-270 Ом±10%-Б-Д', 233)
 b('R48', 'Резистор С2-23-0,25-1,5 кОм±10%-Б-Д', 233)
 b('R49', 'Резистор С2-23-0,25-100 Ом±10%-Б-Д', 233)
-b('R18', '(không có trong перечень)', 231, '? nhãn đọc rõ «R18» trên Э3 (T14.б ← Др2.1); перечень nhảy R17→R22. Nghi = R28 560 Ом')
+b('R18', '(không có trong перечень)', 231, 'ĐÃ XÁC NHẬN bằng ảnh mới RE_tr231_a269.jpg 2026-10-25: nhãn «R18» đọc RẤT RÕ, không còn nghi ngờ gì, đúng vị trí T14.б ← Др2.1 (giữa R27 và cụm C15/C16/T14/T15); перечень nhảy R17→R22. Nghi = R28 560 Ом (vẫn là suy luận chéo trang 234/#248)')
 b('C2', 'Конденсатор К53-1А-20В-1 мкФ±20% ОЖ0.464.044 ТУ', 233)
 b('C3', 'Конденсатор К53-1А-20В-1 мкФ±20% ОЖ0.464.044 ТУ', 233)
 b('C4', 'Конденсатор К53-1А-20В-1 мкФ±20% ОЖ0.464.044 ТУ', 233)
@@ -81,16 +87,16 @@ b(['C53', 'C54'], 'Конденсатор КМ-5б-Н30-0,047 мкФ±20%-В О�
 b('C55', 'Конденсатор К53-1А-30В-33 мкФ±20% ОЖ0.464.044 ТУ', 234, 'Кол. = 1 (chữ «2 Параллельно» trên dòng C55 thuộc C53,C54 — cột lệch 1 dòng)')
 b('Д1', 'Стабилитрон Д814Д СМ3.362.012 ТУ', 234)
 b('Д2', 'Стабилитрон Д818Д СМ3.362.025 ТУ', 234, 'опорный +5 В')
-b('Д3', 'Диод 2Д510А ТТ3.362.096 ТУ', 234, '? KHÔNG tìm thấy trên Э3')
-b('Д4', 'Диод 2Д202В УЖ3.362.035 ТУ', 234, '? KHÔNG tìm thấy trên Э3')
+b('Д3', 'Диод 2Д510А ТТ3.362.096 ТУ', 234, 'ĐÃ XÁC NHẬN bằng ảnh mới RE_tr231_a269.jpg 2026-10-25: đã soát TOÀN BỘ ảnh (không chỉ góc trên-trái — mọi góc, mép, khe giữa hai khối mạch) — KHÔNG tìm thấy ký hiệu «Д3» ở bất kỳ đâu trên trang 231. Góc trên-trái nay hoàn toàn rõ (không còn bị giấy che) và cũng không có Д3/Д4. Kết luận: Э3 trang này thực sự KHÔNG vẽ Д3 (có trong перечень nhưng không có trên sơ đồ đã chụp — có thể nằm ở một tờ/trang khác không có trong bộ ảnh, hoặc không gắn trên tấm thật)')
+b('Д4', 'Диод 2Д202В УЖ3.362.035 ТУ', 234, 'ĐÃ XÁC NHẬN bằng ảnh mới RE_tr231_a269.jpg 2026-10-25: xem Д3 — đã soát toàn bộ ảnh, KHÔNG tìm thấy «Д4» ở đâu cả, kể cả góc trên-trái nay đã rõ hoàn toàn')
 b(rng('Д', 5, 18), 'Стабилитрон Д817А УЖ3.362.027 ТУ', 234, 'Д5…Д18: 14 шт. параллельно (dùng chiều thuận làm diode thoát/хвостовой + kẹp 56 В)')
-b('Д23', 'Диод 2Д103А ТТ3.362.060 ТУ', 234, 'cái cạnh T24 (khối −6,3 В); trên Э3 còn một nhãn «Д23» thứ hai = Д25')
+b('Д23', 'Диод 2Д103А ТТ3.362.060 ТУ', 234, 'cái cạnh T24 (khối −6,3 В); trên Э3 còn một nhãn «Д23» thứ hai = Д25. ĐÃ XÁC NHẬN bằng ảnh mới RE_tr231_a269.jpg 2026-10-25: cả hai vị trí đọc rất rõ, đúng là Э3 in «Д23» 2 lần')
 b('Д24', 'Диод 2Д510А ТТ3.362.096 ТУ', 234)
-b('Д25', 'Диод 2Д510А ТТ3.362.096 ТУ', 234, '? trên Э3 in «Д23» (cạnh R29/R30); #248 đặt Д25 cạnh R28/R30 ⇒ đọc là Д25')
+b('Д25', 'Диод 2Д510А ТТ3.362.096 ТУ', 234, 'ĐÃ XÁC NHẬN bằng ảnh mới RE_tr231_a269.jpg 2026-10-25: nhãn cạnh R29/R30 đọc rõ ràng vẫn ghi «Д23» (không phải «Д25») — xác nhận Э3 in trùng tên; gán = Д25 vẫn dựa theo vị trí trên #248 (perechen), không đổi')
 b('Д31', 'Тиристор 2У202И УЖ3.362.022 ТУ', 235, 'crowbar +5 В')
 b('Д32', 'Стабилитрон 2С147А СМ3.362.805 ТУ', 235, 'на плате ВШ6.730.530 (#249)')
 b('Д33', 'Стабилитрон Д818Д СМ3.362.025 ТУ', 235, 'опорный −6,3 В')
-b(rng('Д', 34, 41), 'Диод 2Д510А ТТ3.362.096 ТУ', 235, 'Д34…Д41: 8 шт. параллельно; trên Э3 ghi «Д34…Д40»')
+b(rng('Д', 34, 41), 'Диод 2Д510А ТТ3.362.096 ТУ', 235, 'Д34…Д41: 8 шт. параллельно; trên Э3 ghi «Д34…Д40». ĐÃ XÁC NHẬN bằng ảnh mới RE_tr231_a269.jpg 2026-10-25: đọc RẤT RÕ nhãn «Д34...Д40» cạnh đúng MỘT ký hiệu diode duy nhất (không vẽ 8, hay 7, hình tam giác riêng — cả cụm chỉ vẽ 1 ký hiệu đại diện kèm nhãn dải, giống cách vẽ các cụm linh kiện song song khác trên tờ này). Mâu thuẫn 7 (dải nhãn Д34…Д40) so với 8 (số lượng trong перечень) VẪN CÒN — đây là mâu thuẫn nội dung giữa Э3 và перечень, không phải do ảnh mờ, ảnh mới không giải quyết được')
 b('T2', 'Транзистор 2Т312Б ЖК3.365.143 ТУ', 235, 'n-p-n')
 b('T3', 'Транзистор 2Т203А ЩЫ3.365.007 ТУ', 235, 'p-n-p')
 b('T4', 'Транзистор 2Т803А Ге3.365.008 ТУ', 235, 'n-p-n')
@@ -110,15 +116,15 @@ b('T20', 'Транзистор 2Т203А ЩЫ3.365.007 ТУ', 235, 'p-n-p')
 b('T21', 'Транзистор 2Т803А Ге3.365.008 ТУ', 235, 'n-p-n, ключ −6,3 В')
 b('T22', 'Транзистор 2Т921А ЖК3.365.254 ТУ', 235, 'n-p-n')
 b('T23', 'Транзистор 2Т203А ЩЫ3.365.007 ТУ', 236, 'p-n-p')
-b('T24', 'Транзистор 2Т301Д ЩБ3.365.007 ТУ', 236, 'n-p-n theo loại; ký hiệu trên Э3 có mũi tên emitter hướng vào (kiểu p-n-p) — ?')
+b('T24', 'Транзистор 2Т301Д ЩБ3.365.007 ТУ', 236, 'n-p-n theo loại. ĐÃ XÁC NHẬN bằng ảnh mới RE_tr231_a269.jpg 2026-10-25: đọc lại kỹ ký hiệu — mũi tên emitter thực ra chỉ RA NGOÀI (hướng xuống về phía Д23), đúng kiểu ký hiệu n-p-n chuẩn, KHÔNG hướng vào như đọc nhầm từ ảnh cũ mờ. Hết mâu thuẫn loại transistor, khớp với перечень (2Т301Д = n-p-n)')
 b('Др1', 'Дроссель Д245В ОЮ0.475.013 ТУ', 236, 'дроссель фильтра +5 В, cuộn 1-2 // 3-4')
 b('Др2', 'Дроссель Д245В ОЮ0.475.013 ТУ', 236, 'cuộn 1-2 // 3-4')
 b('Др3', 'Дроссель Д213В ОЮ0.475.013 ТУ', 236, 'lọc vào +27 В, cuộn 1-2 // 3-4')
-b('Др5', 'Дроссель в/ч ДМ-0,6-60±5% Пе4.777.002 Сп ГИ0.477.005 ТУ', 236, 'chân không đánh số trên Э3 (1/2 tự đặt)')
+b('Др5', 'Дроссель в/ч ДМ-0,6-60±5% Пе4.777.002 Сп ГИ0.477.005 ТУ', 236, 'chân không đánh số trên Э3 (1/2 tự đặt). ĐÃ XÁC NHẬN bằng ảnh mới RE_tr231_a269.jpg 2026-10-25: đúng là không có số chân in trên ký hiệu')
 b('Др6', 'Дроссель Д123 ЕУ4.752.078 Сп', 236, 'cuộn tích năng biến đổi −6,3 В')
-b('Др7', 'Дроссель Дм-1,2-30±5% Пе4.777.002 Сп ГИ0.477.005 ТУ', 236, 'chân không đánh số (1/2 tự đặt)')
-b('Др8', 'Дроссель Дм-3-12±5% Пе4.777.002 Сп ГИ0.477.005 ТУ', 236, 'chân không đánh số (1/2 tự đặt)')
-b('Пр1', 'Предохранитель ВП1-2-5А ОЮ0.480.003 ТУ', 236, 'vẽ chung một ký hiệu «Пр1 Пр4 „5А“» ⇒ song song với Пр4')
+b('Др7', 'Дроссель Дм-1,2-30±5% Пе4.777.002 Сп ГИ0.477.005 ТУ', 236, 'chân không đánh số (1/2 tự đặt). ĐÃ XÁC NHẬN bằng ảnh mới RE_tr231_a269.jpg 2026-10-25: đúng là không có số chân in trên ký hiệu')
+b('Др8', 'Дроссель Дм-3-12±5% Пе4.777.002 Сп ГИ0.477.005 ТУ', 236, 'chân không đánh số (1/2 tự đặt). ĐÃ XÁC NHẬN bằng ảnh mới RE_tr231_a269.jpg 2026-10-25: đúng là không có số chân in trên ký hiệu')
+b('Пр1', 'Предохранитель ВП1-2-5А ОЮ0.480.003 ТУ', 236, 'vẽ chung một ký hiệu «Пр1 Пр4 „5А“» ⇒ song song với Пр4 — đã thử tìm ký hiệu này bằng ảnh mới RE_tr231_a269.jpg 2026-10-25 (nhiều vùng giữa C17…C32 và R6/T8…T11) nhưng chưa định vị chính xác được trên ảnh; vẫn không xác định được vị trí cụ thể. Mẫu hình đã xác nhận ở Д34…Д40 (một ký hiệu + nhãn dải cho cả cụm song song) ủng hộ giả thuyết Пр1/Пр4 cũng chỉ vẽ chung 1 ký hiệu, nhưng đây vẫn là suy luận theo mẫu, chưa phải đọc trực tiếp')
 b('Пр2', 'Предохранитель ВП1-2-0,5А ОЮ0.480.003 ТУ', 236, 'sơ cấp Тр1; на плате ВШ6.730.530 (#249)')
 b('Пр3', 'Предохранитель ВП1-2-1А ОЮ0.480.003 ТУ', 236, 'vào khối −6,3 В; trên Э3 ghi «1,0А»')
 b('Пр4', 'Предохранитель ВП1-2-5А ОЮ0.480.003 ТУ', 236, 'song song Пр1')
@@ -140,7 +146,7 @@ M63 = 'X:45,46 −6,3В 1А'
 SW_NOTE = 'THEO HÌNH VẼ: B và E của T9, T10 (và B của T11) cùng nằm trên một net với E của T8 ⇒ tự mâu thuẫn (R22 bị nối tắt). Dự đoán ý thiết kế: E(T8)→B(T9,T10,T11) kiểu Darlington, E(T9…T11)=nút chuyển mạch. ĐO R(б-э) T9/T10 trên tấm'
 
 for p in range(1, 11): n(P5, f'Ш1.{p}')
-for p in list(range(18, 24)) + list(range(26, 32)): n(G, f'Ш1.{p}', note='Э3 vẽ thanh nối 1…10 và 18…31 liền nhau qua chỗ gập — coi là hai net riêng (theo bảng 3Ш5 p142)' if p == 18 else '')
+for p in list(range(18, 24)) + list(range(26, 32)): n(G, f'Ш1.{p}', note='Э3 vẽ thanh nối 1…10 và 18…31 liền nhau qua chỗ gập — coi là hai net riêng (theo bảng 3Ш5 p142). ĐÃ XÁC NHẬN MỘT PHẦN bằng ảnh mới RE_tr231_a269.jpg 2026-10-25: ảnh mới chụp thẳng không gập nếp, nhãn chân 14 «Упр.(−6,3В)» nay đọc đầy đủ (không còn bị mép khung/nếp gập cắt chữ); hai dải riser dẫn tới nhóm Корпус và nhóm +5В 15А trông tách biệt rõ trên ảnh, ủng hộ cách tách cũ — nhưng không loại trừ hoàn toàn khả năng nối tắt ngoài khung ảnh, vẫn nên đo thông mạch thực tế' if p == 18 else '')
 for p in (41, 42, 43, 47, 48): n(P27, f'Ш1.{p}')
 for p in (45, 46): n(M63, f'Ш1.{p}')
 n('X:25 ~36В 400Гц Ф.С', 'Ш1.25', 'Пр2.2')
@@ -211,7 +217,7 @@ n('N46', 'T24.б', 'Д23.к')
 n('N47', 'T24.к', 'C43.+', 'R49.2')
 n('N48', 'R49.1', 'R44.2', 'Д33.к', 'R40.1')
 n('N49', 'R40.2', 'R41.1', 'T18.б')
-n('N50', 'T24.э', 'R36.2', 'R38.2', 'R41.2', 'Д33.а', note='? «шина M»: chỉ nối tới E của T24; vai trò T24/Д23 chưa rõ (xem mota)')
+n('N50', 'T24.э', 'R36.2', 'R38.2', 'R41.2', 'Д33.а', note='? «шина M»: chỉ nối tới E của T24; vai trò T24/Д23 chưa rõ (xem mota). Đã thử soát lại vùng T24/Д23/R49/C43/Др7/Др8 bằng ảnh mới RE_tr231_a269.jpg 2026-10-25 (ảnh rõ hơn nhiều, xác nhận được loại n-p-n của T24 qua hướng mũi tên) nhưng KHÔNG có thêm dấu hiệu nào (mũi tên dòng, nhãn phụ) để suy ra vai trò mạch của T24/Д23 trên nút «шина M» — đây là giới hạn hiểu mạch (topology), không phải do ảnh mờ; giữ nguyên «?», cần đo trên tấm thật')
 n('N51', 'T17.э', 'T18.э', 'R38.1')
 n('N52', 'R36.3', 'T17.б', note='R36.3 = con trượt')
 n(G, 'C55.−', 'C40.−', 'R34.2', 'R37.2', 'R39.2', 'R43.2', 'R35.1', 'R46.2', 'Др6.2',

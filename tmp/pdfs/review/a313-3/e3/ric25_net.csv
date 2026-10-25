@@ -9,7 +9,7 @@ ref,pin,net,note
 Ш1,8,X:1…10 +5В 15А,
 Ш1,9,X:1…10 +5В 15А,
 Ш1,10,X:1…10 +5В 15А,
-Ш1,18,"X:18…23,26…31 Корпус",Э3 vẽ thanh nối 1…10 và 18…31 liền nhau qua chỗ gập — coi là hai net riêng (theo bảng 3Ш5 p142)
+Ш1,18,"X:18…23,26…31 Корпус","Э3 vẽ thanh nối 1…10 và 18…31 liền nhau qua chỗ gập — coi là hai net riêng (theo bảng 3Ш5 p142). ĐÃ XÁC NHẬN MỘT PHẦN bằng ảnh mới RE_tr231_a269.jpg 2026-10-25: ảnh mới chụp thẳng không gập nếp, nhãn chân 14 «Упр.(−6,3В)» nay đọc đầy đủ (không còn bị mép khung/nếp gập cắt chữ); hai dải riser dẫn tới nhóm Корпус và nhóm +5В 15А trông tách biệt rõ trên ảnh, ủng hộ cách tách cũ — nhưng không loại trừ hoàn toàn khả năng nối tắt ngoài khung ảnh, vẫn nên đo thông mạch thực tế"
 Ш1,19,"X:18…23,26…31 Корпус",
 Ш1,20,"X:18…23,26…31 Корпус",
 Ш1,21,"X:18…23,26…31 Корпус",
@@ -368,11 +368,11 @@ R40,1,N48,
 R40,2,N49,
 R41,1,N49,
 T18,б,N49,
-T24,э,N50,? «шина M»: chỉ nối tới E của T24; vai trò T24/Д23 chưa rõ (xem mota)
-R36,2,N50,? «шина M»: chỉ nối tới E của T24; vai trò T24/Д23 chưa rõ (xem mota)
-R38,2,N50,? «шина M»: chỉ nối tới E của T24; vai trò T24/Д23 chưa rõ (xem mota)
-R41,2,N50,? «шина M»: chỉ nối tới E của T24; vai trò T24/Д23 chưa rõ (xem mota)
-Д33,а,N50,? «шина M»: chỉ nối tới E của T24; vai trò T24/Д23 chưa rõ (xem mota)
+T24,э,N50,"? «шина M»: chỉ nối tới E của T24; vai trò T24/Д23 chưa rõ (xem mota). Đã thử soát lại vùng T24/Д23/R49/C43/Др7/Др8 bằng ảnh mới RE_tr231_a269.jpg 2026-10-25 (ảnh rõ hơn nhiều, xác nhận được loại n-p-n của T24 qua hướng mũi tên) nhưng KHÔNG có thêm dấu hiệu nào (mũi tên dòng, nhãn phụ) để suy ra vai trò mạch của T24/Д23 trên nút «шина M» — đây là giới hạn hiểu mạch (topology), không phải do ảnh mờ; giữ nguyên «?», cần đo trên tấm thật"
+R36,2,N50,"? «шина M»: chỉ nối tới E của T24; vai trò T24/Д23 chưa rõ (xem mota). Đã thử soát lại vùng T24/Д23/R49/C43/Др7/Др8 bằng ảnh mới RE_tr231_a269.jpg 2026-10-25 (ảnh rõ hơn nhiều, xác nhận được loại n-p-n của T24 qua hướng mũi tên) nhưng KHÔNG có thêm dấu hiệu nào (mũi tên dòng, nhãn phụ) để suy ra vai trò mạch của T24/Д23 trên nút «шина M» — đây là giới hạn hiểu mạch (topology), không phải do ảnh mờ; giữ nguyên «?», cần đo trên tấm thật"
+R38,2,N50,"? «шина M»: chỉ nối tới E của T24; vai trò T24/Д23 chưa rõ (xem mota). Đã thử soát lại vùng T24/Д23/R49/C43/Др7/Др8 bằng ảnh mới RE_tr231_a269.jpg 2026-10-25 (ảnh rõ hơn nhiều, xác nhận được loại n-p-n của T24 qua hướng mũi tên) nhưng KHÔNG có thêm dấu hiệu nào (mũi tên dòng, nhãn phụ) để suy ra vai trò mạch của T24/Д23 trên nút «шина M» — đây là giới hạn hiểu mạch (topology), không phải do ảnh mờ; giữ nguyên «?», cần đo trên tấm thật"
+R41,2,N50,"? «шина M»: chỉ nối tới E của T24; vai trò T24/Д23 chưa rõ (xem mota). Đã thử soát lại vùng T24/Д23/R49/C43/Др7/Др8 bằng ảnh mới RE_tr231_a269.jpg 2026-10-25 (ảnh rõ hơn nhiều, xác nhận được loại n-p-n của T24 qua hướng mũi tên) nhưng KHÔNG có thêm dấu hiệu nào (mũi tên dòng, nhãn phụ) để suy ra vai trò mạch của T24/Д23 trên nút «шина M» — đây là giới hạn hiểu mạch (topology), không phải do ảnh mờ; giữ nguyên «?», cần đo trên tấm thật"
+Д33,а,N50,"? «шина M»: chỉ nối tới E của T24; vai trò T24/Д23 chưa rõ (xem mota). Đã thử soát lại vùng T24/Д23/R49/C43/Др7/Др8 bằng ảnh mới RE_tr231_a269.jpg 2026-10-25 (ảnh rõ hơn nhiều, xác nhận được loại n-p-n của T24 qua hướng mũi tên) nhưng KHÔNG có thêm dấu hiệu nào (mũi tên dòng, nhãn phụ) để suy ra vai trò mạch của T24/Д23 trên nút «шина M» — đây là giới hạn hiểu mạch (topology), không phải do ảnh mờ; giữ nguyên «?», cần đo trên tấm thật"
 T17,э,N51,
 T18,э,N51,
 R38,1,N51,

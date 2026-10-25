@@ -367,3 +367,9 @@ Dhash toàn ảnh bỏ sót tờ cắt/xoay; số hình VT28 chạy lại theo p
 
 ## 16. Y21 (рис.22) ảnh chụp lại (Claude, 2026-10-25)
 - Thay bản sao #221 trong A313-3_CONTROL/Y21 bằng ảnh rõ `RE_tr221_a270.jpg` (điểm ảnh y như file 1792809368073…, chỉ thêm EXIF xoay). Xác nhận chấm nối lá 7 ↔ C5…C8 (N13), nhãn Д2, R16; Пр1 «1А» vs перечень «2А» vẫn mâu thuẫn. e3_check PASS.
+
+## 18. Y17 (рис.25) chụp lại ảnh rõ + soát lại (coordinator, 2026-10-25)
+- Người dùng tải ảnh mới cho Y17 (chuyển thẳng, không gập nếp, đủ sáng), thay ảnh cũ `RE_tr231_a233.jpg` (mờ/gập góc che Д3/Д4). Đã xoá ảnh cũ, đổi tên ảnh mới thành `A313-3_CONTROL/Y17/RE_tr231_a269.jpg` (a269 — số kế tiếp a268 cao nhất đang dùng lúc đó). **Lưu ý trùng hợp:** một phiên khác chạy song song cũng đổi tên đúng file upload này thành cùng `a269.jpg` (commit `41001aa`) — nội dung ảnh giống nhau (cùng kích thước 1536×2048, chỉ khác nén JPEG), coordinator đã `git checkout HEAD` lại ảnh để giữ bản đã commit, không tạo xung đột.
+- Giao subagent dùng ảnh mới soát lại dataset `ric25_*` đã có sẵn (rất chi tiết từ trước: BOM 164, net 397 dòng, chỉ 5 dòng `?`). Kết quả: **Д3/Д4 (có trong перечень) xác nhận THỰC SỰ không vẽ trên trang này** (tìm khắp ảnh, không chỉ góc trước đây bị che); sửa hướng mũi tên T24 (NPN, đọc nhầm hướng từ ảnh mờ cũ, nay rõ); xác nhận R16/R17, Д23, nhóm nhãn Д34…Д40 (1 ký hiệu dùng chung nhãn khoảng, không phải 7-8 ký hiệu riêng). Cấu trúc không đổi: vẫn 397 dòng net/164 BOM ref; 5 dòng `?` còn lại (node "шина M", vai trò T24/Д23 — vấn đề hiểu mạch, không phải ảnh mờ).
+- **Spot-check độc lập của coordinator** (tự xem toàn ảnh mới + crop riêng vùng T24): xác nhận Д3/Д4 thực sự không xuất hiện trên toàn trang; xác nhận mũi tên T24 chỉ ra ngoài (NPN) — khớp với báo cáo subagent.
+- Đã cập nhật `00_GHI-CHU.txt` Y17, `DANH-MUC_ANH_RE_A-313-3.md`, Excel danh mục (dòng Y17). Chưa commit.

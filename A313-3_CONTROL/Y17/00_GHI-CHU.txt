@@ -1,3 +1,14 @@
 Ảnh bố trí (lắp ráp) ở trang 247-248 — KHUNG TÊN CHƯA ĐỌC ĐƯỢC trong vùng đã chụp
 (suy luận là Рис.33/34 theo chuỗi số liên tục 27→32, và theo KE-HOACH dự đoán
 mã ВШ6.730.527/530). Cần chụp lại góc khung tên để xác nhận.
+
+Sơ đồ Э3 (рис.25, ЕУ3.215.469) — chụp lại rõ 2026-10-25: `RE_tr231_a269.jpg`
+thay ảnh cũ `RE_tr231_a233.jpg` (mờ/gập góc, đã xoá khỏi thư mục làm việc,
+bản gốc vẫn còn trong `ЕУ.048.002.РЭ(A313-3)/`). Soát lại dataset `ric25_*`
+bằng ảnh mới: xác nhận Д3/Д4 (có trong перечень nhưng không vẽ trên trang
+này — tìm khắp ảnh, không chỉ góc trước đây bị che); sửa hướng mũi tên T24
+(NPN, đọc nhầm hướng từ ảnh mờ cũ); xác nhận R16/R17, Д23, nhóm Д34…Д40 (1
+ký hiệu dùng chung nhãn khoảng, không phải 7/8 ký hiệu riêng). netlist vẫn
+397 dòng/164 BOM ref, không đổi cấu trúc; 5 dòng `?` còn lại (node "шина M",
+vai trò T24/Д23 chưa rõ — vấn đề hiểu mạch, không phải ảnh mờ). Coordinator
+spot-check độc lập (Д3/Д4 vắng mặt + hướng mũi tên T24) khớp với báo cáo.

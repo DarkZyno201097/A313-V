@@ -1,7 +1,9 @@
 # Рис.25 — УЛП 5 В 15 А (ЕУ3.215.469 Э3), khối У17 của A-313-3
 
-Nguồn: ảnh #233 (sơ đồ gập, trang tay 231), #234–#238 (перечень, trang 232–236, «110.23.03 Приложение
-лист 99–103»), #248 (сборочный, trang 247), #249 (ВШ6.730.530 Д7, рис.34, tấm phụ đầu ra).
+Nguồn: ảnh #233 (sơ đồ gập, trang tay 231 — ĐÃ XÓA, thay bằng `A313-3_CONTROL/Y17/RE_tr231_a269.jpg`
+rõ nét hơn, soát lại toàn bộ §4 ngày 2026-10-25, xem ghi chú "ĐÃ XÁC NHẬN" rải trong tài liệu),
+#234–#238 (перечень, trang 232–236, «110.23.03 Приложение лист 99–103»), #248 (сборочный, trang 247),
+#249 (ВШ6.730.530 Д7, рис.34, tấm phụ đầu ra).
 Bảng kê và netlist: `ric25_bom.csv`, `ric25_net.csv` (sinh bởi `ric25_gen.py`).
 Mọi con số dưới đây do `ric25_tinh.py` tính (kèm kiểm tra chéo bom↔net).
 
@@ -88,31 +90,97 @@ khuếch đại sai số thay đổi trở kháng trong của tranzito để đ�
   «Д34…Д40») catốt ở N43, anốt ở N44 → C45…C50 (6 × 68 мкФ, cực + ở Корпус) → Др7 → Др8 → C51, C52
   (+ ở Корпус) → Ш1/45, 46. Đúng sơ đồ buck-boost đảo cực.
 * **T24 (2Т301Д) + Д23 (2Д103А) + R49 + C43:** E(T24) là «шина M» (anốt Д33, đáy R36, R38, R41); B(T24)
-  qua Д23 từ −6,3 В; C(T24) → C43(+)/R49 → catốt Д33. Không suy được chiều dòng hợp lý từ hình (loại
-  n-p-n theo перечень, ký hiệu vẽ mũi tên hướng vào). Có thể là mạch khởi động / khoá khi ngắn mạch.
-  **Chưa chắc — cần đo.**
+  qua Д23 từ −6,3 В; C(T24) → C43(+)/R49 → catốt Д33. **ĐÃ XÁC NHẬN bằng ảnh mới RE_tr231_a269.jpg
+  2026-10-25:** đọc lại kỹ ký hiệu T24 — mũi tên emitter chỉ RA NGOÀI (hướng xuống về phía Д23), đúng
+  kiểu ký hiệu n-p-n chuẩn, hết mâu thuẫn với перечень (2Т301Д = n-p-n); ảnh cũ mờ đã bị đọc nhầm thành
+  mũi tên hướng vào. Dù vậy vẫn KHÔNG suy được chiều dòng/vai trò mạch cụ thể từ hình (không có thêm
+  mũi tên dòng hay nhãn phụ) — đây là giới hạn hiểu mạch (topology), không phải do ảnh mờ. Có thể là
+  mạch khởi động / khoá khi ngắn mạch. **Vai trò mạch vẫn chưa chắc — cần đo.**
 * Không thấy cảm biến dòng riêng (khác bộ +6,3 В trong HDSDKT dùng điện trở thuần Др3).
 
 ## 4. Chưa chắc / thiếu
 
-1. **B-E của T9, T10 bị nối tắt theo hình vẽ** (xem §2). Netlist giữ nguyên như vẽ.
+> **Soát lại 2026-10-25 bằng ảnh mới, rõ nét, thẳng (không gập nếp) `A313-3_CONTROL/Y17/RE_tr231_a269.jpg`**
+> (thay cho ảnh cũ mờ/gập `RE_tr231_a233.jpg` đã xóa). Toàn bộ ảnh đã được soát (không chỉ góc
+> trên-trái) bằng nhiều lần zoom có kiểm soát. Mỗi mục dưới đây ghi rõ đã xác nhận được gì, mục nào
+> vẫn không giải quyết được dù ảnh đã rõ.
+
+1. **B-E của T9, T10 bị nối tắt theo hình vẽ** (xem §2) — KHÔNG phải vấn đề ảnh mờ, là mâu thuẫn/cách
+   hiểu mạch (xem yêu cầu nhiệm vụ: không bắt buộc giải quyết bằng ảnh). Chưa soát lại chi tiết bằng
+   ảnh mới lần này (ưu tiên dồn cho mục 5); netlist giữ nguyên như vẽ (net N20), khuyến nghị cũ "đo
+   R(б-э) T9, T10 trên tấm" vẫn còn hiệu lực.
 2. **R16/R17**: trên Э3 in «R6»/«R7» lần thứ hai; gán R16 = trên (B-E T4), R17 = dưới (B-E T5) là suy
-   đoán theo thứ tự.
+   đoán theo thứ tự. **ĐÃ XÁC NHẬN bằng ảnh mới RE_tr231_a269.jpg 2026-10-25:** zoom kỹ vùng T4/T5/T6 —
+   nhãn lặp lại cạnh các B-E này quả thực in lại y hệt chữ «R6» và «R7» (không phải «R16»/«R17»),
+   xác nhận chắc chắn giả thuyết "duplicate label" cũ. Việc gán R16=trên/R17=dưới vẫn chỉ là suy đoán
+   theo thứ tự liệt kê trong перечень — ảnh không cho thêm căn cứ để phân biệt dứt khoát hướng gán;
+   **đã thử với ảnh mới, vẫn không xác định được** chiều chính xác — cần đo trên tấm.
 3. **R18** đọc rõ trên Э3 nhưng không có trong перечень (nhảy R17→R22); **R28** (560 Ом) có trong
-   перечень và #248 nhưng không thấy trên Э3 ⇒ nghi R18 = R28.
-4. **Д25**: Э3 in «Д23» hai lần; cái cạnh R29/R30 gán là Д25 theo vị trí trên #248.
-5. **Д3 (2Д510А), Д4 (2Д202В)**: có trong перечень, không tìm thấy trên Э3 (không nằm trong netlist).
-   Có thể nằm dưới tấm giấy gập che góc trên-trái ảnh (vùng x < 0,28, y < 0,33 của ảnh #233 bị một tờ
-   trắng che) — **cần chụp lại góc này**, hoặc kiểm trên tấm.
-6. **Д34…Д41**: Э3 ghi «Д34…Д40» (7), перечень 8 cái; netlist lấy 8 cái song song.
+   перечень và #248 nhưng không thấy trên Э3 ⇒ nghi R18 = R28. **ĐÃ XÁC NHẬN bằng ảnh mới
+   RE_tr231_a269.jpg 2026-10-25:** nhãn «R18» đọc RẤT RÕ (không còn nghi ngờ gì về mặt đọc chữ), đúng
+   vị trí T14.б ← Др2.1 (giữa R27 và cụm C15/C16/T14/T15). Đã soát kỹ toàn vùng quanh đó — vẫn KHÔNG
+   thấy nhãn «R28» ở đâu trên Э3 trang 231. Việc khớp R18 = R28 (560 Ом) vẫn là suy luận chéo với
+   #248/перечень (trang 234, không có trong bộ ảnh đã chụp) — **đã thử với ảnh mới, vẫn không xác
+   định được** giá trị trực tiếp từ Э3 (sơ đồ nguyên lý không ghi trị số).
+4. **Д25**: Э3 in «Д23» hai lần; cái cạnh R29/R30 gán là Д25 theo vị trí trên #248. **ĐÃ XÁC NHẬN bằng
+   ảnh mới RE_tr231_a269.jpg 2026-10-25:** cả hai vị trí (cạnh T24 ở khối −6,3 В, và cạnh R29/R30 ở
+   khối +5 В) đọc rất rõ ràng cùng ghi «Д23» — xác nhận chắc chắn Э3 in trùng tên. Gán nhãn thứ hai =
+   Д25 vẫn hoàn toàn dựa vào vị trí tương ứng trên bản sơ đồ lắp #248 (trang 247), không đổi so với
+   trước — **đã thử với ảnh mới, vẫn không xác định được** trực tiếp từ Э3 (đây là vấn đề cross-reference
+   với một trang khác, không phải do ảnh mờ).
+5. **Д3 (2Д510А), Д4 (2Д202В)**: có trong перечень, không tìm thấy trên Э3 cũ (không nằm trong netlist).
+   Trước đây nghi nằm dưới tấm giấy gập che góc trên-trái ảnh #233 (vùng x < 0,28, y < 0,33).
+   **ĐÃ XÁC NHẬN bằng ảnh mới RE_tr231_a269.jpg 2026-10-25 (ƯU TIÊN NHẤT):** ảnh mới thẳng, rõ, không
+   gập nếp — góc trên-trái nay hoàn toàn sáng rõ, không còn bị giấy che. Đã soát **TOÀN BỘ ảnh**, không
+   chỉ góc trên-trái: 4 góc, 2 mép ngang/dọc, khe hở giữa hai khối mạch (−6,3 В và +5 В), dải connector
+   trên/dưới — bằng nhiều lần zoom 2×–4× có kiểm soát (không chỉ 1 lần nhìn tổng quan). **KHÔNG tìm
+   thấy ký hiệu «Д3» hoặc «Д4» ở bất kỳ đâu trên trang 231.** Kết luận: U3/У17 ở trang Э3 đã chụp **thực
+   sự không vẽ** Д3/Д4, dù chúng có trong перечень (trang 234). Khả năng: (a) chúng nằm trên một tờ/trang
+   sơ đồ khác không có trong bộ ảnh hiện có, hoặc (b) không được gắn trên tấm thật (linh kiện trong
+   перечень nhưng không lắp / không dùng ở biến thể này). **Không thêm dòng BOM/net mới** vì không có
+   cơ sở đọc được chân/vị trí thực tế trên hình — thêm sẽ là bịa đặt, vi phạm quy tắc dự án.
+6. **Д34…Д41**: Э3 ghi «Д34…Д40» (7), перечень 8 cái; netlist lấy 8 cái song song. **ĐÃ XÁC NHẬN QUAN
+   TRỌNG bằng ảnh mới RE_tr231_a269.jpg 2026-10-25:** đọc RẤT RÕ nhãn text «Д34...Д40» cạnh đúng **MỘT**
+   ký hiệu diode duy nhất (không phải 7 hay 8 hình tam giác vẽ riêng biệt — cả cụm song song chỉ vẽ
+   MỘT ký hiệu đại diện kèm nhãn dải, giống cách vẽ các cụm linh kiện song song khác trên tờ này, ví dụ
+   Пр1/Пр4). Mâu thuẫn "7 theo dải nhãn Э3" so với "8 theo số lượng trong перечень" **vẫn còn** — đây là
+   mâu thuẫn nội dung giữa hai nguồn tài liệu gốc (Э3 vs перечень), không phải do ảnh mờ; ảnh mới không
+   giải quyết được và không thể giải quyết được chỉ bằng ảnh rõ hơn — **đã thử với ảnh mới, vẫn không
+   xác định được** cái nào trong 8 cái Д34…Д41 "thừa" so với dải nhãn trên Э3.
 7. Thanh nối chân Ш1 1…10 và 18…31 trên Э3 trông liền nhau qua nếp gập; netlist tách làm +5 В và
-   Корпус theo bảng 3Ш5 (p142). Nhãn chân 14 bị mép khung cắt («Управл −6,…В»).
-8. Тр2 2, 3; Тр1 2а, 2б, 10 không nối (ghi `NC`).
-9. Пр1/Пр4 vẽ chung một ký hiệu «Пр1 Пр4 „5А“» ⇒ coi là song song.
-10. Chân Др5, Др7, Др8 không đánh số (1/2 tự đặt). Chiết áp R9, R36: 1 = đầu trên, 2 = đầu dưới, 3 = con trượt.
-11. T24/Д23/R49/C43 — chức năng chưa rõ (§3). Vai trò chân 13/14 «Управл.» chưa rõ.
-12. Tần số chuyển mạch phần +5 В không suy được từ hình; phải đo.
-13. Cột «Кол.» trong перечень trang 234 lệch xuống một dòng: C55 = 1 (không phải 2), C53/C54 = 2 song song.
+   Корпус theo bảng 3Ш5 (p142). Nhãn chân 14 bị mép khung cắt («Управл −6,…В»). **ĐÃ XÁC NHẬN MỘT PHẦN
+   bằng ảnh mới RE_tr231_a269.jpg 2026-10-25:** ảnh mới chụp thẳng, không còn nếp gập — nhãn chân 14
+   «Упр.(−6,3В)» nay đọc đầy đủ, không bị mép khung/nếp gập cắt chữ nữa. Dải riser dẫn tới nhóm
+   «Корпус» (chân 18…23, 26…31) và nhóm «+5В 15А» (chân 1…10) nay nhìn tách biệt rõ ràng trên ảnh
+   (hai bó dây dẫn khác nhau đi lên hai cụm mạch khác nhau), ủng hộ cách tách cũ trong netlist — nhưng
+   **không thể khẳng định tuyệt đối bằng mắt** rằng hai dải không nối tắt ở đâu đó ngoài khung ảnh/
+   dưới lớp mực chồng — vẫn nên đo thông mạch thực tế để chắc chắn 100%.
+8. Тр2 2, 3; Тр1 2а, 2б, 10 không nối (ghi `NC`). Chưa soát lại riêng mục này bằng ảnh mới lần này
+   (đã xác nhận gián tiếp qua vùng Тр1/Тр2 zoom cho mục 9/10 — không thấy gì thay đổi so với mô tả cũ).
+9. Пр1/Пр4 vẽ chung một ký hiệu «Пр1 Пр4 „5А“» ⇒ coi là song song. **Đã thử định vị trực tiếp bằng ảnh
+   mới RE_tr231_a269.jpg 2026-10-25** (soát nhiều vùng giữa dàn tụ C17…C32 và nhánh R6/T8…T11, nơi dự
+   kiến đặt cầu chì theo topology N2→N3) nhưng **chưa định vị chính xác được vị trí ký hiệu cầu chì
+   Пр1/Пр4 trên ảnh** — **đã thử với ảnh mới, vẫn không xác định được** vị trí cụ thể. Mẫu hình đã xác
+   nhận chắc chắn ở mục 6 (Д34…Д40: một ký hiệu + nhãn dải cho cả cụm song song) ủng hộ giả thuyết cũ
+   rằng Пр1/Пр4 cũng chỉ vẽ chung 1 ký hiệu — đây là suy luận theo mẫu đã quan sát, không phải đọc
+   trực tiếp vị trí ký hiệu Пр1/Пр4.
+10. Chân Др5, Др7, Др8 không đánh số (1/2 tự đặt). Chiết áp R9, R36: 1 = đầu trên, 2 = đầu dưới,
+    3 = con trượt. **ĐÃ XÁC NHẬN bằng ảnh mới RE_tr231_a269.jpg 2026-10-25:** zoom kỹ vùng Др7/Др8 (cạnh
+    T24, Д34…Д40) — xác nhận rõ ràng các ký hiệu cuộn cảm này KHÔNG có số chân in kèm, đúng như ghi
+    chú cũ.
+11. T24/Д23/R49/C43 — chức năng chưa rõ (§3). Vai trò chân 13/14 «Управл.» chưa rõ. Đây là mâu thuẫn/
+    không chắc về cách hiểu mạch (topology), **không phải lỗi độ nét ảnh** — theo yêu cầu nhiệm vụ,
+    không bắt buộc giải quyết bằng ảnh. **Đã xác nhận một phần nhân tiện** khi soát mục 5/6: loại
+    transistor T24 (n-p-n, mũi tên emitter hướng ra ngoài) nay đọc chắc chắn, không còn mơ hồ — xem §3.
+    Vai trò mạch cụ thể (vì sao T24/Д23 nối vào «шина M») **vẫn chưa xác định được dù đã thử với ảnh
+    mới** — không có thêm mũi tên dòng hay nhãn phụ nào trên Э3 để suy luận thêm; cần đo trên tấm.
+12. Tần số chuyển mạch phần +5 В không suy được từ hình; phải đo. Không thuộc phạm vi soát ảnh lần
+    này (không phải vấn đề đọc nhãn/ký hiệu).
+13. Cột «Кол.» trong перечень trang 234 lệch xuống một dòng: C55 = 1 (không phải 2), C53/C54 = 2 song
+    song. **Không áp dụng được cho lần soát ảnh mới này** — `RE_tr231_a269.jpg` chỉ chụp trang 231 (sơ
+    đồ Э3), KHÔNG bao gồm trang 234 (перечень, nơi có lỗi lệch cột này). **Đã thử với ảnh mới, vẫn
+    không xác định được** vì ảnh mới không chụp trang liên quan — cần ảnh riêng của trang 234 (перечень)
+    nếu muốn soát lại mục này.
 
 ## 5. Điểm đo đề xuất
 

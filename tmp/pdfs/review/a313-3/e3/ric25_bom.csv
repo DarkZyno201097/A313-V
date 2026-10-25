@@ -12,14 +12,14 @@ R12,"Резистор С2-23-0,25-330 Ом±10%-Б-Д",1,232,
 R13,"Резистор С2-23-0,25-2,7 кОм±10%-Б-Д",1,232,
 R14,"Резистор С2-23-0,25-10 кОм±10%-Б-Д",1,232,
 R15,"Резистор С2-23-0,25-10 кОм±10%-Б-Д",1,232,
-R16,"Резистор С2-23-0,25-1,2 кОм±10%-Б-Д",1,232,? trên Э3 in nhầm «R6» (B-E của T4); gán R16=trên/R17=dưới là SUY ĐOÁN — đo trên tấm
-R17,"Резистор С2-23-0,25-5,6 кОм±10%-Б-Д",1,232,? trên Э3 in nhầm «R7» (B-E của T5); xem R16
+R16,"Резистор С2-23-0,25-1,2 кОм±10%-Б-Д",1,232,"ĐÃ XÁC NHẬN bằng ảnh mới RE_tr231_a269.jpg 2026-10-25: nhãn lặp lại cạnh T4/T5 quả thực in lại y hệt «R6»/«R7» (không phải «R16»/«R17»), xác nhận có 2 cặp nhãn trùng tên trên Э3. Gán R16=trên/R17=dưới vẫn chỉ là SUY ĐOÁN theo thứ tự in trong перечень — ảnh không cho thêm căn cứ để phân biệt — đo trên tấm"
+R17,"Резистор С2-23-0,25-5,6 кОм±10%-Б-Д",1,232,"ĐÃ XÁC NHẬN bằng ảnh mới RE_tr231_a269.jpg 2026-10-25: xem R16 — nhãn thật trên Э3 vẫn là «R7» lặp lại, gán R17=dưới vẫn là suy đoán"
 R22,"Резистор С2-23-0,5-24 Ом±10%-Б-Д",1,232,B-E của T11
 R24,"Резистор С2-23-0,25-5,6 кОм±10%-Б-Д",1,232,
 R25,"Резистор С2-23-0,25-1,5 кОм±10%-Б-Д",1,232,
 R26,"Резистор С2-23-0,25-5,1 кОм±10%-Б-Д",1,232,
 R27,"Резистор С2-23-0,25-6,8 кОм±10%-Б-Д",1,232,
-R28,"Резистор С2-23-0,25-560 Ом±10%-Б-Д",1,232,? KHÔNG thấy nhãn R28 trên Э3; có trên сборочный #248. Nghi = phần tử in «R18» (T14.б ← Др2.1)
+R28,"Резистор С2-23-0,25-560 Ом±10%-Б-Д",1,232,"ĐÃ XÁC NHẬN bằng ảnh mới RE_tr231_a269.jpg 2026-10-25: vẫn KHÔNG thấy nhãn «R28» trên Э3 dù ảnh rõ hơn nhiều; có trên сборочный #248. Nghi = phần tử in «R18» (T14.б ← Др2.1) — việc khớp giá trị 560 Ом vẫn là suy luận chéo với #248/перечень, trang 231 (Э3) không ghi trị số"
 R29,"Резистор С2-23-0,25-5,1 кОм±10%-Б-Д",1,232,
 R30,"Резистор С2-23-0,25-1,5 кОм±10%-Б-Д",1,233,
 R31,"Резистор С2-23-0,25-56 Ом±10%-Б-Д",1,233,cực điều khiển Д31 → корпус
@@ -41,7 +41,7 @@ R46,"Резистор С2-23-0,25-5,6 кОм±10%-Б-Д",1,233,
 R47,"Резистор С2-23-0,25-270 Ом±10%-Б-Д",1,233,
 R48,"Резистор С2-23-0,25-1,5 кОм±10%-Б-Д",1,233,
 R49,"Резистор С2-23-0,25-100 Ом±10%-Б-Д",1,233,
-R18,(không có trong перечень),1,231,? nhãn đọc rõ «R18» trên Э3 (T14.б ← Др2.1); перечень nhảy R17→R22. Nghi = R28 560 Ом
+R18,(không có trong перечень),1,231,"ĐÃ XÁC NHẬN bằng ảnh mới RE_tr231_a269.jpg 2026-10-25: nhãn «R18» đọc RẤT RÕ, không còn nghi ngờ gì, đúng vị trí T14.б ← Др2.1 (giữa R27 và cụm C15/C16/T14/T15); перечень nhảy R17→R22. Nghi = R28 560 Ом (vẫn là suy luận chéo trang 234/#248)"
 C2,Конденсатор К53-1А-20В-1 мкФ±20% ОЖ0.464.044 ТУ,1,233,
 C3,Конденсатор К53-1А-20В-1 мкФ±20% ОЖ0.464.044 ТУ,1,233,
 C4,Конденсатор К53-1А-20В-1 мкФ±20% ОЖ0.464.044 ТУ,1,233,
@@ -97,8 +97,8 @@ C54,"Конденсатор КМ-5б-Н30-0,047 мкФ±20%-В ОЖ0.460.043 Т�
 C55,Конденсатор К53-1А-30В-33 мкФ±20% ОЖ0.464.044 ТУ,1,234,"Кол. = 1 (chữ «2 Параллельно» trên dòng C55 thuộc C53,C54 — cột lệch 1 dòng)"
 Д1,Стабилитрон Д814Д СМ3.362.012 ТУ,1,234,
 Д2,Стабилитрон Д818Д СМ3.362.025 ТУ,1,234,опорный +5 В
-Д3,Диод 2Д510А ТТ3.362.096 ТУ,1,234,? KHÔNG tìm thấy trên Э3
-Д4,Диод 2Д202В УЖ3.362.035 ТУ,1,234,? KHÔNG tìm thấy trên Э3
+Д3,Диод 2Д510А ТТ3.362.096 ТУ,1,234,"ĐÃ XÁC NHẬN bằng ảnh mới RE_tr231_a269.jpg 2026-10-25: đã soát TOÀN BỘ ảnh (không chỉ góc trên-trái — mọi góc, mép, khe giữa hai khối mạch) — KHÔNG tìm thấy ký hiệu «Д3» ở bất kỳ đâu trên trang 231. Góc trên-trái nay hoàn toàn rõ (không còn bị giấy che) và cũng không có Д3/Д4. Kết luận: Э3 trang này thực sự KHÔNG vẽ Д3 (có trong перечень nhưng không có trên sơ đồ đã chụp — có thể nằm ở một tờ/trang khác không có trong bộ ảnh, hoặc không gắn trên tấm thật)"
+Д4,Диод 2Д202В УЖ3.362.035 ТУ,1,234,"ĐÃ XÁC NHẬN bằng ảnh mới RE_tr231_a269.jpg 2026-10-25: xem Д3 — đã soát toàn bộ ảnh, KHÔNG tìm thấy «Д4» ở đâu cả, kể cả góc trên-trái nay đã rõ hoàn toàn"
 Д5,Стабилитрон Д817А УЖ3.362.027 ТУ,1,234,Д5…Д18: 14 шт. параллельно (dùng chiều thuận làm diode thoát/хвостовой + kẹp 56 В)
 Д6,Стабилитрон Д817А УЖ3.362.027 ТУ,1,234,Д5…Д18: 14 шт. параллельно (dùng chiều thuận làm diode thoát/хвостовой + kẹp 56 В)
 Д7,Стабилитрон Д817А УЖ3.362.027 ТУ,1,234,Д5…Д18: 14 шт. параллельно (dùng chiều thuận làm diode thoát/хвостовой + kẹp 56 В)
@@ -113,20 +113,20 @@ C55,Конденсатор К53-1А-30В-33 мкФ±20% ОЖ0.464.044 ТУ,1,234
 Д16,Стабилитрон Д817А УЖ3.362.027 ТУ,1,234,Д5…Д18: 14 шт. параллельно (dùng chiều thuận làm diode thoát/хвостовой + kẹp 56 В)
 Д17,Стабилитрон Д817А УЖ3.362.027 ТУ,1,234,Д5…Д18: 14 шт. параллельно (dùng chiều thuận làm diode thoát/хвостовой + kẹp 56 В)
 Д18,Стабилитрон Д817А УЖ3.362.027 ТУ,1,234,Д5…Д18: 14 шт. параллельно (dùng chiều thuận làm diode thoát/хвостовой + kẹp 56 В)
-Д23,Диод 2Д103А ТТ3.362.060 ТУ,1,234,"cái cạnh T24 (khối −6,3 В); trên Э3 còn một nhãn «Д23» thứ hai = Д25"
+Д23,Диод 2Д103А ТТ3.362.060 ТУ,1,234,"cái cạnh T24 (khối −6,3 В); trên Э3 còn một nhãn «Д23» thứ hai = Д25. ĐÃ XÁC NHẬN bằng ảnh mới RE_tr231_a269.jpg 2026-10-25: cả hai vị trí đọc rất rõ, đúng là Э3 in «Д23» 2 lần"
 Д24,Диод 2Д510А ТТ3.362.096 ТУ,1,234,
-Д25,Диод 2Д510А ТТ3.362.096 ТУ,1,234,? trên Э3 in «Д23» (cạnh R29/R30); #248 đặt Д25 cạnh R28/R30 ⇒ đọc là Д25
+Д25,Диод 2Д510А ТТ3.362.096 ТУ,1,234,"ĐÃ XÁC NHẬN bằng ảnh mới RE_tr231_a269.jpg 2026-10-25: nhãn cạnh R29/R30 đọc rõ ràng vẫn ghi «Д23» (không phải «Д25») — xác nhận Э3 in trùng tên; gán = Д25 vẫn dựa theo vị trí trên #248 (perechen), không đổi"
 Д31,Тиристор 2У202И УЖ3.362.022 ТУ,1,235,crowbar +5 В
 Д32,Стабилитрон 2С147А СМ3.362.805 ТУ,1,235,на плате ВШ6.730.530 (#249)
 Д33,Стабилитрон Д818Д СМ3.362.025 ТУ,1,235,"опорный −6,3 В"
-Д34,Диод 2Д510А ТТ3.362.096 ТУ,1,235,Д34…Д41: 8 шт. параллельно; trên Э3 ghi «Д34…Д40»
-Д35,Диод 2Д510А ТТ3.362.096 ТУ,1,235,Д34…Д41: 8 шт. параллельно; trên Э3 ghi «Д34…Д40»
-Д36,Диод 2Д510А ТТ3.362.096 ТУ,1,235,Д34…Д41: 8 шт. параллельно; trên Э3 ghi «Д34…Д40»
-Д37,Диод 2Д510А ТТ3.362.096 ТУ,1,235,Д34…Д41: 8 шт. параллельно; trên Э3 ghi «Д34…Д40»
-Д38,Диод 2Д510А ТТ3.362.096 ТУ,1,235,Д34…Д41: 8 шт. параллельно; trên Э3 ghi «Д34…Д40»
-Д39,Диод 2Д510А ТТ3.362.096 ТУ,1,235,Д34…Д41: 8 шт. параллельно; trên Э3 ghi «Д34…Д40»
-Д40,Диод 2Д510А ТТ3.362.096 ТУ,1,235,Д34…Д41: 8 шт. параллельно; trên Э3 ghi «Д34…Д40»
-Д41,Диод 2Д510А ТТ3.362.096 ТУ,1,235,Д34…Д41: 8 шт. параллельно; trên Э3 ghi «Д34…Д40»
+Д34,Диод 2Д510А ТТ3.362.096 ТУ,1,235,"Д34…Д41: 8 шт. параллельно; trên Э3 ghi «Д34…Д40». ĐÃ XÁC NHẬN bằng ảnh mới RE_tr231_a269.jpg 2026-10-25: đọc RẤT RÕ nhãn «Д34...Д40» cạnh đúng MỘT ký hiệu diode duy nhất (không vẽ 8, hay 7, hình tam giác riêng — cả cụm chỉ vẽ 1 ký hiệu đại diện kèm nhãn dải, giống cách vẽ các cụm linh kiện song song khác trên tờ này). Mâu thuẫn 7 (dải nhãn Д34…Д40) so với 8 (số lượng trong перечень) VẪN CÒN — đây là mâu thuẫn nội dung giữa Э3 và перечень, không phải do ảnh mờ, ảnh mới không giải quyết được"
+Д35,Диод 2Д510А ТТ3.362.096 ТУ,1,235,"Д34…Д41: 8 шт. параллельно; trên Э3 ghi «Д34…Д40». ĐÃ XÁC NHẬN bằng ảnh mới RE_tr231_a269.jpg 2026-10-25: đọc RẤT RÕ nhãn «Д34...Д40» cạnh đúng MỘT ký hiệu diode duy nhất (không vẽ 8, hay 7, hình tam giác riêng — cả cụm chỉ vẽ 1 ký hiệu đại diện kèm nhãn dải, giống cách vẽ các cụm linh kiện song song khác trên tờ này). Mâu thuẫn 7 (dải nhãn Д34…Д40) so với 8 (số lượng trong перечень) VẪN CÒN — đây là mâu thuẫn nội dung giữa Э3 và перечень, không phải do ảnh mờ, ảnh mới không giải quyết được"
+Д36,Диод 2Д510А ТТ3.362.096 ТУ,1,235,"Д34…Д41: 8 шт. параллельно; trên Э3 ghi «Д34…Д40». ĐÃ XÁC NHẬN bằng ảnh mới RE_tr231_a269.jpg 2026-10-25: đọc RẤT RÕ nhãn «Д34...Д40» cạnh đúng MỘT ký hiệu diode duy nhất (không vẽ 8, hay 7, hình tam giác riêng — cả cụm chỉ vẽ 1 ký hiệu đại diện kèm nhãn dải, giống cách vẽ các cụm linh kiện song song khác trên tờ này). Mâu thuẫn 7 (dải nhãn Д34…Д40) so với 8 (số lượng trong перечень) VẪN CÒN — đây là mâu thuẫn nội dung giữa Э3 và перечень, không phải do ảnh mờ, ảnh mới không giải quyết được"
+Д37,Диод 2Д510А ТТ3.362.096 ТУ,1,235,"Д34…Д41: 8 шт. параллельно; trên Э3 ghi «Д34…Д40». ĐÃ XÁC NHẬN bằng ảnh mới RE_tr231_a269.jpg 2026-10-25: đọc RẤT RÕ nhãn «Д34...Д40» cạnh đúng MỘT ký hiệu diode duy nhất (không vẽ 8, hay 7, hình tam giác riêng — cả cụm chỉ vẽ 1 ký hiệu đại diện kèm nhãn dải, giống cách vẽ các cụm linh kiện song song khác trên tờ này). Mâu thuẫn 7 (dải nhãn Д34…Д40) so với 8 (số lượng trong перечень) VẪN CÒN — đây là mâu thuẫn nội dung giữa Э3 và перечень, không phải do ảnh mờ, ảnh mới không giải quyết được"
+Д38,Диод 2Д510А ТТ3.362.096 ТУ,1,235,"Д34…Д41: 8 шт. параллельно; trên Э3 ghi «Д34…Д40». ĐÃ XÁC NHẬN bằng ảnh mới RE_tr231_a269.jpg 2026-10-25: đọc RẤT RÕ nhãn «Д34...Д40» cạnh đúng MỘT ký hiệu diode duy nhất (không vẽ 8, hay 7, hình tam giác riêng — cả cụm chỉ vẽ 1 ký hiệu đại diện kèm nhãn dải, giống cách vẽ các cụm linh kiện song song khác trên tờ này). Mâu thuẫn 7 (dải nhãn Д34…Д40) so với 8 (số lượng trong перечень) VẪN CÒN — đây là mâu thuẫn nội dung giữa Э3 và перечень, không phải do ảnh mờ, ảnh mới không giải quyết được"
+Д39,Диод 2Д510А ТТ3.362.096 ТУ,1,235,"Д34…Д41: 8 шт. параллельно; trên Э3 ghi «Д34…Д40». ĐÃ XÁC NHẬN bằng ảnh mới RE_tr231_a269.jpg 2026-10-25: đọc RẤT RÕ nhãn «Д34...Д40» cạnh đúng MỘT ký hiệu diode duy nhất (không vẽ 8, hay 7, hình tam giác riêng — cả cụm chỉ vẽ 1 ký hiệu đại diện kèm nhãn dải, giống cách vẽ các cụm linh kiện song song khác trên tờ này). Mâu thuẫn 7 (dải nhãn Д34…Д40) so với 8 (số lượng trong перечень) VẪN CÒN — đây là mâu thuẫn nội dung giữa Э3 và перечень, không phải do ảnh mờ, ảnh mới không giải quyết được"
+Д40,Диод 2Д510А ТТ3.362.096 ТУ,1,235,"Д34…Д41: 8 шт. параллельно; trên Э3 ghi «Д34…Д40». ĐÃ XÁC NHẬN bằng ảnh mới RE_tr231_a269.jpg 2026-10-25: đọc RẤT RÕ nhãn «Д34...Д40» cạnh đúng MỘT ký hiệu diode duy nhất (không vẽ 8, hay 7, hình tam giác riêng — cả cụm chỉ vẽ 1 ký hiệu đại diện kèm nhãn dải, giống cách vẽ các cụm linh kiện song song khác trên tờ này). Mâu thuẫn 7 (dải nhãn Д34…Д40) so với 8 (số lượng trong перечень) VẪN CÒN — đây là mâu thuẫn nội dung giữa Э3 và перечень, không phải do ảnh mờ, ảnh mới không giải quyết được"
+Д41,Диод 2Д510А ТТ3.362.096 ТУ,1,235,"Д34…Д41: 8 шт. параллельно; trên Э3 ghi «Д34…Д40». ĐÃ XÁC NHẬN bằng ảnh mới RE_tr231_a269.jpg 2026-10-25: đọc RẤT RÕ nhãn «Д34...Д40» cạnh đúng MỘT ký hiệu diode duy nhất (không vẽ 8, hay 7, hình tam giác riêng — cả cụm chỉ vẽ 1 ký hiệu đại diện kèm nhãn dải, giống cách vẽ các cụm linh kiện song song khác trên tờ này). Mâu thuẫn 7 (dải nhãn Д34…Д40) so với 8 (số lượng trong перечень) VẪN CÒN — đây là mâu thuẫn nội dung giữa Э3 và перечень, không phải do ảnh mờ, ảnh mới không giải quyết được"
 T2,Транзистор 2Т312Б ЖК3.365.143 ТУ,1,235,n-p-n
 T3,Транзистор 2Т203А ЩЫ3.365.007 ТУ,1,235,p-n-p
 T4,Транзистор 2Т803А Ге3.365.008 ТУ,1,235,n-p-n
@@ -148,15 +148,15 @@ T20,Транзистор 2Т203А ЩЫ3.365.007 ТУ,1,235,p-n-p
 T21,Транзистор 2Т803А Ге3.365.008 ТУ,1,235,"n-p-n, ключ −6,3 В"
 T22,Транзистор 2Т921А ЖК3.365.254 ТУ,1,235,n-p-n
 T23,Транзистор 2Т203А ЩЫ3.365.007 ТУ,1,236,p-n-p
-T24,Транзистор 2Т301Д ЩБ3.365.007 ТУ,1,236,n-p-n theo loại; ký hiệu trên Э3 có mũi tên emitter hướng vào (kiểu p-n-p) — ?
+T24,Транзистор 2Т301Д ЩБ3.365.007 ТУ,1,236,"n-p-n theo loại. ĐÃ XÁC NHẬN bằng ảnh mới RE_tr231_a269.jpg 2026-10-25: đọc lại kỹ ký hiệu — mũi tên emitter thực ra chỉ RA NGOÀI (hướng xuống về phía Д23), đúng kiểu ký hiệu n-p-n chuẩn, KHÔNG hướng vào như đọc nhầm từ ảnh cũ mờ. Hết mâu thuẫn loại transistor, khớp với перечень (2Т301Д = n-p-n)"
 Др1,Дроссель Д245В ОЮ0.475.013 ТУ,1,236,"дроссель фильтра +5 В, cuộn 1-2 // 3-4"
 Др2,Дроссель Д245В ОЮ0.475.013 ТУ,1,236,cuộn 1-2 // 3-4
 Др3,Дроссель Д213В ОЮ0.475.013 ТУ,1,236,"lọc vào +27 В, cuộn 1-2 // 3-4"
-Др5,"Дроссель в/ч ДМ-0,6-60±5% Пе4.777.002 Сп ГИ0.477.005 ТУ",1,236,chân không đánh số trên Э3 (1/2 tự đặt)
+Др5,"Дроссель в/ч ДМ-0,6-60±5% Пе4.777.002 Сп ГИ0.477.005 ТУ",1,236,chân không đánh số trên Э3 (1/2 tự đặt). ĐÃ XÁC NHẬN bằng ảnh mới RE_tr231_a269.jpg 2026-10-25: đúng là không có số chân in trên ký hiệu
 Др6,Дроссель Д123 ЕУ4.752.078 Сп,1,236,"cuộn tích năng biến đổi −6,3 В"
-Др7,"Дроссель Дм-1,2-30±5% Пе4.777.002 Сп ГИ0.477.005 ТУ",1,236,chân không đánh số (1/2 tự đặt)
-Др8,Дроссель Дм-3-12±5% Пе4.777.002 Сп ГИ0.477.005 ТУ,1,236,chân không đánh số (1/2 tự đặt)
-Пр1,Предохранитель ВП1-2-5А ОЮ0.480.003 ТУ,1,236,vẽ chung một ký hiệu «Пр1 Пр4 „5А“» ⇒ song song với Пр4
+Др7,"Дроссель Дм-1,2-30±5% Пе4.777.002 Сп ГИ0.477.005 ТУ",1,236,chân không đánh số (1/2 tự đặt). ĐÃ XÁC NHẬN bằng ảnh mới RE_tr231_a269.jpg 2026-10-25: đúng là không có số chân in trên ký hiệu
+Др8,Дроссель Дм-3-12±5% Пе4.777.002 Сп ГИ0.477.005 ТУ,1,236,chân không đánh số (1/2 tự đặt). ĐÃ XÁC NHẬN bằng ảnh mới RE_tr231_a269.jpg 2026-10-25: đúng là không có số chân in trên ký hiệu
+Пр1,Предохранитель ВП1-2-5А ОЮ0.480.003 ТУ,1,236,"vẽ chung một ký hiệu «Пр1 Пр4 „5А“» ⇒ song song với Пр4 — đã thử tìm ký hiệu này bằng ảnh mới RE_tr231_a269.jpg 2026-10-25 (nhiều vùng giữa C17…C32 và R6/T8…T11) nhưng chưa định vị chính xác được trên ảnh; vẫn không xác định được vị trí cụ thể. Mẫu hình đã xác nhận ở Д34…Д40 (một ký hiệu + nhãn dải cho cả cụm song song) ủng hộ giả thuyết Пр1/Пр4 cũng chỉ vẽ chung 1 ký hiệu, nhưng đây vẫn là suy luận theo mẫu, chưa phải đọc trực tiếp"
 Пр2,"Предохранитель ВП1-2-0,5А ОЮ0.480.003 ТУ",1,236,sơ cấp Тр1; на плате ВШ6.730.530 (#249)
 Пр3,Предохранитель ВП1-2-1А ОЮ0.480.003 ТУ,1,236,"vào khối −6,3 В; trên Э3 ghi «1,0А»"
 Пр4,Предохранитель ВП1-2-5А ОЮ0.480.003 ТУ,1,236,song song Пр1
