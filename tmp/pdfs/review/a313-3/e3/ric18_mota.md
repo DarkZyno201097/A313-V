@@ -9,7 +9,7 @@ Người chép: Claude, 2026-10-25. Dữ liệu sinh bằng `ric18_gen.py` → `
 | Ảnh | Nội dung | Dùng |
 |---|---|---|
 | `A313-3_CONTROL/Y10/RE_tr206_a208.jpg` (3386×2292) | Э3 trang 206, 1 tờ: 16 kênh, khối tạo М/~М, tụ nguồn, ô mẫu «Ячейка усилителя 1…16», ghi chú 1–2 | **nguồn chính** (nét hơn) |
-| `A313-3_CONTROL/Y10/1792807477591_…jpg` (1536×2048, chụp lại) | cùng tờ, chụp xoay | đối chiếu |
+| `A313-3_CONTROL/Y10/RE_tr206_a271.jpg` (1536×2048, chụp lại) | cùng tờ, chụp xoay | đối chiếu |
 | `A313-3_CONTROL/Y10/Y10.jpg` | ảnh tấm thật (mặt linh kiện, hai vỏ 302НР3 «3848», nhãn ЕУ6.730.163-9) | tham khảo |
 | `ЕУ.048.002.РЭ(A313-3)/RE_tr207_a209.jpg`, `RE_tr208_a210.jpg` | ПЭ рис.18 (Приложение лист 74–75) | BOM |
 

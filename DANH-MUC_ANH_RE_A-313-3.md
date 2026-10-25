@@ -151,3 +151,15 @@ Bổ sung 2026-10-25:
 | Số | File | Hình / tờ | Thay cho |
 |---|---|---|---|
 | a270 | `A313-3_CONTROL/Y21/RE_tr221_a270.jpg` | рис.22 (Y21) | #221 |
+
+Bổ sung 2026-10-25 (đổi tên ảnh chụp lại 1792…; bản sao RE cũ trong thư mục tấm đã xoá, bản gốc vẫn ở `ЕУ.048.002.РЭ(A313-3)/`):
+
+| Số | File | Hình / tờ | Thay cho |
+|---|---|---|---|
+| a271 | `A313-3_CONTROL/Y10/RE_tr206_a271.jpg` | рис.18 (Y10) | — (ảnh đối chiếu; giữ #208 làm nguồn chính vì phân giải cao hơn) |
+| a272 | `A313-3_CONTROL/Y15/RE_tr188_a272.jpg` | рис.12/13 (Y14/Y15) | #184 (bản sao trong Y15 đã xoá; Y14 vẫn giữ) |
+| a273 | `A313-3_CONTROL/Y18/RE_tr214_a273.jpg` | рис.20 (Y18) | #215 |
+| a274 | `A313-3_CONTROL/Y20/RE_tr218_a274.jpg` | рис.21 (Y20) | #219 |
+| a275 | `A313-3_CONTROL/Y22/RE_tr237_a275.jpg` | рис.26 (Y22) | #239 |
+| a276 | `A313-3_CONTROL/Y23/RE_tr228_a276.jpg` | рис.24 (Y23) | #228 |
+| a277 | `A313-3_CONTROL/Y24/RE_tr209_a277.jpg` | рис.19 (Y24) | #211 |

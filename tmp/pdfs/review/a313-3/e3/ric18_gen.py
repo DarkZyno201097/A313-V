@@ -1,5 +1,5 @@
 """Sinh ric18_bom.csv, ric18_conn.csv, ric18_net.csv cho рис.18 — Y10 «Усилители выходные» (ЕУ2.032.463 Э3, 1 tờ).
-Nguồn: sơ đồ A313-3_CONTROL/Y10/RE_tr206_a208.jpg (nét hơn ảnh chụp lại 1792807477591_…jpg — dùng ảnh sau để đối chiếu);
+Nguồn: sơ đồ A313-3_CONTROL/Y10/RE_tr206_a208.jpg (nét hơn ảnh chụp lại RE_tr206_a271.jpg — dùng ảnh sau để đối chiếu);
 ПЭ: ЕУ.048.002.РЭ(A313-3)/RE_tr207_a209.jpg, RE_tr208_a210.jpg. Người chép: Claude, 2026-10-25.
 
 Chạy từ gốc repo:  python tmp/pdfs/review/a313-3/e3/ric18_gen.py tmp/pdfs/review/a313-3/e3

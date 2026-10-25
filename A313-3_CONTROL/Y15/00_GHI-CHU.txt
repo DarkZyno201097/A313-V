@@ -13,3 +13,5 @@ RE_tr188_a184.jpg nên ảnh này có thể hữu ích để soát lại mã/s�
 Chép PARTIAL 2026-10-25: dùng chung dataset `ric12_13_*` với Y14 (xem ghi chú
 đầy đủ trong thư mục Y14/00_GHI-CHU.txt). BOM 42 ref; net 92 dòng (51 truy
 trực tiếp, 41 placeholder, checker PASS); bảng đầu nối П1 43 dòng.
+
+Cập nhật 2026-10-25: ảnh 1792809106620_… đổi tên thành RE_tr188_a272.jpg (chụp lại, rõ hơn). Bản sao RE_tr188_a184.jpg trong thư mục này đã xoá (trùng điểm ảnh với bản gốc trong ЕУ.048.002.РЭ(A313-3)/ và bản ở Y14/).
