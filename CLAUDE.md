@@ -6,6 +6,16 @@
 
 ---
 
+## Kho tri thức A313 — đọc khi làm việc về A-313
+
+Kho dùng chung cho mọi AI và người trong dự án: `KHO-TRI-THUC_A313/`.
+**Trước khi phân tích hoặc trả lời về A-313 / A-313-3 / A313-V:** đọc `KHO-TRI-THUC_A313/00_INDEX.md`
+(bảng 24 tấm, «hỏi gì đọc đâu», từ khoá), tra mục liên quan, rồi mở file nguồn được liên kết trước khi
+dùng số liệu. Quy tắc thêm/sửa mục: `KHO-TRI-THUC_A313/00_QUY-TAC.md`. Chỉ thêm mục mới khi người dùng
+cho phép. Sau khi sửa: `python KHO-TRI-THUC_A313/tools/kb_check.py` phải thoát mã 0.
+
+---
+
 ## 1. Đọc trước khi làm bất cứ việc gì
 
 Theo đúng thứ tự:
