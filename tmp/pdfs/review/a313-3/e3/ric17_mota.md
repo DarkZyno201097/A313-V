@@ -1,4 +1,4 @@
-# Рис.17 — Коммутатор выходной (Выход 1а…24а), tấm Y11 của A-313-3
+# Рис.17 — Коммутатор выходной (Выход 1а…32а, 1б…16б), tấm Y11 của A-313-3
 
 Mã sơ đồ: **ЕУ2.242.113 Э3**, 2 tờ. Nguồn ảnh:
 
@@ -10,15 +10,15 @@ Mã sơ đồ: **ЕУ2.242.113 Э3**, 2 tờ. Nguồn ảnh:
 - ПЭ: `ЕУ.048.002.РЭ(A313-3)/RE_tr204_a206.jpg` (trang "204"),
   `RE_tr205_a207.jpg` (trang "205").
 
-Bản ghi: `ric17_bom.csv` có **176 ref vật lý**; `ric17_net.csv` có **341 hàng
-chân**, trong đó nhiều hàng còn đánh dấu `НЕ ПРОСЛЕЖЕНО` (xem §4). Script
+Bản ghi: `ric17_bom.csv` có **176 ref vật lý**; `ric17_net.csv` có **347 hàng
+chân** (cập nhật 2026-10-25), trong đó nhiều hàng còn đánh dấu `НЕ ПРОСЛЕЖЕНО` (xem §4). Script
 kiểm `check_ric17.py` gọi `e3_check.check(17)` → **PASS** (176 ref khớp
 2 chiều bom↔net, không có net nào <2 chân).
 
 ## 1. Cấu trúc tổng quan
 
-Tấm là bộ chuyển mạch 24 kênh, mỗi kênh có 2 đường dự phòng "а" và "б"
-(48 lối ra vật lý: Выход1а…24а, Выход1б…24б), dùng 57 vỏ `168КТ2Б`:
+Tấm là bộ chuyển mạch 48 lối ra vật lý: Выход 1а…32а và Выход 1б…16б (sửa 2026-10-25 theo 6 bảng Я,
+xem §2), dùng 57 vỏ `168КТ2Б`:
 
 - **6 ячейка Я1…Я6** (ПЭ: поз. "Я1...Я6", mỗi cái gồm 8×`168КТ2Б`
   (У1…У8), 8×điện trở 3,3 кОм (R1…R8), 8×tụ 4,7 µF (C1…C8) — tổng
@@ -35,77 +35,39 @@ Ghi chú in trên tờ 1 (áp dụng cho MỌI vi mạch cả 2 tờ): **"Выв
 всех микросхем соединены с цепью 'о'"** — chân 7 và 11 mọi IC nối net
 `o` (mát chung). Đã ghi vào net.csv cho tất cả 57 ref `У*`.
 
-## 2. Ánh xạ cell ↔ Выход (xác nhận qua 6 bảng đầu nối + đối chiếu П1/П2 đầy đủ)
+## 2. Ánh xạ ячейка ↔ Выход — CHỐT 2026-10-25
 
-**⚠ CẬP NHẬT 2026-10-24 (Claude tự xác minh bằng vision_analyze trực tiếp):** dòng Я1/Я4 dưới đây
-(cũng như toàn bộ cột Q5-Q8 của mọi hàng) **KHÔNG đáng tin** — xem §3.0 mới. Bảng giữ nguyên để tham
-khảo lịch sử, nhưng chỉ tin **Q1-Q4 của Я1 và Я4** (đã xác minh trực tiếp), còn lại cần soát lại.
+Chép lại cả 6 bảng Я1…Я6 trên tờ 1 (`RE_tr202_a266.jpg`, zoom 2×) và đối chiếu từng chân với bảng П1/П2
+đầy đủ trên tờ 2 (`RE_tr203_a267.jpg`): **48/48 chân Q khớp**, không còn ô nghi vấn. Ảnh đủ rõ; các lỗi
+của bản chép trước (Я4 chép nhầm từ Я1, Я3 Q6/Q8, Я4 S/B = У13) là lỗi đọc, không phải do ảnh.
+Script áp: `ric17_soat_ya.py` (ghi đè dòng Я*.S/B/Q trong `ric17_net.csv`, thêm chân У11.3/12, У12.3/12/5/10;
+chạy lại không đổi kết quả).
 
-| Cell | Dải Выход | Kênh | Nguồn П | Trạng thái |
-|---|---|---|---|---|
-| Я1 | 1…4 xác nhận (П1 34,33,17,41); 5…8 **CHƯA xác nhận, có thể sai** | а | П1 | Q1-Q4 khớp trực tiếp; Q5-Q8 xem §3.0 |
-| Я2 | 9…16 | а | П2 (chân 28,31,8,39,29,4,36,12) | ⚠ CHƯA xác minh lại Q5-Q8, xem §3.0 |
-| Я3 | 17…24 | а | П2 (chân 43,32,9,40,30,?,46,?) | khớp 6/8 chân; 2 chân (15, 41) lệch — xem §3; ⚠ Q5-Q8 chưa xác minh lại |
-| Я4 | 1…4 xác nhận **THẬT SỰ LÀ Вых.25а-28а, П2 13,16,17,51** (sửa 2026-10-24, KHÁC Я1); 5…8 chưa đọc | а | П2 | Q1-Q4 đã sửa đúng; Q5-Q8 chưa đọc |
-| Я5 | 1…8 | б | П1 (52,51,46,23,24,25,49,45) | ⚠ CHƯA xác minh lại Q5-Q8, xem §3.0 |
-| Я6 | chỉ đọc 14…16 | б | П2 (35,38,13) | khớp 3/8 chân đã đọc; Q1…Q5 chưa zoom |
+| Ячейка | S1 / S2 / B1 / B2 | Q1…Q8 → Выход | Chân П |
+|---|---|---|---|
+| Я1 | У9.3 / .12 / .5 / .10 | 1а…8а | П1: 34, 33, 7, 41, 35, 8, 36, 43 |
+| Я2 | У10.3 / .12 / .5 / .10 | 9а…16а | П2: 28, 31, 8, 39, 29, 4, 36, 12 |
+| Я3 | У11.3 / .12 / .5 / .10 | 17а…24а | П2: 43, 32, 9, 40, 30, **5**, 46, **47** |
+| Я4 | **У12**.3 / .12 / .5 / .10 | **25а…32а** | П2: **3, 6, 37**, 51, 33, 7, 10, 25 |
+| Я5 | У13.3 / .12 / .5 / .10 | 1б…8б | П1: 52, 51, 46, 23, 24, 25, 49, 45 |
+| Я6 | У14.3 / .12 / .5 / .10 | 9б…16б | П2: 53, 52, 50, 14, 34, 35, 38, 13 |
 
-### 3.0. LỖI PHÁT HIỆN 2026-10-24 (Claude tự kiểm, không qua subagent)
+A1…A4 (`Упр.т1…т4`) giống hệt ở cả 6 bảng: П1/31, 4, 32, 5.
 
-Zoom trực tiếp bảng Я1 và Я4 phát hiện: **Я4 KHÔNG giống Я1** — subagent lượt trước chép nhầm (copy
-nguyên 8 dòng Q1-Q8 của Я1 sang Я4). Đọc lại trực tiếp:
-- Я1 thật: Q1=Вых.1а(П1/34), Q2=Вых.2а(П1/33), Q3=Вых.3а(П1/17), Q4=Вых.4а(П1/41) — bảng Я1 chỉ có
-  4 dòng Q thật trong khung kẻ, KHÔNG có Q5-Q8 trong chính bảng Я1.
-- Я4 thật: Q1=Вых.25а(П2/13), Q2=Вых.26а(П2/16), Q3=Вых.27а(П2/17), Q4=Вых.28а(П2/51).
-- Vậy "Вых.5а…8а" (chân П1 35,8,36,43) mà subagent gán cho cả Я1 VÀ Я4 không thuộc bảng nào trong 2
-  bảng này — nghi thuộc về Я2 hoặc một bảng khác (thấy thoáng "Q5 Вых.5а П1/35" khi zoom vùng lân cận
-  Я2), nhưng CHƯA xác nhận chắc chắn. Đã đổi `ric17_net.csv`: Я4 Q1-Q4 sửa đúng; Я1 Q5-Q8 và Я4 Q5-Q8
-  đổi về `?` chờ soát lại.
-- **Khuyến nghị mạnh:** toàn bộ cột Q5-Q8 của Я2, Я3, Я5 (ghi "khớp hoàn toàn"/"1…8" trong bảng trên)
-  CÓ THỂ bị lỗi tương tự (suy diễn theo thứ tự thay vì đọc trực tiếp) — cần soát lại có hệ thống từng
-  bảng bằng zoom trực tiếp trước khi tin dùng, giống cách đã phát hiện lỗi ở Я1/Я4.
+Hệ quả: tấm có **48 lối ra = 32 kênh «а» (Выход 1а…32а) + 16 kênh «б» (Выход 1б…16б)**, không phải
+24 × (а, б) như §1 ghi trước đây. Tờ 2 cũng ghi nhãn «Я4S1, Я4B1…» ở khối У12, khớp Я4 ← У12.
 
+Chữ chép cũ (đã sửa trong net): Я4 Q1/Q2/Q3 = П2:13/16/17 → **П2/3, 6, 37** (bảng П2 tờ 2: chân 3 = Выход 25а,
+6 = 26а, 37 = 27а; chân 13 = Выход 16б thuộc Я6); Я3 Q6/Q8 = П2:15/41 (ô trống) → **П2/5, 47**;
+Я1 Q3 trong bảng cũ ghi «П1 17» → **П1/7**.
 
+## 3. Nghi vấn còn lại (ghi nhận, không tự suy diễn)
 
-4 tín hiệu A1…A4 (`Упр.т1…т4`, qua П1 chân 31,4,32,5) **giống hệt** ở cả
-6 bảng — xác nhận trực tiếp bằng ảnh zoom riêng từng bảng.
-
-Tín hiệu S1,S2,B1,B2 mỗi cell lấy từ 1 IC rời trên tờ 2 (đọc trực tiếp
-nhãn viết tay, dạng "Уnn.chân" phía trên từng cột bảng đầu nối):
-
-| Cell | S1 | S2 | B1 | B2 | Độ tin cậy |
-|---|---|---|---|---|---|
-| Я1 | У9.3 | У9.12 | У9.5 | У9.10 | cao, zoom riêng rõ |
-| Я2 | У10.3 | У10.12 | У10.5 | У10.10 | cao, zoom riêng rõ |
-| Я3 | ? | ? | У11.5 | У11.10 | B1/B2 cao; S1/S2 chưa đọc được (bị chú thích lớn che) |
-| Я4 | У13.3 | У13.12 | У13.5 | У13.10 | trung bình, đọc được nhưng chưa đối chiếu chéo |
-| Я5 | ? | ? | ? | ? | chưa tách được khỏi ảnh lân cận (xem §3) |
-| Я6 | У14.3 | У14.12(?) | У14.5 | У14.10 | trung bình, "12" của S2 hơi mờ |
-
-## 3. Mâu thuẫn / nghi vấn CHƯA giải quyết (ghi nhận, không tự suy diễn)
-
-1. **Я1 và Я4 đọc được output row GIỐNG HỆT NHAU** (cùng "Вых.1а…8а",
-   cùng số chân П1 34,33,7,41,35,8,36,43). Hai khả năng: (a) đây là
-   mạch dự phòng 2 kênh thật sự đấu song song trên cùng chân П1 (hợp lý
-   về mặt kiến trúc độ tin cậy cao của thiết bị bay), hoặc (b) một
-   trong hai lần đọc đã bị nhầm bảng do 2 bảng (Я1 và Я4) xếp liền kề
-   theo chiều dọc trên ảnh gốc. **Chưa chụp lại để phân định.** **Xem lại 2026-10-25:** ảnh a266 ghi rõ Я4 = «Вых 25а…32а» ra П2/13, 6, 51, 7, 33, …, 10, 25 — khác Я1 ⇒ (b) đúng, cần chép lại Я4 (và Я3, Я5, Я6) trên ảnh hiện có.
-2. **Я3**: hàng Q6 (22а) ghi chân П2/15, hàng Q8 (24а) ghi chân П2/41 —
-   nhưng bảng П2 đầy đủ (tờ 2, đọc trực tiếp, xem `ric17_net.csv` không
-   lưu bảng này riêng — xem bản ghi gốc trong báo cáo) cho thấy contact
-   15 và 41 đều TRỐNG (không có nhãn Выход). Có thể đọc nhầm 1 trong 2
-   số ở bảng nhỏ Я3, hoặc bảng П2 đầy đủ có ô bị bỏ sót khi chụp. Giữ
-   nguyên số đọc trên bảng nhỏ trong net.csv, đánh dấu nghi vấn.
-3. **Я5**: không tách được 4 nhãn S1/S2/B1/B2 — vùng ảnh lẫn giữa nhãn
-   Вых của Я2 (bảng phía trên, cùng cột) và có thể trùng với chữ của
-   Я4 ở cột bên cạnh do góc chụp nghiêng. Cần chụp lại riêng.
-4. **Я6**: chỉ xác nhận được Q6,Q7,Q8 (14б,15б,16б); Q1…Q5 (9б…13б,
-   theo suy luận dải số nhưng CHƯA xác nhận bằng ảnh) chưa zoom.
-5. Mã TU của У9…У17 (ПЭ trang 204: `И10.302.029`) khác 1 chữ số với mã
+1. Mã TU của У9…У17 (ПЭ trang 204: `И10.302.029`) khác 1 chữ số với mã
    của У1…У8 trong mỗi Я (ПЭ trang 205: `И10.308.029`) dù cùng tên linh
    kiện `168КТ2Б` — giữ nguyên cả hai như trong tài liệu gốc, không tự
    sửa (có thể 1 trong 2 trang in sai).
-6. Nhãn ô IC thứ 8 trong sơ đồ 1-ячейка mẫu (cạnh У7,У6,У5) đọc được là
+2. Nhãn ô IC thứ 8 trong sơ đồ 1-ячейка mẫu (cạnh У7,У6,У5) đọc được là
    **У8** (khớp dải ПЭ "У1...У8") nhưng chữ viết tay có nét giống "9" —
    giữ theo ПЭ, không dùng "У9" (vì У9 đã là ref độc lập trên tờ 2).
 
@@ -122,18 +84,13 @@ nhãn viết tay, dạng "Уnn.chân" phía trên từng cột bảng đầu n�
   khối lượng lớn — mỗi cell có tới ~8×14 chân). Mỗi ref trong nhóm này
   mới có 1 hàng placeholder `НЕ ПРОСЛЕЖЕНО <ref>.1`, ngoại trừ chân 7/11
   (mát, theo ghi chú chung §1) đã ghi cho 48 ref `nУk`.
-- У12,У15,У16,У17 (standalone): chỉ có chân 7/11 (mát); chưa lần được
+- У15,У16,У17 (standalone): chỉ có chân 7/11 (mát); У12 có thêm 3/5/10/12 (→ Я4); chưa lần được
   chân nào khác (không zoom kịp trong lượt này).
 
 ## 5. Việc tiếp theo nếu soát lại
 
-1. Chụp/zoom lại rõ 2 cột S1/S2 của Я3 (vùng bị chú thích che) và toàn
-   bộ 4 cột S/B của Я5 (tách khỏi vùng chồng lấn với Я2/Я4).
-2. Zoom lại output row của Я4 một lần nữa ở độ phóng đại khác góc để
-   xác nhận có thật sự trùng Я1 hay không (mục §3.1).
-3. Zoom Q1…Q5 của Я6.
-4. Zoom vùng dây nối R9…R21, C9…C12 và 4 IC У12,У15,У16,У17 trên tờ 2.
-5. Nếu cần netlist gate-level đầy đủ bên trong 6 ячейка (У1…У8 nối chi
+1. Zoom vùng dây nối R9…R21, C9…C12 và 4 IC У12,У15,У16,У17 trên tờ 2.
+2. Nếu cần netlist gate-level đầy đủ bên trong 6 ячейка (У1…У8 nối chi
    tiết), cần một lượt riêng tập trung chỉ vào đó — khối lượng tương
    đương với rис.8 trước đây (≈950 hàng) nhân thêm hệ số lặp.
 
