@@ -1,0 +1,442 @@
+﻿ref,pin,net,note
+D1,2,+27v,? nhãn có mã font Latin chưa giải mã chắc chắn: +27v
+D2,2,+27v,? nhãn có mã font Latin chưa giải mã chắc chắn: +27v
+D3,2,+27v,? nhãn có mã font Latin chưa giải mã chắc chắn: +27v
+D4,2,+27v,? nhãn có mã font Latin chưa giải mã chắc chắn: +27v
+D5,2,+27v,? nhãn có mã font Latin chưa giải mã chắc chắn: +27v
+D6,2,+27v,? nhãn có mã font Latin chưa giải mã chắc chắn: +27v
+D7,2,+27v,? nhãn có mã font Latin chưa giải mã chắc chắn: +27v
+D8,2,+27v,? nhãn có mã font Latin chưa giải mã chắc chắn: +27v
+D9,2,+27v,? nhãn có mã font Latin chưa giải mã chắc chắn: +27v
+D10,2,+27v,? nhãn có mã font Latin chưa giải mã chắc chắn: +27v
+D11,2,+27v,? nhãn có mã font Latin chưa giải mã chắc chắn: +27v
+D12,2,+27v,? nhãn có mã font Latin chưa giải mã chắc chắn: +27v
+D13,2,+27v,? nhãn có mã font Latin chưa giải mã chắc chắn: +27v
+D14,2,+27v,? nhãn có mã font Latin chưa giải mã chắc chắn: +27v
+D15,2,+27v,? nhãn có mã font Latin chưa giải mã chắc chắn: +27v
+D16,2,+27v,? nhãn có mã font Latin chưa giải mã chắc chắn: +27v
+DC13C,37,+27v,? nhãn có mã font Latin chưa giải mã chắc chắn: +27v
+DC13C,38,+27v,? nhãn có mã font Latin chưa giải mã chắc chắn: +27v
+DC13D,37,+27v,? nhãn có mã font Latin chưa giải mã chắc chắn: +27v
+DC13D,38,+27v,? nhãn có mã font Latin chưa giải mã chắc chắn: +27v
+P1,4,+27v,? nhãn có mã font Latin chưa giải mã chắc chắn: +27v
+P2,4,+27v,? nhãn có mã font Latin chưa giải mã chắc chắn: +27v
+P3,4,+27v,? nhãn có mã font Latin chưa giải mã chắc chắn: +27v
+P4,4,+27v,? nhãn có mã font Latin chưa giải mã chắc chắn: +27v
+P5,4,+27v,? nhãn có mã font Latin chưa giải mã chắc chắn: +27v
+P6,4,+27v,? nhãn có mã font Latin chưa giải mã chắc chắn: +27v
+P7,4,+27v,? nhãn có mã font Latin chưa giải mã chắc chắn: +27v
+P8,4,+27v,? nhãn có mã font Latin chưa giải mã chắc chắn: +27v
+P9,4,+27v,? nhãn có mã font Latin chưa giải mã chắc chắn: +27v
+P10,4,+27v,? nhãn có mã font Latin chưa giải mã chắc chắn: +27v
+P11,4,+27v,? nhãn có mã font Latin chưa giải mã chắc chắn: +27v
+P12,4,+27v,? nhãn có mã font Latin chưa giải mã chắc chắn: +27v
+P13,4,+27v,? nhãn có mã font Latin chưa giải mã chắc chắn: +27v
+P14,4,+27v,? nhãn có mã font Latin chưa giải mã chắc chắn: +27v
+P15,4,+27v,? nhãn có mã font Latin chưa giải mã chắc chắn: +27v
+P16,4,+27v,? nhãn có mã font Latin chưa giải mã chắc chắn: +27v
+DC13C,2,+27vb/x,? nhãn có mã font Latin chưa giải mã chắc chắn: +27vb/x
+DC13D,2,+27vb/x,? nhãn có mã font Latin chưa giải mã chắc chắn: +27vb/x
+P1,3,+27vb/x,? nhãn có mã font Latin chưa giải mã chắc chắn: +27vb/x
+P2,3,+27vb/x,? nhãn có mã font Latin chưa giải mã chắc chắn: +27vb/x
+P3,3,+27vb/x,? nhãn có mã font Latin chưa giải mã chắc chắn: +27vb/x
+P4,3,+27vb/x,? nhãn có mã font Latin chưa giải mã chắc chắn: +27vb/x
+P5,3,+27vb/x,? nhãn có mã font Latin chưa giải mã chắc chắn: +27vb/x
+P6,3,+27vb/x,? nhãn có mã font Latin chưa giải mã chắc chắn: +27vb/x
+P7,3,+27vb/x,? nhãn có mã font Latin chưa giải mã chắc chắn: +27vb/x
+P8,3,+27vb/x,? nhãn có mã font Latin chưa giải mã chắc chắn: +27vb/x
+P9,3,+27vb/x,? nhãn có mã font Latin chưa giải mã chắc chắn: +27vb/x
+P10,3,+27vb/x,? nhãn có mã font Latin chưa giải mã chắc chắn: +27vb/x
+P11,3,+27vb/x,? nhãn có mã font Latin chưa giải mã chắc chắn: +27vb/x
+P12,3,+27vb/x,? nhãn có mã font Latin chưa giải mã chắc chắn: +27vb/x
+P13,3,+27vb/x,? nhãn có mã font Latin chưa giải mã chắc chắn: +27vb/x
+P14,3,+27vb/x,? nhãn có mã font Latin chưa giải mã chắc chắn: +27vb/x
+P15,3,+27vb/x,? nhãn có mã font Latin chưa giải mã chắc chắn: +27vb/x
+P16,3,+27vb/x,? nhãn có mã font Latin chưa giải mã chắc chắn: +27vb/x
+DC13C,1,+5v,? nhãn có mã font Latin chưa giải mã chắc chắn: +5v
+DC13D,1,+5v,? nhãn có mã font Latin chưa giải mã chắc chắn: +5v
+R1,1,+5v,? nhãn có mã font Latin chưa giải mã chắc chắn: +5v
+R2,1,+5v,? nhãn có mã font Latin chưa giải mã chắc chắn: +5v
+R3,1,+5v,? nhãn có mã font Latin chưa giải mã chắc chắn: +5v
+R4,1,+5v,? nhãn có mã font Latin chưa giải mã chắc chắn: +5v
+R5,1,+5v,? nhãn có mã font Latin chưa giải mã chắc chắn: +5v
+R6,1,+5v,? nhãn có mã font Latin chưa giải mã chắc chắn: +5v
+R7,1,+5v,? nhãn có mã font Latin chưa giải mã chắc chắn: +5v
+R8,1,+5v,? nhãn có mã font Latin chưa giải mã chắc chắn: +5v
+R9,1,+5v,? nhãn có mã font Latin chưa giải mã chắc chắn: +5v
+R10,1,+5v,? nhãn có mã font Latin chưa giải mã chắc chắn: +5v
+R11,1,+5v,? nhãn có mã font Latin chưa giải mã chắc chắn: +5v
+R12,1,+5v,? nhãn có mã font Latin chưa giải mã chắc chắn: +5v
+R13,1,+5v,? nhãn có mã font Latin chưa giải mã chắc chắn: +5v
+R14,1,+5v,? nhãn có mã font Latin chưa giải mã chắc chắn: +5v
+R15,1,+5v,? nhãn có mã font Latin chưa giải mã chắc chắn: +5v
+R16,1,+5v,? nhãn có mã font Latin chưa giải mã chắc chắn: +5v
+R17,1,+5v,? nhãn có mã font Latin chưa giải mã chắc chắn: +5v
+R18,1,+5v,? nhãn có mã font Latin chưa giải mã chắc chắn: +5v
+R19,1,+5v,? nhãn có mã font Latin chưa giải mã chắc chắn: +5v
+R20,1,+5v,? nhãn có mã font Latin chưa giải mã chắc chắn: +5v
+R21,1,+5v,? nhãn có mã font Latin chưa giải mã chắc chắn: +5v
+R22,1,+5v,? nhãn có mã font Latin chưa giải mã chắc chắn: +5v
+R23,1,+5v,? nhãn có mã font Latin chưa giải mã chắc chắn: +5v
+R24,1,+5v,? nhãn có mã font Latin chưa giải mã chắc chắn: +5v
+R25,1,+5v,? nhãn có mã font Latin chưa giải mã chắc chắn: +5v
+R26,1,+5v,? nhãn có mã font Latin chưa giải mã chắc chắn: +5v
+R27,1,+5v,? nhãn có mã font Latin chưa giải mã chắc chắn: +5v
+R28,1,+5v,? nhãn có mã font Latin chưa giải mã chắc chắn: +5v
+R29,1,+5v,? nhãn có mã font Latin chưa giải mã chắc chắn: +5v
+R30,1,+5v,? nhãn có mã font Latin chưa giải mã chắc chắn: +5v
+R31,1,+5v,? nhãn có mã font Latin chưa giải mã chắc chắn: +5v
+R32,1,+5v,? nhãn có mã font Latin chưa giải mã chắc chắn: +5v
+R33,1,+5v,? nhãn có mã font Latin chưa giải mã chắc chắn: +5v
+DC13C,39,GND,
+DC13C,40,GND,
+DC13D,39,GND,
+DC13D,40,GND,
+U1,3,GND,
+U1,6,GND,
+U1,10,GND,
+U1,13,GND,
+U2,3,GND,
+U2,6,GND,
+U2,10,GND,
+U2,13,GND,
+U3,3,GND,
+U3,6,GND,
+U3,10,GND,
+U3,13,GND,
+U4,3,GND,
+U4,6,GND,
+U4,10,GND,
+U4,13,GND,
+U5,13,GND,
+U6,3,GND,
+U6,6,GND,
+U6,10,GND,
+U6,13,GND,
+U7,3,GND,
+U7,6,GND,
+U7,10,GND,
+U7,13,GND,
+U8,3,GND,
+U8,6,GND,
+U8,10,GND,
+U8,13,GND,
+U9,3,GND,
+U9,6,GND,
+U9,10,GND,
+U9,13,GND,
+DC13C,36,ИСПРАВН,nhãn gốc=ixpravn
+U5,14,ИСПРАВН,nhãn gốc=ixpravn
+DC13C,3,РК-1,nhãn gốc=rc-1
+P1,2,РК-1,nhãn gốc=rc-1
+DC13C,20,РК-10,nhãn gốc=rc-10
+U3,4,РК-10,nhãn gốc=rc-10
+DC13C,21,РК-11,nhãn gốc=rc-11
+P6,2,РК-11,nhãn gốc=rc-11
+DC13C,22,РК-12,nhãn gốc=rc-12
+U3,11,РК-12,nhãn gốc=rc-12
+DC13C,27,РК-13,nhãn gốc=rc-13
+P7,2,РК-13,nhãn gốc=rc-13
+DC13C,28,РК-14,nhãn gốc=rc-14
+U4,4,РК-14,nhãn gốc=rc-14
+DC13C,29,РК-15,nhãn gốc=rc-15; allowed_singleton: cổng/nhãn ngoài chỉ có một chân linh kiện
+DC13C,30,РК-16,nhãn gốc=rc-16
+DC13D,30,РК-16,nhãn gốc=rc-16
+U4,11,РК-16,nhãn gốc=rc-16
+DC13D,3,РК-17,nhãn gốc=rc-17
+P9,2,РК-17,nhãn gốc=rc-17
+DC13D,4,РК-18,nhãn gốc=rc-18
+U6,4,РК-18,nhãn gốc=rc-18
+DC13D,5,РК-19,nhãn gốc=rc-19
+P10,2,РК-19,nhãn gốc=rc-19
+DC13C,4,РК-2,nhãn gốc=rc-2
+U1,4,РК-2,nhãn gốc=rc-2
+DC13D,6,РК-20,nhãn gốc=rc-20
+U6,11,РК-20,nhãn gốc=rc-20
+DC13D,11,РК-21,nhãn gốc=rc-21
+P11,2,РК-21,nhãn gốc=rc-21
+DC13D,12,РК-22,nhãn gốc=rc-22
+U7,4,РК-22,nhãn gốc=rc-22
+DC13D,13,РК-23,nhãn gốc=rc-23
+P12,2,РК-23,nhãn gốc=rc-23
+DC13D,14,РК-24,nhãn gốc=rc-24
+U7,11,РК-24,nhãn gốc=rc-24
+DC13D,19,РК-25,nhãn gốc=rc-25
+P13,2,РК-25,nhãn gốc=rc-25
+DC13D,20,РК-26,nhãn gốc=rc-26
+U8,4,РК-26,nhãn gốc=rc-26
+DC13D,21,РК-27,nhãn gốc=rc-27
+P14,2,РК-27,nhãn gốc=rc-27
+DC13D,22,РК-28,nhãn gốc=rc-28
+U8,11,РК-28,nhãn gốc=rc-28
+DC13D,28,РК-29,nhãn gốc=rc-29
+P15,2,РК-29,nhãn gốc=rc-29
+DC13C,5,РК-3,nhãn gốc=rc-3
+P2,2,РК-3,nhãn gốc=rc-3
+DC13D,29,РК-30,nhãn gốc=rc-30
+U9,4,РК-30,nhãn gốc=rc-30
+DC13D,31,РК-31,nhãn gốc=rc-31
+P16,2,РК-31,nhãn gốc=rc-31
+DC13D,32,РК-32,nhãn gốc=rc-32
+U9,11,РК-32,nhãn gốc=rc-32
+DC13C,6,РК-4,nhãn gốc=rc-4
+U1,11,РК-4,nhãn gốc=rc-4
+DC13C,11,РК-5,nhãn gốc=rc-5
+P3,2,РК-5,nhãn gốc=rc-5
+DC13C,12,РК-6,nhãn gốc=rc-6
+U2,4,РК-6,nhãn gốc=rc-6
+DC13C,13,РК-7,nhãn gốc=rc-7
+P4,2,РК-7,nhãn gốc=rc-7
+DC13C,14,РК-8,nhãn gốc=rc-8
+U2,11,РК-8,nhãn gốc=rc-8
+DC13C,19,РК-9,nhãn gốc=rc-9
+P5,2,РК-9,nhãn gốc=rc-9
+DC13C,7,УПР-1,nhãn gốc=upr-1
+R1,2,УПР-1,nhãn gốc=upr-1
+R34,2,УПР-1,nhãn gốc=upr-1
+DC13C,24,УПР-10,nhãn gốc=upr-10
+R10,2,УПР-10,nhãn gốc=upr-10
+R43,2,УПР-10,nhãn gốc=upr-10
+DC13C,25,УПР-11,nhãn gốc=upr-11
+R11,2,УПР-11,nhãn gốc=upr-11
+R44,2,УПР-11,nhãn gốc=upr-11
+DC13C,26,УПР-12,nhãn gốc=upr-12
+R12,2,УПР-12,nhãn gốc=upr-12
+R45,2,УПР-12,nhãn gốc=upr-12
+DC13C,31,УПР-13,nhãn gốc=upr-13
+R13,2,УПР-13,nhãn gốc=upr-13
+R46,2,УПР-13,nhãn gốc=upr-13
+DC13C,32,УПР-14,nhãn gốc=upr-14
+R14,2,УПР-14,nhãn gốc=upr-14
+R47,2,УПР-14,nhãn gốc=upr-14
+DC13C,33,УПР-15,nhãn gốc=upr-15
+R15,2,УПР-15,nhãn gốc=upr-15
+R48,2,УПР-15,nhãn gốc=upr-15
+DC13C,34,УПР-16,nhãn gốc=upr-16
+R16,2,УПР-16,nhãn gốc=upr-16
+R49,2,УПР-16,nhãn gốc=upr-16
+DC13D,7,УПР-17,nhãn gốc=upr-17
+R18,2,УПР-17,nhãn gốc=upr-17
+R51,2,УПР-17,nhãn gốc=upr-17
+DC13D,8,УПР-18,nhãn gốc=upr-18
+R19,2,УПР-18,nhãn gốc=upr-18
+R52,2,УПР-18,nhãn gốc=upr-18
+DC13D,9,УПР-19,nhãn gốc=upr-19
+R20,2,УПР-19,nhãn gốc=upr-19
+R53,2,УПР-19,nhãn gốc=upr-19
+DC13C,8,УПР-2,nhãn gốc=upr-2
+R2,2,УПР-2,nhãn gốc=upr-2
+R35,2,УПР-2,nhãn gốc=upr-2
+DC13D,10,УПР-20,nhãn gốc=upr-20
+R21,2,УПР-20,nhãn gốc=upr-20
+R54,2,УПР-20,nhãn gốc=upr-20
+DC13D,15,УПР-21,nhãn gốc=upr-21
+R22,2,УПР-21,nhãn gốc=upr-21
+R55,2,УПР-21,nhãn gốc=upr-21
+DC13D,16,УПР-22,nhãn gốc=upr-22
+R23,2,УПР-22,nhãn gốc=upr-22
+R56,2,УПР-22,nhãn gốc=upr-22
+DC13D,17,УПР-23,nhãn gốc=upr-23
+R24,2,УПР-23,nhãn gốc=upr-23
+R57,2,УПР-23,nhãn gốc=upr-23
+DC13D,18,УПР-24,nhãn gốc=upr-24
+R25,2,УПР-24,nhãn gốc=upr-24
+R58,2,УПР-24,nhãn gốc=upr-24
+DC13D,23,УПР-25,nhãn gốc=upr-25
+R26,2,УПР-25,nhãn gốc=upr-25
+R59,2,УПР-25,nhãn gốc=upr-25
+DC13D,24,УПР-26,nhãn gốc=upr-26
+R27,2,УПР-26,nhãn gốc=upr-26
+R60,2,УПР-26,nhãn gốc=upr-26
+DC13D,26,УПР-27,nhãn gốc=upr-27
+R28,2,УПР-27,nhãn gốc=upr-27
+R61,2,УПР-27,nhãn gốc=upr-27
+DC13D,27,УПР-28,nhãn gốc=upr-28
+R29,2,УПР-28,nhãn gốc=upr-28
+R62,2,УПР-28,nhãn gốc=upr-28
+DC13D,33,УПР-29,nhãn gốc=upr-29
+R30,2,УПР-29,nhãn gốc=upr-29
+R63,2,УПР-29,nhãn gốc=upr-29
+DC13C,9,УПР-3,nhãn gốc=upr-3
+R3,2,УПР-3,nhãn gốc=upr-3
+R36,2,УПР-3,nhãn gốc=upr-3
+DC13D,34,УПР-30,nhãn gốc=upr-30
+R31,2,УПР-30,nhãn gốc=upr-30
+R64,2,УПР-30,nhãn gốc=upr-30
+DC13D,35,УПР-31,nhãn gốc=upr-31
+R32,2,УПР-31,nhãn gốc=upr-31
+R65,2,УПР-31,nhãn gốc=upr-31
+DC13D,36,УПР-32,nhãn gốc=upr-32
+R33,2,УПР-32,nhãn gốc=upr-32
+R66,2,УПР-32,nhãn gốc=upr-32
+DC13C,10,УПР-4,nhãn gốc=upr-4
+R4,2,УПР-4,nhãn gốc=upr-4
+R37,2,УПР-4,nhãn gốc=upr-4
+DC13C,15,УПР-5,nhãn gốc=upr-5
+R5,2,УПР-5,nhãn gốc=upr-5
+R38,2,УПР-5,nhãn gốc=upr-5
+DC13C,16,УПР-6,nhãn gốc=upr-6
+R6,2,УПР-6,nhãn gốc=upr-6
+R39,2,УПР-6,nhãn gốc=upr-6
+DC13C,17,УПР-7,nhãn gốc=upr-7
+R7,2,УПР-7,nhãn gốc=upr-7
+R40,2,УПР-7,nhãn gốc=upr-7
+DC13C,18,УПР-8,nhãn gốc=upr-8
+R8,2,УПР-8,nhãn gốc=upr-8
+R41,2,УПР-8,nhãn gốc=upr-8
+DC13C,23,УПР-9,nhãn gốc=upr-9
+R9,2,УПР-9,nhãn gốc=upr-9
+R42,2,УПР-9,nhãn gốc=upr-9
+R17,2,УПР-ИСПРАВН,nhãn gốc=upr-ixpravn
+R50,2,УПР-ИСПРАВН,nhãn gốc=upr-ixpravn
+D1,1,N0001,
+P1,5,N0001,
+U1,14,N0001,
+D10,1,N0002,
+P10,5,N0002,
+U6,7,N0002,
+D11,1,N0003,
+P11,5,N0003,
+U7,14,N0003,
+D12,1,N0004,
+P12,5,N0004,
+U7,7,N0004,
+D13,1,N0005,
+P13,5,N0005,
+U8,14,N0005,
+D14,1,N0006,
+P14,5,N0006,
+U8,7,N0006,
+D15,1,N0007,
+P15,5,N0007,
+U9,14,N0007,
+D16,1,N0008,
+P16,5,N0008,
+U9,7,N0008,
+D2,1,N0009,
+P2,5,N0009,
+U1,7,N0009,
+D3,1,N0010,
+P3,5,N0010,
+U2,14,N0010,
+D4,1,N0011,
+P4,5,N0011,
+U2,7,N0011,
+D5,1,N0012,
+P5,5,N0012,
+U3,14,N0012,
+D6,1,N0013,
+P6,5,N0013,
+U3,7,N0013,
+D7,1,N0014,
+P7,5,N0014,
+U4,14,N0014,
+D8,1,N0015,
+P8,5,N0015,
+U4,7,N0015,
+D9,1,N0016,
+P9,5,N0016,
+U6,14,N0016,
+DC13C,35,N0017,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC13D,25,N0018,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+P1,1,N0019,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+P10,1,N0020,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+P11,1,N0021,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+P12,1,N0022,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+P13,1,N0023,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+P14,1,N0024,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+P15,1,N0025,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+P16,1,N0026,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+P2,1,N0027,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+P3,1,N0028,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+P4,1,N0029,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+P5,1,N0030,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+P6,1,N0031,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+P7,1,N0032,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+P8,1,N0033,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+P8,2,N0034,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+P9,1,N0035,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+R34,1,N0036,
+U1,2,N0036,
+R35,1,N0037,
+U1,12,N0037,
+R36,1,N0038,
+U1,9,N0038,
+R37,1,N0039,
+U1,5,N0039,
+R38,1,N0040,
+U2,2,N0040,
+R39,1,N0041,
+U2,12,N0041,
+R40,1,N0042,
+U2,9,N0042,
+R41,1,N0043,
+U2,5,N0043,
+R42,1,N0044,
+U3,2,N0044,
+R43,1,N0045,
+U3,12,N0045,
+R44,1,N0046,
+U3,9,N0046,
+R45,1,N0047,
+U3,5,N0047,
+R46,1,N0048,
+U4,2,N0048,
+R47,1,N0049,
+U4,12,N0049,
+R48,1,N0050,
+U4,9,N0050,
+R49,1,N0051,
+U4,5,N0051,
+R50,1,N0052,
+U5,2,N0052,
+R51,1,N0053,
+U6,2,N0053,
+R52,1,N0054,
+U6,12,N0054,
+R53,1,N0055,
+U6,9,N0055,
+R54,1,N0056,
+U6,5,N0056,
+R55,1,N0057,
+U7,2,N0057,
+R56,1,N0058,
+U7,12,N0058,
+R57,1,N0059,
+U7,9,N0059,
+R58,1,N0060,
+U7,5,N0060,
+R59,1,N0061,
+U8,2,N0061,
+R60,1,N0062,
+U8,12,N0062,
+R61,1,N0063,
+U8,9,N0063,
+R62,1,N0064,
+U8,5,N0064,
+R63,1,N0065,
+U9,2,N0065,
+R64,1,N0066,
+U9,12,N0066,
+R65,1,N0067,
+U9,9,N0067,
+R66,1,N0068,
+U9,5,N0068,
+U1,1,N0069,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U1,8,N0070,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U2,1,N0071,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U2,8,N0072,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U3,1,N0073,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U3,8,N0074,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U4,1,N0075,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U4,8,N0076,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U5,1,N0077,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U5,8,N0078,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U6,1,N0079,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U6,8,N0080,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U7,1,N0081,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U7,8,N0082,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U8,1,N0083,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U8,8,N0084,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U9,1,N0085,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U9,8,N0086,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus

@@ -1,0 +1,193 @@
+﻿table,pin,signal,sheet,note
+DC7,A1,30/a/GND/ob]ii provod,TAM4_Cumbiendoi/A313_4.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: a/ob]ii provod; ? nhiều nhãn trên cùng net: 30/a/GND/ob]ii provod
+DC7,A2,+5V,TAM4_Cumbiendoi/A313_4.SchDoc,
+DC7,A3,"+3,5V",TAM4_Cumbiendoi/A313_4.SchDoc,
+DC7,A4,"+6,3V",TAM4_Cumbiendoi/A313_4.SchDoc,
+DC7,A5,N0032,TAM4_Cumbiendoi/A313_4.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC7,A6,compar contr,TAM4_Cumbiendoi/A313_4.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: compar contr
+DC7,A7,N0033,TAM4_Cumbiendoi/A313_4.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC7,A8,N0034,TAM4_Cumbiendoi/A313_4.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC7,A9,N0035,TAM4_Cumbiendoi/A313_4.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC7,A10,N0036,TAM4_Cumbiendoi/A313_4.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC7,A11,N0037,TAM4_Cumbiendoi/A313_4.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC7,A12,N0038,TAM4_Cumbiendoi/A313_4.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC7,A13,"OC""a""",TAM4_Cumbiendoi/A313_4.SchDoc,"? nhãn có mã font Latin chưa giải mã chắc chắn: OC""a"""
+DC7,A14,"OC""b""",TAM4_Cumbiendoi/A313_4.SchDoc,"? nhãn có mã font Latin chưa giải mã chắc chắn: OC""b"""
+DC7,A15,a pr,TAM4_Cumbiendoi/A313_4.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: a pr
+DC7,A16,b pr,TAM4_Cumbiendoi/A313_4.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: b pr
+DC7,A17,N0039,TAM4_Cumbiendoi/A313_4.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC7,A18,N0040,TAM4_Cumbiendoi/A313_4.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC7,A19,N0041,TAM4_Cumbiendoi/A313_4.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC7,A20,N0042,TAM4_Cumbiendoi/A313_4.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC7,A21,N0043,TAM4_Cumbiendoi/A313_4.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC7,A22,N0044,TAM4_Cumbiendoi/A313_4.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC7,A23,N0045,TAM4_Cumbiendoi/A313_4.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC7,A24,N0046,TAM4_Cumbiendoi/A313_4.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC7,A25,int.a,TAM4_Cumbiendoi/A313_4.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: int.a
+DC7,A26,int.b,TAM4_Cumbiendoi/A313_4.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: int.b
+DC7,A27,comp[nx Uop,TAM4_Cumbiendoi/A313_4.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: comp[nx Uop
+DC7,A28,contact R,TAM4_Cumbiendoi/A313_4.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: contact R
+DC7,A29,contact x,TAM4_Cumbiendoi/A313_4.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: contact x
+DC7,A30,N0047,TAM4_Cumbiendoi/A313_4.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC7,A31,30/a/GND/ob]ii provod,TAM4_Cumbiendoi/A313_4.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: a/ob]ii provod; ? nhiều nhãn trên cùng net: 30/a/GND/ob]ii provod
+DC7,A32,30/a/GND/ob]ii provod,TAM4_Cumbiendoi/A313_4.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: a/ob]ii provod; ? nhiều nhãn trên cùng net: 30/a/GND/ob]ii provod
+DC7,B1,30/a/GND/ob]ii provod,TAM4_Cumbiendoi/A313_4.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: a/ob]ii provod; ? nhiều nhãn trên cùng net: 30/a/GND/ob]ii provod
+DC7,B2,+5V,TAM4_Cumbiendoi/A313_4.SchDoc,
+DC7,B3,"+3,5V",TAM4_Cumbiendoi/A313_4.SchDoc,
+DC7,B4,"+6,3V",TAM4_Cumbiendoi/A313_4.SchDoc,
+DC7,B5,compar rpr,TAM4_Cumbiendoi/A313_4.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: compar rpr
+DC7,B6,N0048,TAM4_Cumbiendoi/A313_4.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC7,B7,N0049,TAM4_Cumbiendoi/A313_4.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC7,B8,N0050,TAM4_Cumbiendoi/A313_4.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC7,B9,N0051,TAM4_Cumbiendoi/A313_4.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC7,B10,N0052,TAM4_Cumbiendoi/A313_4.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC7,B11,N0053,TAM4_Cumbiendoi/A313_4.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC7,B12,N0054,TAM4_Cumbiendoi/A313_4.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC7,B13,"OC""a""",TAM4_Cumbiendoi/A313_4.SchDoc,"? nhãn có mã font Latin chưa giải mã chắc chắn: OC""a"""
+DC7,B14,"OC""b""",TAM4_Cumbiendoi/A313_4.SchDoc,"? nhãn có mã font Latin chưa giải mã chắc chắn: OC""b"""
+DC7,B15,a pr,TAM4_Cumbiendoi/A313_4.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: a pr
+DC7,B16,b pr,TAM4_Cumbiendoi/A313_4.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: b pr
+DC7,B17,N0055,TAM4_Cumbiendoi/A313_4.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC7,B18,N0056,TAM4_Cumbiendoi/A313_4.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC7,B19,N0057,TAM4_Cumbiendoi/A313_4.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC7,B20,N0058,TAM4_Cumbiendoi/A313_4.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC7,B21,N0059,TAM4_Cumbiendoi/A313_4.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC7,B22,N0060,TAM4_Cumbiendoi/A313_4.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC7,B23,N0061,TAM4_Cumbiendoi/A313_4.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC7,B24,N0062,TAM4_Cumbiendoi/A313_4.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC7,B25,int.a,TAM4_Cumbiendoi/A313_4.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: int.a
+DC7,B26,int.b,TAM4_Cumbiendoi/A313_4.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: int.b
+DC7,B27,comp[nx Uop,TAM4_Cumbiendoi/A313_4.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: comp[nx Uop
+DC7,B28,contact R,TAM4_Cumbiendoi/A313_4.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: contact R
+DC7,B29,contact x,TAM4_Cumbiendoi/A313_4.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: contact x
+DC7,B30,N0063,TAM4_Cumbiendoi/A313_4.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC7,B31,30/a/GND/ob]ii provod,TAM4_Cumbiendoi/A313_4.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: a/ob]ii provod; ? nhiều nhãn trên cùng net: 30/a/GND/ob]ii provod
+DC7,B32,30/a/GND/ob]ii provod,TAM4_Cumbiendoi/A313_4.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: a/ob]ii provod; ? nhiều nhãn trên cùng net: 30/a/GND/ob]ii provod
+DC7,C1,30/a/GND/ob]ii provod,TAM4_Cumbiendoi/A313_4.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: a/ob]ii provod; ? nhiều nhãn trên cùng net: 30/a/GND/ob]ii provod
+DC7,C2,+5V,TAM4_Cumbiendoi/A313_4.SchDoc,
+DC7,C3,"+3,5V",TAM4_Cumbiendoi/A313_4.SchDoc,
+DC7,C4,"+6,3V",TAM4_Cumbiendoi/A313_4.SchDoc,
+DC7,C5,N0064,TAM4_Cumbiendoi/A313_4.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC7,C6,N0065,TAM4_Cumbiendoi/A313_4.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC7,C7,N0066,TAM4_Cumbiendoi/A313_4.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC7,C8,N0067,TAM4_Cumbiendoi/A313_4.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC7,C9,N0068,TAM4_Cumbiendoi/A313_4.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC7,C10,N0069,TAM4_Cumbiendoi/A313_4.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC7,C11,N0070,TAM4_Cumbiendoi/A313_4.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC7,C12,N0071,TAM4_Cumbiendoi/A313_4.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC7,C13,"OC""a""",TAM4_Cumbiendoi/A313_4.SchDoc,"? nhãn có mã font Latin chưa giải mã chắc chắn: OC""a"""
+DC7,C14,"OC""b""",TAM4_Cumbiendoi/A313_4.SchDoc,"? nhãn có mã font Latin chưa giải mã chắc chắn: OC""b"""
+DC7,C15,a pr,TAM4_Cumbiendoi/A313_4.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: a pr
+DC7,C16,b pr,TAM4_Cumbiendoi/A313_4.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: b pr
+DC7,C17,N0072,TAM4_Cumbiendoi/A313_4.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC7,C18,N0073,TAM4_Cumbiendoi/A313_4.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC7,C19,N0074,TAM4_Cumbiendoi/A313_4.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC7,C20,N0075,TAM4_Cumbiendoi/A313_4.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC7,C21,N0076,TAM4_Cumbiendoi/A313_4.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC7,C22,N0077,TAM4_Cumbiendoi/A313_4.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC7,C23,N0078,TAM4_Cumbiendoi/A313_4.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC7,C24,N0079,TAM4_Cumbiendoi/A313_4.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC7,C25,int.a,TAM4_Cumbiendoi/A313_4.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: int.a
+DC7,C26,int.b,TAM4_Cumbiendoi/A313_4.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: int.b
+DC7,C27,comp[nx Uop,TAM4_Cumbiendoi/A313_4.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: comp[nx Uop
+DC7,C28,contact R,TAM4_Cumbiendoi/A313_4.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: contact R
+DC7,C29,contact x,TAM4_Cumbiendoi/A313_4.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: contact x
+DC7,C30,N0080,TAM4_Cumbiendoi/A313_4.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC7,C31,30/a/GND/ob]ii provod,TAM4_Cumbiendoi/A313_4.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: a/ob]ii provod; ? nhiều nhãn trên cùng net: 30/a/GND/ob]ii provod
+DC7,C32,30/a/GND/ob]ii provod,TAM4_Cumbiendoi/A313_4.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: a/ob]ii provod; ? nhiều nhãn trên cùng net: 30/a/GND/ob]ii provod
+DC8,A1,30/a/GND/ob]ii provod,TAM4_Cumbiendoi/A313_4.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: a/ob]ii provod; ? nhiều nhãn trên cùng net: 30/a/GND/ob]ii provod
+DC8,A2,-20V/-23V,TAM4_Cumbiendoi/A313_4.SchDoc,? nhiều nhãn trên cùng net: -20V/-23V
+DC8,A3,"-12,6V",TAM4_Cumbiendoi/A313_4.SchDoc,
+DC8,A4,"+12,6V",TAM4_Cumbiendoi/A313_4.SchDoc,
+DC8,A5,N0081,TAM4_Cumbiendoi/A313_4.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC8,A6,N0082,TAM4_Cumbiendoi/A313_4.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC8,A7,N0083,TAM4_Cumbiendoi/A313_4.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC8,A8,N0084,TAM4_Cumbiendoi/A313_4.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC8,A9,N0085,TAM4_Cumbiendoi/A313_4.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC8,A10,N0086,TAM4_Cumbiendoi/A313_4.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC8,A11,N0087,TAM4_Cumbiendoi/A313_4.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC8,A12,f,TAM4_Cumbiendoi/A313_4.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: f
+DC8,A13,kn1,TAM4_Cumbiendoi/A313_4.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: kn1
+DC8,A14,5p,TAM4_Cumbiendoi/A313_4.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: 5p
+DC8,A15,8p,TAM4_Cumbiendoi/A313_4.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: 8p
+DC8,A16,11p,TAM4_Cumbiendoi/A313_4.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: 11p
+DC8,A17,14p,TAM4_Cumbiendoi/A313_4.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: 14p
+DC8,A18,N0088,TAM4_Cumbiendoi/A313_4.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC8,A19,N0089,TAM4_Cumbiendoi/A313_4.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC8,A20,N0090,TAM4_Cumbiendoi/A313_4.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC8,A21,N0091,TAM4_Cumbiendoi/A313_4.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC8,A22,N0092,TAM4_Cumbiendoi/A313_4.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC8,A23,N0093,TAM4_Cumbiendoi/A313_4.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC8,A24,N0094,TAM4_Cumbiendoi/A313_4.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC8,A25,N0095,TAM4_Cumbiendoi/A313_4.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC8,A26,N0096,TAM4_Cumbiendoi/A313_4.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC8,A27,N0097,TAM4_Cumbiendoi/A313_4.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC8,A28,N0098,TAM4_Cumbiendoi/A313_4.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC8,A29,N0099,TAM4_Cumbiendoi/A313_4.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC8,A30,30/a/GND/ob]ii provod,TAM4_Cumbiendoi/A313_4.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: a/ob]ii provod; ? nhiều nhãn trên cùng net: 30/a/GND/ob]ii provod
+DC8,A31,30/a/GND/ob]ii provod,TAM4_Cumbiendoi/A313_4.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: a/ob]ii provod; ? nhiều nhãn trên cùng net: 30/a/GND/ob]ii provod
+DC8,A32,30/a/GND/ob]ii provod,TAM4_Cumbiendoi/A313_4.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: a/ob]ii provod; ? nhiều nhãn trên cùng net: 30/a/GND/ob]ii provod
+DC8,B1,30/a/GND/ob]ii provod,TAM4_Cumbiendoi/A313_4.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: a/ob]ii provod; ? nhiều nhãn trên cùng net: 30/a/GND/ob]ii provod
+DC8,B2,-20V/-23V,TAM4_Cumbiendoi/A313_4.SchDoc,? nhiều nhãn trên cùng net: -20V/-23V
+DC8,B3,"-12,6V",TAM4_Cumbiendoi/A313_4.SchDoc,
+DC8,B4,"+12,6V",TAM4_Cumbiendoi/A313_4.SchDoc,
+DC8,B5,N0100,TAM4_Cumbiendoi/A313_4.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC8,B6,N0101,TAM4_Cumbiendoi/A313_4.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC8,B7,N0102,TAM4_Cumbiendoi/A313_4.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC8,B8,N0103,TAM4_Cumbiendoi/A313_4.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC8,B9,N0104,TAM4_Cumbiendoi/A313_4.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC8,B10,N0105,TAM4_Cumbiendoi/A313_4.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC8,B11,d,TAM4_Cumbiendoi/A313_4.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: d
+DC8,B12,K,TAM4_Cumbiendoi/A313_4.SchDoc,
+DC8,B13,УПР ВЫХ,TAM4_Cumbiendoi/A313_4.SchDoc,nhãn gốc=upr vih
+DC8,B14,6p,TAM4_Cumbiendoi/A313_4.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: 6p
+DC8,B15,9p,TAM4_Cumbiendoi/A313_4.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: 9p
+DC8,B16,12p,TAM4_Cumbiendoi/A313_4.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: 12p
+DC8,B17,15p,TAM4_Cumbiendoi/A313_4.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: 15p
+DC8,B18,N0106,TAM4_Cumbiendoi/A313_4.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC8,B19,N0107,TAM4_Cumbiendoi/A313_4.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC8,B20,N0108,TAM4_Cumbiendoi/A313_4.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC8,B21,N0109,TAM4_Cumbiendoi/A313_4.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC8,B22,N0110,TAM4_Cumbiendoi/A313_4.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC8,B23,N0111,TAM4_Cumbiendoi/A313_4.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC8,B24,N0112,TAM4_Cumbiendoi/A313_4.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC8,B25,N0113,TAM4_Cumbiendoi/A313_4.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC8,B26,N0114,TAM4_Cumbiendoi/A313_4.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC8,B27,N0115,TAM4_Cumbiendoi/A313_4.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC8,B28,N0116,TAM4_Cumbiendoi/A313_4.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC8,B29,N0117,TAM4_Cumbiendoi/A313_4.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC8,B30,30/a/GND/ob]ii provod,TAM4_Cumbiendoi/A313_4.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: a/ob]ii provod; ? nhiều nhãn trên cùng net: 30/a/GND/ob]ii provod
+DC8,B31,30/a/GND/ob]ii provod,TAM4_Cumbiendoi/A313_4.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: a/ob]ii provod; ? nhiều nhãn trên cùng net: 30/a/GND/ob]ii provod
+DC8,B32,30/a/GND/ob]ii provod,TAM4_Cumbiendoi/A313_4.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: a/ob]ii provod; ? nhiều nhãn trên cùng net: 30/a/GND/ob]ii provod
+DC8,C1,30/a/GND/ob]ii provod,TAM4_Cumbiendoi/A313_4.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: a/ob]ii provod; ? nhiều nhãn trên cùng net: 30/a/GND/ob]ii provod
+DC8,C2,-20V/-23V,TAM4_Cumbiendoi/A313_4.SchDoc,? nhiều nhãn trên cùng net: -20V/-23V
+DC8,C3,"-12,6V",TAM4_Cumbiendoi/A313_4.SchDoc,
+DC8,C4,"+12,6V",TAM4_Cumbiendoi/A313_4.SchDoc,
+DC8,C5,N0118,TAM4_Cumbiendoi/A313_4.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC8,C6,N0119,TAM4_Cumbiendoi/A313_4.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC8,C7,N0120,TAM4_Cumbiendoi/A313_4.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC8,C8,N0121,TAM4_Cumbiendoi/A313_4.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC8,C9,N0122,TAM4_Cumbiendoi/A313_4.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC8,C10,N0123,TAM4_Cumbiendoi/A313_4.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC8,C11,pp,TAM4_Cumbiendoi/A313_4.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: pp
+DC8,C12,kn2,TAM4_Cumbiendoi/A313_4.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: kn2
+DC8,C13,4p,TAM4_Cumbiendoi/A313_4.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: 4p
+DC8,C14,7p,TAM4_Cumbiendoi/A313_4.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: 7p
+DC8,C15,10p,TAM4_Cumbiendoi/A313_4.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: 10p
+DC8,C16,13p,TAM4_Cumbiendoi/A313_4.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: 13p
+DC8,C17,N0124,TAM4_Cumbiendoi/A313_4.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC8,C18,N0125,TAM4_Cumbiendoi/A313_4.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC8,C19,N0126,TAM4_Cumbiendoi/A313_4.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC8,C20,N0127,TAM4_Cumbiendoi/A313_4.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC8,C21,N0128,TAM4_Cumbiendoi/A313_4.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC8,C22,N0129,TAM4_Cumbiendoi/A313_4.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC8,C23,N0130,TAM4_Cumbiendoi/A313_4.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC8,C24,N0131,TAM4_Cumbiendoi/A313_4.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC8,C25,N0132,TAM4_Cumbiendoi/A313_4.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC8,C26,N0133,TAM4_Cumbiendoi/A313_4.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC8,C27,N0134,TAM4_Cumbiendoi/A313_4.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC8,C28,N0135,TAM4_Cumbiendoi/A313_4.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC8,C29,N0136,TAM4_Cumbiendoi/A313_4.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC8,C30,30/a/GND/ob]ii provod,TAM4_Cumbiendoi/A313_4.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: a/ob]ii provod; ? nhiều nhãn trên cùng net: 30/a/GND/ob]ii provod
+DC8,C31,30/a/GND/ob]ii provod,TAM4_Cumbiendoi/A313_4.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: a/ob]ii provod; ? nhiều nhãn trên cùng net: 30/a/GND/ob]ii provod
+DC8,C32,30/a/GND/ob]ii provod,TAM4_Cumbiendoi/A313_4.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: a/ob]ii provod; ? nhiều nhãn trên cùng net: 30/a/GND/ob]ii provod

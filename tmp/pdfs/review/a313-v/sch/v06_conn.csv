@@ -1,0 +1,193 @@
+﻿table,pin,signal,sheet,note
+DC11,A1,a/GND,Tam6_khuyechdaitinhieura/A313_6.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: a; ? nhiều nhãn trên cùng net: a/GND
+DC11,A2,+5V,Tam6_khuyechdaitinhieura/A313_6.SchDoc,
+DC11,A3,"+3,5V",Tam6_khuyechdaitinhieura/A313_6.SchDoc,
+DC11,A4,"+6,3V",Tam6_khuyechdaitinhieura/A313_6.SchDoc,
+DC11,A5,~5V/400Hz,Tam6_khuyechdaitinhieura/A313_6.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: ~5V/400Hz
+DC11,A6,xung400Hz,Tam6_khuyechdaitinhieura/A313_6.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: xung400Hz
+DC11,A7,М,Tam6_khuyechdaitinhieura/A313_6.SchDoc,nhãn gốc=M
+DC11,A8,М_,Tam6_khuyechdaitinhieura/A313_6.SchDoc,nhãn gốc=M_
+DC11,A9,N0035,Tam6_khuyechdaitinhieura/A313_6.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC11,A10,N0036,Tam6_khuyechdaitinhieura/A313_6.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC11,A11,N0037,Tam6_khuyechdaitinhieura/A313_6.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC11,A12,N0038,Tam6_khuyechdaitinhieura/A313_6.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC11,A13,N0039,Tam6_khuyechdaitinhieura/A313_6.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC11,A14,N0040,Tam6_khuyechdaitinhieura/A313_6.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC11,A15,N0041,Tam6_khuyechdaitinhieura/A313_6.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC11,A16,N0042,Tam6_khuyechdaitinhieura/A313_6.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC11,A17,N0043,Tam6_khuyechdaitinhieura/A313_6.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC11,A18,N0044,Tam6_khuyechdaitinhieura/A313_6.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC11,A19,N0045,Tam6_khuyechdaitinhieura/A313_6.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC11,A20,N0046,Tam6_khuyechdaitinhieura/A313_6.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC11,A21,N0047,Tam6_khuyechdaitinhieura/A313_6.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC11,A22,N0048,Tam6_khuyechdaitinhieura/A313_6.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC11,A23,N0049,Tam6_khuyechdaitinhieura/A313_6.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC11,A24,N0050,Tam6_khuyechdaitinhieura/A313_6.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC11,A25,N0051,Tam6_khuyechdaitinhieura/A313_6.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC11,A26,N0052,Tam6_khuyechdaitinhieura/A313_6.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC11,A27,N0053,Tam6_khuyechdaitinhieura/A313_6.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC11,A28,N0054,Tam6_khuyechdaitinhieura/A313_6.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC11,A29,N0055,Tam6_khuyechdaitinhieura/A313_6.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC11,A30,N0056,Tam6_khuyechdaitinhieura/A313_6.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC11,A31,a/GND,Tam6_khuyechdaitinhieura/A313_6.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: a; ? nhiều nhãn trên cùng net: a/GND
+DC11,A32,a/GND,Tam6_khuyechdaitinhieura/A313_6.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: a; ? nhiều nhãn trên cùng net: a/GND
+DC11,B1,a/GND,Tam6_khuyechdaitinhieura/A313_6.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: a; ? nhiều nhãn trên cùng net: a/GND
+DC11,B2,+5V,Tam6_khuyechdaitinhieura/A313_6.SchDoc,
+DC11,B3,"+3,5V",Tam6_khuyechdaitinhieura/A313_6.SchDoc,
+DC11,B4,"+6,3V",Tam6_khuyechdaitinhieura/A313_6.SchDoc,
+DC11,B5,~5V/400Hz,Tam6_khuyechdaitinhieura/A313_6.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: ~5V/400Hz
+DC11,B6,xung400Hz,Tam6_khuyechdaitinhieura/A313_6.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: xung400Hz
+DC11,B7,М,Tam6_khuyechdaitinhieura/A313_6.SchDoc,nhãn gốc=M
+DC11,B8,М_,Tam6_khuyechdaitinhieura/A313_6.SchDoc,nhãn gốc=M_
+DC11,B9,N0057,Tam6_khuyechdaitinhieura/A313_6.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC11,B10,N0058,Tam6_khuyechdaitinhieura/A313_6.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC11,B11,N0059,Tam6_khuyechdaitinhieura/A313_6.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC11,B12,N0060,Tam6_khuyechdaitinhieura/A313_6.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC11,B13,N0061,Tam6_khuyechdaitinhieura/A313_6.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC11,B14,N0062,Tam6_khuyechdaitinhieura/A313_6.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC11,B15,N0063,Tam6_khuyechdaitinhieura/A313_6.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC11,B16,N0064,Tam6_khuyechdaitinhieura/A313_6.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC11,B17,N0065,Tam6_khuyechdaitinhieura/A313_6.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC11,B18,N0066,Tam6_khuyechdaitinhieura/A313_6.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC11,B19,N0067,Tam6_khuyechdaitinhieura/A313_6.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC11,B20,N0068,Tam6_khuyechdaitinhieura/A313_6.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC11,B21,N0069,Tam6_khuyechdaitinhieura/A313_6.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC11,B22,N0070,Tam6_khuyechdaitinhieura/A313_6.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC11,B23,N0071,Tam6_khuyechdaitinhieura/A313_6.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC11,B24,N0072,Tam6_khuyechdaitinhieura/A313_6.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC11,B25,N0073,Tam6_khuyechdaitinhieura/A313_6.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC11,B26,N0074,Tam6_khuyechdaitinhieura/A313_6.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC11,B27,N0075,Tam6_khuyechdaitinhieura/A313_6.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC11,B28,N0076,Tam6_khuyechdaitinhieura/A313_6.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC11,B29,N0077,Tam6_khuyechdaitinhieura/A313_6.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC11,B30,N0078,Tam6_khuyechdaitinhieura/A313_6.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC11,B31,a/GND,Tam6_khuyechdaitinhieura/A313_6.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: a; ? nhiều nhãn trên cùng net: a/GND
+DC11,B32,a/GND,Tam6_khuyechdaitinhieura/A313_6.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: a; ? nhiều nhãn trên cùng net: a/GND
+DC11,C1,a/GND,Tam6_khuyechdaitinhieura/A313_6.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: a; ? nhiều nhãn trên cùng net: a/GND
+DC11,C2,+5V,Tam6_khuyechdaitinhieura/A313_6.SchDoc,
+DC11,C3,"+3,5V",Tam6_khuyechdaitinhieura/A313_6.SchDoc,
+DC11,C4,"+6,3V",Tam6_khuyechdaitinhieura/A313_6.SchDoc,
+DC11,C5,~5V/400Hz,Tam6_khuyechdaitinhieura/A313_6.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: ~5V/400Hz
+DC11,C6,xung400Hz,Tam6_khuyechdaitinhieura/A313_6.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: xung400Hz
+DC11,C7,М,Tam6_khuyechdaitinhieura/A313_6.SchDoc,nhãn gốc=M
+DC11,C8,М_,Tam6_khuyechdaitinhieura/A313_6.SchDoc,nhãn gốc=M_
+DC11,C9,N0079,Tam6_khuyechdaitinhieura/A313_6.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC11,C10,N0080,Tam6_khuyechdaitinhieura/A313_6.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC11,C11,N0081,Tam6_khuyechdaitinhieura/A313_6.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC11,C12,N0082,Tam6_khuyechdaitinhieura/A313_6.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC11,C13,N0083,Tam6_khuyechdaitinhieura/A313_6.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC11,C14,N0084,Tam6_khuyechdaitinhieura/A313_6.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC11,C15,N0085,Tam6_khuyechdaitinhieura/A313_6.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC11,C16,N0086,Tam6_khuyechdaitinhieura/A313_6.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC11,C17,N0087,Tam6_khuyechdaitinhieura/A313_6.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC11,C18,N0088,Tam6_khuyechdaitinhieura/A313_6.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC11,C19,N0089,Tam6_khuyechdaitinhieura/A313_6.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC11,C20,N0090,Tam6_khuyechdaitinhieura/A313_6.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC11,C21,N0091,Tam6_khuyechdaitinhieura/A313_6.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC11,C22,N0092,Tam6_khuyechdaitinhieura/A313_6.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC11,C23,N0093,Tam6_khuyechdaitinhieura/A313_6.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC11,C24,N0094,Tam6_khuyechdaitinhieura/A313_6.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC11,C25,N0095,Tam6_khuyechdaitinhieura/A313_6.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC11,C26,N0096,Tam6_khuyechdaitinhieura/A313_6.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC11,C27,N0097,Tam6_khuyechdaitinhieura/A313_6.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC11,C28,N0098,Tam6_khuyechdaitinhieura/A313_6.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC11,C29,N0099,Tam6_khuyechdaitinhieura/A313_6.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC11,C30,N0100,Tam6_khuyechdaitinhieura/A313_6.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC11,C31,a/GND,Tam6_khuyechdaitinhieura/A313_6.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: a; ? nhiều nhãn trên cùng net: a/GND
+DC11,C32,a/GND,Tam6_khuyechdaitinhieura/A313_6.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: a; ? nhiều nhãn trên cùng net: a/GND
+DC12,A1,a/GND,Tam6_khuyechdaitinhieura/A313_6.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: a; ? nhiều nhãn trên cùng net: a/GND
+DC12,A2,-23V,Tam6_khuyechdaitinhieura/A313_6.SchDoc,
+DC12,A3,"-12,6V",Tam6_khuyechdaitinhieura/A313_6.SchDoc,
+DC12,A4,"+12,6V",Tam6_khuyechdaitinhieura/A313_6.SchDoc,
+DC12,A5,N0101,Tam6_khuyechdaitinhieura/A313_6.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC12,A6,N0102,Tam6_khuyechdaitinhieura/A313_6.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC12,A7,ВЫХ.1А=,Tam6_khuyechdaitinhieura/A313_6.SchDoc,nhãn gốc=vih.1a=
+DC12,A8,ВЫХ.2А=,Tam6_khuyechdaitinhieura/A313_6.SchDoc,nhãn gốc=vih.2a=
+DC12,A9,ВЫХ.3А=,Tam6_khuyechdaitinhieura/A313_6.SchDoc,nhãn gốc=vih.3a=
+DC12,A10,ВЫХ.4А=,Tam6_khuyechdaitinhieura/A313_6.SchDoc,nhãn gốc=vih.4a=
+DC12,A11,ВЫХ.5А=,Tam6_khuyechdaitinhieura/A313_6.SchDoc,nhãn gốc=vih.5a=
+DC12,A12,ВЫХ.6А=,Tam6_khuyechdaitinhieura/A313_6.SchDoc,nhãn gốc=vih.6a=
+DC12,A13,ВЫХ.7А=,Tam6_khuyechdaitinhieura/A313_6.SchDoc,nhãn gốc=vih.7a=
+DC12,A14,ВЫХ.8А=,Tam6_khuyechdaitinhieura/A313_6.SchDoc,nhãn gốc=vih.8a=
+DC12,A15,N0103,Tam6_khuyechdaitinhieura/A313_6.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC12,A16,N0104,Tam6_khuyechdaitinhieura/A313_6.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC12,A17,ВЫХ.1А==,Tam6_khuyechdaitinhieura/A313_6.SchDoc,nhãn gốc=vih.1a==
+DC12,A18,ВЫХ.2А==,Tam6_khuyechdaitinhieura/A313_6.SchDoc,nhãn gốc=vih.2a==
+DC12,A19,ВЫХ.3А==,Tam6_khuyechdaitinhieura/A313_6.SchDoc,nhãn gốc=vih.3a==
+DC12,A20,ВЫХ.4А==,Tam6_khuyechdaitinhieura/A313_6.SchDoc,nhãn gốc=vih.4a==
+DC12,A21,ВЫХ.5А==,Tam6_khuyechdaitinhieura/A313_6.SchDoc,nhãn gốc=vih.5a==
+DC12,A22,ВЫХ.6А==,Tam6_khuyechdaitinhieura/A313_6.SchDoc,nhãn gốc=vih.6a==
+DC12,A23,ВЫХ.7А==,Tam6_khuyechdaitinhieura/A313_6.SchDoc,nhãn gốc=vih.7a==
+DC12,A24,ВЫХ.8А==,Tam6_khuyechdaitinhieura/A313_6.SchDoc,nhãn gốc=vih.8a==
+DC12,A25,N0105,Tam6_khuyechdaitinhieura/A313_6.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC12,A26,N0106,Tam6_khuyechdaitinhieura/A313_6.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC12,A27,N0107,Tam6_khuyechdaitinhieura/A313_6.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC12,A28,N0108,Tam6_khuyechdaitinhieura/A313_6.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC12,A29,N0109,Tam6_khuyechdaitinhieura/A313_6.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC12,A30,a/GND,Tam6_khuyechdaitinhieura/A313_6.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: a; ? nhiều nhãn trên cùng net: a/GND
+DC12,A31,a/GND,Tam6_khuyechdaitinhieura/A313_6.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: a; ? nhiều nhãn trên cùng net: a/GND
+DC12,A32,a/GND,Tam6_khuyechdaitinhieura/A313_6.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: a; ? nhiều nhãn trên cùng net: a/GND
+DC12,B1,a/GND,Tam6_khuyechdaitinhieura/A313_6.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: a; ? nhiều nhãn trên cùng net: a/GND
+DC12,B2,-23V,Tam6_khuyechdaitinhieura/A313_6.SchDoc,
+DC12,B3,"-12,6V",Tam6_khuyechdaitinhieura/A313_6.SchDoc,
+DC12,B4,"+12,6V",Tam6_khuyechdaitinhieura/A313_6.SchDoc,
+DC12,B5,N0110,Tam6_khuyechdaitinhieura/A313_6.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC12,B6,N0111,Tam6_khuyechdaitinhieura/A313_6.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC12,B7,N0112,Tam6_khuyechdaitinhieura/A313_6.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC12,B8,N0113,Tam6_khuyechdaitinhieura/A313_6.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC12,B9,N0114,Tam6_khuyechdaitinhieura/A313_6.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC12,B10,N0115,Tam6_khuyechdaitinhieura/A313_6.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC12,B11,N0116,Tam6_khuyechdaitinhieura/A313_6.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC12,B12,N0117,Tam6_khuyechdaitinhieura/A313_6.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC12,B13,N0118,Tam6_khuyechdaitinhieura/A313_6.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC12,B14,N0119,Tam6_khuyechdaitinhieura/A313_6.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC12,B15,N0120,Tam6_khuyechdaitinhieura/A313_6.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC12,B16,N0121,Tam6_khuyechdaitinhieura/A313_6.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC12,B17,N0122,Tam6_khuyechdaitinhieura/A313_6.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC12,B18,N0123,Tam6_khuyechdaitinhieura/A313_6.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC12,B19,N0124,Tam6_khuyechdaitinhieura/A313_6.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC12,B20,N0125,Tam6_khuyechdaitinhieura/A313_6.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC12,B21,N0126,Tam6_khuyechdaitinhieura/A313_6.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC12,B22,N0127,Tam6_khuyechdaitinhieura/A313_6.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC12,B23,N0128,Tam6_khuyechdaitinhieura/A313_6.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC12,B24,N0129,Tam6_khuyechdaitinhieura/A313_6.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC12,B25,N0130,Tam6_khuyechdaitinhieura/A313_6.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC12,B26,N0131,Tam6_khuyechdaitinhieura/A313_6.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC12,B27,N0132,Tam6_khuyechdaitinhieura/A313_6.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC12,B28,N0133,Tam6_khuyechdaitinhieura/A313_6.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC12,B29,N0134,Tam6_khuyechdaitinhieura/A313_6.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC12,B30,a/GND,Tam6_khuyechdaitinhieura/A313_6.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: a; ? nhiều nhãn trên cùng net: a/GND
+DC12,B31,a/GND,Tam6_khuyechdaitinhieura/A313_6.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: a; ? nhiều nhãn trên cùng net: a/GND
+DC12,B32,a/GND,Tam6_khuyechdaitinhieura/A313_6.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: a; ? nhiều nhãn trên cùng net: a/GND
+DC12,C1,a/GND,Tam6_khuyechdaitinhieura/A313_6.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: a; ? nhiều nhãn trên cùng net: a/GND
+DC12,C2,-23V,Tam6_khuyechdaitinhieura/A313_6.SchDoc,
+DC12,C3,"-12,6V",Tam6_khuyechdaitinhieura/A313_6.SchDoc,
+DC12,C4,"+12,6V",Tam6_khuyechdaitinhieura/A313_6.SchDoc,
+DC12,C5,N0135,Tam6_khuyechdaitinhieura/A313_6.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC12,C6,N0136,Tam6_khuyechdaitinhieura/A313_6.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC12,C7,ВЫХ.1Б=,Tam6_khuyechdaitinhieura/A313_6.SchDoc,nhãn gốc=vih.1b=
+DC12,C8,ВЫХ.2Б=,Tam6_khuyechdaitinhieura/A313_6.SchDoc,nhãn gốc=vih.2b=
+DC12,C9,ВЫХ.3Б=,Tam6_khuyechdaitinhieura/A313_6.SchDoc,nhãn gốc=vih.3b=
+DC12,C10,ВЫХ.4Б=,Tam6_khuyechdaitinhieura/A313_6.SchDoc,nhãn gốc=vih.4b=
+DC12,C11,ВЫХ.5Б=,Tam6_khuyechdaitinhieura/A313_6.SchDoc,nhãn gốc=vih.5b=
+DC12,C12,ВЫХ.6Б=,Tam6_khuyechdaitinhieura/A313_6.SchDoc,nhãn gốc=vih.6b=
+DC12,C13,ВЫХ.7Б=,Tam6_khuyechdaitinhieura/A313_6.SchDoc,nhãn gốc=vih.7b=
+DC12,C14,ВЫХ.8Б=,Tam6_khuyechdaitinhieura/A313_6.SchDoc,nhãn gốc=vih.8b=
+DC12,C15,N0137,Tam6_khuyechdaitinhieura/A313_6.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC12,C16,N0138,Tam6_khuyechdaitinhieura/A313_6.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC12,C17,ВЫХ.1Б==,Tam6_khuyechdaitinhieura/A313_6.SchDoc,nhãn gốc=vih.1b==
+DC12,C18,ВЫХ.2Б==,Tam6_khuyechdaitinhieura/A313_6.SchDoc,nhãn gốc=vih.2b==
+DC12,C19,ВЫХ.3Б==,Tam6_khuyechdaitinhieura/A313_6.SchDoc,nhãn gốc=vih.3b==
+DC12,C20,ВЫХ.4Б==,Tam6_khuyechdaitinhieura/A313_6.SchDoc,nhãn gốc=vih.4b==
+DC12,C21,ВЫХ.5Б==,Tam6_khuyechdaitinhieura/A313_6.SchDoc,nhãn gốc=vih.5b==
+DC12,C22,ВЫХ.6Б==,Tam6_khuyechdaitinhieura/A313_6.SchDoc,nhãn gốc=vih.6b==
+DC12,C23,ВЫХ.7Б==,Tam6_khuyechdaitinhieura/A313_6.SchDoc,nhãn gốc=vih.7b==
+DC12,C24,ВЫХ.8Б==,Tam6_khuyechdaitinhieura/A313_6.SchDoc,nhãn gốc=vih.8b==
+DC12,C25,N0139,Tam6_khuyechdaitinhieura/A313_6.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC12,C26,N0140,Tam6_khuyechdaitinhieura/A313_6.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC12,C27,N0141,Tam6_khuyechdaitinhieura/A313_6.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC12,C28,N0142,Tam6_khuyechdaitinhieura/A313_6.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC12,C29,N0143,Tam6_khuyechdaitinhieura/A313_6.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC12,C30,a/GND,Tam6_khuyechdaitinhieura/A313_6.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: a; ? nhiều nhãn trên cùng net: a/GND
+DC12,C31,a/GND,Tam6_khuyechdaitinhieura/A313_6.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: a; ? nhiều nhãn trên cùng net: a/GND
+DC12,C32,a/GND,Tam6_khuyechdaitinhieura/A313_6.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: a; ? nhiều nhãn trên cùng net: a/GND

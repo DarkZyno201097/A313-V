@@ -1,0 +1,193 @@
+﻿table,pin,signal,sheet,note
+DC3,A1,a/GND,TAM2_chuyenmachtinhieuvao/A313-2.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: a; ? nhiều nhãn trên cùng net: a/GND
+DC3,A2,+5V,TAM2_chuyenmachtinhieuvao/A313-2.SchDoc,
+DC3,A3,"+3,5V",TAM2_chuyenmachtinhieuvao/A313-2.SchDoc,
+DC3,A4,"+6,3V",TAM2_chuyenmachtinhieuvao/A313-2.SchDoc,
+DC3,A5,ВХОД 1a,TAM2_chuyenmachtinhieuvao/A313-2.SchDoc,nhãn gốc=vhod 1a
+DC3,A6,ВХОД 4a,TAM2_chuyenmachtinhieuvao/A313-2.SchDoc,nhãn gốc=vhod 4a
+DC3,A7,ВХОД 3b,TAM2_chuyenmachtinhieuvao/A313-2.SchDoc,nhãn gốc=vhod 3b
+DC3,A8,ВХОД 6a,TAM2_chuyenmachtinhieuvao/A313-2.SchDoc,nhãn gốc=vhod 6a
+DC3,A9,ВХОД 5b,TAM2_chuyenmachtinhieuvao/A313-2.SchDoc,nhãn gốc=vhod 5b
+DC3,A10,ВХОД 8b,TAM2_chuyenmachtinhieuvao/A313-2.SchDoc,nhãn gốc=vhod 8b
+DC3,A11,ВХОД РК3,TAM2_chuyenmachtinhieuvao/A313-2.SchDoc,nhãn gốc=vhod rc3
+DC3,A12,ВХОД РК6,TAM2_chuyenmachtinhieuvao/A313-2.SchDoc,nhãn gốc=vhod rc6
+DC3,A13,ВХОД 9a,TAM2_chuyenmachtinhieuvao/A313-2.SchDoc,nhãn gốc=vhod 9a
+DC3,A14,ВХОД 12a,TAM2_chuyenmachtinhieuvao/A313-2.SchDoc,nhãn gốc=vhod 12a
+DC3,A15,ВХОД 11b,TAM2_chuyenmachtinhieuvao/A313-2.SchDoc,nhãn gốc=vhod 11b
+DC3,A16,ВХОД 14a,TAM2_chuyenmachtinhieuvao/A313-2.SchDoc,nhãn gốc=vhod 14a
+DC3,A17,ВХОД 13b,TAM2_chuyenmachtinhieuvao/A313-2.SchDoc,nhãn gốc=vhod 13b
+DC3,A18,ВХОД 16b,TAM2_chuyenmachtinhieuvao/A313-2.SchDoc,nhãn gốc=vhod 16b
+DC3,A19,ВХОД РК11,TAM2_chuyenmachtinhieuvao/A313-2.SchDoc,nhãn gốc=vhod rc11
+DC3,A20,ВХОД РК14,TAM2_chuyenmachtinhieuvao/A313-2.SchDoc,nhãn gốc=vhod rc14
+DC3,A21,ВЫХod a,TAM2_chuyenmachtinhieuvao/A313-2.SchDoc,nhãn gốc=vihod a
+DC3,A22,ВЫХod b,TAM2_chuyenmachtinhieuvao/A313-2.SchDoc,nhãn gốc=vihod b
+DC3,A23,УПР. t1,TAM2_chuyenmachtinhieuvao/A313-2.SchDoc,nhãn gốc=upr. t1
+DC3,A24,УПР. t4,TAM2_chuyenmachtinhieuvao/A313-2.SchDoc,nhãn gốc=upr. t4
+DC3,A25,УПР. tk3,TAM2_chuyenmachtinhieuvao/A313-2.SchDoc,nhãn gốc=upr. tk3
+DC3,A26,УПР t2 ttl,TAM2_chuyenmachtinhieuvao/A313-2.SchDoc,nhãn gốc=upr t2 ttl
+DC3,A27,УПР te1 ttl,TAM2_chuyenmachtinhieuvao/A313-2.SchDoc,nhãn gốc=upr te1 ttl
+DC3,A28,УПР te4 ttl,TAM2_chuyenmachtinhieuvao/A313-2.SchDoc,nhãn gốc=upr te4 ttl
+DC3,A29,podcl. 1,TAM2_chuyenmachtinhieuvao/A313-2.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: podcl. 1
+DC3,A30,N0003,TAM2_chuyenmachtinhieuvao/A313-2.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC3,A31,a/GND,TAM2_chuyenmachtinhieuvao/A313-2.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: a; ? nhiều nhãn trên cùng net: a/GND
+DC3,A32,a/GND,TAM2_chuyenmachtinhieuvao/A313-2.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: a; ? nhiều nhãn trên cùng net: a/GND
+DC3,B1,a/GND,TAM2_chuyenmachtinhieuvao/A313-2.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: a; ? nhiều nhãn trên cùng net: a/GND
+DC3,B2,+5V,TAM2_chuyenmachtinhieuvao/A313-2.SchDoc,
+DC3,B3,"+3,5V",TAM2_chuyenmachtinhieuvao/A313-2.SchDoc,
+DC3,B4,"+6,3V",TAM2_chuyenmachtinhieuvao/A313-2.SchDoc,
+DC3,B5,ВХОД 2a,TAM2_chuyenmachtinhieuvao/A313-2.SchDoc,nhãn gốc=vhod 2a
+DC3,B6,ВХОД 1b,TAM2_chuyenmachtinhieuvao/A313-2.SchDoc,nhãn gốc=vhod 1b
+DC3,B7,ВХОД 4b,TAM2_chuyenmachtinhieuvao/A313-2.SchDoc,nhãn gốc=vhod 4b
+DC3,B8,ВХОД 7a,TAM2_chuyenmachtinhieuvao/A313-2.SchDoc,nhãn gốc=vhod 7a
+DC3,B9,ВХОД 6b,TAM2_chuyenmachtinhieuvao/A313-2.SchDoc,nhãn gốc=vhod 6b
+DC3,B10,ВХОД РК1,TAM2_chuyenmachtinhieuvao/A313-2.SchDoc,nhãn gốc=vhod rc1
+DC3,B11,ВХОД РК4,TAM2_chuyenmachtinhieuvao/A313-2.SchDoc,nhãn gốc=vhod rc4
+DC3,B12,ВХОД РК7,TAM2_chuyenmachtinhieuvao/A313-2.SchDoc,nhãn gốc=vhod rc7
+DC3,B13,ВХОД 10a,TAM2_chuyenmachtinhieuvao/A313-2.SchDoc,nhãn gốc=vhod 10a
+DC3,B14,ВХОД 9b,TAM2_chuyenmachtinhieuvao/A313-2.SchDoc,nhãn gốc=vhod 9b
+DC3,B15,ВХОД 12b,TAM2_chuyenmachtinhieuvao/A313-2.SchDoc,nhãn gốc=vhod 12b
+DC3,B16,ВХОД 15a,TAM2_chuyenmachtinhieuvao/A313-2.SchDoc,nhãn gốc=vhod 15a
+DC3,B17,ВХОД 14b,TAM2_chuyenmachtinhieuvao/A313-2.SchDoc,nhãn gốc=vhod 14b
+DC3,B18,ВХОД РК9,TAM2_chuyenmachtinhieuvao/A313-2.SchDoc,nhãn gốc=vhod rc9
+DC3,B19,ВХОД РК12,TAM2_chuyenmachtinhieuvao/A313-2.SchDoc,nhãn gốc=vhod rc12
+DC3,B20,ВХОД РК15,TAM2_chuyenmachtinhieuvao/A313-2.SchDoc,nhãn gốc=vhod rc15
+DC3,B21,ВЫХod a,TAM2_chuyenmachtinhieuvao/A313-2.SchDoc,nhãn gốc=vihod a
+DC3,B22,ВЫХod РК,TAM2_chuyenmachtinhieuvao/A313-2.SchDoc,nhãn gốc=vihod rc
+DC3,B23,УПР. t2,TAM2_chuyenmachtinhieuvao/A313-2.SchDoc,nhãn gốc=upr. t2
+DC3,B24,УПР. tk1,TAM2_chuyenmachtinhieuvao/A313-2.SchDoc,nhãn gốc=upr. tk1
+DC3,B25,УПР. tk4,TAM2_chuyenmachtinhieuvao/A313-2.SchDoc,nhãn gốc=upr. tk4
+DC3,B26,УПР t3 ttl,TAM2_chuyenmachtinhieuvao/A313-2.SchDoc,nhãn gốc=upr t3 ttl
+DC3,B27,УПР te2 ttl,TAM2_chuyenmachtinhieuvao/A313-2.SchDoc,nhãn gốc=upr te2 ttl
+DC3,B28,podcl 1 ttl,TAM2_chuyenmachtinhieuvao/A313-2.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: podcl 1 ttl
+DC3,B29,podcl. 2,TAM2_chuyenmachtinhieuvao/A313-2.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: podcl. 2
+DC3,B30,N0004,TAM2_chuyenmachtinhieuvao/A313-2.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC3,B31,a/GND,TAM2_chuyenmachtinhieuvao/A313-2.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: a; ? nhiều nhãn trên cùng net: a/GND
+DC3,B32,a/GND,TAM2_chuyenmachtinhieuvao/A313-2.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: a; ? nhiều nhãn trên cùng net: a/GND
+DC3,C1,a/GND,TAM2_chuyenmachtinhieuvao/A313-2.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: a; ? nhiều nhãn trên cùng net: a/GND
+DC3,C2,+5V,TAM2_chuyenmachtinhieuvao/A313-2.SchDoc,
+DC3,C3,"+3,5V",TAM2_chuyenmachtinhieuvao/A313-2.SchDoc,
+DC3,C4,"+6,3V",TAM2_chuyenmachtinhieuvao/A313-2.SchDoc,
+DC3,C5,ВХОД 3a,TAM2_chuyenmachtinhieuvao/A313-2.SchDoc,nhãn gốc=vhod 3a
+DC3,C6,ВХОД 2b,TAM2_chuyenmachtinhieuvao/A313-2.SchDoc,nhãn gốc=vhod 2b
+DC3,C7,ВХОД 5a,TAM2_chuyenmachtinhieuvao/A313-2.SchDoc,nhãn gốc=vhod 5a
+DC3,C8,ВХОД 8a,TAM2_chuyenmachtinhieuvao/A313-2.SchDoc,nhãn gốc=vhod 8a
+DC3,C9,ВХОД 7b,TAM2_chuyenmachtinhieuvao/A313-2.SchDoc,nhãn gốc=vhod 7b
+DC3,C10,ВХОД РК2,TAM2_chuyenmachtinhieuvao/A313-2.SchDoc,nhãn gốc=vhod rc2
+DC3,C11,ВХОД РК5,TAM2_chuyenmachtinhieuvao/A313-2.SchDoc,nhãn gốc=vhod rc5
+DC3,C12,ВХОД РК8,TAM2_chuyenmachtinhieuvao/A313-2.SchDoc,nhãn gốc=vhod rc8
+DC3,C13,ВХОД 11a,TAM2_chuyenmachtinhieuvao/A313-2.SchDoc,nhãn gốc=vhod 11a
+DC3,C14,ВХОД 10b,TAM2_chuyenmachtinhieuvao/A313-2.SchDoc,nhãn gốc=vhod 10b
+DC3,C15,ВХОД 13a,TAM2_chuyenmachtinhieuvao/A313-2.SchDoc,nhãn gốc=vhod 13a
+DC3,C16,ВХОД 16a,TAM2_chuyenmachtinhieuvao/A313-2.SchDoc,nhãn gốc=vhod 16a
+DC3,C17,ВХОД 15b,TAM2_chuyenmachtinhieuvao/A313-2.SchDoc,nhãn gốc=vhod 15b
+DC3,C18,ВХОД РК10,TAM2_chuyenmachtinhieuvao/A313-2.SchDoc,nhãn gốc=vhod rc10
+DC3,C19,ВХОД РК13,TAM2_chuyenmachtinhieuvao/A313-2.SchDoc,nhãn gốc=vhod rc13
+DC3,C20,ВХОД РК16,TAM2_chuyenmachtinhieuvao/A313-2.SchDoc,nhãn gốc=vhod rc16
+DC3,C21,ВЫХod b,TAM2_chuyenmachtinhieuvao/A313-2.SchDoc,nhãn gốc=vihod b
+DC3,C22,ВЫХod РК,TAM2_chuyenmachtinhieuvao/A313-2.SchDoc,nhãn gốc=vihod rc
+DC3,C23,УПР. t3,TAM2_chuyenmachtinhieuvao/A313-2.SchDoc,nhãn gốc=upr. t3
+DC3,C24,УПР. tk2,TAM2_chuyenmachtinhieuvao/A313-2.SchDoc,nhãn gốc=upr. tk2
+DC3,C25,УПР t1 ttl,TAM2_chuyenmachtinhieuvao/A313-2.SchDoc,nhãn gốc=upr t1 ttl
+DC3,C26,УПР t4 ttl,TAM2_chuyenmachtinhieuvao/A313-2.SchDoc,nhãn gốc=upr t4 ttl
+DC3,C27,УПР te3 ttl,TAM2_chuyenmachtinhieuvao/A313-2.SchDoc,nhãn gốc=upr te3 ttl
+DC3,C28,podcl 2 ttl,TAM2_chuyenmachtinhieuvao/A313-2.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: podcl 2 ttl
+DC3,C29,N0005,TAM2_chuyenmachtinhieuvao/A313-2.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC3,C30,N0006,TAM2_chuyenmachtinhieuvao/A313-2.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC3,C31,a/GND,TAM2_chuyenmachtinhieuvao/A313-2.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: a; ? nhiều nhãn trên cùng net: a/GND
+DC3,C32,a/GND,TAM2_chuyenmachtinhieuvao/A313-2.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: a; ? nhiều nhãn trên cùng net: a/GND
+DC4,A1,a/GND,TAM2_chuyenmachtinhieuvao/A313-2.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: a; ? nhiều nhãn trên cùng net: a/GND
+DC4,A2,-23V/contr cod ttl,TAM2_chuyenmachtinhieuvao/A313-2.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: contr cod ttl; ? nhiều nhãn trên cùng net: -23V/contr cod ttl
+DC4,A3,N0007,TAM2_chuyenmachtinhieuvao/A313-2.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC4,A4,N0008,TAM2_chuyenmachtinhieuvao/A313-2.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC4,A5,N0009,TAM2_chuyenmachtinhieuvao/A313-2.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC4,A6,УПР. c1,TAM2_chuyenmachtinhieuvao/A313-2.SchDoc,nhãn gốc=upr. c1
+DC4,A7,УПР. c4,TAM2_chuyenmachtinhieuvao/A313-2.SchDoc,nhãn gốc=upr. c4
+DC4,A8,ap_nu,TAM2_chuyenmachtinhieuvao/A313-2.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: ap_nu
+DC4,A9,УПР 9r rm,TAM2_chuyenmachtinhieuvao/A313-2.SchDoc,nhãn gốc=upr 9r rm
+DC4,A10,УПР 12r rm,TAM2_chuyenmachtinhieuvao/A313-2.SchDoc,nhãn gốc=upr 12r rm
+DC4,A11,УПР 15r rm,TAM2_chuyenmachtinhieuvao/A313-2.SchDoc,nhãn gốc=upr 15r rm
+DC4,A12,УПР f,TAM2_chuyenmachtinhieuvao/A313-2.SchDoc,nhãn gốc=upr f
+DC4,A13,УПР kn1,TAM2_chuyenmachtinhieuvao/A313-2.SchDoc,nhãn gốc=upr kn1
+DC4,A14,УПР 5r rpr,TAM2_chuyenmachtinhieuvao/A313-2.SchDoc,nhãn gốc=upr 5r rpr
+DC4,A15,УПР 8r rpr,TAM2_chuyenmachtinhieuvao/A313-2.SchDoc,nhãn gốc=upr 8r rpr
+DC4,A16,УПР 11r rpr,TAM2_chuyenmachtinhieuvao/A313-2.SchDoc,nhãn gốc=upr 11r rpr
+DC4,A17,УПР 14r rpr,TAM2_chuyenmachtinhieuvao/A313-2.SchDoc,nhãn gốc=upr 14r rpr
+DC4,A18,c2 ttl,TAM2_chuyenmachtinhieuvao/A313-2.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: c2 ttl
+DC4,A19,-23V/contr cod ttl,TAM2_chuyenmachtinhieuvao/A313-2.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: contr cod ttl; ? nhiều nhãn trên cùng net: -23V/contr cod ttl
+DC4,A20,int_nu ttl,TAM2_chuyenmachtinhieuvao/A313-2.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: int_nu ttl
+DC4,A21,УПР 10r rm ttl,TAM2_chuyenmachtinhieuvao/A313-2.SchDoc,nhãn gốc=upr 10r rm ttl
+DC4,A22,УПР 13r rm ttl,TAM2_chuyenmachtinhieuvao/A313-2.SchDoc,nhãn gốc=upr 13r rm ttl
+DC4,A23,УПР d ttl,TAM2_chuyenmachtinhieuvao/A313-2.SchDoc,nhãn gốc=upr d ttl
+DC4,A24,УПР c ttl,TAM2_chuyenmachtinhieuvao/A313-2.SchDoc,nhãn gốc=upr c ttl
+DC4,A25,УПР ВЫХ ttl,TAM2_chuyenmachtinhieuvao/A313-2.SchDoc,nhãn gốc=upr vih ttl
+DC4,A26,УПР 6r rpr ttl,TAM2_chuyenmachtinhieuvao/A313-2.SchDoc,nhãn gốc=upr 6r rpr ttl
+DC4,A27,УПР 9r rpr ttl,TAM2_chuyenmachtinhieuvao/A313-2.SchDoc,nhãn gốc=upr 9r rpr ttl
+DC4,A28,УПР 12r rpr ttl,TAM2_chuyenmachtinhieuvao/A313-2.SchDoc,nhãn gốc=upr 12r rpr ttl
+DC4,A29,УПР 15r rpr ttl,TAM2_chuyenmachtinhieuvao/A313-2.SchDoc,nhãn gốc=upr 15r rpr ttl
+DC4,A30,dubi2ttl,TAM2_chuyenmachtinhieuvao/A313-2.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: dubi2ttl
+DC4,A31,a/GND,TAM2_chuyenmachtinhieuvao/A313-2.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: a; ? nhiều nhãn trên cùng net: a/GND
+DC4,A32,a/GND,TAM2_chuyenmachtinhieuvao/A313-2.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: a; ? nhiều nhãn trên cùng net: a/GND
+DC4,B1,a/GND,TAM2_chuyenmachtinhieuvao/A313-2.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: a; ? nhiều nhãn trên cùng net: a/GND
+DC4,B2,-23V/contr cod ttl,TAM2_chuyenmachtinhieuvao/A313-2.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: contr cod ttl; ? nhiều nhãn trên cùng net: -23V/contr cod ttl
+DC4,B3,N0010,TAM2_chuyenmachtinhieuvao/A313-2.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC4,B4,N0011,TAM2_chuyenmachtinhieuvao/A313-2.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC4,B5,N0012,TAM2_chuyenmachtinhieuvao/A313-2.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC4,B6,УПР. c2,TAM2_chuyenmachtinhieuvao/A313-2.SchDoc,nhãn gốc=upr. c2
+DC4,B7,contr cod,TAM2_chuyenmachtinhieuvao/A313-2.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: contr cod
+DC4,B8,int_nu,TAM2_chuyenmachtinhieuvao/A313-2.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: int_nu
+DC4,B9,УПР 10r rm,TAM2_chuyenmachtinhieuvao/A313-2.SchDoc,nhãn gốc=upr 10r rm
+DC4,B10,УПР 13r rm,TAM2_chuyenmachtinhieuvao/A313-2.SchDoc,nhãn gốc=upr 13r rm
+DC4,B11,УПР d,TAM2_chuyenmachtinhieuvao/A313-2.SchDoc,nhãn gốc=upr d
+DC4,B12,УПР c,TAM2_chuyenmachtinhieuvao/A313-2.SchDoc,nhãn gốc=upr c
+DC4,B13,УПР ВЫХ,TAM2_chuyenmachtinhieuvao/A313-2.SchDoc,nhãn gốc=upr vih
+DC4,B14,УПР 6r rpr,TAM2_chuyenmachtinhieuvao/A313-2.SchDoc,nhãn gốc=upr 6r rpr
+DC4,B15,УПР 9r rpr,TAM2_chuyenmachtinhieuvao/A313-2.SchDoc,nhãn gốc=upr 9r rpr
+DC4,B16,УПР 12r rpr,TAM2_chuyenmachtinhieuvao/A313-2.SchDoc,nhãn gốc=upr 12r rpr
+DC4,B17,УПР 15r rpr,TAM2_chuyenmachtinhieuvao/A313-2.SchDoc,nhãn gốc=upr 15r rpr
+DC4,B18,c3 ttl,TAM2_chuyenmachtinhieuvao/A313-2.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: c3 ttl
+DC4,B19,knac ttl,TAM2_chuyenmachtinhieuvao/A313-2.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: knac ttl
+DC4,B20,УПР 8r rm ttl,TAM2_chuyenmachtinhieuvao/A313-2.SchDoc,nhãn gốc=upr 8r rm ttl
+DC4,B21,УПР 11r rm ttl,TAM2_chuyenmachtinhieuvao/A313-2.SchDoc,nhãn gốc=upr 11r rm ttl
+DC4,B22,УПР 14r rm ttl,TAM2_chuyenmachtinhieuvao/A313-2.SchDoc,nhãn gốc=upr 14r rm ttl
+DC4,B23,УПР pp ttl,TAM2_chuyenmachtinhieuvao/A313-2.SchDoc,nhãn gốc=upr pp ttl
+DC4,B24,УПР kn2 ttl,TAM2_chuyenmachtinhieuvao/A313-2.SchDoc,nhãn gốc=upr kn2 ttl
+DC4,B25,УПР 4r rpr ttl,TAM2_chuyenmachtinhieuvao/A313-2.SchDoc,nhãn gốc=upr 4r rpr ttl
+DC4,B26,УПР 7r rpr ttl,TAM2_chuyenmachtinhieuvao/A313-2.SchDoc,nhãn gốc=upr 7r rpr ttl
+DC4,B27,УПР 10r rpr ttl,TAM2_chuyenmachtinhieuvao/A313-2.SchDoc,nhãn gốc=upr 10r rpr ttl
+DC4,B28,УПР 13r rpr ttl,TAM2_chuyenmachtinhieuvao/A313-2.SchDoc,nhãn gốc=upr 13r rpr ttl
+DC4,B29,dubi1ttl,TAM2_chuyenmachtinhieuvao/A313-2.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: dubi1ttl
+DC4,B30,dubi2,TAM2_chuyenmachtinhieuvao/A313-2.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: dubi2
+DC4,B31,a/GND,TAM2_chuyenmachtinhieuvao/A313-2.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: a; ? nhiều nhãn trên cùng net: a/GND
+DC4,B32,a/GND,TAM2_chuyenmachtinhieuvao/A313-2.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: a; ? nhiều nhãn trên cùng net: a/GND
+DC4,C1,a/GND,TAM2_chuyenmachtinhieuvao/A313-2.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: a; ? nhiều nhãn trên cùng net: a/GND
+DC4,C2,-23V/contr cod ttl,TAM2_chuyenmachtinhieuvao/A313-2.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: contr cod ttl; ? nhiều nhãn trên cùng net: -23V/contr cod ttl
+DC4,C3,N0013,TAM2_chuyenmachtinhieuvao/A313-2.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC4,C4,N0014,TAM2_chuyenmachtinhieuvao/A313-2.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC4,C5,N0015,TAM2_chuyenmachtinhieuvao/A313-2.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC4,C6,УПР. c3,TAM2_chuyenmachtinhieuvao/A313-2.SchDoc,nhãn gốc=upr. c3
+DC4,C7,knac,TAM2_chuyenmachtinhieuvao/A313-2.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: knac
+DC4,C8,УПР 8r rm,TAM2_chuyenmachtinhieuvao/A313-2.SchDoc,nhãn gốc=upr 8r rm
+DC4,C9,УПР 11r rm,TAM2_chuyenmachtinhieuvao/A313-2.SchDoc,nhãn gốc=upr 11r rm
+DC4,C10,УПР 14r rm,TAM2_chuyenmachtinhieuvao/A313-2.SchDoc,nhãn gốc=upr 14r rm
+DC4,C11,УПР pp,TAM2_chuyenmachtinhieuvao/A313-2.SchDoc,nhãn gốc=upr pp
+DC4,C12,УПР kn2,TAM2_chuyenmachtinhieuvao/A313-2.SchDoc,nhãn gốc=upr kn2
+DC4,C13,УПР 4r rpr,TAM2_chuyenmachtinhieuvao/A313-2.SchDoc,nhãn gốc=upr 4r rpr
+DC4,C14,УПР 7r rpr,TAM2_chuyenmachtinhieuvao/A313-2.SchDoc,nhãn gốc=upr 7r rpr
+DC4,C15,УПР 10r rpr,TAM2_chuyenmachtinhieuvao/A313-2.SchDoc,nhãn gốc=upr 10r rpr
+DC4,C16,УПР 13r rpr,TAM2_chuyenmachtinhieuvao/A313-2.SchDoc,nhãn gốc=upr 13r rpr
+DC4,C17,c1 ttl,TAM2_chuyenmachtinhieuvao/A313-2.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: c1 ttl
+DC4,C18,c4 ttl,TAM2_chuyenmachtinhieuvao/A313-2.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: c4 ttl
+DC4,C19,ap_nu ttl,TAM2_chuyenmachtinhieuvao/A313-2.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: ap_nu ttl
+DC4,C20,УПР 9r rm ttl,TAM2_chuyenmachtinhieuvao/A313-2.SchDoc,nhãn gốc=upr 9r rm ttl
+DC4,C21,УПР 12r rm ttl,TAM2_chuyenmachtinhieuvao/A313-2.SchDoc,nhãn gốc=upr 12r rm ttl
+DC4,C22,УПР 15r rm ttl,TAM2_chuyenmachtinhieuvao/A313-2.SchDoc,nhãn gốc=upr 15r rm ttl
+DC4,C23,УПР f ttl,TAM2_chuyenmachtinhieuvao/A313-2.SchDoc,nhãn gốc=upr f ttl
+DC4,C24,УПР kn1 ttl,TAM2_chuyenmachtinhieuvao/A313-2.SchDoc,nhãn gốc=upr kn1 ttl
+DC4,C25,УПР 5r rpr ttl,TAM2_chuyenmachtinhieuvao/A313-2.SchDoc,nhãn gốc=upr 5r rpr ttl
+DC4,C26,УПР 8r rpr ttl,TAM2_chuyenmachtinhieuvao/A313-2.SchDoc,nhãn gốc=upr 8r rpr ttl
+DC4,C27,УПР 11r rpr ttl,TAM2_chuyenmachtinhieuvao/A313-2.SchDoc,nhãn gốc=upr 11r rpr ttl
+DC4,C28,УПР 14r rpr ttl,TAM2_chuyenmachtinhieuvao/A313-2.SchDoc,nhãn gốc=upr 14r rpr ttl
+DC4,C29,dubi1,TAM2_chuyenmachtinhieuvao/A313-2.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: dubi1
+DC4,C30,N0016,TAM2_chuyenmachtinhieuvao/A313-2.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC4,C31,a/GND,TAM2_chuyenmachtinhieuvao/A313-2.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: a; ? nhiều nhãn trên cùng net: a/GND
+DC4,C32,a/GND,TAM2_chuyenmachtinhieuvao/A313-2.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: a; ? nhiều nhãn trên cùng net: a/GND

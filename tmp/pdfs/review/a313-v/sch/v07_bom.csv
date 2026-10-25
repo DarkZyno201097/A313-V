@@ -1,0 +1,122 @@
+﻿ref,name,qty,page,note
+D1,DIODE,1,7,nguồn SchDoc=machbiendoilenhdon/machbiendoilenhdon.SchDoc; sheet=machbiendoilenhdon.SchDoc
+D2,DIODE,1,7,nguồn SchDoc=machbiendoilenhdon/machbiendoilenhdon.SchDoc; sheet=machbiendoilenhdon.SchDoc
+D3,DIODE,1,7,nguồn SchDoc=machbiendoilenhdon/machbiendoilenhdon.SchDoc; sheet=machbiendoilenhdon.SchDoc
+D4,DIODE,1,7,nguồn SchDoc=machbiendoilenhdon/machbiendoilenhdon.SchDoc; sheet=machbiendoilenhdon.SchDoc
+D5,DIODE,1,7,nguồn SchDoc=machbiendoilenhdon/machbiendoilenhdon.SchDoc; sheet=machbiendoilenhdon.SchDoc
+D6,DIODE,1,7,nguồn SchDoc=machbiendoilenhdon/machbiendoilenhdon.SchDoc; sheet=machbiendoilenhdon.SchDoc
+D7,DIODE,1,7,nguồn SchDoc=machbiendoilenhdon/machbiendoilenhdon.SchDoc; sheet=machbiendoilenhdon.SchDoc
+D8,DIODE,1,7,nguồn SchDoc=machbiendoilenhdon/machbiendoilenhdon.SchDoc; sheet=machbiendoilenhdon.SchDoc
+D9,DIODE,1,7,nguồn SchDoc=machbiendoilenhdon/machbiendoilenhdon.SchDoc; sheet=machbiendoilenhdon.SchDoc
+D10,DIODE,1,7,nguồn SchDoc=machbiendoilenhdon/machbiendoilenhdon.SchDoc; sheet=machbiendoilenhdon.SchDoc
+D11,DIODE,1,7,nguồn SchDoc=machbiendoilenhdon/machbiendoilenhdon.SchDoc; sheet=machbiendoilenhdon.SchDoc
+D12,DIODE,1,7,nguồn SchDoc=machbiendoilenhdon/machbiendoilenhdon.SchDoc; sheet=machbiendoilenhdon.SchDoc
+D13,DIODE,1,7,nguồn SchDoc=machbiendoilenhdon/machbiendoilenhdon.SchDoc; sheet=machbiendoilenhdon.SchDoc
+D14,DIODE,1,7,nguồn SchDoc=machbiendoilenhdon/machbiendoilenhdon.SchDoc; sheet=machbiendoilenhdon.SchDoc
+D15,DIODE,1,7,nguồn SchDoc=machbiendoilenhdon/machbiendoilenhdon.SchDoc; sheet=machbiendoilenhdon.SchDoc
+D16,DIODE,1,7,nguồn SchDoc=machbiendoilenhdon/machbiendoilenhdon.SchDoc; sheet=machbiendoilenhdon.SchDoc
+D17,DIODE,1,7,nguồn SchDoc=machbiendoilenhdon/machbiendoilenhdon.SchDoc; sheet=machbiendoilenhdon.SchDoc
+J1,CON40,1,7,nguồn SchDoc=machbiendoilenhdon/machbiendoilenhdon.SchDoc; sheet=machbiendoilenhdon.SchDoc
+J2,CON40,1,7,nguồn SchDoc=machbiendoilenhdon/machbiendoilenhdon.SchDoc; sheet=machbiendoilenhdon.SchDoc
+J7,CON1,1,7,nguồn SchDoc=machbiendoilenhdon/machbiendoilenhdon.SchDoc; sheet=machbiendoilenhdon.SchDoc
+J8,CON1,1,7,nguồn SchDoc=machbiendoilenhdon/machbiendoilenhdon.SchDoc; sheet=machbiendoilenhdon.SchDoc
+J9,CON1,1,7,nguồn SchDoc=machbiendoilenhdon/machbiendoilenhdon.SchDoc; sheet=machbiendoilenhdon.SchDoc
+J10,CON1,1,7,nguồn SchDoc=machbiendoilenhdon/machbiendoilenhdon.SchDoc; sheet=machbiendoilenhdon.SchDoc
+J11,CON1,1,7,nguồn SchDoc=machbiendoilenhdon/machbiendoilenhdon.SchDoc; sheet=machbiendoilenhdon.SchDoc
+J12,CON1,1,7,nguồn SchDoc=machbiendoilenhdon/machbiendoilenhdon.SchDoc; sheet=machbiendoilenhdon.SchDoc
+J13,CON1,1,7,nguồn SchDoc=machbiendoilenhdon/machbiendoilenhdon.SchDoc; sheet=machbiendoilenhdon.SchDoc
+J14,CON1,1,7,nguồn SchDoc=machbiendoilenhdon/machbiendoilenhdon.SchDoc; sheet=machbiendoilenhdon.SchDoc
+J15,CON1,1,7,nguồn SchDoc=machbiendoilenhdon/machbiendoilenhdon.SchDoc; sheet=machbiendoilenhdon.SchDoc
+J16,CON1,1,7,nguồn SchDoc=machbiendoilenhdon/machbiendoilenhdon.SchDoc; sheet=machbiendoilenhdon.SchDoc
+J17,CON1,1,7,nguồn SchDoc=machbiendoilenhdon/machbiendoilenhdon.SchDoc; sheet=machbiendoilenhdon.SchDoc
+P1,ro le PEC-49 [RELAY_SPDT_0],1,7,nguồn SchDoc=machbiendoilenhdon/machbiendoilenhdon.SchDoc; sheet=machbiendoilenhdon.SchDoc
+P2,ro le PEC-49 [RELAY_SPDT_0],1,7,nguồn SchDoc=machbiendoilenhdon/machbiendoilenhdon.SchDoc; sheet=machbiendoilenhdon.SchDoc
+P3,ro le PEC-49 [RELAY_SPDT_0],1,7,nguồn SchDoc=machbiendoilenhdon/machbiendoilenhdon.SchDoc; sheet=machbiendoilenhdon.SchDoc
+P4,ro le PEC-49 [RELAY_SPDT_0],1,7,nguồn SchDoc=machbiendoilenhdon/machbiendoilenhdon.SchDoc; sheet=machbiendoilenhdon.SchDoc
+P5,ro le PEC-49 [RELAY_SPDT_0],1,7,nguồn SchDoc=machbiendoilenhdon/machbiendoilenhdon.SchDoc; sheet=machbiendoilenhdon.SchDoc
+P6,ro le PEC-49 [RELAY_SPDT_0],1,7,nguồn SchDoc=machbiendoilenhdon/machbiendoilenhdon.SchDoc; sheet=machbiendoilenhdon.SchDoc
+P7,ro le PEC-49 [RELAY_SPDT_0],1,7,nguồn SchDoc=machbiendoilenhdon/machbiendoilenhdon.SchDoc; sheet=machbiendoilenhdon.SchDoc
+P8,ro le PEC-49 [RELAY_SPDT_0],1,7,nguồn SchDoc=machbiendoilenhdon/machbiendoilenhdon.SchDoc; sheet=machbiendoilenhdon.SchDoc
+P9,ro le PEC-49 [RELAY_SPDT_0],1,7,nguồn SchDoc=machbiendoilenhdon/machbiendoilenhdon.SchDoc; sheet=machbiendoilenhdon.SchDoc
+P10,ro le PEC-49 [RELAY_SPDT_0],1,7,nguồn SchDoc=machbiendoilenhdon/machbiendoilenhdon.SchDoc; sheet=machbiendoilenhdon.SchDoc
+P11,ro le PEC-49 [RELAY_SPDT_0],1,7,nguồn SchDoc=machbiendoilenhdon/machbiendoilenhdon.SchDoc; sheet=machbiendoilenhdon.SchDoc
+P12,ro le PEC-49 [RELAY_SPDT_0],1,7,nguồn SchDoc=machbiendoilenhdon/machbiendoilenhdon.SchDoc; sheet=machbiendoilenhdon.SchDoc
+P13,ro le PEC-49 [RELAY_SPDT_0],1,7,nguồn SchDoc=machbiendoilenhdon/machbiendoilenhdon.SchDoc; sheet=machbiendoilenhdon.SchDoc
+P14,ro le PEC-49 [RELAY_SPDT_0],1,7,nguồn SchDoc=machbiendoilenhdon/machbiendoilenhdon.SchDoc; sheet=machbiendoilenhdon.SchDoc
+P15,ro le PEC-49 [RELAY_SPDT_0],1,7,nguồn SchDoc=machbiendoilenhdon/machbiendoilenhdon.SchDoc; sheet=machbiendoilenhdon.SchDoc
+P16,ro le PEC-49 [RELAY_SPDT_0],1,7,nguồn SchDoc=machbiendoilenhdon/machbiendoilenhdon.SchDoc; sheet=machbiendoilenhdon.SchDoc
+R1,680r [R],1,7,nguồn SchDoc=machbiendoilenhdon/machbiendoilenhdon.SchDoc; sheet=machbiendoilenhdon.SchDoc
+R2,680r [R],1,7,nguồn SchDoc=machbiendoilenhdon/machbiendoilenhdon.SchDoc; sheet=machbiendoilenhdon.SchDoc
+R3,680r [R],1,7,nguồn SchDoc=machbiendoilenhdon/machbiendoilenhdon.SchDoc; sheet=machbiendoilenhdon.SchDoc
+R4,680r [R],1,7,nguồn SchDoc=machbiendoilenhdon/machbiendoilenhdon.SchDoc; sheet=machbiendoilenhdon.SchDoc
+R5,680r [R],1,7,nguồn SchDoc=machbiendoilenhdon/machbiendoilenhdon.SchDoc; sheet=machbiendoilenhdon.SchDoc
+R6,680r [R],1,7,nguồn SchDoc=machbiendoilenhdon/machbiendoilenhdon.SchDoc; sheet=machbiendoilenhdon.SchDoc
+R7,680r [R],1,7,nguồn SchDoc=machbiendoilenhdon/machbiendoilenhdon.SchDoc; sheet=machbiendoilenhdon.SchDoc
+R8,680r [R],1,7,nguồn SchDoc=machbiendoilenhdon/machbiendoilenhdon.SchDoc; sheet=machbiendoilenhdon.SchDoc
+R9,680r [R],1,7,nguồn SchDoc=machbiendoilenhdon/machbiendoilenhdon.SchDoc; sheet=machbiendoilenhdon.SchDoc
+R10,680r [R],1,7,nguồn SchDoc=machbiendoilenhdon/machbiendoilenhdon.SchDoc; sheet=machbiendoilenhdon.SchDoc
+R11,680r [R],1,7,nguồn SchDoc=machbiendoilenhdon/machbiendoilenhdon.SchDoc; sheet=machbiendoilenhdon.SchDoc
+R12,680r [R],1,7,nguồn SchDoc=machbiendoilenhdon/machbiendoilenhdon.SchDoc; sheet=machbiendoilenhdon.SchDoc
+R13,680r [R],1,7,nguồn SchDoc=machbiendoilenhdon/machbiendoilenhdon.SchDoc; sheet=machbiendoilenhdon.SchDoc
+R14,680r [R],1,7,nguồn SchDoc=machbiendoilenhdon/machbiendoilenhdon.SchDoc; sheet=machbiendoilenhdon.SchDoc
+R15,680r [R],1,7,nguồn SchDoc=machbiendoilenhdon/machbiendoilenhdon.SchDoc; sheet=machbiendoilenhdon.SchDoc
+R16,680r [R],1,7,nguồn SchDoc=machbiendoilenhdon/machbiendoilenhdon.SchDoc; sheet=machbiendoilenhdon.SchDoc
+R17,680r [R],1,7,nguồn SchDoc=machbiendoilenhdon/machbiendoilenhdon.SchDoc; sheet=machbiendoilenhdon.SchDoc
+R18,680r [R],1,7,nguồn SchDoc=machbiendoilenhdon/machbiendoilenhdon.SchDoc; sheet=machbiendoilenhdon.SchDoc
+R19,680r [R],1,7,nguồn SchDoc=machbiendoilenhdon/machbiendoilenhdon.SchDoc; sheet=machbiendoilenhdon.SchDoc
+R20,680r [R],1,7,nguồn SchDoc=machbiendoilenhdon/machbiendoilenhdon.SchDoc; sheet=machbiendoilenhdon.SchDoc
+R21,680r [R],1,7,nguồn SchDoc=machbiendoilenhdon/machbiendoilenhdon.SchDoc; sheet=machbiendoilenhdon.SchDoc
+R22,680r [R],1,7,nguồn SchDoc=machbiendoilenhdon/machbiendoilenhdon.SchDoc; sheet=machbiendoilenhdon.SchDoc
+R23,680r [R],1,7,nguồn SchDoc=machbiendoilenhdon/machbiendoilenhdon.SchDoc; sheet=machbiendoilenhdon.SchDoc
+R24,680r [R],1,7,nguồn SchDoc=machbiendoilenhdon/machbiendoilenhdon.SchDoc; sheet=machbiendoilenhdon.SchDoc
+R25,680r [R],1,7,nguồn SchDoc=machbiendoilenhdon/machbiendoilenhdon.SchDoc; sheet=machbiendoilenhdon.SchDoc
+R26,680r [R],1,7,nguồn SchDoc=machbiendoilenhdon/machbiendoilenhdon.SchDoc; sheet=machbiendoilenhdon.SchDoc
+R27,680r [R],1,7,nguồn SchDoc=machbiendoilenhdon/machbiendoilenhdon.SchDoc; sheet=machbiendoilenhdon.SchDoc
+R28,680r [R],1,7,nguồn SchDoc=machbiendoilenhdon/machbiendoilenhdon.SchDoc; sheet=machbiendoilenhdon.SchDoc
+R29,680r [R],1,7,nguồn SchDoc=machbiendoilenhdon/machbiendoilenhdon.SchDoc; sheet=machbiendoilenhdon.SchDoc
+R30,680r [R],1,7,nguồn SchDoc=machbiendoilenhdon/machbiendoilenhdon.SchDoc; sheet=machbiendoilenhdon.SchDoc
+R31,680r [R],1,7,nguồn SchDoc=machbiendoilenhdon/machbiendoilenhdon.SchDoc; sheet=machbiendoilenhdon.SchDoc
+R32,680r [R],1,7,nguồn SchDoc=machbiendoilenhdon/machbiendoilenhdon.SchDoc; sheet=machbiendoilenhdon.SchDoc
+R33,680r [R],1,7,nguồn SchDoc=machbiendoilenhdon/machbiendoilenhdon.SchDoc; sheet=machbiendoilenhdon.SchDoc
+R34,1k [R],1,7,nguồn SchDoc=machbiendoilenhdon/machbiendoilenhdon.SchDoc; sheet=machbiendoilenhdon.SchDoc
+R35,1k [R],1,7,nguồn SchDoc=machbiendoilenhdon/machbiendoilenhdon.SchDoc; sheet=machbiendoilenhdon.SchDoc
+R36,1k [R],1,7,nguồn SchDoc=machbiendoilenhdon/machbiendoilenhdon.SchDoc; sheet=machbiendoilenhdon.SchDoc
+R37,1k [R],1,7,nguồn SchDoc=machbiendoilenhdon/machbiendoilenhdon.SchDoc; sheet=machbiendoilenhdon.SchDoc
+R38,1k [R],1,7,nguồn SchDoc=machbiendoilenhdon/machbiendoilenhdon.SchDoc; sheet=machbiendoilenhdon.SchDoc
+R39,1k [R],1,7,nguồn SchDoc=machbiendoilenhdon/machbiendoilenhdon.SchDoc; sheet=machbiendoilenhdon.SchDoc
+R40,1k [R],1,7,nguồn SchDoc=machbiendoilenhdon/machbiendoilenhdon.SchDoc; sheet=machbiendoilenhdon.SchDoc
+R41,1k [R],1,7,nguồn SchDoc=machbiendoilenhdon/machbiendoilenhdon.SchDoc; sheet=machbiendoilenhdon.SchDoc
+R42,1k [R],1,7,nguồn SchDoc=machbiendoilenhdon/machbiendoilenhdon.SchDoc; sheet=machbiendoilenhdon.SchDoc
+R43,1k [R],1,7,nguồn SchDoc=machbiendoilenhdon/machbiendoilenhdon.SchDoc; sheet=machbiendoilenhdon.SchDoc
+R44,1k [R],1,7,nguồn SchDoc=machbiendoilenhdon/machbiendoilenhdon.SchDoc; sheet=machbiendoilenhdon.SchDoc
+R45,1k [R],1,7,nguồn SchDoc=machbiendoilenhdon/machbiendoilenhdon.SchDoc; sheet=machbiendoilenhdon.SchDoc
+R46,1k [R],1,7,nguồn SchDoc=machbiendoilenhdon/machbiendoilenhdon.SchDoc; sheet=machbiendoilenhdon.SchDoc
+R47,1k [R],1,7,nguồn SchDoc=machbiendoilenhdon/machbiendoilenhdon.SchDoc; sheet=machbiendoilenhdon.SchDoc
+R48,1k [R],1,7,nguồn SchDoc=machbiendoilenhdon/machbiendoilenhdon.SchDoc; sheet=machbiendoilenhdon.SchDoc
+R49,1k [R],1,7,nguồn SchDoc=machbiendoilenhdon/machbiendoilenhdon.SchDoc; sheet=machbiendoilenhdon.SchDoc
+R50,1k [R],1,7,nguồn SchDoc=machbiendoilenhdon/machbiendoilenhdon.SchDoc; sheet=machbiendoilenhdon.SchDoc
+R51,1k [R],1,7,nguồn SchDoc=machbiendoilenhdon/machbiendoilenhdon.SchDoc; sheet=machbiendoilenhdon.SchDoc
+R52,1k [R],1,7,nguồn SchDoc=machbiendoilenhdon/machbiendoilenhdon.SchDoc; sheet=machbiendoilenhdon.SchDoc
+R53,1k [R],1,7,nguồn SchDoc=machbiendoilenhdon/machbiendoilenhdon.SchDoc; sheet=machbiendoilenhdon.SchDoc
+R54,1k [R],1,7,nguồn SchDoc=machbiendoilenhdon/machbiendoilenhdon.SchDoc; sheet=machbiendoilenhdon.SchDoc
+R55,1k [R],1,7,nguồn SchDoc=machbiendoilenhdon/machbiendoilenhdon.SchDoc; sheet=machbiendoilenhdon.SchDoc
+R56,1k [R],1,7,nguồn SchDoc=machbiendoilenhdon/machbiendoilenhdon.SchDoc; sheet=machbiendoilenhdon.SchDoc
+R57,1k [R],1,7,nguồn SchDoc=machbiendoilenhdon/machbiendoilenhdon.SchDoc; sheet=machbiendoilenhdon.SchDoc
+R58,1k [R],1,7,nguồn SchDoc=machbiendoilenhdon/machbiendoilenhdon.SchDoc; sheet=machbiendoilenhdon.SchDoc
+R59,1k [R],1,7,nguồn SchDoc=machbiendoilenhdon/machbiendoilenhdon.SchDoc; sheet=machbiendoilenhdon.SchDoc
+R60,1k [R],1,7,nguồn SchDoc=machbiendoilenhdon/machbiendoilenhdon.SchDoc; sheet=machbiendoilenhdon.SchDoc
+R61,1k [R],1,7,nguồn SchDoc=machbiendoilenhdon/machbiendoilenhdon.SchDoc; sheet=machbiendoilenhdon.SchDoc
+R62,1k [R],1,7,nguồn SchDoc=machbiendoilenhdon/machbiendoilenhdon.SchDoc; sheet=machbiendoilenhdon.SchDoc
+R63,1k [R],1,7,nguồn SchDoc=machbiendoilenhdon/machbiendoilenhdon.SchDoc; sheet=machbiendoilenhdon.SchDoc
+R64,1k [R],1,7,nguồn SchDoc=machbiendoilenhdon/machbiendoilenhdon.SchDoc; sheet=machbiendoilenhdon.SchDoc
+R65,1k [R],1,7,nguồn SchDoc=machbiendoilenhdon/machbiendoilenhdon.SchDoc; sheet=machbiendoilenhdon.SchDoc
+R66,1k [R],1,7,nguồn SchDoc=machbiendoilenhdon/machbiendoilenhdon.SchDoc; sheet=machbiendoilenhdon.SchDoc
+U1,1HT-251 [1HT-251_1] | 1HT-251 [1HT-251_2] | 1HT-251 [1HT-251_3] | 1HT-251 [1HT-251_4],1,7,nguồn SchDoc=machbiendoilenhdon/machbiendoilenhdon.SchDoc; sheet=machbiendoilenhdon.SchDoc; ? nhiều name/libref: 1HT-251 [1HT-251_1] | 1HT-251 [1HT-251_2] | 1HT-251 [1HT-251_3] | 1HT-251 [1HT-251_4]
+U2,1HT-251 [1HT-251_1] | 1HT-251 [1HT-251_2] | 1HT-251 [1HT-251_3] | 1HT-251 [1HT-251_4],1,7,nguồn SchDoc=machbiendoilenhdon/machbiendoilenhdon.SchDoc; sheet=machbiendoilenhdon.SchDoc; ? nhiều name/libref: 1HT-251 [1HT-251_1] | 1HT-251 [1HT-251_2] | 1HT-251 [1HT-251_3] | 1HT-251 [1HT-251_4]
+U3,1HT-251 [1HT-251_1] | 1HT-251 [1HT-251_2] | 1HT-251 [1HT-251_3] | 1HT-251 [1HT-251_4],1,7,nguồn SchDoc=machbiendoilenhdon/machbiendoilenhdon.SchDoc; sheet=machbiendoilenhdon.SchDoc; ? nhiều name/libref: 1HT-251 [1HT-251_1] | 1HT-251 [1HT-251_2] | 1HT-251 [1HT-251_3] | 1HT-251 [1HT-251_4]
+U4,1HT-251 [1HT-251_1] | 1HT-251 [1HT-251_2] | 1HT-251 [1HT-251_3] | 1HT-251 [1HT-251_4],1,7,nguồn SchDoc=machbiendoilenhdon/machbiendoilenhdon.SchDoc; sheet=machbiendoilenhdon.SchDoc; ? nhiều name/libref: 1HT-251 [1HT-251_1] | 1HT-251 [1HT-251_2] | 1HT-251 [1HT-251_3] | 1HT-251 [1HT-251_4]
+U5,1HT-251 [1HT-251_4],1,7,nguồn SchDoc=machbiendoilenhdon/machbiendoilenhdon.SchDoc; sheet=machbiendoilenhdon.SchDoc
+U6,1HT-251 [1HT-251_1] | 1HT-251 [1HT-251_2] | 1HT-251 [1HT-251_3] | 1HT-251 [1HT-251_4],1,7,nguồn SchDoc=machbiendoilenhdon/machbiendoilenhdon.SchDoc; sheet=machbiendoilenhdon.SchDoc; ? nhiều name/libref: 1HT-251 [1HT-251_1] | 1HT-251 [1HT-251_2] | 1HT-251 [1HT-251_3] | 1HT-251 [1HT-251_4]
+U7,1HT-251 [1HT-251_1] | 1HT-251 [1HT-251_2] | 1HT-251 [1HT-251_3] | 1HT-251 [1HT-251_4],1,7,nguồn SchDoc=machbiendoilenhdon/machbiendoilenhdon.SchDoc; sheet=machbiendoilenhdon.SchDoc; ? nhiều name/libref: 1HT-251 [1HT-251_1] | 1HT-251 [1HT-251_2] | 1HT-251 [1HT-251_3] | 1HT-251 [1HT-251_4]
+U8,1HT-251 [1HT-251_1] | 1HT-251 [1HT-251_2] | 1HT-251 [1HT-251_3] | 1HT-251 [1HT-251_4],1,7,nguồn SchDoc=machbiendoilenhdon/machbiendoilenhdon.SchDoc; sheet=machbiendoilenhdon.SchDoc; ? nhiều name/libref: 1HT-251 [1HT-251_1] | 1HT-251 [1HT-251_2] | 1HT-251 [1HT-251_3] | 1HT-251 [1HT-251_4]
+U9,1HT-251 [1HT-251_1] | 1HT-251 [1HT-251_2] | 1HT-251 [1HT-251_3] | 1HT-251 [1HT-251_4],1,7,nguồn SchDoc=machbiendoilenhdon/machbiendoilenhdon.SchDoc; sheet=machbiendoilenhdon.SchDoc; ? nhiều name/libref: 1HT-251 [1HT-251_1] | 1HT-251 [1HT-251_2] | 1HT-251 [1HT-251_3] | 1HT-251 [1HT-251_4]

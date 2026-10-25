@@ -1,0 +1,92 @@
+﻿table,pin,signal,sheet,note
+J1,1,+5v,machbiendoilenhdon/machbiendoilenhdon.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: +5v
+J1,2,+27vb/x,machbiendoilenhdon/machbiendoilenhdon.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: +27vb/x
+J1,3,РК-1,machbiendoilenhdon/machbiendoilenhdon.SchDoc,nhãn gốc=rc-1
+J1,4,РК-2,machbiendoilenhdon/machbiendoilenhdon.SchDoc,nhãn gốc=rc-2
+J1,5,РК-3,machbiendoilenhdon/machbiendoilenhdon.SchDoc,nhãn gốc=rc-3
+J1,6,РК-4,machbiendoilenhdon/machbiendoilenhdon.SchDoc,nhãn gốc=rc-4
+J1,7,УПР-1,machbiendoilenhdon/machbiendoilenhdon.SchDoc,nhãn gốc=upr-1
+J1,8,УПР-2,machbiendoilenhdon/machbiendoilenhdon.SchDoc,nhãn gốc=upr-2
+J1,9,УПР-3,machbiendoilenhdon/machbiendoilenhdon.SchDoc,nhãn gốc=upr-3
+J1,10,УПР-4,machbiendoilenhdon/machbiendoilenhdon.SchDoc,nhãn gốc=upr-4
+J1,11,РК-5,machbiendoilenhdon/machbiendoilenhdon.SchDoc,nhãn gốc=rc-5
+J1,12,РК-6,machbiendoilenhdon/machbiendoilenhdon.SchDoc,nhãn gốc=rc-6
+J1,13,РК-7,machbiendoilenhdon/machbiendoilenhdon.SchDoc,nhãn gốc=rc-7
+J1,14,РК-8,machbiendoilenhdon/machbiendoilenhdon.SchDoc,nhãn gốc=rc-8
+J1,15,УПР-5,machbiendoilenhdon/machbiendoilenhdon.SchDoc,nhãn gốc=upr-5
+J1,16,УПР-6,machbiendoilenhdon/machbiendoilenhdon.SchDoc,nhãn gốc=upr-6
+J1,17,УПР-7,machbiendoilenhdon/machbiendoilenhdon.SchDoc,nhãn gốc=upr-7
+J1,18,УПР-8,machbiendoilenhdon/machbiendoilenhdon.SchDoc,nhãn gốc=upr-8
+J1,19,РК-9,machbiendoilenhdon/machbiendoilenhdon.SchDoc,nhãn gốc=rc-9
+J1,20,РК-10,machbiendoilenhdon/machbiendoilenhdon.SchDoc,nhãn gốc=rc-10
+J1,21,РК-11,machbiendoilenhdon/machbiendoilenhdon.SchDoc,nhãn gốc=rc-11
+J1,22,РК-12,machbiendoilenhdon/machbiendoilenhdon.SchDoc,nhãn gốc=rc-12
+J1,23,УПР-9,machbiendoilenhdon/machbiendoilenhdon.SchDoc,nhãn gốc=upr-9
+J1,24,УПР-10,machbiendoilenhdon/machbiendoilenhdon.SchDoc,nhãn gốc=upr-10
+J1,25,УПР-11,machbiendoilenhdon/machbiendoilenhdon.SchDoc,nhãn gốc=upr-11
+J1,26,УПР-12,machbiendoilenhdon/machbiendoilenhdon.SchDoc,nhãn gốc=upr-12
+J1,27,РК-13,machbiendoilenhdon/machbiendoilenhdon.SchDoc,nhãn gốc=rc-13
+J1,28,РК-14,machbiendoilenhdon/machbiendoilenhdon.SchDoc,nhãn gốc=rc-14
+J1,29,РК-15,machbiendoilenhdon/machbiendoilenhdon.SchDoc,nhãn gốc=rc-15; allowed_singleton: cổng/nhãn ngoài chỉ có một chân linh kiện
+J1,30,РК-16,machbiendoilenhdon/machbiendoilenhdon.SchDoc,nhãn gốc=rc-16
+J1,31,УПР-13,machbiendoilenhdon/machbiendoilenhdon.SchDoc,nhãn gốc=upr-13
+J1,32,УПР-14,machbiendoilenhdon/machbiendoilenhdon.SchDoc,nhãn gốc=upr-14
+J1,33,УПР-15,machbiendoilenhdon/machbiendoilenhdon.SchDoc,nhãn gốc=upr-15
+J1,34,УПР-16,machbiendoilenhdon/machbiendoilenhdon.SchDoc,nhãn gốc=upr-16
+J1,35,УПР-ИСПРАВН,machbiendoilenhdon/machbiendoilenhdon.SchDoc,nhãn gốc=upr-ixpravn
+J1,36,ИСПРАВН,machbiendoilenhdon/machbiendoilenhdon.SchDoc,nhãn gốc=ixpravn
+J1,37,+27v,machbiendoilenhdon/machbiendoilenhdon.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: +27v
+J1,38,+27v,machbiendoilenhdon/machbiendoilenhdon.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: +27v
+J1,39,GND,machbiendoilenhdon/machbiendoilenhdon.SchDoc,
+J1,40,GND,machbiendoilenhdon/machbiendoilenhdon.SchDoc,
+J2,1,+5v,machbiendoilenhdon/machbiendoilenhdon.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: +5v
+J2,2,+27vb/x,machbiendoilenhdon/machbiendoilenhdon.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: +27vb/x
+J2,3,РК-17,machbiendoilenhdon/machbiendoilenhdon.SchDoc,nhãn gốc=rc-17
+J2,4,РК-18,machbiendoilenhdon/machbiendoilenhdon.SchDoc,nhãn gốc=rc-18
+J2,5,РК-19,machbiendoilenhdon/machbiendoilenhdon.SchDoc,nhãn gốc=rc-19
+J2,6,РК-20,machbiendoilenhdon/machbiendoilenhdon.SchDoc,nhãn gốc=rc-20
+J2,7,УПР-17,machbiendoilenhdon/machbiendoilenhdon.SchDoc,nhãn gốc=upr-17
+J2,8,УПР-18,machbiendoilenhdon/machbiendoilenhdon.SchDoc,nhãn gốc=upr-18
+J2,9,УПР-19,machbiendoilenhdon/machbiendoilenhdon.SchDoc,nhãn gốc=upr-19
+J2,10,УПР-20,machbiendoilenhdon/machbiendoilenhdon.SchDoc,nhãn gốc=upr-20
+J2,11,РК-21,machbiendoilenhdon/machbiendoilenhdon.SchDoc,nhãn gốc=rc-21
+J2,12,РК-22,machbiendoilenhdon/machbiendoilenhdon.SchDoc,nhãn gốc=rc-22
+J2,13,РК-23,machbiendoilenhdon/machbiendoilenhdon.SchDoc,nhãn gốc=rc-23
+J2,14,РК-24,machbiendoilenhdon/machbiendoilenhdon.SchDoc,nhãn gốc=rc-24
+J2,15,УПР-21,machbiendoilenhdon/machbiendoilenhdon.SchDoc,nhãn gốc=upr-21
+J2,16,УПР-22,machbiendoilenhdon/machbiendoilenhdon.SchDoc,nhãn gốc=upr-22
+J2,17,УПР-23,machbiendoilenhdon/machbiendoilenhdon.SchDoc,nhãn gốc=upr-23
+J2,18,УПР-24,machbiendoilenhdon/machbiendoilenhdon.SchDoc,nhãn gốc=upr-24
+J2,19,РК-25,machbiendoilenhdon/machbiendoilenhdon.SchDoc,nhãn gốc=rc-25
+J2,20,РК-26,machbiendoilenhdon/machbiendoilenhdon.SchDoc,nhãn gốc=rc-26
+J2,21,РК-27,machbiendoilenhdon/machbiendoilenhdon.SchDoc,nhãn gốc=rc-27
+J2,22,РК-28,machbiendoilenhdon/machbiendoilenhdon.SchDoc,nhãn gốc=rc-28
+J2,23,УПР-25,machbiendoilenhdon/machbiendoilenhdon.SchDoc,nhãn gốc=upr-25
+J2,24,УПР-26,machbiendoilenhdon/machbiendoilenhdon.SchDoc,nhãn gốc=upr-26
+J2,25,N0020,machbiendoilenhdon/machbiendoilenhdon.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+J2,26,УПР-27,machbiendoilenhdon/machbiendoilenhdon.SchDoc,nhãn gốc=upr-27
+J2,27,УПР-28,machbiendoilenhdon/machbiendoilenhdon.SchDoc,nhãn gốc=upr-28
+J2,28,РК-29,machbiendoilenhdon/machbiendoilenhdon.SchDoc,nhãn gốc=rc-29
+J2,29,РК-30,machbiendoilenhdon/machbiendoilenhdon.SchDoc,nhãn gốc=rc-30
+J2,30,РК-16,machbiendoilenhdon/machbiendoilenhdon.SchDoc,nhãn gốc=rc-16
+J2,31,РК-31,machbiendoilenhdon/machbiendoilenhdon.SchDoc,nhãn gốc=rc-31
+J2,32,РК-32,machbiendoilenhdon/machbiendoilenhdon.SchDoc,nhãn gốc=rc-32
+J2,33,УПР-29,machbiendoilenhdon/machbiendoilenhdon.SchDoc,nhãn gốc=upr-29
+J2,34,УПР-30,machbiendoilenhdon/machbiendoilenhdon.SchDoc,nhãn gốc=upr-30
+J2,35,УПР-31,machbiendoilenhdon/machbiendoilenhdon.SchDoc,nhãn gốc=upr-31
+J2,36,УПР-32,machbiendoilenhdon/machbiendoilenhdon.SchDoc,nhãn gốc=upr-32
+J2,37,+27v,machbiendoilenhdon/machbiendoilenhdon.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: +27v
+J2,38,+27v,machbiendoilenhdon/machbiendoilenhdon.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: +27v
+J2,39,GND,machbiendoilenhdon/machbiendoilenhdon.SchDoc,
+J2,40,GND,machbiendoilenhdon/machbiendoilenhdon.SchDoc,
+J7,1,GND,machbiendoilenhdon/machbiendoilenhdon.SchDoc,
+J8,1,GND,machbiendoilenhdon/machbiendoilenhdon.SchDoc,
+J9,1,GND,machbiendoilenhdon/machbiendoilenhdon.SchDoc,
+J10,1,GND,machbiendoilenhdon/machbiendoilenhdon.SchDoc,
+J11,1,GND,machbiendoilenhdon/machbiendoilenhdon.SchDoc,
+J12,1,GND,machbiendoilenhdon/machbiendoilenhdon.SchDoc,
+J13,1,N0010,machbiendoilenhdon/machbiendoilenhdon.SchDoc,
+J14,1,N0009,machbiendoilenhdon/machbiendoilenhdon.SchDoc,
+J15,1,GND,machbiendoilenhdon/machbiendoilenhdon.SchDoc,
+J16,1,N0019,machbiendoilenhdon/machbiendoilenhdon.SchDoc,
+J17,1,N0019,machbiendoilenhdon/machbiendoilenhdon.SchDoc,

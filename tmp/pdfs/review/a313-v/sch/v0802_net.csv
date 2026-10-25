@@ -1,0 +1,318 @@
+﻿ref,pin,net,note
+DC14D,7A,+12.6B/+12.6b,? nhãn có mã font Latin chưa giải mã chắc chắn: +12.6b; ? nhiều nhãn trên cùng net: +12.6B/+12.6b
+DC14D,7B,+12.6B/+12.6b,? nhãn có mã font Latin chưa giải mã chắc chắn: +12.6b; ? nhiều nhãn trên cùng net: +12.6B/+12.6b
+R3,1,+12.6B/+12.6b,? nhãn có mã font Latin chưa giải mã chắc chắn: +12.6b; ? nhiều nhãn trên cùng net: +12.6B/+12.6b
+R37,1,+12.6B/+12.6b,? nhãn có mã font Latin chưa giải mã chắc chắn: +12.6b; ? nhiều nhãn trên cùng net: +12.6B/+12.6b
+R40,1,+12.6B/+12.6b,? nhãn có mã font Latin chưa giải mã chắc chắn: +12.6b; ? nhiều nhãn trên cùng net: +12.6B/+12.6b
+R41,1,+12.6B/+12.6b,? nhãn có mã font Latin chưa giải mã chắc chắn: +12.6b; ? nhiều nhãn trên cùng net: +12.6B/+12.6b
+U6,7,+12.6B/+12.6b,? nhãn có mã font Latin chưa giải mã chắc chắn: +12.6b; ? nhiều nhãn trên cùng net: +12.6B/+12.6b
+U7,7,+12.6B/+12.6b,? nhãn có mã font Latin chưa giải mã chắc chắn: +12.6b; ? nhiều nhãn trên cùng net: +12.6B/+12.6b
+U8,7,+12.6B/+12.6b,? nhãn có mã font Latin chưa giải mã chắc chắn: +12.6b; ? nhiều nhãn trên cùng net: +12.6B/+12.6b
+C2,1,+27b,? nhãn có mã font Latin chưa giải mã chắc chắn: +27b
+DC14D,5A,+27b,? nhãn có mã font Latin chưa giải mã chắc chắn: +27b
+DC14D,5B,+27b,? nhãn có mã font Latin chưa giải mã chắc chắn: +27b
+R10,1,+27b,? nhãn có mã font Latin chưa giải mã chắc chắn: +27b
+R14,1,+27b,? nhãn có mã font Latin chưa giải mã chắc chắn: +27b
+R29,2,+27b,? nhãn có mã font Latin chưa giải mã chắc chắn: +27b
+R32,2,+27b,? nhãn có mã font Latin chưa giải mã chắc chắn: +27b
+R33,2,+27b,? nhãn có mã font Latin chưa giải mã chắc chắn: +27b
+R39,1,+27b,? nhãn có mã font Latin chưa giải mã chắc chắn: +27b
+R43,2,+27b,? nhãn có mã font Latin chưa giải mã chắc chắn: +27b
+DC14D,2A,+5b,? nhãn có mã font Latin chưa giải mã chắc chắn: +5b
+DC14D,2B,+5b,? nhãn có mã font Latin chưa giải mã chắc chắn: +5b
+R5,1,+5b,? nhãn có mã font Latin chưa giải mã chắc chắn: +5b
+DC14D,3A,+6.3b,? nhãn có mã font Latin chưa giải mã chắc chắn: +6.3b
+DC14D,3B,+6.3b,? nhãn có mã font Latin chưa giải mã chắc chắn: +6.3b
+R1,1,+6.3b,? nhãn có mã font Latin chưa giải mã chắc chắn: +6.3b
+DC14D,8A,-12.6b,? nhãn có mã font Latin chưa giải mã chắc chắn: -12.6b
+DC14D,8B,-12.6b,? nhãn có mã font Latin chưa giải mã chắc chắn: -12.6b
+R53,2,-12.6b,? nhãn có mã font Latin chưa giải mã chắc chắn: -12.6b
+R55,2,-12.6b,? nhãn có mã font Latin chưa giải mã chắc chắn: -12.6b
+U5,1,-12.6b,? nhãn có mã font Latin chưa giải mã chắc chắn: -12.6b
+U6,1,-12.6b,? nhãn có mã font Latin chưa giải mã chắc chắn: -12.6b
+U7,1,-12.6b,? nhãn có mã font Latin chưa giải mã chắc chắn: -12.6b
+U8,1,-12.6b,? nhãn có mã font Latin chưa giải mã chắc chắn: -12.6b
+DC14D,6A,-20b,? nhãn có mã font Latin chưa giải mã chắc chắn: -20b
+DC14D,6B,-20b,? nhãn có mã font Latin chưa giải mã chắc chắn: -20b
+R54,2,-20b,? nhãn có mã font Latin chưa giải mã chắc chắn: -20b
+DC14D,1A,-5b,? nhãn có mã font Latin chưa giải mã chắc chắn: -5b
+DC14D,1B,-5b,? nhãn có mã font Latin chưa giải mã chắc chắn: -5b
+R46,3,-5b,? nhãn có mã font Latin chưa giải mã chắc chắn: -5b
+DC14D,4A,-6.3b,? nhãn có mã font Latin chưa giải mã chắc chắn: -6.3b
+DC14D,4B,-6.3b,? nhãn có mã font Latin chưa giải mã chắc chắn: -6.3b
+R51,2,-6.3b,? nhãn có mã font Latin chưa giải mã chắc chắn: -6.3b
+DC14D,12A,10,
+R43,1,10,
+T9,3,10,
+D16,2,16,
+DC14D,12B,16,
+DC14D,13A,16,
+R42,1,16,
+T8,2,16,
+DC14D,11A,17,
+DC14D,11B,17,
+T10,3,17,
+D5,2,18,
+D14,1,18,
+D21,2,18,
+DC14D,9A,18,
+D11,1,4,
+DC14D,9B,4,
+DC14D,10A,4,
+D6,2,8,
+D17,2,8,
+D24,1,8,
+DC14D,10B,8,
+R27,1,8,
+C1,2,GND,
+C3,2,GND,
+D1,1,GND,
+D3,1,GND,
+D16,1,GND,
+D19,2,GND,
+D22,1,GND,
+DC14D,13B,GND,
+DC14D,14A,GND,
+DC14D,14B,GND,
+DC14D,15A,GND,
+DC14D,15B,GND,
+DC14D,16B,GND,
+R5,3,GND,
+R6,3,GND,
+R8,3,GND,
+R15,3,GND,
+R17,1,GND,
+R28,1,GND,
+R34,1,GND,
+R36,2,GND,
+R38,2,GND,
+R42,2,GND,
+R46,1,GND,
+R47,1,GND,
+R49,1,GND,
+R50,1,GND,
+R58,3,GND,
+R59,1,GND,
+R62,1,GND,
+R63,1,GND,
+R64,2,GND,
+R65,2,GND,
+T2,2,GND,
+T3,2,GND,
+T5,2,GND,
+T6,2,GND,
+T7,2,GND,
+T9,2,GND,
+T10,2,GND,
+U5,4,GND,
+U6,4,GND,
+U7,4,GND,
+U8,4,GND,
+C1,1,N0001,
+R27,2,N0001,
+R28,2,N0001,
+T2,1,N0001,
+C2,2,N0002,
+D22,2,N0002,
+R31,2,N0002,
+C3,1,N0003,
+D15,2,N0003,
+R37,2,N0003,
+T5,3,N0003,
+D1,2,N0004,
+R10,2,N0004,
+R12,1,N0004,
+R13,1,N0004,
+R16,1,N0004,
+D10,1,N0005,
+R30,1,N0005,
+R31,1,N0005,
+D10,2,N0006,
+T3,1,N0006,
+D11,2,N0007,
+R34,2,N0007,
+T4,2,N0007,
+D14,2,N0008,
+D24,2,N0008,
+R35,2,N0008,
+D15,1,N0009,
+R38,1,N0009,
+T6,1,N0009,
+D17,1,N0010,
+U7,5,N0010,
+D18,1,N0011,
+R65,1,N0011,
+U7,10,N0011,
+D18,2,N0012,
+R58,2,N0012,
+D19,1,N0013,
+R55,1,N0013,
+R57,1,N0013,
+R60,2,N0013,
+R61,2,N0013,
+D2,1,N0014,
+R13,2,N0014,
+U5,10,N0014,
+D2,2,N0015,
+R15,2,N0015,
+D20,1,N0016,
+R59,2,N0016,
+D20,2,N0017,
+R61,1,N0017,
+U8,9,N0017,
+D21,1,N0018,
+U8,5,N0018,
+D3,2,N0019,
+R14,2,N0019,
+U5,7,N0019,
+D4,1,N0020,
+R17,2,N0020,
+D4,2,N0021,
+R63,2,N0021,
+U6,9,N0021,
+D5,1,N0022,
+U5,5,N0022,
+D6,1,N0023,
+U6,5,N0023,
+R1,2,N0024,
+R6,1,N0024,
+R11,1,N0025,
+U2,10,N0025,
+U5,9,N0025,
+R11,2,N0026,
+R16,2,N0026,
+R17,3,N0026,
+R12,2,N0027,
+R15,1,N0027,
+R15,4,N0028,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+R15,5,N0029,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+R29,1,N0030,
+R30,2,N0030,
+T2,3,N0030,
+R3,2,N0031,
+R8,1,N0031,
+R32,1,N0032,
+T3,3,N0032,
+T4,1,N0032,
+R33,1,N0033,
+T4,3,N0033,
+R35,1,N0034,
+R36,1,N0034,
+T5,1,N0034,
+R39,2,N0035,
+T6,3,N0035,
+T7,1,N0035,
+R40,2,N0036,
+R44,2,N0036,
+R45,1,N0036,
+T7,3,N0036,
+T8,1,N0036,
+R41,2,N0037,
+T8,3,N0037,
+R44,1,N0038,
+T9,1,N0038,
+R45,2,N0039,
+T10,1,N0039,
+R46,2,N0040,
+U3,4,N0040,
+U4,5,N0040,
+R47,2,N0041,
+U3,5,N0041,
+U4,4,N0041,
+R47,3,N0042,
+R51,1,N0042,
+R47,4,N0043,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+R47,5,N0044,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+R49,2,N0045,
+U3,7,N0045,
+U4,2,N0045,
+R49,3,N0046,
+R53,1,N0046,
+R5,2,N0047,
+U1,1,N0047,
+U2,8,N0047,
+R50,2,N0048,
+U3,8,N0048,
+U4,1,N0048,
+R50,3,N0049,
+R54,1,N0049,
+R50,4,N0050,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+R50,5,N0051,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+R56,1,N0052,
+U4,10,N0052,
+U8,10,N0052,
+R56,2,N0053,
+R57,2,N0053,
+R58,1,N0053,
+R58,4,N0054,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+R58,5,N0055,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+R59,3,N0056,
+R60,1,N0056,
+R6,2,N0057,
+U1,2,N0057,
+U2,7,N0057,
+R6,4,N0058,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+R6,5,N0059,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+R62,2,N0060,
+U1,9,N0060,
+U1,10,N0060,
+U1,11,N0060,
+U1,12,N0060,
+U6,10,N0060,
+R64,1,N0061,
+U3,9,N0061,
+U3,10,N0061,
+U3,11,N0061,
+U3,12,N0061,
+U7,9,N0061,
+R8,2,N0062,
+U1,4,N0062,
+U2,5,N0062,
+U1,3,N0063,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U1,5,N0064,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U1,6,N0065,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U1,7,N0066,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U1,8,N0067,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U2,1,N0068,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U2,2,N0069,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U2,3,N0070,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U2,4,N0071,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U2,6,N0072,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U2,9,N0073,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U2,11,N0074,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U2,12,N0075,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U3,1,N0076,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U3,2,N0077,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U3,3,N0078,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U3,6,N0079,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U4,3,N0080,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U4,6,N0081,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U4,7,N0082,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U4,8,N0083,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U4,9,N0084,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U4,11,N0085,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U4,12,N0086,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U5,2,N0087,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U5,3,N0088,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U5,6,N0089,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U5,8,N0090,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U5,11,N0091,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U5,12,N0092,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U6,2,N0093,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U6,3,N0094,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U6,6,N0095,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U6,8,N0096,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U6,11,N0097,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U6,12,N0098,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U7,2,N0099,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U7,3,N0100,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U7,6,N0101,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U7,8,N0102,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U7,11,N0103,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U7,12,N0104,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U8,2,N0105,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U8,3,N0106,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U8,6,N0107,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U8,8,N0108,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U8,11,N0109,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U8,12,N0110,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus

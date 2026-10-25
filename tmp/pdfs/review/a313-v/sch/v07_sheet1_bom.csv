@@ -1,0 +1,110 @@
+﻿ref,name,qty,page,note
+D1,DIODE,1,7,nguồn SchDoc=machbiendoilenhdon/Sheet1.SchDoc; sheet=Sheet1.SchDoc
+D2,DIODE,1,7,nguồn SchDoc=machbiendoilenhdon/Sheet1.SchDoc; sheet=Sheet1.SchDoc
+D3,DIODE,1,7,nguồn SchDoc=machbiendoilenhdon/Sheet1.SchDoc; sheet=Sheet1.SchDoc
+D4,DIODE,1,7,nguồn SchDoc=machbiendoilenhdon/Sheet1.SchDoc; sheet=Sheet1.SchDoc
+D5,DIODE,1,7,nguồn SchDoc=machbiendoilenhdon/Sheet1.SchDoc; sheet=Sheet1.SchDoc
+D6,DIODE,1,7,nguồn SchDoc=machbiendoilenhdon/Sheet1.SchDoc; sheet=Sheet1.SchDoc
+D7,DIODE,1,7,nguồn SchDoc=machbiendoilenhdon/Sheet1.SchDoc; sheet=Sheet1.SchDoc
+D8,DIODE,1,7,nguồn SchDoc=machbiendoilenhdon/Sheet1.SchDoc; sheet=Sheet1.SchDoc
+D9,DIODE,1,7,nguồn SchDoc=machbiendoilenhdon/Sheet1.SchDoc; sheet=Sheet1.SchDoc
+D10,DIODE,1,7,nguồn SchDoc=machbiendoilenhdon/Sheet1.SchDoc; sheet=Sheet1.SchDoc
+D11,DIODE,1,7,nguồn SchDoc=machbiendoilenhdon/Sheet1.SchDoc; sheet=Sheet1.SchDoc
+D12,DIODE,1,7,nguồn SchDoc=machbiendoilenhdon/Sheet1.SchDoc; sheet=Sheet1.SchDoc
+D13,DIODE,1,7,nguồn SchDoc=machbiendoilenhdon/Sheet1.SchDoc; sheet=Sheet1.SchDoc
+D14,DIODE,1,7,nguồn SchDoc=machbiendoilenhdon/Sheet1.SchDoc; sheet=Sheet1.SchDoc
+D15,DIODE,1,7,nguồn SchDoc=machbiendoilenhdon/Sheet1.SchDoc; sheet=Sheet1.SchDoc
+D16,DIODE,1,7,nguồn SchDoc=machbiendoilenhdon/Sheet1.SchDoc; sheet=Sheet1.SchDoc
+DC13C,CON40,1,7,nguồn SchDoc=machbiendoilenhdon/Sheet1.SchDoc; sheet=Sheet1.SchDoc
+DC13D,CON40,1,7,nguồn SchDoc=machbiendoilenhdon/Sheet1.SchDoc; sheet=Sheet1.SchDoc
+P1,PEC-49 [RELAY_SPDT_0],1,7,nguồn SchDoc=machbiendoilenhdon/Sheet1.SchDoc; sheet=Sheet1.SchDoc
+P2,PEC-49 [RELAY_SPDT_0],1,7,nguồn SchDoc=machbiendoilenhdon/Sheet1.SchDoc; sheet=Sheet1.SchDoc
+P3,ro le PEC-49 [RELAY_SPDT_0],1,7,nguồn SchDoc=machbiendoilenhdon/Sheet1.SchDoc; sheet=Sheet1.SchDoc
+P4,ro le PEC-49 [RELAY_SPDT_0],1,7,nguồn SchDoc=machbiendoilenhdon/Sheet1.SchDoc; sheet=Sheet1.SchDoc
+P5,ro le PEC-49 [RELAY_SPDT_0],1,7,nguồn SchDoc=machbiendoilenhdon/Sheet1.SchDoc; sheet=Sheet1.SchDoc
+P6,ro le PEC-49 [RELAY_SPDT_0],1,7,nguồn SchDoc=machbiendoilenhdon/Sheet1.SchDoc; sheet=Sheet1.SchDoc
+P7,ro le PEC-49 [RELAY_SPDT_0],1,7,nguồn SchDoc=machbiendoilenhdon/Sheet1.SchDoc; sheet=Sheet1.SchDoc
+P8,ro le PEC-49 [RELAY_SPDT_0],1,7,nguồn SchDoc=machbiendoilenhdon/Sheet1.SchDoc; sheet=Sheet1.SchDoc
+P9,ro le PEC-49 [RELAY_SPDT_0],1,7,nguồn SchDoc=machbiendoilenhdon/Sheet1.SchDoc; sheet=Sheet1.SchDoc
+P10,ro le PEC-49 [RELAY_SPDT_0],1,7,nguồn SchDoc=machbiendoilenhdon/Sheet1.SchDoc; sheet=Sheet1.SchDoc
+P11,ro le PEC-49 [RELAY_SPDT_0],1,7,nguồn SchDoc=machbiendoilenhdon/Sheet1.SchDoc; sheet=Sheet1.SchDoc
+P12,ro le PEC-49 [RELAY_SPDT_0],1,7,nguồn SchDoc=machbiendoilenhdon/Sheet1.SchDoc; sheet=Sheet1.SchDoc
+P13,ro le PEC-49 [RELAY_SPDT_0],1,7,nguồn SchDoc=machbiendoilenhdon/Sheet1.SchDoc; sheet=Sheet1.SchDoc
+P14,ro le PEC-49 [RELAY_SPDT_0],1,7,nguồn SchDoc=machbiendoilenhdon/Sheet1.SchDoc; sheet=Sheet1.SchDoc
+P15,ro le PEC-49 [RELAY_SPDT_0],1,7,nguồn SchDoc=machbiendoilenhdon/Sheet1.SchDoc; sheet=Sheet1.SchDoc
+P16,ro le PEC-49 [RELAY_SPDT_0],1,7,nguồn SchDoc=machbiendoilenhdon/Sheet1.SchDoc; sheet=Sheet1.SchDoc
+R1,680r [R],1,7,nguồn SchDoc=machbiendoilenhdon/Sheet1.SchDoc; sheet=Sheet1.SchDoc
+R2,680r [R],1,7,nguồn SchDoc=machbiendoilenhdon/Sheet1.SchDoc; sheet=Sheet1.SchDoc
+R3,680r [R],1,7,nguồn SchDoc=machbiendoilenhdon/Sheet1.SchDoc; sheet=Sheet1.SchDoc
+R4,680r [R],1,7,nguồn SchDoc=machbiendoilenhdon/Sheet1.SchDoc; sheet=Sheet1.SchDoc
+R5,680r [R],1,7,nguồn SchDoc=machbiendoilenhdon/Sheet1.SchDoc; sheet=Sheet1.SchDoc
+R6,680r [R],1,7,nguồn SchDoc=machbiendoilenhdon/Sheet1.SchDoc; sheet=Sheet1.SchDoc
+R7,680r [R],1,7,nguồn SchDoc=machbiendoilenhdon/Sheet1.SchDoc; sheet=Sheet1.SchDoc
+R8,680r [R],1,7,nguồn SchDoc=machbiendoilenhdon/Sheet1.SchDoc; sheet=Sheet1.SchDoc
+R9,680r [R],1,7,nguồn SchDoc=machbiendoilenhdon/Sheet1.SchDoc; sheet=Sheet1.SchDoc
+R10,680r [R],1,7,nguồn SchDoc=machbiendoilenhdon/Sheet1.SchDoc; sheet=Sheet1.SchDoc
+R11,680r [R],1,7,nguồn SchDoc=machbiendoilenhdon/Sheet1.SchDoc; sheet=Sheet1.SchDoc
+R12,680r [R],1,7,nguồn SchDoc=machbiendoilenhdon/Sheet1.SchDoc; sheet=Sheet1.SchDoc
+R13,680r [R],1,7,nguồn SchDoc=machbiendoilenhdon/Sheet1.SchDoc; sheet=Sheet1.SchDoc
+R14,680r [R],1,7,nguồn SchDoc=machbiendoilenhdon/Sheet1.SchDoc; sheet=Sheet1.SchDoc
+R15,680r [R],1,7,nguồn SchDoc=machbiendoilenhdon/Sheet1.SchDoc; sheet=Sheet1.SchDoc
+R16,680r [R],1,7,nguồn SchDoc=machbiendoilenhdon/Sheet1.SchDoc; sheet=Sheet1.SchDoc
+R17,680r [R],1,7,nguồn SchDoc=machbiendoilenhdon/Sheet1.SchDoc; sheet=Sheet1.SchDoc
+R18,680r [R],1,7,nguồn SchDoc=machbiendoilenhdon/Sheet1.SchDoc; sheet=Sheet1.SchDoc
+R19,680r [R],1,7,nguồn SchDoc=machbiendoilenhdon/Sheet1.SchDoc; sheet=Sheet1.SchDoc
+R20,680r [R],1,7,nguồn SchDoc=machbiendoilenhdon/Sheet1.SchDoc; sheet=Sheet1.SchDoc
+R21,680r [R],1,7,nguồn SchDoc=machbiendoilenhdon/Sheet1.SchDoc; sheet=Sheet1.SchDoc
+R22,680r [R],1,7,nguồn SchDoc=machbiendoilenhdon/Sheet1.SchDoc; sheet=Sheet1.SchDoc
+R23,680r [R],1,7,nguồn SchDoc=machbiendoilenhdon/Sheet1.SchDoc; sheet=Sheet1.SchDoc
+R24,680r [R],1,7,nguồn SchDoc=machbiendoilenhdon/Sheet1.SchDoc; sheet=Sheet1.SchDoc
+R25,680r [R],1,7,nguồn SchDoc=machbiendoilenhdon/Sheet1.SchDoc; sheet=Sheet1.SchDoc
+R26,680r [R],1,7,nguồn SchDoc=machbiendoilenhdon/Sheet1.SchDoc; sheet=Sheet1.SchDoc
+R27,680r [R],1,7,nguồn SchDoc=machbiendoilenhdon/Sheet1.SchDoc; sheet=Sheet1.SchDoc
+R28,680r [R],1,7,nguồn SchDoc=machbiendoilenhdon/Sheet1.SchDoc; sheet=Sheet1.SchDoc
+R29,680r [R],1,7,nguồn SchDoc=machbiendoilenhdon/Sheet1.SchDoc; sheet=Sheet1.SchDoc
+R30,680r [R],1,7,nguồn SchDoc=machbiendoilenhdon/Sheet1.SchDoc; sheet=Sheet1.SchDoc
+R31,680r [R],1,7,nguồn SchDoc=machbiendoilenhdon/Sheet1.SchDoc; sheet=Sheet1.SchDoc
+R32,680r [R],1,7,nguồn SchDoc=machbiendoilenhdon/Sheet1.SchDoc; sheet=Sheet1.SchDoc
+R33,680r [R],1,7,nguồn SchDoc=machbiendoilenhdon/Sheet1.SchDoc; sheet=Sheet1.SchDoc
+R34,1k [R],1,7,nguồn SchDoc=machbiendoilenhdon/Sheet1.SchDoc; sheet=Sheet1.SchDoc
+R35,1k [R],1,7,nguồn SchDoc=machbiendoilenhdon/Sheet1.SchDoc; sheet=Sheet1.SchDoc
+R36,1k [R],1,7,nguồn SchDoc=machbiendoilenhdon/Sheet1.SchDoc; sheet=Sheet1.SchDoc
+R37,1k [R],1,7,nguồn SchDoc=machbiendoilenhdon/Sheet1.SchDoc; sheet=Sheet1.SchDoc
+R38,1k [R],1,7,nguồn SchDoc=machbiendoilenhdon/Sheet1.SchDoc; sheet=Sheet1.SchDoc
+R39,1k [R],1,7,nguồn SchDoc=machbiendoilenhdon/Sheet1.SchDoc; sheet=Sheet1.SchDoc
+R40,1k [R],1,7,nguồn SchDoc=machbiendoilenhdon/Sheet1.SchDoc; sheet=Sheet1.SchDoc
+R41,1k [R],1,7,nguồn SchDoc=machbiendoilenhdon/Sheet1.SchDoc; sheet=Sheet1.SchDoc
+R42,1k [R],1,7,nguồn SchDoc=machbiendoilenhdon/Sheet1.SchDoc; sheet=Sheet1.SchDoc
+R43,1k [R],1,7,nguồn SchDoc=machbiendoilenhdon/Sheet1.SchDoc; sheet=Sheet1.SchDoc
+R44,1k [R],1,7,nguồn SchDoc=machbiendoilenhdon/Sheet1.SchDoc; sheet=Sheet1.SchDoc
+R45,1k [R],1,7,nguồn SchDoc=machbiendoilenhdon/Sheet1.SchDoc; sheet=Sheet1.SchDoc
+R46,1k [R],1,7,nguồn SchDoc=machbiendoilenhdon/Sheet1.SchDoc; sheet=Sheet1.SchDoc
+R47,1k [R],1,7,nguồn SchDoc=machbiendoilenhdon/Sheet1.SchDoc; sheet=Sheet1.SchDoc
+R48,1k [R],1,7,nguồn SchDoc=machbiendoilenhdon/Sheet1.SchDoc; sheet=Sheet1.SchDoc
+R49,1k [R],1,7,nguồn SchDoc=machbiendoilenhdon/Sheet1.SchDoc; sheet=Sheet1.SchDoc
+R50,1k [R],1,7,nguồn SchDoc=machbiendoilenhdon/Sheet1.SchDoc; sheet=Sheet1.SchDoc
+R51,1k [R],1,7,nguồn SchDoc=machbiendoilenhdon/Sheet1.SchDoc; sheet=Sheet1.SchDoc
+R52,1k [R],1,7,nguồn SchDoc=machbiendoilenhdon/Sheet1.SchDoc; sheet=Sheet1.SchDoc
+R53,1k [R],1,7,nguồn SchDoc=machbiendoilenhdon/Sheet1.SchDoc; sheet=Sheet1.SchDoc
+R54,1k [R],1,7,nguồn SchDoc=machbiendoilenhdon/Sheet1.SchDoc; sheet=Sheet1.SchDoc
+R55,1k [R],1,7,nguồn SchDoc=machbiendoilenhdon/Sheet1.SchDoc; sheet=Sheet1.SchDoc
+R56,1k [R],1,7,nguồn SchDoc=machbiendoilenhdon/Sheet1.SchDoc; sheet=Sheet1.SchDoc
+R57,1k [R],1,7,nguồn SchDoc=machbiendoilenhdon/Sheet1.SchDoc; sheet=Sheet1.SchDoc
+R58,1k [R],1,7,nguồn SchDoc=machbiendoilenhdon/Sheet1.SchDoc; sheet=Sheet1.SchDoc
+R59,1k [R],1,7,nguồn SchDoc=machbiendoilenhdon/Sheet1.SchDoc; sheet=Sheet1.SchDoc
+R60,1k [R],1,7,nguồn SchDoc=machbiendoilenhdon/Sheet1.SchDoc; sheet=Sheet1.SchDoc
+R61,1k [R],1,7,nguồn SchDoc=machbiendoilenhdon/Sheet1.SchDoc; sheet=Sheet1.SchDoc
+R62,1k [R],1,7,nguồn SchDoc=machbiendoilenhdon/Sheet1.SchDoc; sheet=Sheet1.SchDoc
+R63,1k [R],1,7,nguồn SchDoc=machbiendoilenhdon/Sheet1.SchDoc; sheet=Sheet1.SchDoc
+R64,1k [R],1,7,nguồn SchDoc=machbiendoilenhdon/Sheet1.SchDoc; sheet=Sheet1.SchDoc
+R65,1k [R],1,7,nguồn SchDoc=machbiendoilenhdon/Sheet1.SchDoc; sheet=Sheet1.SchDoc
+R66,1k [R],1,7,nguồn SchDoc=machbiendoilenhdon/Sheet1.SchDoc; sheet=Sheet1.SchDoc
+U1,1HT-251 [1HT-251_1] | 1HT-251 [1HT-251_2] | 1HT-251 [1HT-251_3] | 1HT-251 [1HT-251_4],1,7,nguồn SchDoc=machbiendoilenhdon/Sheet1.SchDoc; sheet=Sheet1.SchDoc; ? nhiều name/libref: 1HT-251 [1HT-251_1] | 1HT-251 [1HT-251_2] | 1HT-251 [1HT-251_3] | 1HT-251 [1HT-251_4]
+U2,1HT-251 [1HT-251_1] | 1HT-251 [1HT-251_2] | 1HT-251 [1HT-251_3] | 1HT-251 [1HT-251_4],1,7,nguồn SchDoc=machbiendoilenhdon/Sheet1.SchDoc; sheet=Sheet1.SchDoc; ? nhiều name/libref: 1HT-251 [1HT-251_1] | 1HT-251 [1HT-251_2] | 1HT-251 [1HT-251_3] | 1HT-251 [1HT-251_4]
+U3,1HT-251 [1HT-251_1] | 1HT-251 [1HT-251_2] | 1HT-251 [1HT-251_3] | 1HT-251 [1HT-251_4],1,7,nguồn SchDoc=machbiendoilenhdon/Sheet1.SchDoc; sheet=Sheet1.SchDoc; ? nhiều name/libref: 1HT-251 [1HT-251_1] | 1HT-251 [1HT-251_2] | 1HT-251 [1HT-251_3] | 1HT-251 [1HT-251_4]
+U4,1HT-251 [1HT-251_1] | 1HT-251 [1HT-251_2] | 1HT-251 [1HT-251_3] | 1HT-251 [1HT-251_4],1,7,nguồn SchDoc=machbiendoilenhdon/Sheet1.SchDoc; sheet=Sheet1.SchDoc; ? nhiều name/libref: 1HT-251 [1HT-251_1] | 1HT-251 [1HT-251_2] | 1HT-251 [1HT-251_3] | 1HT-251 [1HT-251_4]
+U5,1HT-251 [1HT-251_4],1,7,nguồn SchDoc=machbiendoilenhdon/Sheet1.SchDoc; sheet=Sheet1.SchDoc
+U6,1HT-251 [1HT-251_1] | 1HT-251 [1HT-251_2] | 1HT-251 [1HT-251_3] | 1HT-251 [1HT-251_4],1,7,nguồn SchDoc=machbiendoilenhdon/Sheet1.SchDoc; sheet=Sheet1.SchDoc; ? nhiều name/libref: 1HT-251 [1HT-251_1] | 1HT-251 [1HT-251_2] | 1HT-251 [1HT-251_3] | 1HT-251 [1HT-251_4]
+U7,1HT-251 [1HT-251_1] | 1HT-251 [1HT-251_2] | 1HT-251 [1HT-251_3] | 1HT-251 [1HT-251_4],1,7,nguồn SchDoc=machbiendoilenhdon/Sheet1.SchDoc; sheet=Sheet1.SchDoc; ? nhiều name/libref: 1HT-251 [1HT-251_1] | 1HT-251 [1HT-251_2] | 1HT-251 [1HT-251_3] | 1HT-251 [1HT-251_4]
+U8,1HT-251 [1HT-251_1] | 1HT-251 [1HT-251_2] | 1HT-251 [1HT-251_3] | 1HT-251 [1HT-251_4],1,7,nguồn SchDoc=machbiendoilenhdon/Sheet1.SchDoc; sheet=Sheet1.SchDoc; ? nhiều name/libref: 1HT-251 [1HT-251_1] | 1HT-251 [1HT-251_2] | 1HT-251 [1HT-251_3] | 1HT-251 [1HT-251_4]
+U9,1HT-251 [1HT-251_1] | 1HT-251 [1HT-251_2] | 1HT-251 [1HT-251_3] | 1HT-251 [1HT-251_4],1,7,nguồn SchDoc=machbiendoilenhdon/Sheet1.SchDoc; sheet=Sheet1.SchDoc; ? nhiều name/libref: 1HT-251 [1HT-251_1] | 1HT-251 [1HT-251_2] | 1HT-251 [1HT-251_3] | 1HT-251 [1HT-251_4]

@@ -1,0 +1,90 @@
+﻿ref,name,qty,page,note
+C?@record901,15u [CAP POL],1,9,nguồn SchDoc=machkiemtranguon/ngoc.SchDoc; sheet=ngoc.SchDoc; ? ref chưa được đánh số trong SchDoc
+C?@record1189,"3,3u [CAP NP_Dup1]",1,9,nguồn SchDoc=machkiemtranguon/ngoc.SchDoc; sheet=ngoc.SchDoc; ? ref chưa được đánh số trong SchDoc
+C?@record1739,ceramic [CAP NP],1,9,nguồn SchDoc=machkiemtranguon/ngoc.SchDoc; sheet=ngoc.SchDoc; ? ref chưa được đánh số trong SchDoc
+D?@record122,2D510A [DIODE],1,9,nguồn SchDoc=machkiemtranguon/ngoc.SchDoc; sheet=ngoc.SchDoc; ? ref chưa được đánh số trong SchDoc
+D?@record137,2D103A [DIODE],1,9,nguồn SchDoc=machkiemtranguon/ngoc.SchDoc; sheet=ngoc.SchDoc; ? ref chưa được đánh số trong SchDoc
+D?@record152,2D103A [DIODE],1,9,nguồn SchDoc=machkiemtranguon/ngoc.SchDoc; sheet=ngoc.SchDoc; ? ref chưa được đánh số trong SchDoc
+D?@record167,2D510A [DIODE],1,9,nguồn SchDoc=machkiemtranguon/ngoc.SchDoc; sheet=ngoc.SchDoc; ? ref chưa được đánh số trong SchDoc
+D?@record297,2D103A [DIODE],1,9,nguồn SchDoc=machkiemtranguon/ngoc.SchDoc; sheet=ngoc.SchDoc; ? ref chưa được đánh số trong SchDoc
+D?@record390,D818D [DIODE ZENER],1,9,nguồn SchDoc=machkiemtranguon/ngoc.SchDoc; sheet=ngoc.SchDoc; ? ref chưa được đánh số trong SchDoc
+D?@record573,2D510A [DIODE],1,9,nguồn SchDoc=machkiemtranguon/ngoc.SchDoc; sheet=ngoc.SchDoc; ? ref chưa được đánh số trong SchDoc
+D?@record588,2D103A [DIODE],1,9,nguồn SchDoc=machkiemtranguon/ngoc.SchDoc; sheet=ngoc.SchDoc; ? ref chưa được đánh số trong SchDoc
+D?@record603,2D103A [DIODE],1,9,nguồn SchDoc=machkiemtranguon/ngoc.SchDoc; sheet=ngoc.SchDoc; ? ref chưa được đánh số trong SchDoc
+D?@record733,D818D [DIODE ZENER],1,9,nguồn SchDoc=machkiemtranguon/ngoc.SchDoc; sheet=ngoc.SchDoc; ? ref chưa được đánh số trong SchDoc
+D?@record939,2D103A [DIODE],1,9,nguồn SchDoc=machkiemtranguon/ngoc.SchDoc; sheet=ngoc.SchDoc; ? ref chưa được đánh số trong SchDoc
+D?@record954,2456A [DIODE ZENER],1,9,nguồn SchDoc=machkiemtranguon/ngoc.SchDoc; sheet=ngoc.SchDoc; ? ref chưa được đánh số trong SchDoc
+D?@record1043,2456A [DIODE ZENER],1,9,nguồn SchDoc=machkiemtranguon/ngoc.SchDoc; sheet=ngoc.SchDoc; ? ref chưa được đánh số trong SchDoc
+D?@record1261,DIODE ZENER,1,9,nguồn SchDoc=machkiemtranguon/ngoc.SchDoc; sheet=ngoc.SchDoc; ? ref chưa được đánh số trong SchDoc
+D?@record1420,D818D [DIODE ZENER],1,9,nguồn SchDoc=machkiemtranguon/ngoc.SchDoc; sheet=ngoc.SchDoc; ? ref chưa được đánh số trong SchDoc
+D?@record1589,2D510A [DIODE],1,9,nguồn SchDoc=machkiemtranguon/ngoc.SchDoc; sheet=ngoc.SchDoc; ? ref chưa được đánh số trong SchDoc
+D?@record1707,2D510A [DIODE],1,9,nguồn SchDoc=machkiemtranguon/ngoc.SchDoc; sheet=ngoc.SchDoc; ? ref chưa được đánh số trong SchDoc
+D?@record1966,2D103A [DIODE],1,9,nguồn SchDoc=machkiemtranguon/ngoc.SchDoc; sheet=ngoc.SchDoc; ? ref chưa được đánh số trong SchDoc
+J?,con18 [CON18_1],1,9,nguồn SchDoc=machkiemtranguon/ngoc.SchDoc; sheet=ngoc.SchDoc; ? ref chưa được đánh số trong SchDoc
+R?@record49,"4,7k [RESISTOR VAR_1]",1,9,nguồn SchDoc=machkiemtranguon/ngoc.SchDoc; sheet=ngoc.SchDoc; ? ref chưa được đánh số trong SchDoc
+R?@record82,"4,7k [RESISTOR VAR_7]",1,9,nguồn SchDoc=machkiemtranguon/ngoc.SchDoc; sheet=ngoc.SchDoc; ? ref chưa được đánh số trong SchDoc
+R?@record105,120k [RESISTOR_0],1,9,nguồn SchDoc=machkiemtranguon/ngoc.SchDoc; sheet=ngoc.SchDoc; ? ref chưa được đánh số trong SchDoc
+R?@record182,390r [RESISTOR_0],1,9,nguồn SchDoc=machkiemtranguon/ngoc.SchDoc; sheet=ngoc.SchDoc; ? ref chưa được đánh số trong SchDoc
+R?@record199,10k [RESISTOR_0],1,9,nguồn SchDoc=machkiemtranguon/ngoc.SchDoc; sheet=ngoc.SchDoc; ? ref chưa được đánh số trong SchDoc
+R?@record312,"8,2k [RESISTOR_0]",1,9,nguồn SchDoc=machkiemtranguon/ngoc.SchDoc; sheet=ngoc.SchDoc; ? ref chưa được đánh số trong SchDoc
+R?@record329,22k [RESISTOR_0],1,9,nguồn SchDoc=machkiemtranguon/ngoc.SchDoc; sheet=ngoc.SchDoc; ? ref chưa được đánh số trong SchDoc
+R?@record367,"1,8k [RESISTOR_0]",1,9,nguồn SchDoc=machkiemtranguon/ngoc.SchDoc; sheet=ngoc.SchDoc; ? ref chưa được đánh số trong SchDoc
+R?@record428,27k [RESISTOR_0],1,9,nguồn SchDoc=machkiemtranguon/ngoc.SchDoc; sheet=ngoc.SchDoc; ? ref chưa được đánh số trong SchDoc
+R?@record445,"4,3k [RESISTOR_0]",1,9,nguồn SchDoc=machkiemtranguon/ngoc.SchDoc; sheet=ngoc.SchDoc; ? ref chưa được đánh số trong SchDoc
+R?@record462,"4,7k [RESISTOR_0]",1,9,nguồn SchDoc=machkiemtranguon/ngoc.SchDoc; sheet=ngoc.SchDoc; ? ref chưa được đánh số trong SchDoc
+R?@record533,27k [RESISTOR_0],1,9,nguồn SchDoc=machkiemtranguon/ngoc.SchDoc; sheet=ngoc.SchDoc; ? ref chưa được đánh số trong SchDoc
+R?@record550,"4,7k [RESISTOR VAR_3]",1,9,nguồn SchDoc=machkiemtranguon/ngoc.SchDoc; sheet=ngoc.SchDoc; ? ref chưa được đánh số trong SchDoc
+R?@record618,"4,7k [RESISTOR VAR_1]",1,9,nguồn SchDoc=machkiemtranguon/ngoc.SchDoc; sheet=ngoc.SchDoc; ? ref chưa được đánh số trong SchDoc
+R?@record645,"4,7k [RESISTOR_0]",1,9,nguồn SchDoc=machkiemtranguon/ngoc.SchDoc; sheet=ngoc.SchDoc; ? ref chưa được đánh số trong SchDoc
+R?@record716,10k [RESISTOR_0],1,9,nguồn SchDoc=machkiemtranguon/ngoc.SchDoc; sheet=ngoc.SchDoc; ? ref chưa được đánh số trong SchDoc
+R?@record750,"2,2k [RESISTOR_0]",1,9,nguồn SchDoc=machkiemtranguon/ngoc.SchDoc; sheet=ngoc.SchDoc; ? ref chưa được đánh số trong SchDoc
+R?@record767,"5,6k [RESISTOR_0]",1,9,nguồn SchDoc=machkiemtranguon/ngoc.SchDoc; sheet=ngoc.SchDoc; ? ref chưa được đánh số trong SchDoc
+R?@record784,"5,1k [RESISTOR_0]",1,9,nguồn SchDoc=machkiemtranguon/ngoc.SchDoc; sheet=ngoc.SchDoc; ? ref chưa được đánh số trong SchDoc
+R?@record801,120k [RESISTOR_0],1,9,nguồn SchDoc=machkiemtranguon/ngoc.SchDoc; sheet=ngoc.SchDoc; ? ref chưa được đánh số trong SchDoc
+R?@record818,12k [RESISTOR_0],1,9,nguồn SchDoc=machkiemtranguon/ngoc.SchDoc; sheet=ngoc.SchDoc; ? ref chưa được đánh số trong SchDoc
+R?@record971,47k [RESISTOR_0],1,9,nguồn SchDoc=machkiemtranguon/ngoc.SchDoc; sheet=ngoc.SchDoc; ? ref chưa được đánh số trong SchDoc
+R?@record988,"3,9k [RESISTOR_0]",1,9,nguồn SchDoc=machkiemtranguon/ngoc.SchDoc; sheet=ngoc.SchDoc; ? ref chưa được đánh số trong SchDoc
+R?@record1026,"2,2k [RESISTOR_0]",1,9,nguồn SchDoc=machkiemtranguon/ngoc.SchDoc; sheet=ngoc.SchDoc; ? ref chưa được đánh số trong SchDoc
+R?@record1060,"5,6k [RESISTOR_0]",1,9,nguồn SchDoc=machkiemtranguon/ngoc.SchDoc; sheet=ngoc.SchDoc; ? ref chưa được đánh số trong SchDoc
+R?@record1077,120k [RESISTOR_0],1,9,nguồn SchDoc=machkiemtranguon/ngoc.SchDoc; sheet=ngoc.SchDoc; ? ref chưa được đánh số trong SchDoc
+R?@record1094,"4,7k [RESISTOR VAR_6]",1,9,nguồn SchDoc=machkiemtranguon/ngoc.SchDoc; sheet=ngoc.SchDoc; ? ref chưa được đánh số trong SchDoc
+R?@record1138,"3,3k [RESISTOR_0]",1,9,nguồn SchDoc=machkiemtranguon/ngoc.SchDoc; sheet=ngoc.SchDoc; ? ref chưa được đánh số trong SchDoc
+R?@record1155,"2,7k [RESISTOR_0]",1,9,nguồn SchDoc=machkiemtranguon/ngoc.SchDoc; sheet=ngoc.SchDoc; ? ref chưa được đánh số trong SchDoc
+R?@record1172,1k [RESISTOR_0],1,9,nguồn SchDoc=machkiemtranguon/ngoc.SchDoc; sheet=ngoc.SchDoc; ? ref chưa được đánh số trong SchDoc
+R?@record1204,"4,7k [RESISTOR VAR_10]",1,9,nguồn SchDoc=machkiemtranguon/ngoc.SchDoc; sheet=ngoc.SchDoc; ? ref chưa được đánh số trong SchDoc
+R?@record1227,"1,5k [RESISTOR_0]",1,9,nguồn SchDoc=machkiemtranguon/ngoc.SchDoc; sheet=ngoc.SchDoc; ? ref chưa được đánh số trong SchDoc
+R?@record1244,"2,2k [RESISTOR_0]",1,9,nguồn SchDoc=machkiemtranguon/ngoc.SchDoc; sheet=ngoc.SchDoc; ? ref chưa được đánh số trong SchDoc
+R?@record1278,330r [RESISTOR_0],1,9,nguồn SchDoc=machkiemtranguon/ngoc.SchDoc; sheet=ngoc.SchDoc; ? ref chưa được đánh số trong SchDoc
+R?@record1295,"4,7k [RESISTOR VAR_4]",1,9,nguồn SchDoc=machkiemtranguon/ngoc.SchDoc; sheet=ngoc.SchDoc; ? ref chưa được đánh số trong SchDoc
+R?@record1322,560r [RESISTOR_0],1,9,nguồn SchDoc=machkiemtranguon/ngoc.SchDoc; sheet=ngoc.SchDoc; ? ref chưa được đánh số trong SchDoc
+R?@record1458,"1,8k [RESISTOR_0]",1,9,nguồn SchDoc=machkiemtranguon/ngoc.SchDoc; sheet=ngoc.SchDoc; ? ref chưa được đánh số trong SchDoc
+R?@record1475,47k [RESISTOR_0],1,9,nguồn SchDoc=machkiemtranguon/ngoc.SchDoc; sheet=ngoc.SchDoc; ? ref chưa được đánh số trong SchDoc
+R?@record1492,"4,7k [RESISTOR VAR_8]",1,9,nguồn SchDoc=machkiemtranguon/ngoc.SchDoc; sheet=ngoc.SchDoc; ? ref chưa được đánh số trong SchDoc
+R?@record1515,"5,6k [RESISTOR_0]",1,9,nguồn SchDoc=machkiemtranguon/ngoc.SchDoc; sheet=ngoc.SchDoc; ? ref chưa được đánh số trong SchDoc
+R?@record1532,"4,7k [RESISTOR VAR_5]",1,9,nguồn SchDoc=machkiemtranguon/ngoc.SchDoc; sheet=ngoc.SchDoc; ? ref chưa được đánh số trong SchDoc
+R?@record1555,"1,5k [RESISTOR_0]",1,9,nguồn SchDoc=machkiemtranguon/ngoc.SchDoc; sheet=ngoc.SchDoc; ? ref chưa được đánh số trong SchDoc
+R?@record1572,"1,5k [RESISTOR_0]",1,9,nguồn SchDoc=machkiemtranguon/ngoc.SchDoc; sheet=ngoc.SchDoc; ? ref chưa được đánh số trong SchDoc
+R?@record1690,"5,1k [RESISTOR_0]",1,9,nguồn SchDoc=machkiemtranguon/ngoc.SchDoc; sheet=ngoc.SchDoc; ? ref chưa được đánh số trong SchDoc
+R?@record1722,120k [RESISTOR_0],1,9,nguồn SchDoc=machkiemtranguon/ngoc.SchDoc; sheet=ngoc.SchDoc; ? ref chưa được đánh số trong SchDoc
+R?@record1840,150r [RESISTOR_0],1,9,nguồn SchDoc=machkiemtranguon/ngoc.SchDoc; sheet=ngoc.SchDoc; ? ref chưa được đánh số trong SchDoc
+R?@record1857,"4,7k [RESISTOR VAR_1]",1,9,nguồn SchDoc=machkiemtranguon/ngoc.SchDoc; sheet=ngoc.SchDoc; ? ref chưa được đánh số trong SchDoc
+R?@record1905,47k [RESISTOR_0],1,9,nguồn SchDoc=machkiemtranguon/ngoc.SchDoc; sheet=ngoc.SchDoc; ? ref chưa được đánh số trong SchDoc
+R?@record1981,"4,7k [RESISTOR VAR_1]",1,9,nguồn SchDoc=machkiemtranguon/ngoc.SchDoc; sheet=ngoc.SchDoc; ? ref chưa được đánh số trong SchDoc
+R?@record2028,120k [RESISTOR_0],1,9,nguồn SchDoc=machkiemtranguon/ngoc.SchDoc; sheet=ngoc.SchDoc; ? ref chưa được đánh số trong SchDoc
+T?@record346,2T312B [NPN ECB_0],1,9,nguồn SchDoc=machkiemtranguon/ngoc.SchDoc; sheet=ngoc.SchDoc; ? ref chưa được đánh số trong SchDoc
+T?@record407,2T312B [NPN ECB_0],1,9,nguồn SchDoc=machkiemtranguon/ngoc.SchDoc; sheet=ngoc.SchDoc; ? ref chưa được đánh số trong SchDoc
+T?@record479,2T312B [NPN ECB_0],1,9,nguồn SchDoc=machkiemtranguon/ngoc.SchDoc; sheet=ngoc.SchDoc; ? ref chưa được đánh số trong SchDoc
+T?@record662,2T312B [NPN ECB_0],1,9,nguồn SchDoc=machkiemtranguon/ngoc.SchDoc; sheet=ngoc.SchDoc; ? ref chưa được đánh số trong SchDoc
+T?@record918,2T312B [NPN ECB_0],1,9,nguồn SchDoc=machkiemtranguon/ngoc.SchDoc; sheet=ngoc.SchDoc; ? ref chưa được đánh số trong SchDoc
+T?@record1005,2T312B [NPN ECB_0],1,9,nguồn SchDoc=machkiemtranguon/ngoc.SchDoc; sheet=ngoc.SchDoc; ? ref chưa được đánh số trong SchDoc
+T?@record1117,2T608B [NPN ECB_0],1,9,nguồn SchDoc=machkiemtranguon/ngoc.SchDoc; sheet=ngoc.SchDoc; ? ref chưa được đánh số trong SchDoc
+T?@record1437,2T608B [NPN ECB_0],1,9,nguồn SchDoc=machkiemtranguon/ngoc.SchDoc; sheet=ngoc.SchDoc; ? ref chưa được đánh số trong SchDoc
+T?@record1884,2T312B [NPN ECB_0],1,9,nguồn SchDoc=machkiemtranguon/ngoc.SchDoc; sheet=ngoc.SchDoc; ? ref chưa được đánh số trong SchDoc
+U?@record216,2D908A [LDS-A81R_20],1,9,nguồn SchDoc=machkiemtranguon/ngoc.SchDoc; sheet=ngoc.SchDoc; ? ref chưa được đánh số trong SchDoc
+U?@record500,to12_pin [K140UD1B_8],1,9,nguồn SchDoc=machkiemtranguon/ngoc.SchDoc; sheet=ngoc.SchDoc; ? ref chưa được đánh số trong SchDoc
+U?@record683,to12_pin [K140UD1B_9],1,9,nguồn SchDoc=machkiemtranguon/ngoc.SchDoc; sheet=ngoc.SchDoc; ? ref chưa được đánh số trong SchDoc
+U?@record835,to12_pin [K140UD1B_10],1,9,nguồn SchDoc=machkiemtranguon/ngoc.SchDoc; sheet=ngoc.SchDoc; ? ref chưa được đánh số trong SchDoc
+U?@record868,to12_pin [K140UD1B_13],1,9,nguồn SchDoc=machkiemtranguon/ngoc.SchDoc; sheet=ngoc.SchDoc; ? ref chưa được đánh số trong SchDoc
+U?@record1339,2D908A [LDS-A81R_21],1,9,nguồn SchDoc=machkiemtranguon/ngoc.SchDoc; sheet=ngoc.SchDoc; ? ref chưa được đánh số trong SchDoc
+U?@record1604,2D917A [LDS-A81R_22],1,9,nguồn SchDoc=machkiemtranguon/ngoc.SchDoc; sheet=ngoc.SchDoc; ? ref chưa được đánh số trong SchDoc
+U?@record1754,2D917A [LDS-A81R_25],1,9,nguồn SchDoc=machkiemtranguon/ngoc.SchDoc; sheet=ngoc.SchDoc; ? ref chưa được đánh số trong SchDoc

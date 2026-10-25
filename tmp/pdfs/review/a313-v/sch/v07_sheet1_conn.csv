@@ -1,0 +1,81 @@
+﻿table,pin,signal,sheet,note
+DC13C,1,+5v,machbiendoilenhdon/Sheet1.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: +5v
+DC13C,2,+27vb/x,machbiendoilenhdon/Sheet1.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: +27vb/x
+DC13C,3,РК-1,machbiendoilenhdon/Sheet1.SchDoc,nhãn gốc=rc-1
+DC13C,4,РК-2,machbiendoilenhdon/Sheet1.SchDoc,nhãn gốc=rc-2
+DC13C,5,РК-3,machbiendoilenhdon/Sheet1.SchDoc,nhãn gốc=rc-3
+DC13C,6,РК-4,machbiendoilenhdon/Sheet1.SchDoc,nhãn gốc=rc-4
+DC13C,7,УПР-1,machbiendoilenhdon/Sheet1.SchDoc,nhãn gốc=upr-1
+DC13C,8,УПР-2,machbiendoilenhdon/Sheet1.SchDoc,nhãn gốc=upr-2
+DC13C,9,УПР-3,machbiendoilenhdon/Sheet1.SchDoc,nhãn gốc=upr-3
+DC13C,10,УПР-4,machbiendoilenhdon/Sheet1.SchDoc,nhãn gốc=upr-4
+DC13C,11,РК-5,machbiendoilenhdon/Sheet1.SchDoc,nhãn gốc=rc-5
+DC13C,12,РК-6,machbiendoilenhdon/Sheet1.SchDoc,nhãn gốc=rc-6
+DC13C,13,РК-7,machbiendoilenhdon/Sheet1.SchDoc,nhãn gốc=rc-7
+DC13C,14,РК-8,machbiendoilenhdon/Sheet1.SchDoc,nhãn gốc=rc-8
+DC13C,15,УПР-5,machbiendoilenhdon/Sheet1.SchDoc,nhãn gốc=upr-5
+DC13C,16,УПР-6,machbiendoilenhdon/Sheet1.SchDoc,nhãn gốc=upr-6
+DC13C,17,УПР-7,machbiendoilenhdon/Sheet1.SchDoc,nhãn gốc=upr-7
+DC13C,18,УПР-8,machbiendoilenhdon/Sheet1.SchDoc,nhãn gốc=upr-8
+DC13C,19,РК-9,machbiendoilenhdon/Sheet1.SchDoc,nhãn gốc=rc-9
+DC13C,20,РК-10,machbiendoilenhdon/Sheet1.SchDoc,nhãn gốc=rc-10
+DC13C,21,РК-11,machbiendoilenhdon/Sheet1.SchDoc,nhãn gốc=rc-11
+DC13C,22,РК-12,machbiendoilenhdon/Sheet1.SchDoc,nhãn gốc=rc-12
+DC13C,23,УПР-9,machbiendoilenhdon/Sheet1.SchDoc,nhãn gốc=upr-9
+DC13C,24,УПР-10,machbiendoilenhdon/Sheet1.SchDoc,nhãn gốc=upr-10
+DC13C,25,УПР-11,machbiendoilenhdon/Sheet1.SchDoc,nhãn gốc=upr-11
+DC13C,26,УПР-12,machbiendoilenhdon/Sheet1.SchDoc,nhãn gốc=upr-12
+DC13C,27,РК-13,machbiendoilenhdon/Sheet1.SchDoc,nhãn gốc=rc-13
+DC13C,28,РК-14,machbiendoilenhdon/Sheet1.SchDoc,nhãn gốc=rc-14
+DC13C,29,РК-15,machbiendoilenhdon/Sheet1.SchDoc,nhãn gốc=rc-15; allowed_singleton: cổng/nhãn ngoài chỉ có một chân linh kiện
+DC13C,30,РК-16,machbiendoilenhdon/Sheet1.SchDoc,nhãn gốc=rc-16
+DC13C,31,УПР-13,machbiendoilenhdon/Sheet1.SchDoc,nhãn gốc=upr-13
+DC13C,32,УПР-14,machbiendoilenhdon/Sheet1.SchDoc,nhãn gốc=upr-14
+DC13C,33,УПР-15,machbiendoilenhdon/Sheet1.SchDoc,nhãn gốc=upr-15
+DC13C,34,УПР-16,machbiendoilenhdon/Sheet1.SchDoc,nhãn gốc=upr-16
+DC13C,35,N0017,machbiendoilenhdon/Sheet1.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC13C,36,ИСПРАВН,machbiendoilenhdon/Sheet1.SchDoc,nhãn gốc=ixpravn
+DC13C,37,+27v,machbiendoilenhdon/Sheet1.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: +27v
+DC13C,38,+27v,machbiendoilenhdon/Sheet1.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: +27v
+DC13C,39,GND,machbiendoilenhdon/Sheet1.SchDoc,
+DC13C,40,GND,machbiendoilenhdon/Sheet1.SchDoc,
+DC13D,1,+5v,machbiendoilenhdon/Sheet1.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: +5v
+DC13D,2,+27vb/x,machbiendoilenhdon/Sheet1.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: +27vb/x
+DC13D,3,РК-17,machbiendoilenhdon/Sheet1.SchDoc,nhãn gốc=rc-17
+DC13D,4,РК-18,machbiendoilenhdon/Sheet1.SchDoc,nhãn gốc=rc-18
+DC13D,5,РК-19,machbiendoilenhdon/Sheet1.SchDoc,nhãn gốc=rc-19
+DC13D,6,РК-20,machbiendoilenhdon/Sheet1.SchDoc,nhãn gốc=rc-20
+DC13D,7,УПР-17,machbiendoilenhdon/Sheet1.SchDoc,nhãn gốc=upr-17
+DC13D,8,УПР-18,machbiendoilenhdon/Sheet1.SchDoc,nhãn gốc=upr-18
+DC13D,9,УПР-19,machbiendoilenhdon/Sheet1.SchDoc,nhãn gốc=upr-19
+DC13D,10,УПР-20,machbiendoilenhdon/Sheet1.SchDoc,nhãn gốc=upr-20
+DC13D,11,РК-21,machbiendoilenhdon/Sheet1.SchDoc,nhãn gốc=rc-21
+DC13D,12,РК-22,machbiendoilenhdon/Sheet1.SchDoc,nhãn gốc=rc-22
+DC13D,13,РК-23,machbiendoilenhdon/Sheet1.SchDoc,nhãn gốc=rc-23
+DC13D,14,РК-24,machbiendoilenhdon/Sheet1.SchDoc,nhãn gốc=rc-24
+DC13D,15,УПР-21,machbiendoilenhdon/Sheet1.SchDoc,nhãn gốc=upr-21
+DC13D,16,УПР-22,machbiendoilenhdon/Sheet1.SchDoc,nhãn gốc=upr-22
+DC13D,17,УПР-23,machbiendoilenhdon/Sheet1.SchDoc,nhãn gốc=upr-23
+DC13D,18,УПР-24,machbiendoilenhdon/Sheet1.SchDoc,nhãn gốc=upr-24
+DC13D,19,РК-25,machbiendoilenhdon/Sheet1.SchDoc,nhãn gốc=rc-25
+DC13D,20,РК-26,machbiendoilenhdon/Sheet1.SchDoc,nhãn gốc=rc-26
+DC13D,21,РК-27,machbiendoilenhdon/Sheet1.SchDoc,nhãn gốc=rc-27
+DC13D,22,РК-28,machbiendoilenhdon/Sheet1.SchDoc,nhãn gốc=rc-28
+DC13D,23,УПР-25,machbiendoilenhdon/Sheet1.SchDoc,nhãn gốc=upr-25
+DC13D,24,УПР-26,machbiendoilenhdon/Sheet1.SchDoc,nhãn gốc=upr-26
+DC13D,25,N0018,machbiendoilenhdon/Sheet1.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC13D,26,УПР-27,machbiendoilenhdon/Sheet1.SchDoc,nhãn gốc=upr-27
+DC13D,27,УПР-28,machbiendoilenhdon/Sheet1.SchDoc,nhãn gốc=upr-28
+DC13D,28,РК-29,machbiendoilenhdon/Sheet1.SchDoc,nhãn gốc=rc-29
+DC13D,29,РК-30,machbiendoilenhdon/Sheet1.SchDoc,nhãn gốc=rc-30
+DC13D,30,РК-16,machbiendoilenhdon/Sheet1.SchDoc,nhãn gốc=rc-16
+DC13D,31,РК-31,machbiendoilenhdon/Sheet1.SchDoc,nhãn gốc=rc-31
+DC13D,32,РК-32,machbiendoilenhdon/Sheet1.SchDoc,nhãn gốc=rc-32
+DC13D,33,УПР-29,machbiendoilenhdon/Sheet1.SchDoc,nhãn gốc=upr-29
+DC13D,34,УПР-30,machbiendoilenhdon/Sheet1.SchDoc,nhãn gốc=upr-30
+DC13D,35,УПР-31,machbiendoilenhdon/Sheet1.SchDoc,nhãn gốc=upr-31
+DC13D,36,УПР-32,machbiendoilenhdon/Sheet1.SchDoc,nhãn gốc=upr-32
+DC13D,37,+27v,machbiendoilenhdon/Sheet1.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: +27v
+DC13D,38,+27v,machbiendoilenhdon/Sheet1.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: +27v
+DC13D,39,GND,machbiendoilenhdon/Sheet1.SchDoc,
+DC13D,40,GND,machbiendoilenhdon/Sheet1.SchDoc,

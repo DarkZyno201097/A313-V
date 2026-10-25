@@ -1,0 +1,213 @@
+﻿table,pin,signal,sheet,note
+DC1B,A1,GND/MSEL0/MSEL1,TAM1_Xulytrungtam/PAGE1.SchDoc,? nhiều nhãn trên cùng net: GND/MSEL0/MSEL1
+DC1B,A2,+5V,TAM1_Xulytrungtam/PAGE1.SchDoc,
+DC1B,A3,ВЫХ comp РК,TAM1_Xulytrungtam/PAGE1.SchDoc,nhãn gốc=vih comp rc
+DC1B,A4,comp contr,TAM1_Xulytrungtam/PAGE1.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: comp contr
+DC1B,A5,9r АЦИ,TAM1_Xulytrungtam/PAGE1.SchDoc,nhãn gốc=9r aji
+DC1B,A6,vh 2РК ttl,TAM1_Xulytrungtam/PAGE1.SchDoc,nhãn gốc=vh 2rc ttl
+DC1B,A7,vh 5РК ttl,TAM1_Xulytrungtam/PAGE1.SchDoc,nhãn gốc=vh 5rc ttl
+DC1B,A8,prikn nac pcm,TAM1_Xulytrungtam/PAGE1.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: prikn nac pcm
+DC1B,A9,400gj,TAM1_Xulytrungtam/PAGE1.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: 400gj
+DC1B,A10,ВХОД pc1 3-4,TAM1_Xulytrungtam/PAGE1.SchDoc,nhãn gốc=vhod pc1 3-4
+DC1B,A11,ВХОД pc1 9-10,TAM1_Xulytrungtam/PAGE1.SchDoc,nhãn gốc=vhod pc1 9-10
+DC1B,A12,ВХОД pc1 15-16,TAM1_Xulytrungtam/PAGE1.SchDoc,nhãn gốc=vhod pc1 15-16
+DC1B,A13,ВХОД pc2 5-6,TAM1_Xulytrungtam/PAGE1.SchDoc,nhãn gốc=vhod pc2 5-6
+DC1B,A14,ВХОД pc2 11-12,TAM1_Xulytrungtam/PAGE1.SchDoc,nhãn gốc=vhod pc2 11-12
+DC1B,A15,80cgj,TAM1_Xulytrungtam/PAGE1.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: 80cgj
+DC1B,A16,80cgj,TAM1_Xulytrungtam/PAGE1.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: 80cgj
+DC1B,A17,xi,TAM1_Xulytrungtam/PAGE1.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: xi
+DC1B,A18,xi bc,TAM1_Xulytrungtam/PAGE1.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: xi bc
+DC1B,A19,СВК1,TAM1_Xulytrungtam/PAGE1.SchDoc,nhãn gốc=xvc1
+DC1B,A20,xpc1,TAM1_Xulytrungtam/PAGE1.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: xpc1
+DC1B,A21,СВК xi1,TAM1_Xulytrungtam/PAGE1.SchDoc,nhãn gốc=xvc xi1
+DC1B,A22,xpc2,TAM1_Xulytrungtam/PAGE1.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: xpc2
+DC1B,A23,pc1,TAM1_Xulytrungtam/PAGE1.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: pc1
+DC1B,A24,pc2,TAM1_Xulytrungtam/PAGE1.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: pc2
+DC1B,A25,pc vh c3a,TAM1_Xulytrungtam/PAGE1.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: pc vh c3a
+DC1B,A26,УПР t2 ttl,TAM1_Xulytrungtam/PAGE1.SchDoc,nhãn gốc=upr t2 ttl
+DC1B,A27,УПР te1 ttl,TAM1_Xulytrungtam/PAGE1.SchDoc,nhãn gốc=upr te1 ttl
+DC1B,A28,УПР te4 ttl,TAM1_Xulytrungtam/PAGE1.SchDoc,nhãn gốc=upr te4 ttl
+DC1B,A29,6r xqc ttl,TAM1_Xulytrungtam/PAGE1.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: 6r xqc ttl
+DC1B,A30,N0012,TAM1_Xulytrungtam/PAGE1.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC1B,A31,GND/MSEL0/MSEL1,TAM1_Xulytrungtam/PAGE1.SchDoc,? nhiều nhãn trên cùng net: GND/MSEL0/MSEL1
+DC1B,A32,GND/MSEL0/MSEL1,TAM1_Xulytrungtam/PAGE1.SchDoc,? nhiều nhãn trên cùng net: GND/MSEL0/MSEL1
+DC1B,B1,GND/MSEL0/MSEL1,TAM1_Xulytrungtam/PAGE1.SchDoc,? nhiều nhãn trên cùng net: GND/MSEL0/MSEL1
+DC1B,B2,+5V,TAM1_Xulytrungtam/PAGE1.SchDoc,
+DC1B,B3,comp rpr,TAM1_Xulytrungtam/PAGE1.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: comp rpr
+DC1B,B4,7r АЦИ,TAM1_Xulytrungtam/PAGE1.SchDoc,nhãn gốc=7r aji
+DC1B,B5,10r АЦИ,TAM1_Xulytrungtam/PAGE1.SchDoc,nhãn gốc=10r aji
+DC1B,B6,vh 3РК ttl,TAM1_Xulytrungtam/PAGE1.SchDoc,nhãn gốc=vh 3rc ttl
+DC1B,B7,vh 6РК ttl,TAM1_Xulytrungtam/PAGE1.SchDoc,nhãn gốc=vh 6rc ttl
+DC1B,B8,vh prikn p ttl,TAM1_Xulytrungtam/PAGE1.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: vh prikn p ttl
+DC1B,B9,kapr[t prin kapuxc,TAM1_Xulytrungtam/PAGE1.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: kapr[t prin kapuxc
+DC1B,B10,ВХОД pc1 5-6,TAM1_Xulytrungtam/PAGE1.SchDoc,nhãn gốc=vhod pc1 5-6
+DC1B,B11,ВХОД pc1 11-12,TAM1_Xulytrungtam/PAGE1.SchDoc,nhãn gốc=vhod pc1 11-12
+DC1B,B12,ВХОД pc2 1-2,TAM1_Xulytrungtam/PAGE1.SchDoc,nhãn gốc=vhod pc2 1-2
+DC1B,B13,ВХОД pc2 7-8,TAM1_Xulytrungtam/PAGE1.SchDoc,nhãn gốc=vhod pc2 7-8
+DC1B,B14,ВХОД pc2 13-14,TAM1_Xulytrungtam/PAGE1.SchDoc,nhãn gốc=vhod pc2 13-14
+DC1B,B15,80cgj,TAM1_Xulytrungtam/PAGE1.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: 80cgj
+DC1B,B16,80cgj,TAM1_Xulytrungtam/PAGE1.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: 80cgj
+DC1B,B17,xi,TAM1_Xulytrungtam/PAGE1.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: xi
+DC1B,B18,xim,TAM1_Xulytrungtam/PAGE1.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: xim
+DC1B,B19,СВК1,TAM1_Xulytrungtam/PAGE1.SchDoc,nhãn gốc=xvc1
+DC1B,B20,СВК2,TAM1_Xulytrungtam/PAGE1.SchDoc,nhãn gốc=xvc2
+DC1B,B21,СВК xi2,TAM1_Xulytrungtam/PAGE1.SchDoc,nhãn gốc=xvc xi2
+DC1B,B22,xpc2,TAM1_Xulytrungtam/PAGE1.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: xpc2
+DC1B,B23,pc1,TAM1_Xulytrungtam/PAGE1.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: pc1
+DC1B,B24,pc3,TAM1_Xulytrungtam/PAGE1.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: pc3
+DC1B,B25,pc ji,TAM1_Xulytrungtam/PAGE1.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: pc ji
+DC1B,B26,УПР t3 ttl,TAM1_Xulytrungtam/PAGE1.SchDoc,nhãn gốc=upr t3 ttl
+DC1B,B27,УПР te2 ttl,TAM1_Xulytrungtam/PAGE1.SchDoc,nhãn gốc=upr te2 ttl
+DC1B,B28,podcl 1 ttl,TAM1_Xulytrungtam/PAGE1.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: podcl 1 ttl
+DC1B,B29,N0013,TAM1_Xulytrungtam/PAGE1.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC1B,B30,N0014,TAM1_Xulytrungtam/PAGE1.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC1B,B31,GND/MSEL0/MSEL1,TAM1_Xulytrungtam/PAGE1.SchDoc,? nhiều nhãn trên cùng net: GND/MSEL0/MSEL1
+DC1B,B32,GND/MSEL0/MSEL1,TAM1_Xulytrungtam/PAGE1.SchDoc,? nhiều nhãn trên cùng net: GND/MSEL0/MSEL1
+DC1B,C1,GND/MSEL0/MSEL1,TAM1_Xulytrungtam/PAGE1.SchDoc,? nhiều nhãn trên cùng net: GND/MSEL0/MSEL1
+DC1B,C2,+5V,TAM1_Xulytrungtam/PAGE1.SchDoc,
+DC1B,C3,ip,TAM1_Xulytrungtam/PAGE1.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: ip
+DC1B,C4,8r АЦИ,TAM1_Xulytrungtam/PAGE1.SchDoc,nhãn gốc=8r aji
+DC1B,C5,vh 1РК ttl,TAM1_Xulytrungtam/PAGE1.SchDoc,nhãn gốc=vh 1rc ttl
+DC1B,C6,vh 4РК ttl,TAM1_Xulytrungtam/PAGE1.SchDoc,nhãn gốc=vh 4rc ttl
+DC1B,C7,vh 7РК ttl,TAM1_Xulytrungtam/PAGE1.SchDoc,nhãn gốc=vh 7rc ttl
+DC1B,C8,ИСПРАВН pit,TAM1_Xulytrungtam/PAGE1.SchDoc,nhãn gốc=ixpravn pit
+DC1B,C9,ВХОД pc1 1-2,TAM1_Xulytrungtam/PAGE1.SchDoc,nhãn gốc=vhod pc1 1-2
+DC1B,C10,ВХОД pc1 7-8,TAM1_Xulytrungtam/PAGE1.SchDoc,nhãn gốc=vhod pc1 7-8
+DC1B,C11,ВХОД pc1 13-14,TAM1_Xulytrungtam/PAGE1.SchDoc,nhãn gốc=vhod pc1 13-14
+DC1B,C12,ВХОД pc2 3-4,TAM1_Xulytrungtam/PAGE1.SchDoc,nhãn gốc=vhod pc2 3-4
+DC1B,C13,ВХОД pc2 9-10,TAM1_Xulytrungtam/PAGE1.SchDoc,nhãn gốc=vhod pc2 9-10
+DC1B,C14,ВХОД pc2 15-16,TAM1_Xulytrungtam/PAGE1.SchDoc,nhãn gốc=vhod pc2 15-16
+DC1B,C15,80cgj,TAM1_Xulytrungtam/PAGE1.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: 80cgj
+DC1B,C16,xi,TAM1_Xulytrungtam/PAGE1.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: xi
+DC1B,C17,xi,TAM1_Xulytrungtam/PAGE1.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: xi
+DC1B,C18,xi ji,TAM1_Xulytrungtam/PAGE1.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: xi ji
+DC1B,C19,xpc1,TAM1_Xulytrungtam/PAGE1.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: xpc1
+DC1B,C20,СВК2,TAM1_Xulytrungtam/PAGE1.SchDoc,nhãn gốc=xvc2
+DC1B,C21,СВК bc,TAM1_Xulytrungtam/PAGE1.SchDoc,nhãn gốc=xvc bc
+DC1B,C22,xpcm,TAM1_Xulytrungtam/PAGE1.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: xpcm
+DC1B,C23,pc2,TAM1_Xulytrungtam/PAGE1.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: pc2
+DC1B,C24,pc4,TAM1_Xulytrungtam/PAGE1.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: pc4
+DC1B,C25,УПР t1 ttl,TAM1_Xulytrungtam/PAGE1.SchDoc,nhãn gốc=upr t1 ttl
+DC1B,C26,УПР t4 ttl,TAM1_Xulytrungtam/PAGE1.SchDoc,nhãn gốc=upr t4 ttl
+DC1B,C27,УПР te3 ttl,TAM1_Xulytrungtam/PAGE1.SchDoc,nhãn gốc=upr te3 ttl
+DC1B,C28,podcl 2 ttl,TAM1_Xulytrungtam/PAGE1.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: podcl 2 ttl
+DC1B,C29,N0015,TAM1_Xulytrungtam/PAGE1.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC1B,C30,N0016,TAM1_Xulytrungtam/PAGE1.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC1B,C31,GND/MSEL0/MSEL1,TAM1_Xulytrungtam/PAGE1.SchDoc,? nhiều nhãn trên cùng net: GND/MSEL0/MSEL1
+DC1B,C32,GND/MSEL0/MSEL1,TAM1_Xulytrungtam/PAGE1.SchDoc,? nhiều nhãn trên cùng net: GND/MSEL0/MSEL1
+DC2B,A1,GND/MSEL0/MSEL1,TAM1_Xulytrungtam/PAGE1.SchDoc,? nhiều nhãn trên cùng net: GND/MSEL0/MSEL1
+DC2B,A2,N0017,TAM1_Xulytrungtam/PAGE1.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC2B,A3,ixpr pitaniz jvu,TAM1_Xulytrungtam/PAGE1.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: ixpr pitaniz jvu
+DC2B,A4,2,TAM1_Xulytrungtam/PAGE1.SchDoc,
+DC2B,A5,N0018,TAM1_Xulytrungtam/PAGE1.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC2B,A6,N0019,TAM1_Xulytrungtam/PAGE1.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC2B,A7,РК1,TAM1_Xulytrungtam/PAGE1.SchDoc,nhãn gốc=rc1
+DC2B,A8,РК4,TAM1_Xulytrungtam/PAGE1.SchDoc,nhãn gốc=rc4
+DC2B,A9,РК7,TAM1_Xulytrungtam/PAGE1.SchDoc,nhãn gốc=rc7
+DC2B,A10,РК10,TAM1_Xulytrungtam/PAGE1.SchDoc,nhãn gốc=rc10
+DC2B,A11,РК13,TAM1_Xulytrungtam/PAGE1.SchDoc,nhãn gốc=rc13
+DC2B,A12,РК16,TAM1_Xulytrungtam/PAGE1.SchDoc,nhãn gốc=rc16
+DC2B,A13,РК19,TAM1_Xulytrungtam/PAGE1.SchDoc,nhãn gốc=rc19
+DC2B,A14,РК22,TAM1_Xulytrungtam/PAGE1.SchDoc,nhãn gốc=rc22
+DC2B,A15,РК25,TAM1_Xulytrungtam/PAGE1.SchDoc,nhãn gốc=rc25
+DC2B,A16,РК28,TAM1_Xulytrungtam/PAGE1.SchDoc,nhãn gốc=rc28
+DC2B,A17,РК31,TAM1_Xulytrungtam/PAGE1.SchDoc,nhãn gốc=rc31
+DC2B,A18,c2,TAM1_Xulytrungtam/PAGE1.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: c2
+DC2B,A19,contr cod,TAM1_Xulytrungtam/PAGE1.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: contr cod
+DC2B,A20,int_nu,TAM1_Xulytrungtam/PAGE1.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: int_nu
+DC2B,A21,УПР 10r rm,TAM1_Xulytrungtam/PAGE1.SchDoc,nhãn gốc=upr 10r rm
+DC2B,A22,УПР 13r rm,TAM1_Xulytrungtam/PAGE1.SchDoc,nhãn gốc=upr 13r rm
+DC2B,A23,УПР d,TAM1_Xulytrungtam/PAGE1.SchDoc,nhãn gốc=upr d
+DC2B,A24,УПР c,TAM1_Xulytrungtam/PAGE1.SchDoc,nhãn gốc=upr c
+DC2B,A25,УПР ВЫХ,TAM1_Xulytrungtam/PAGE1.SchDoc,nhãn gốc=upr vih
+DC2B,A26,УПР 6r rpr,TAM1_Xulytrungtam/PAGE1.SchDoc,nhãn gốc=upr 6r rpr
+DC2B,A27,УПР 9r rpr,TAM1_Xulytrungtam/PAGE1.SchDoc,nhãn gốc=upr 9r rpr
+DC2B,A28,УПР 12r rpr,TAM1_Xulytrungtam/PAGE1.SchDoc,nhãn gốc=upr 12r rpr
+DC2B,A29,УПР 15r rpr,TAM1_Xulytrungtam/PAGE1.SchDoc,nhãn gốc=upr 15r rpr
+DC2B,A30,VCCRam,TAM1_Xulytrungtam/PAGE1.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: VCCRam
+DC2B,A31,GND/MSEL0/MSEL1,TAM1_Xulytrungtam/PAGE1.SchDoc,? nhiều nhãn trên cùng net: GND/MSEL0/MSEL1
+DC2B,A32,GND/MSEL0/MSEL1,TAM1_Xulytrungtam/PAGE1.SchDoc,? nhiều nhãn trên cùng net: GND/MSEL0/MSEL1
+DC2B,B1,GND/MSEL0/MSEL1,TAM1_Xulytrungtam/PAGE1.SchDoc,? nhiều nhãn trên cùng net: GND/MSEL0/MSEL1
+DC2B,B2,N0020,TAM1_Xulytrungtam/PAGE1.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC2B,B3,N0021,TAM1_Xulytrungtam/PAGE1.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC2B,B4,N0022,TAM1_Xulytrungtam/PAGE1.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC2B,B5,N0023,TAM1_Xulytrungtam/PAGE1.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC2B,B6,N0024,TAM1_Xulytrungtam/PAGE1.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC2B,B7,РК2,TAM1_Xulytrungtam/PAGE1.SchDoc,nhãn gốc=rc2
+DC2B,B8,РК5,TAM1_Xulytrungtam/PAGE1.SchDoc,nhãn gốc=rc5
+DC2B,B9,РК8,TAM1_Xulytrungtam/PAGE1.SchDoc,nhãn gốc=rc8
+DC2B,B10,РК11,TAM1_Xulytrungtam/PAGE1.SchDoc,nhãn gốc=rc11
+DC2B,B11,РК14,TAM1_Xulytrungtam/PAGE1.SchDoc,nhãn gốc=rc14
+DC2B,B12,РК17,TAM1_Xulytrungtam/PAGE1.SchDoc,nhãn gốc=rc17
+DC2B,B13,РК20,TAM1_Xulytrungtam/PAGE1.SchDoc,nhãn gốc=rc20
+DC2B,B14,РК23,TAM1_Xulytrungtam/PAGE1.SchDoc,nhãn gốc=rc23
+DC2B,B15,РК26,TAM1_Xulytrungtam/PAGE1.SchDoc,nhãn gốc=rc26
+DC2B,B16,РК29,TAM1_Xulytrungtam/PAGE1.SchDoc,nhãn gốc=rc29
+DC2B,B17,РК32,TAM1_Xulytrungtam/PAGE1.SchDoc,nhãn gốc=rc32
+DC2B,B18,c3,TAM1_Xulytrungtam/PAGE1.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: c3
+DC2B,B19,knac,TAM1_Xulytrungtam/PAGE1.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: knac
+DC2B,B20,УПР 8r rm,TAM1_Xulytrungtam/PAGE1.SchDoc,nhãn gốc=upr 8r rm
+DC2B,B21,УПР 11r rm,TAM1_Xulytrungtam/PAGE1.SchDoc,nhãn gốc=upr 11r rm
+DC2B,B22,УПР 14r rm,TAM1_Xulytrungtam/PAGE1.SchDoc,nhãn gốc=upr 14r rm
+DC2B,B23,УПР pp,TAM1_Xulytrungtam/PAGE1.SchDoc,nhãn gốc=upr pp
+DC2B,B24,УПР kn2,TAM1_Xulytrungtam/PAGE1.SchDoc,nhãn gốc=upr kn2
+DC2B,B25,УПР 4r rpr,TAM1_Xulytrungtam/PAGE1.SchDoc,nhãn gốc=upr 4r rpr
+DC2B,B26,УПР 7r rpr,TAM1_Xulytrungtam/PAGE1.SchDoc,nhãn gốc=upr 7r rpr
+DC2B,B27,УПР 10r rpr,TAM1_Xulytrungtam/PAGE1.SchDoc,nhãn gốc=upr 10r rpr
+DC2B,B28,УПР 13r rpr,TAM1_Xulytrungtam/PAGE1.SchDoc,nhãn gốc=upr 13r rpr
+DC2B,B29,ИСПРАВН ttl,TAM1_Xulytrungtam/PAGE1.SchDoc,nhãn gốc=ixpravn ttl
+DC2B,B30,VCCRam,TAM1_Xulytrungtam/PAGE1.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: VCCRam
+DC2B,B31,GND/MSEL0/MSEL1,TAM1_Xulytrungtam/PAGE1.SchDoc,? nhiều nhãn trên cùng net: GND/MSEL0/MSEL1
+DC2B,B32,GND/MSEL0/MSEL1,TAM1_Xulytrungtam/PAGE1.SchDoc,? nhiều nhãn trên cùng net: GND/MSEL0/MSEL1
+DC2B,C1,GND/MSEL0/MSEL1,TAM1_Xulytrungtam/PAGE1.SchDoc,? nhiều nhãn trên cùng net: GND/MSEL0/MSEL1
+DC2B,C2,N0025,TAM1_Xulytrungtam/PAGE1.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC2B,C3,1,TAM1_Xulytrungtam/PAGE1.SchDoc,
+DC2B,C4,3,TAM1_Xulytrungtam/PAGE1.SchDoc,
+DC2B,C5,N0026,TAM1_Xulytrungtam/PAGE1.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC2B,C6,N0027,TAM1_Xulytrungtam/PAGE1.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC2B,C7,РК3,TAM1_Xulytrungtam/PAGE1.SchDoc,nhãn gốc=rc3
+DC2B,C8,РК6,TAM1_Xulytrungtam/PAGE1.SchDoc,nhãn gốc=rc6
+DC2B,C9,РК9,TAM1_Xulytrungtam/PAGE1.SchDoc,nhãn gốc=rc9
+DC2B,C10,РК12,TAM1_Xulytrungtam/PAGE1.SchDoc,nhãn gốc=rc12
+DC2B,C11,РК15,TAM1_Xulytrungtam/PAGE1.SchDoc,nhãn gốc=rc15
+DC2B,C12,РК18,TAM1_Xulytrungtam/PAGE1.SchDoc,nhãn gốc=rc18
+DC2B,C13,РК21,TAM1_Xulytrungtam/PAGE1.SchDoc,nhãn gốc=rc21
+DC2B,C14,РК24,TAM1_Xulytrungtam/PAGE1.SchDoc,nhãn gốc=rc24
+DC2B,C15,РК27,TAM1_Xulytrungtam/PAGE1.SchDoc,nhãn gốc=rc27
+DC2B,C16,РК30,TAM1_Xulytrungtam/PAGE1.SchDoc,nhãn gốc=rc30
+DC2B,C17,c1,TAM1_Xulytrungtam/PAGE1.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: c1
+DC2B,C18,c4,TAM1_Xulytrungtam/PAGE1.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: c4
+DC2B,C19,ap_nu,TAM1_Xulytrungtam/PAGE1.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: ap_nu
+DC2B,C20,УПР 9r rm,TAM1_Xulytrungtam/PAGE1.SchDoc,nhãn gốc=upr 9r rm
+DC2B,C21,УПР 12r rm,TAM1_Xulytrungtam/PAGE1.SchDoc,nhãn gốc=upr 12r rm
+DC2B,C22,УПР 15r rm,TAM1_Xulytrungtam/PAGE1.SchDoc,nhãn gốc=upr 15r rm
+DC2B,C23,УПР f,TAM1_Xulytrungtam/PAGE1.SchDoc,nhãn gốc=upr f
+DC2B,C24,УПР kn1,TAM1_Xulytrungtam/PAGE1.SchDoc,nhãn gốc=upr kn1
+DC2B,C25,УПР 5r rpr,TAM1_Xulytrungtam/PAGE1.SchDoc,nhãn gốc=upr 5r rpr
+DC2B,C26,УПР 8r rpr,TAM1_Xulytrungtam/PAGE1.SchDoc,nhãn gốc=upr 8r rpr
+DC2B,C27,УПР 11r rpr,TAM1_Xulytrungtam/PAGE1.SchDoc,nhãn gốc=upr 11r rpr
+DC2B,C28,УПР 14r rpr,TAM1_Xulytrungtam/PAGE1.SchDoc,nhãn gốc=upr 14r rpr
+DC2B,C29,ИСПРАВН clyq ttl,TAM1_Xulytrungtam/PAGE1.SchDoc,nhãn gốc=ixpravn clyq ttl
+DC2B,C30,VCCRam,TAM1_Xulytrungtam/PAGE1.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: VCCRam
+DC2B,C31,GND/MSEL0/MSEL1,TAM1_Xulytrungtam/PAGE1.SchDoc,? nhiều nhãn trên cùng net: GND/MSEL0/MSEL1
+DC2B,C32,GND/MSEL0/MSEL1,TAM1_Xulytrungtam/PAGE1.SchDoc,? nhiều nhãn trên cùng net: GND/MSEL0/MSEL1
+J1,1,DCLK,TAM1_Xulytrungtam/PAGE1.SchDoc,
+J1,2,GND/MSEL0/MSEL1,TAM1_Xulytrungtam/PAGE1.SchDoc,? nhiều nhãn trên cùng net: GND/MSEL0/MSEL1
+J1,3,CONF_DONE,TAM1_Xulytrungtam/PAGE1.SchDoc,
+J1,4,+3.3Va,TAM1_Xulytrungtam/PAGE1.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: +3.3Va
+J1,5,nCONFIG,TAM1_Xulytrungtam/PAGE1.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: nCONFIG
+J1,6,nCE,TAM1_Xulytrungtam/PAGE1.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: nCE
+J1,7,DATA,TAM1_Xulytrungtam/PAGE1.SchDoc,
+J1,8,nCS,TAM1_Xulytrungtam/PAGE1.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: nCS
+J1,9,ASDI,TAM1_Xulytrungtam/PAGE1.SchDoc,
+J1,10,GND/MSEL0/MSEL1,TAM1_Xulytrungtam/PAGE1.SchDoc,? nhiều nhãn trên cùng net: GND/MSEL0/MSEL1
+J2,1,TCK,TAM1_Xulytrungtam/PAGE1.SchDoc,
+J2,2,GND/MSEL0/MSEL1,TAM1_Xulytrungtam/PAGE1.SchDoc,? nhiều nhãn trên cùng net: GND/MSEL0/MSEL1
+J2,3,TDO,TAM1_Xulytrungtam/PAGE1.SchDoc,
+J2,4,+3.3Va,TAM1_Xulytrungtam/PAGE1.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: +3.3Va
+J2,5,TMS,TAM1_Xulytrungtam/PAGE1.SchDoc,
+J2,6,N0028,TAM1_Xulytrungtam/PAGE1.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+J2,7,N0029,TAM1_Xulytrungtam/PAGE1.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+J2,8,N0030,TAM1_Xulytrungtam/PAGE1.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+J2,9,TDI,TAM1_Xulytrungtam/PAGE1.SchDoc,
+J2,10,GND/MSEL0/MSEL1,TAM1_Xulytrungtam/PAGE1.SchDoc,? nhiều nhãn trên cùng net: GND/MSEL0/MSEL1

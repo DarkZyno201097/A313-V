@@ -1,0 +1,90 @@
+﻿ref,name,qty,page,note
+C1,ceramic [CAP NP],1,9,nguồn SchDoc=machkiemtranguon/mach_kiem_tra_nguon.SchDoc; sheet=mach_kiem_tra_nguon.SchDoc
+C2,"3,3u [CAP NP_Dup1]",1,9,nguồn SchDoc=machkiemtranguon/mach_kiem_tra_nguon.SchDoc; sheet=mach_kiem_tra_nguon.SchDoc
+C3,15u [CAP POL],1,9,nguồn SchDoc=machkiemtranguon/mach_kiem_tra_nguon.SchDoc; sheet=mach_kiem_tra_nguon.SchDoc
+D1,D818D [DIODE ZENER],1,9,nguồn SchDoc=machkiemtranguon/mach_kiem_tra_nguon.SchDoc; sheet=mach_kiem_tra_nguon.SchDoc
+D2,2D510A [DIODE],1,9,nguồn SchDoc=machkiemtranguon/mach_kiem_tra_nguon.SchDoc; sheet=mach_kiem_tra_nguon.SchDoc
+D3,DIODE ZENER,1,9,nguồn SchDoc=machkiemtranguon/mach_kiem_tra_nguon.SchDoc; sheet=mach_kiem_tra_nguon.SchDoc
+D4,2D510A [DIODE],1,9,nguồn SchDoc=machkiemtranguon/mach_kiem_tra_nguon.SchDoc; sheet=mach_kiem_tra_nguon.SchDoc
+D5,2D103A [DIODE],1,9,nguồn SchDoc=machkiemtranguon/mach_kiem_tra_nguon.SchDoc; sheet=mach_kiem_tra_nguon.SchDoc
+D6,2D103A [DIODE],1,9,nguồn SchDoc=machkiemtranguon/mach_kiem_tra_nguon.SchDoc; sheet=mach_kiem_tra_nguon.SchDoc
+D10,2D103A [DIODE],1,9,nguồn SchDoc=machkiemtranguon/mach_kiem_tra_nguon.SchDoc; sheet=mach_kiem_tra_nguon.SchDoc
+D11,2456A [DIODE ZENER],1,9,nguồn SchDoc=machkiemtranguon/mach_kiem_tra_nguon.SchDoc; sheet=mach_kiem_tra_nguon.SchDoc
+D14,2D103A [DIODE],1,9,nguồn SchDoc=machkiemtranguon/mach_kiem_tra_nguon.SchDoc; sheet=mach_kiem_tra_nguon.SchDoc
+D15,D818D [DIODE ZENER],1,9,nguồn SchDoc=machkiemtranguon/mach_kiem_tra_nguon.SchDoc; sheet=mach_kiem_tra_nguon.SchDoc
+D16,2456A [DIODE ZENER],1,9,nguồn SchDoc=machkiemtranguon/mach_kiem_tra_nguon.SchDoc; sheet=mach_kiem_tra_nguon.SchDoc
+D17,2D103A [DIODE],1,9,nguồn SchDoc=machkiemtranguon/mach_kiem_tra_nguon.SchDoc; sheet=mach_kiem_tra_nguon.SchDoc
+D18,2D510A [DIODE],1,9,nguồn SchDoc=machkiemtranguon/mach_kiem_tra_nguon.SchDoc; sheet=mach_kiem_tra_nguon.SchDoc
+D19,D818D [DIODE ZENER],1,9,nguồn SchDoc=machkiemtranguon/mach_kiem_tra_nguon.SchDoc; sheet=mach_kiem_tra_nguon.SchDoc
+D20,2D510A [DIODE],1,9,nguồn SchDoc=machkiemtranguon/mach_kiem_tra_nguon.SchDoc; sheet=mach_kiem_tra_nguon.SchDoc
+D21,2D103A [DIODE],1,9,nguồn SchDoc=machkiemtranguon/mach_kiem_tra_nguon.SchDoc; sheet=mach_kiem_tra_nguon.SchDoc
+D22,2D510A [DIODE],1,9,nguồn SchDoc=machkiemtranguon/mach_kiem_tra_nguon.SchDoc; sheet=mach_kiem_tra_nguon.SchDoc
+D24,2D103A [DIODE],1,9,nguồn SchDoc=machkiemtranguon/mach_kiem_tra_nguon.SchDoc; sheet=mach_kiem_tra_nguon.SchDoc
+DC14D,CON31,1,9,nguồn SchDoc=machkiemtranguon/mach_kiem_tra_nguon.SchDoc; sheet=mach_kiem_tra_nguon.SchDoc
+R1,"1,8k [RESISTOR_0]",1,9,nguồn SchDoc=machkiemtranguon/mach_kiem_tra_nguon.SchDoc; sheet=mach_kiem_tra_nguon.SchDoc
+R3,"5,6k [RESISTOR_0]",1,9,nguồn SchDoc=machkiemtranguon/mach_kiem_tra_nguon.SchDoc; sheet=mach_kiem_tra_nguon.SchDoc
+R5,"4,7k [RESISTOR VAR_3]",1,9,nguồn SchDoc=machkiemtranguon/mach_kiem_tra_nguon.SchDoc; sheet=mach_kiem_tra_nguon.SchDoc
+R6,"4,7k [RESISTOR VAR_4]",1,9,nguồn SchDoc=machkiemtranguon/mach_kiem_tra_nguon.SchDoc; sheet=mach_kiem_tra_nguon.SchDoc
+R8,"4,7k [RESISTOR VAR_5]",1,9,nguồn SchDoc=machkiemtranguon/mach_kiem_tra_nguon.SchDoc; sheet=mach_kiem_tra_nguon.SchDoc
+R10,"1,5k [RESISTOR_0]",1,9,nguồn SchDoc=machkiemtranguon/mach_kiem_tra_nguon.SchDoc; sheet=mach_kiem_tra_nguon.SchDoc
+R11,120k [RESISTOR_0],1,9,nguồn SchDoc=machkiemtranguon/mach_kiem_tra_nguon.SchDoc; sheet=mach_kiem_tra_nguon.SchDoc
+R12,"4,7k [RESISTOR_0]",1,9,nguồn SchDoc=machkiemtranguon/mach_kiem_tra_nguon.SchDoc; sheet=mach_kiem_tra_nguon.SchDoc
+R13,47k [RESISTOR_0],1,9,nguồn SchDoc=machkiemtranguon/mach_kiem_tra_nguon.SchDoc; sheet=mach_kiem_tra_nguon.SchDoc
+R14,1k [RESISTOR_0],1,9,nguồn SchDoc=machkiemtranguon/mach_kiem_tra_nguon.SchDoc; sheet=mach_kiem_tra_nguon.SchDoc
+R15,"4,7k [RESISTOR VAR_1]",1,9,nguồn SchDoc=machkiemtranguon/mach_kiem_tra_nguon.SchDoc; sheet=mach_kiem_tra_nguon.SchDoc
+R16,"5,1k [RESISTOR_0]",1,9,nguồn SchDoc=machkiemtranguon/mach_kiem_tra_nguon.SchDoc; sheet=mach_kiem_tra_nguon.SchDoc
+R17,"4,7k [RESISTOR VAR_6]",1,9,nguồn SchDoc=machkiemtranguon/mach_kiem_tra_nguon.SchDoc; sheet=mach_kiem_tra_nguon.SchDoc
+R27,10k [RESISTOR_0],1,9,nguồn SchDoc=machkiemtranguon/mach_kiem_tra_nguon.SchDoc; sheet=mach_kiem_tra_nguon.SchDoc
+R28,"2,2k [RESISTOR_0]",1,9,nguồn SchDoc=machkiemtranguon/mach_kiem_tra_nguon.SchDoc; sheet=mach_kiem_tra_nguon.SchDoc
+R29,"5,6k [RESISTOR_0]",1,9,nguồn SchDoc=machkiemtranguon/mach_kiem_tra_nguon.SchDoc; sheet=mach_kiem_tra_nguon.SchDoc
+R30,22k [RESISTOR_0],1,9,nguồn SchDoc=machkiemtranguon/mach_kiem_tra_nguon.SchDoc; sheet=mach_kiem_tra_nguon.SchDoc
+R31,27k [RESISTOR_0],1,9,nguồn SchDoc=machkiemtranguon/mach_kiem_tra_nguon.SchDoc; sheet=mach_kiem_tra_nguon.SchDoc
+R32,"3,9k [RESISTOR_0]",1,9,nguồn SchDoc=machkiemtranguon/mach_kiem_tra_nguon.SchDoc; sheet=mach_kiem_tra_nguon.SchDoc
+R33,150r [RESISTOR_0],1,9,nguồn SchDoc=machkiemtranguon/mach_kiem_tra_nguon.SchDoc; sheet=mach_kiem_tra_nguon.SchDoc
+R34,560r [RESISTOR_0],1,9,nguồn SchDoc=machkiemtranguon/mach_kiem_tra_nguon.SchDoc; sheet=mach_kiem_tra_nguon.SchDoc
+R35,10k [RESISTOR_0],1,9,nguồn SchDoc=machkiemtranguon/mach_kiem_tra_nguon.SchDoc; sheet=mach_kiem_tra_nguon.SchDoc
+R36,"2,2k [RESISTOR_0]",1,9,nguồn SchDoc=machkiemtranguon/mach_kiem_tra_nguon.SchDoc; sheet=mach_kiem_tra_nguon.SchDoc
+R37,"3,3k [RESISTOR_0]",1,9,nguồn SchDoc=machkiemtranguon/mach_kiem_tra_nguon.SchDoc; sheet=mach_kiem_tra_nguon.SchDoc
+R38,"1,5k [RESISTOR_0]",1,9,nguồn SchDoc=machkiemtranguon/mach_kiem_tra_nguon.SchDoc; sheet=mach_kiem_tra_nguon.SchDoc
+R39,27k [RESISTOR_0],1,9,nguồn SchDoc=machkiemtranguon/mach_kiem_tra_nguon.SchDoc; sheet=mach_kiem_tra_nguon.SchDoc
+R40,"2,2k [RESISTOR_0]",1,9,nguồn SchDoc=machkiemtranguon/mach_kiem_tra_nguon.SchDoc; sheet=mach_kiem_tra_nguon.SchDoc
+R41,390r [RESISTOR_0],1,9,nguồn SchDoc=machkiemtranguon/mach_kiem_tra_nguon.SchDoc; sheet=mach_kiem_tra_nguon.SchDoc
+R42,"1,5k [RESISTOR_0]",1,9,nguồn SchDoc=machkiemtranguon/mach_kiem_tra_nguon.SchDoc; sheet=mach_kiem_tra_nguon.SchDoc
+R43,"2,7k [RESISTOR_0]",1,9,nguồn SchDoc=machkiemtranguon/mach_kiem_tra_nguon.SchDoc; sheet=mach_kiem_tra_nguon.SchDoc
+R44,"4,3k [RESISTOR_0]",1,9,nguồn SchDoc=machkiemtranguon/mach_kiem_tra_nguon.SchDoc; sheet=mach_kiem_tra_nguon.SchDoc
+R45,"8,2k [RESISTOR_0]",1,9,nguồn SchDoc=machkiemtranguon/mach_kiem_tra_nguon.SchDoc; sheet=mach_kiem_tra_nguon.SchDoc
+R46,"4,7k [RESISTOR VAR_10]",1,9,nguồn SchDoc=machkiemtranguon/mach_kiem_tra_nguon.SchDoc; sheet=mach_kiem_tra_nguon.SchDoc
+R47,"4,7k [RESISTOR VAR_1]",1,9,nguồn SchDoc=machkiemtranguon/mach_kiem_tra_nguon.SchDoc; sheet=mach_kiem_tra_nguon.SchDoc
+R49,"4,7k [RESISTOR VAR_7]",1,9,nguồn SchDoc=machkiemtranguon/mach_kiem_tra_nguon.SchDoc; sheet=mach_kiem_tra_nguon.SchDoc
+R50,"4,7k [RESISTOR VAR_1]",1,9,nguồn SchDoc=machkiemtranguon/mach_kiem_tra_nguon.SchDoc; sheet=mach_kiem_tra_nguon.SchDoc
+R51,"1,8k [RESISTOR_0]",1,9,nguồn SchDoc=machkiemtranguon/mach_kiem_tra_nguon.SchDoc; sheet=mach_kiem_tra_nguon.SchDoc
+R53,"5,6k [RESISTOR_0]",1,9,nguồn SchDoc=machkiemtranguon/mach_kiem_tra_nguon.SchDoc; sheet=mach_kiem_tra_nguon.SchDoc
+R54,12k [RESISTOR_0],1,9,nguồn SchDoc=machkiemtranguon/mach_kiem_tra_nguon.SchDoc; sheet=mach_kiem_tra_nguon.SchDoc
+R55,330r [RESISTOR_0],1,9,nguồn SchDoc=machkiemtranguon/mach_kiem_tra_nguon.SchDoc; sheet=mach_kiem_tra_nguon.SchDoc
+R56,47k [RESISTOR_0],1,9,nguồn SchDoc=machkiemtranguon/mach_kiem_tra_nguon.SchDoc; sheet=mach_kiem_tra_nguon.SchDoc
+R57,"5,1k [RESISTOR_0]",1,9,nguồn SchDoc=machkiemtranguon/mach_kiem_tra_nguon.SchDoc; sheet=mach_kiem_tra_nguon.SchDoc
+R58,"4,7k [RESISTOR VAR_1]",1,9,nguồn SchDoc=machkiemtranguon/mach_kiem_tra_nguon.SchDoc; sheet=mach_kiem_tra_nguon.SchDoc
+R59,"4,7k [RESISTOR VAR_8]",1,9,nguồn SchDoc=machkiemtranguon/mach_kiem_tra_nguon.SchDoc; sheet=mach_kiem_tra_nguon.SchDoc
+R60,"4,7k [RESISTOR_0]",1,9,nguồn SchDoc=machkiemtranguon/mach_kiem_tra_nguon.SchDoc; sheet=mach_kiem_tra_nguon.SchDoc
+R61,47k [RESISTOR_0],1,9,nguồn SchDoc=machkiemtranguon/mach_kiem_tra_nguon.SchDoc; sheet=mach_kiem_tra_nguon.SchDoc
+R62,120k [RESISTOR_0],1,9,nguồn SchDoc=machkiemtranguon/mach_kiem_tra_nguon.SchDoc; sheet=mach_kiem_tra_nguon.SchDoc
+R63,120k [RESISTOR_0],1,9,nguồn SchDoc=machkiemtranguon/mach_kiem_tra_nguon.SchDoc; sheet=mach_kiem_tra_nguon.SchDoc
+R64,120k [RESISTOR_0],1,9,nguồn SchDoc=machkiemtranguon/mach_kiem_tra_nguon.SchDoc; sheet=mach_kiem_tra_nguon.SchDoc
+R65,120k [RESISTOR_0],1,9,nguồn SchDoc=machkiemtranguon/mach_kiem_tra_nguon.SchDoc; sheet=mach_kiem_tra_nguon.SchDoc
+T2,2T312B [NPN ECB_0],1,9,nguồn SchDoc=machkiemtranguon/mach_kiem_tra_nguon.SchDoc; sheet=mach_kiem_tra_nguon.SchDoc
+T3,2T312B [NPN ECB_0],1,9,nguồn SchDoc=machkiemtranguon/mach_kiem_tra_nguon.SchDoc; sheet=mach_kiem_tra_nguon.SchDoc
+T4,2T608B [NPN ECB_0],1,9,nguồn SchDoc=machkiemtranguon/mach_kiem_tra_nguon.SchDoc; sheet=mach_kiem_tra_nguon.SchDoc
+T5,2T312B [NPN ECB_0],1,9,nguồn SchDoc=machkiemtranguon/mach_kiem_tra_nguon.SchDoc; sheet=mach_kiem_tra_nguon.SchDoc
+T6,2T312B [NPN ECB_0],1,9,nguồn SchDoc=machkiemtranguon/mach_kiem_tra_nguon.SchDoc; sheet=mach_kiem_tra_nguon.SchDoc
+T7,2T312B [NPN ECB_0],1,9,nguồn SchDoc=machkiemtranguon/mach_kiem_tra_nguon.SchDoc; sheet=mach_kiem_tra_nguon.SchDoc
+T8,2T608B [NPN ECB_0],1,9,nguồn SchDoc=machkiemtranguon/mach_kiem_tra_nguon.SchDoc; sheet=mach_kiem_tra_nguon.SchDoc
+T9,2T312B [NPN ECB_0],1,9,nguồn SchDoc=machkiemtranguon/mach_kiem_tra_nguon.SchDoc; sheet=mach_kiem_tra_nguon.SchDoc
+T10,2T312B [NPN ECB_0],1,9,nguồn SchDoc=machkiemtranguon/mach_kiem_tra_nguon.SchDoc; sheet=mach_kiem_tra_nguon.SchDoc
+U1,2D908A [LDS-A81R_20],1,9,nguồn SchDoc=machkiemtranguon/mach_kiem_tra_nguon.SchDoc; sheet=mach_kiem_tra_nguon.SchDoc
+U2,2D917A [LDS-A81R_25],1,9,nguồn SchDoc=machkiemtranguon/mach_kiem_tra_nguon.SchDoc; sheet=mach_kiem_tra_nguon.SchDoc
+U3,2D917A [LDS-A81R_22],1,9,nguồn SchDoc=machkiemtranguon/mach_kiem_tra_nguon.SchDoc; sheet=mach_kiem_tra_nguon.SchDoc
+U4,2D908A [LDS-A81R_21],1,9,nguồn SchDoc=machkiemtranguon/mach_kiem_tra_nguon.SchDoc; sheet=mach_kiem_tra_nguon.SchDoc
+U5,to12_pin [K140UD1B_10],1,9,nguồn SchDoc=machkiemtranguon/mach_kiem_tra_nguon.SchDoc; sheet=mach_kiem_tra_nguon.SchDoc
+U6,to12_pin [K140UD1B_9],1,9,nguồn SchDoc=machkiemtranguon/mach_kiem_tra_nguon.SchDoc; sheet=mach_kiem_tra_nguon.SchDoc
+U7,to12_pin [K140UD1B_8],1,9,nguồn SchDoc=machkiemtranguon/mach_kiem_tra_nguon.SchDoc; sheet=mach_kiem_tra_nguon.SchDoc
+U8,to12_pin [K140UD1B_13],1,9,nguồn SchDoc=machkiemtranguon/mach_kiem_tra_nguon.SchDoc; sheet=mach_kiem_tra_nguon.SchDoc

@@ -1,0 +1,254 @@
+﻿ref,pin,net,note
+DC14C,4B,+12.6V,
+DC14C,5A,+12.6V,
+DC14C,5B,+12.6V,
+R4,2,+12.6V,
+U5,3,+12.6V,
+DC13A,A3,+27V,
+DC13A,A30,+27V,
+DC13A,B3,+27V,
+DC13A,B30,+27V,
+DC13A,C3,+27V,
+DC13A,C30,+27V,
+C2,1,+3.5V,
+DC14C,7B,+3.5V,
+DC14C,8A,+3.5V,
+DC14C,8B,+3.5V,
+R5,2,+3.5V,
+U3,5,+3.5V,
+U3,6,+3.5V,
+C14,2,+5V,
+DC13A,A2,+5V,
+DC13A,B2,+5V,
+DC13A,C2,+5V,
+DC14C,1A,+5V,
+DC14C,1B,+5V,
+DC14C,2A,+5V,
+DC14C,2B,+5V,
+R6,2,+5V,
+U6,4,+5V,
+C1,1,+6.3V,
+DC14C,3A,+6.3V,
+DC14C,3B,+6.3V,
+DC14C,4A,+6.3V,
+R3,2,+6.3V,
+U1,5,+6.3V,
+U1,6,+6.3V,
+DC14C,9A,-12.6V,
+DC14C,9B,-12.6V,
+DC14C,10A,-12.6V,
+R2,2,-12.6V,
+U5,5,-12.6V,
+DC14C,12A,-23V,
+DC14C,12B,-23V,
+DC14C,13A,-23V,
+R7,2,-23V,
+U4,5,-23V,
+C7,1,-6.3V,
+C9,2,-6.3V,
+DC14C,10B,-6.3V,
+DC14C,11A,-6.3V,
+DC14C,11B,-6.3V,
+L2,2,-6.3V,
+R1,2,-6.3V,
+C3,1,27V,
+C4,1,27V,
+C6,1,27V,
+C14,1,27V,
+C15,1,27V,
+C16,1,27V,
+DC14C,6A,27V,
+DC14C,6B,27V,
+DC14C,7A,27V,
+L1,1,27V,
+L3,1,27V,
+R8,2,27V,
+U1,2,27V,
+U3,2,27V,
+U4,1,27V,
+U6,1,27V,
+C1,2,GND,
+C2,2,GND,
+C3,2,GND,
+C4,2,GND,
+C5,2,GND,
+C6,2,GND,
+C7,2,GND,
+C8,1,GND,
+C9,1,GND,
+C10,2,GND,
+C11,2,GND,
+C12,2,GND,
+C13,2,GND,
+C15,2,GND,
+C16,2,GND,
+D1,1,GND,
+D2,1,GND,
+D3,2,GND,
+D4,2,GND,
+D5,2,GND,
+D6,2,GND,
+D7,1,GND,
+D8,2,GND,
+DC13A,A1,GND,
+DC13A,A31,GND,
+DC13A,A32,GND,
+DC13A,B1,GND,
+DC13A,B31,GND,
+DC13A,B32,GND,
+DC13A,C1,GND,
+DC13A,C31,GND,
+DC13A,C32,GND,
+DC14C,13B,GND,
+DC14C,14A,GND,
+DC14C,14B,GND,
+DC14C,15A,GND,
+DC14C,15B,GND,
+DC14C,16B,GND,
+R13,1,GND,
+R14,1,GND,
+R15,2,GND,
+U1,1,GND,
+U1,7,GND,
+U2,6,GND,
+U3,1,GND,
+U3,7,GND,
+U4,2,GND,
+U4,3,GND,
+U5,2,GND,
+U5,4,GND,
+U6,2,GND,
+U6,5,GND,
+C5,1,N0001,
+C10,1,N0001,
+C11,1,N0001,
+C12,1,N0001,
+C13,1,N0001,
+L1,2,N0001,
+U2,2,N0001,
+C8,2,N0002,
+L2,1,N0002,
+R9,1,N0002,
+U2,1,N0002,
+U2,7,N0002,
+D1,2,N0003,
+R1,1,N0003,
+D2,2,N0004,
+R2,1,N0004,
+D3,1,N0005,
+R3,1,N0005,
+D4,1,N0006,
+R4,1,N0006,
+D5,1,N0007,
+R5,1,N0007,
+D6,1,N0008,
+R6,1,N0008,
+D7,2,N0009,
+R7,1,N0009,
+D8,1,N0010,
+R8,1,N0010,
+DC13A,A26,N0011,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC13A,A27,N0012,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC13A,A28,N0013,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC13A,A29,N0014,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC13A,B26,N0015,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC13A,B27,N0016,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC13A,B28,N0017,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC13A,B29,N0018,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC13A,C26,N0019,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC13A,C27,N0020,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC13A,C28,N0021,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC13A,C29,N0022,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+L3,2,N0023,
+U5,1,N0023,
+R10,1,N0024,
+U3,4,N0024,
+R10,2,N0025,
+R13,2,N0025,
+R11,1,N0026,
+U1,4,N0026,
+R11,2,N0027,
+R14,2,N0027,
+R9,2,N0028,
+R12,1,N0028,
+R12,2,N0029,
+R12,3,N0029,
+U2,4,N0029,
+R15,1,N0030,
+R16,2,N0030,
+R16,1,N0031,
+U4,4,N0031,
+U1,3,N0032,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U2,3,N0033,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U2,5,N0034,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U3,3,N0035,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U4,6,N0036,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U5,6,N0037,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U6,3,N0038,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U6,6,N0039,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC13A,A4,Выход РК1,allowed_singleton: cổng/nhãn ngoài chỉ có một chân linh kiện
+DC13A,A16,Выход РК10,allowed_singleton: cổng/nhãn ngoài chỉ có một chân linh kiện
+DC13A,A18,Выход РК11,allowed_singleton: cổng/nhãn ngoài chỉ có một chân linh kiện
+DC13A,C18,Выход РК12,allowed_singleton: cổng/nhãn ngoài chỉ có một chân linh kiện
+DC13A,C20,Выход РК13,allowed_singleton: cổng/nhãn ngoài chỉ có một chân linh kiện
+DC13A,B21,Выход РК14,allowed_singleton: cổng/nhãn ngoài chỉ có một chân linh kiện
+DC13A,B23,Выход РК15,allowed_singleton: cổng/nhãn ngoài chỉ có một chân linh kiện
+DC13A,A24,Выход РК16,allowed_singleton: cổng/nhãn ngoài chỉ có một chân linh kiện
+DC13A,B4,Выход РК17,allowed_singleton: cổng/nhãn ngoài chỉ có một chân linh kiện
+DC13A,A5,Выход РК18,allowed_singleton: cổng/nhãn ngoài chỉ có một chân linh kiện
+DC13A,A7,Выход РК19,allowed_singleton: cổng/nhãn ngoài chỉ có một chân linh kiện
+DC13A,C4,Выход РК2,allowed_singleton: cổng/nhãn ngoài chỉ có một chân linh kiện
+DC13A,C7,Выход РК20,allowed_singleton: cổng/nhãn ngoài chỉ có một chân linh kiện
+DC13A,C9,Выход РК21,allowed_singleton: cổng/nhãn ngoài chỉ có một chân linh kiện
+DC13A,B10,Выход РК22,allowed_singleton: cổng/nhãn ngoài chỉ có một chân linh kiện
+DC13A,B12,Выход РК23,allowed_singleton: cổng/nhãn ngoài chỉ có một chân linh kiện
+DC13A,A13,Выход РК24,allowed_singleton: cổng/nhãn ngoài chỉ có một chân linh kiện
+DC13A,C15,Выход РК25,allowed_singleton: cổng/nhãn ngoài chỉ có một chân linh kiện
+DC13A,B16,Выход РК26,allowed_singleton: cổng/nhãn ngoài chỉ có một chân linh kiện
+DC13A,B18,Выход РК27,allowed_singleton: cổng/nhãn ngoài chỉ có một chân linh kiện
+DC13A,A19,Выход РК28,allowed_singleton: cổng/nhãn ngoài chỉ có một chân linh kiện
+DC13A,A21,Выход РК29,allowed_singleton: cổng/nhãn ngoài chỉ có một chân linh kiện
+DC13A,C6,Выход РК3,allowed_singleton: cổng/nhãn ngoài chỉ có một chân linh kiện
+DC13A,C21,Выход РК30,allowed_singleton: cổng/nhãn ngoài chỉ có một chân linh kiện
+DC13A,C23,Выход РК31,allowed_singleton: cổng/nhãn ngoài chỉ có một chân linh kiện
+DC13A,B24,Выход РК32,allowed_singleton: cổng/nhãn ngoài chỉ có một chân linh kiện
+DC13A,B7,Выход РК4,allowed_singleton: cổng/nhãn ngoài chỉ có một chân linh kiện
+DC13A,B9,Выход РК5,allowed_singleton: cổng/nhãn ngoài chỉ có một chân linh kiện
+DC13A,A10,Выход РК6,allowed_singleton: cổng/nhãn ngoài chỉ có một chân linh kiện
+DC13A,A12,Выход РК7,allowed_singleton: cổng/nhãn ngoài chỉ có một chân linh kiện
+DC13A,C12,Выход РК8,allowed_singleton: cổng/nhãn ngoài chỉ có một chân linh kiện
+DC13A,B15,Выход РК9,allowed_singleton: cổng/nhãn ngoài chỉ có một chân linh kiện
+DC13A,C14,Испр Ключ,allowed_singleton: cổng/nhãn ngoài chỉ có một chân linh kiện
+DC13A,A15,Исправн. Ключ TTL,allowed_singleton: cổng/nhãn ngoài chỉ có một chân linh kiện
+DC13A,B5,Упр. выхoд РК1,? nhãn có mã font Latin chưa giải mã chắc chắn: Упр. выхoд РК1; allowed_singleton: cổng/nhãn ngoài chỉ có một chân linh kiện
+DC13A,B17,Упр. выхoд РК10,? nhãn có mã font Latin chưa giải mã chắc chắn: Упр. выхoд РК10; allowed_singleton: cổng/nhãn ngoài chỉ có một chân linh kiện
+DC13A,B19,Упр. выхoд РК11,? nhãn có mã font Latin chưa giải mã chắc chắn: Упр. выхoд РК11; allowed_singleton: cổng/nhãn ngoài chỉ có một chân linh kiện
+DC13A,A20,Упр. выхoд РК12,? nhãn có mã font Latin chưa giải mã chắc chắn: Упр. выхoд РК12; allowed_singleton: cổng/nhãn ngoài chỉ có một chân linh kiện
+DC13A,A22,Упр. выхoд РК13,? nhãn có mã font Latin chưa giải mã chắc chắn: Упр. выхoд РК13; allowed_singleton: cổng/nhãn ngoài chỉ có một chân linh kiện
+DC13A,C22,Упр. выхoд РК14,? nhãn có mã font Latin chưa giải mã chắc chắn: Упр. выхoд РК14; allowed_singleton: cổng/nhãn ngoài chỉ có một chân linh kiện
+DC13A,C24,Упр. выхoд РК15,? nhãn có mã font Latin chưa giải mã chắc chắn: Упр. выхoд РК15; allowed_singleton: cổng/nhãn ngoài chỉ có một chân linh kiện
+DC13A,B25,Упр. выхoд РК16,? nhãn có mã font Latin chưa giải mã chắc chắn: Упр. выхoд РК16; allowed_singleton: cổng/nhãn ngoài chỉ có một chân linh kiện
+DC13A,C5,Упр. выхoд РК17,? nhãn có mã font Latin chưa giải mã chắc chắn: Упр. выхoд РК17; allowed_singleton: cổng/nhãn ngoài chỉ có một chân linh kiện
+DC13A,B6,Упр. выхoд РК18,? nhãn có mã font Latin chưa giải mã chắc chắn: Упр. выхoд РК18; allowed_singleton: cổng/nhãn ngoài chỉ có một chân linh kiện
+DC13A,B8,Упр. выхoд РК19,? nhãn có mã font Latin chưa giải mã chắc chắn: Упр. выхoд РК19; allowed_singleton: cổng/nhãn ngoài chỉ có một chân linh kiện
+DC13A,A6,Упр. выхoд РК2,? nhãn có mã font Latin chưa giải mã chắc chắn: Упр. выхoд РК2; allowed_singleton: cổng/nhãn ngoài chỉ có một chân linh kiện
+DC13A,A9,Упр. выхoд РК20,? nhãn có mã font Latin chưa giải mã chắc chắn: Упр. выхoд РК20; allowed_singleton: cổng/nhãn ngoài chỉ có một chân linh kiện
+DC13A,A11,Упр. выхoд РК21,? nhãn có mã font Latin chưa giải mã chắc chắn: Упр. выхoд РК21; allowed_singleton: cổng/nhãn ngoài chỉ có một chân linh kiện
+DC13A,C11,Упр. выхoд РК22,? nhãn có mã font Latin chưa giải mã chắc chắn: Упр. выхoд РК22; allowed_singleton: cổng/nhãn ngoài chỉ có một chân linh kiện
+DC13A,C13,Упр. выхoд РК23,? nhãn có mã font Latin chưa giải mã chắc chắn: Упр. выхoд РК23; allowed_singleton: cổng/nhãn ngoài chỉ có một chân linh kiện
+DC13A,B14,Упр. выхoд РК24,? nhãn có mã font Latin chưa giải mã chắc chắn: Упр. выхoд РК24; allowed_singleton: cổng/nhãn ngoài chỉ có một chân linh kiện
+DC13A,A17,Упр. выхoд РК25,? nhãn có mã font Latin chưa giải mã chắc chắn: Упр. выхoд РК25; allowed_singleton: cổng/nhãn ngoài chỉ có một chân linh kiện
+DC13A,C17,Упр. выхoд РК26,? nhãn có mã font Latin chưa giải mã chắc chắn: Упр. выхoд РК26; allowed_singleton: cổng/nhãn ngoài chỉ có một chân linh kiện
+DC13A,C19,Упр. выхoд РК27,? nhãn có mã font Latin chưa giải mã chắc chắn: Упр. выхoд РК27; allowed_singleton: cổng/nhãn ngoài chỉ có một chân linh kiện
+DC13A,B20,Упр. выхoд РК28,? nhãn có mã font Latin chưa giải mã chắc chắn: Упр. выхoд РК28; allowed_singleton: cổng/nhãn ngoài chỉ có một chân linh kiện
+DC13A,B22,Упр. выхoд РК29,? nhãn có mã font Latin chưa giải mã chắc chắn: Упр. выхoд РК29; allowed_singleton: cổng/nhãn ngoài chỉ có một chân linh kiện
+DC13A,A8,Упр. выхoд РК3,? nhãn có mã font Latin chưa giải mã chắc chắn: Упр. выхoд РК3; allowed_singleton: cổng/nhãn ngoài chỉ có một chân linh kiện
+DC13A,A23,Упр. выхoд РК30,? nhãn có mã font Latin chưa giải mã chắc chắn: Упр. выхoд РК30; allowed_singleton: cổng/nhãn ngoài chỉ có một chân linh kiện
+DC13A,A25,Упр. выхoд РК31,? nhãn có mã font Latin chưa giải mã chắc chắn: Упр. выхoд РК31; allowed_singleton: cổng/nhãn ngoài chỉ có một chân linh kiện
+DC13A,C25,Упр. выхoд РК32,? nhãn có mã font Latin chưa giải mã chắc chắn: Упр. выхoд РК32; allowed_singleton: cổng/nhãn ngoài chỉ có một chân linh kiện
+DC13A,C8,Упр. выхoд РК4,? nhãn có mã font Latin chưa giải mã chắc chắn: Упр. выхoд РК4; allowed_singleton: cổng/nhãn ngoài chỉ có một chân linh kiện
+DC13A,C10,Упр. выхoд РК5,? nhãn có mã font Latin chưa giải mã chắc chắn: Упр. выхoд РК5; allowed_singleton: cổng/nhãn ngoài chỉ có một chân linh kiện
+DC13A,B11,Упр. выхoд РК6,? nhãn có mã font Latin chưa giải mã chắc chắn: Упр. выхoд РК6; allowed_singleton: cổng/nhãn ngoài chỉ có một chân linh kiện
+DC13A,B13,Упр. выхoд РК7,? nhãn có mã font Latin chưa giải mã chắc chắn: Упр. выхoд РК7; allowed_singleton: cổng/nhãn ngoài chỉ có một chân linh kiện
+DC13A,A14,Упр. выхoд РК8,? nhãn có mã font Latin chưa giải mã chắc chắn: Упр. выхoд РК8; allowed_singleton: cổng/nhãn ngoài chỉ có một chân linh kiện
+DC13A,C16,Упр. выхoд РК9,? nhãn có mã font Latin chưa giải mã chắc chắn: Упр. выхoд РК9; allowed_singleton: cổng/nhãn ngoài chỉ có một chân linh kiện

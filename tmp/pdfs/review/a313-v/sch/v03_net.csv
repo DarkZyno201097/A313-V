@@ -1,0 +1,960 @@
+﻿ref,pin,net,note
+C17,1,"+12,6V",
+C21,1,"+12,6V",
+C26,1,"+12,6V",
+C27,1,"+12,6V",
+C28,2,"+12,6V",
+C29,1,"+12,6V",
+DC6,A4,"+12,6V",
+DC6,B4,"+12,6V",
+DC6,C4,"+12,6V",
+R13,2,"+12,6V",
+T3,2,"+12,6V",
+T4,2,"+12,6V",
+T5,2,"+12,6V",
+T6,2,"+12,6V",
+T7,2,"+12,6V",
+T8,2,"+12,6V",
+T9,2,"+12,6V",
+T10,2,"+12,6V",
+U33,7,"+12,6V",
+U34,7,"+12,6V",
+U35,7,"+12,6V",
+U36,7,"+12,6V",
+U37,7,"+12,6V",
+U38,7,"+12,6V",
+U39,7,"+12,6V",
+U40,7,"+12,6V",
+U61,7,"+12,6V",
+U62,7,"+12,6V",
+DC5,A3,"+3,5V",
+DC5,B3,"+3,5V",
+DC5,C3,"+3,5V",
+R9,2,"+3,5V",
+R28,2,"+3,5V",
+U17,3,"+3,5V",
+U17,7,"+3,5V",
+U19,3,"+3,5V",
+U19,7,"+3,5V",
+U19,10,"+3,5V",
+U19,12,"+3,5V",
+U21,3,"+3,5V",
+U21,7,"+3,5V",
+U21,10,"+3,5V",
+U24,3,"+3,5V",
+U24,7,"+3,5V",
+U24,10,"+3,5V",
+U24,14,"+3,5V",
+U28,3,"+3,5V",
+U28,7,"+3,5V",
+U28,8,"+3,5V",
+U28,14,"+3,5V",
+U30,3,"+3,5V",
+U30,7,"+3,5V",
+U30,8,"+3,5V",
+U30,14,"+3,5V",
+DC5,A2,+5V,
+DC5,B2,+5V,
+DC5,C2,+5V,
+DC5,A4,"+6,3V",
+DC5,B4,"+6,3V",
+DC5,C4,"+6,3V",
+R63,2,"+6,3V",
+R64,2,"+6,3V",
+R65,2,"+6,3V",
+R66,2,"+6,3V",
+R67,2,"+6,3V",
+R68,2,"+6,3V",
+R69,2,"+6,3V",
+R70,2,"+6,3V",
+R71,2,"+6,3V",
+R72,2,"+6,3V",
+R73,2,"+6,3V",
+R74,1,"+6,3V",
+C17,2,"-12,6V",
+C18,1,"-12,6V",
+C19,2,"-12,6V",
+C25,1,"-12,6V",
+C29,2,"-12,6V",
+DC6,A3,"-12,6V",
+DC6,B3,"-12,6V",
+DC6,C3,"-12,6V",
+R6,1,"-12,6V",
+R79,2,"-12,6V",
+R80,2,"-12,6V",
+R85,2,"-12,6V",
+R86,2,"-12,6V",
+R100,2,"-12,6V",
+R101,2,"-12,6V",
+R104,2,"-12,6V",
+R105,2,"-12,6V",
+U33,1,"-12,6V",
+U34,1,"-12,6V",
+U35,1,"-12,6V",
+U36,1,"-12,6V",
+U37,1,"-12,6V",
+U38,1,"-12,6V",
+U39,1,"-12,6V",
+U40,1,"-12,6V",
+U61,1,"-12,6V",
+U62,1,"-12,6V",
+DC6,A2,-23V,
+DC6,B2,-23V,
+DC6,C2,-23V,
+R29,2,-23V,
+R30,2,-23V,
+R31,2,-23V,
+R32,2,-23V,
+R33,2,-23V,
+R34,2,-23V,
+R37,2,-23V,
+R38,2,-23V,
+R39,2,-23V,
+R42,2,-23V,
+R54,1,-23V,
+R56,1,-23V,
+R57,1,-23V,
+R58,1,-23V,
+R59,1,-23V,
+R60,1,-23V,
+R61,1,-23V,
+R62,1,-23V,
+R21,2,1,
+R82,1,1,
+U10,1,1,
+U13,5,1,
+U15,3,1,
+U15,8,1,
+R14,1,2,
+R19,2,2,
+R83,1,2,
+U10,2,2,
+U11,1,2,
+U11,10,2,
+U13,1,2,
+R109,1,3,
+U10,3,3,
+U13,8,3,
+U16,3,3,
+U16,8,3,
+R15,1,4,
+R20,1,4,
+R22,1,4,
+R110,1,4,
+U10,4,4,
+U12,1,4,
+U12,10,4,
+U13,14,4,
+DC5,A15,a pr,? nhãn có mã font Latin chưa giải mã chắc chắn: a pr
+DC5,B15,a pr,? nhãn có mã font Latin chưa giải mã chắc chắn: a pr
+DC5,C15,a pr,? nhãn có mã font Latin chưa giải mã chắc chắn: a pr
+DC5,A16,b pr,? nhãn có mã font Latin chưa giải mã chắc chắn: b pr
+DC5,B16,b pr,? nhãn có mã font Latin chưa giải mã chắc chắn: b pr
+DC5,C16,b pr,? nhãn có mã font Latin chưa giải mã chắc chắn: b pr
+DC5,A7,ВХОД_c1a,nhãn gốc=Bhod_c1a
+U4,10,ВХОД_c1a,nhãn gốc=Bhod_c1a
+DC5,B7,ВХОД_c1b,nhãn gốc=Bhod_c1b
+U4,12,ВХОД_c1b,nhãn gốc=Bhod_c1b
+DC5,C7,ВХОД_c1РК,nhãn gốc=Bhod_c1rc
+U6,5,ВХОД_c1РК,nhãn gốc=Bhod_c1rc
+DC5,A9,ВХОД_c2a,nhãn gốc=Bhod_c2a
+U5,1,ВХОД_c2a,nhãn gốc=Bhod_c2a
+DC5,B9,ВХОД_c2b,nhãn gốc=Bhod_c2b
+U5,5,ВХОД_c2b,nhãn gốc=Bhod_c2b
+DC5,C9,ВХОД_c2РК,nhãn gốc=Bhod_c2rc
+U6,10,ВХОД_c2РК,nhãn gốc=Bhod_c2rc
+DC5,A11,ВХОД_c3a,nhãn gốc=Bhod_c3a
+U5,10,ВХОД_c3a,nhãn gốc=Bhod_c3a
+DC5,B11,ВХОД_c3b,nhãn gốc=Bhod_c3b
+U5,12,ВХОД_c3b,nhãn gốc=Bhod_c3b
+DC5,C11,ВХОД_c3РК,nhãn gốc=Bhod_c3rc
+U6,12,ВХОД_c3РК,nhãn gốc=Bhod_c3rc
+DC5,B22,ВХОД_РК,nhãn gốc=Bhod_rc
+DC5,C22,ВХОД_РК,nhãn gốc=Bhod_rc
+U6,1,ВХОД_РК,nhãn gốc=Bhod_rc
+DC5,A21,ВХОДa,nhãn gốc=Bhoda
+DC5,B21,ВХОДa,nhãn gốc=Bhoda
+U4,1,ВХОДa,nhãn gốc=Bhoda
+DC5,A22,ВХОДb,nhãn gốc=Bhodb
+DC5,C21,ВХОДb,nhãn gốc=Bhodb
+U4,5,ВХОДb,nhãn gốc=Bhodb
+C4,1,GND/OT,? nhiều nhãn trên cùng net: GND/OT
+C5,1,GND/OT,? nhiều nhãn trên cùng net: GND/OT
+C8,1,GND/OT,? nhiều nhãn trên cùng net: GND/OT
+C9,2,GND/OT,? nhiều nhãn trên cùng net: GND/OT
+C10,2,GND/OT,? nhiều nhãn trên cùng net: GND/OT
+C11,2,GND/OT,? nhiều nhãn trên cùng net: GND/OT
+C12,2,GND/OT,? nhiều nhãn trên cùng net: GND/OT
+C13,2,GND/OT,? nhiều nhãn trên cùng net: GND/OT
+C14,2,GND/OT,? nhiều nhãn trên cùng net: GND/OT
+C18,2,GND/OT,? nhiều nhãn trên cùng net: GND/OT
+C19,1,GND/OT,? nhiều nhãn trên cùng net: GND/OT
+C20,2,GND/OT,? nhiều nhãn trên cùng net: GND/OT
+C21,2,GND/OT,? nhiều nhãn trên cùng net: GND/OT
+C22,2,GND/OT,? nhiều nhãn trên cùng net: GND/OT
+C23,1,GND/OT,? nhiều nhãn trên cùng net: GND/OT
+C24,1,GND/OT,? nhiều nhãn trên cùng net: GND/OT
+C25,2,GND/OT,? nhiều nhãn trên cùng net: GND/OT
+C26,2,GND/OT,? nhiều nhãn trên cùng net: GND/OT
+C27,2,GND/OT,? nhiều nhãn trên cùng net: GND/OT
+C28,1,GND/OT,? nhiều nhãn trên cùng net: GND/OT
+C30,1,GND/OT,? nhiều nhãn trên cùng net: GND/OT
+C32,1,GND/OT,? nhiều nhãn trên cùng net: GND/OT
+C33,1,GND/OT,? nhiều nhãn trên cùng net: GND/OT
+C35,1,GND/OT,? nhiều nhãn trên cùng net: GND/OT
+C36,1,GND/OT,? nhiều nhãn trên cùng net: GND/OT
+C38,1,GND/OT,? nhiều nhãn trên cùng net: GND/OT
+C39,1,GND/OT,? nhiều nhãn trên cùng net: GND/OT
+C41,1,GND/OT,? nhiều nhãn trên cùng net: GND/OT
+D1,1,GND/OT,? nhiều nhãn trên cùng net: GND/OT
+D7,1,GND/OT,? nhiều nhãn trên cùng net: GND/OT
+DC5,A1,GND/OT,? nhiều nhãn trên cùng net: GND/OT
+DC5,A30,GND/OT,? nhiều nhãn trên cùng net: GND/OT
+DC5,A31,GND/OT,? nhiều nhãn trên cùng net: GND/OT
+DC5,A32,GND/OT,? nhiều nhãn trên cùng net: GND/OT
+DC5,B1,GND/OT,? nhiều nhãn trên cùng net: GND/OT
+DC5,B30,GND/OT,? nhiều nhãn trên cùng net: GND/OT
+DC5,B31,GND/OT,? nhiều nhãn trên cùng net: GND/OT
+DC5,B32,GND/OT,? nhiều nhãn trên cùng net: GND/OT
+DC5,C1,GND/OT,? nhiều nhãn trên cùng net: GND/OT
+DC5,C30,GND/OT,? nhiều nhãn trên cùng net: GND/OT
+DC5,C31,GND/OT,? nhiều nhãn trên cùng net: GND/OT
+DC5,C32,GND/OT,? nhiều nhãn trên cùng net: GND/OT
+DC6,A1,GND/OT,? nhiều nhãn trên cùng net: GND/OT
+DC6,A31,GND/OT,? nhiều nhãn trên cùng net: GND/OT
+DC6,A32,GND/OT,? nhiều nhãn trên cùng net: GND/OT
+DC6,B1,GND/OT,? nhiều nhãn trên cùng net: GND/OT
+DC6,B31,GND/OT,? nhiều nhãn trên cùng net: GND/OT
+DC6,B32,GND/OT,? nhiều nhãn trên cùng net: GND/OT
+DC6,C1,GND/OT,? nhiều nhãn trên cùng net: GND/OT
+DC6,C31,GND/OT,? nhiều nhãn trên cùng net: GND/OT
+DC6,C32,GND/OT,? nhiều nhãn trên cùng net: GND/OT
+R16,1,GND/OT,? nhiều nhãn trên cùng net: GND/OT
+R17,1,GND/OT,? nhiều nhãn trên cùng net: GND/OT
+R77,1,GND/OT,? nhiều nhãn trên cùng net: GND/OT
+R78,1,GND/OT,? nhiều nhãn trên cùng net: GND/OT
+R89,2,GND/OT,? nhiều nhãn trên cùng net: GND/OT
+T1,2,GND/OT,? nhiều nhãn trên cùng net: GND/OT
+T2,2,GND/OT,? nhiều nhãn trên cùng net: GND/OT
+U9,5,GND/OT,? nhiều nhãn trên cùng net: GND/OT
+U9,10,GND/OT,? nhiều nhãn trên cùng net: GND/OT
+U11,3,GND/OT,? nhiều nhãn trên cùng net: GND/OT
+U12,3,GND/OT,? nhiều nhãn trên cùng net: GND/OT
+U15,1,GND/OT,? nhiều nhãn trên cùng net: GND/OT
+U16,1,GND/OT,? nhiều nhãn trên cùng net: GND/OT
+U22,7,GND/OT,? nhiều nhãn trên cùng net: GND/OT
+U23,7,GND/OT,? nhiều nhãn trên cùng net: GND/OT
+U27,7,GND/OT,? nhiều nhãn trên cùng net: GND/OT
+U27,14,GND/OT,? nhiều nhãn trên cùng net: GND/OT
+U29,7,GND/OT,? nhiều nhãn trên cùng net: GND/OT
+U29,14,GND/OT,? nhiều nhãn trên cùng net: GND/OT
+U31,7,GND/OT,? nhiều nhãn trên cùng net: GND/OT
+U31,14,GND/OT,? nhiều nhãn trên cùng net: GND/OT
+U32,7,GND/OT,? nhiều nhãn trên cùng net: GND/OT
+U32,14,GND/OT,? nhiều nhãn trên cùng net: GND/OT
+U33,4,GND/OT,? nhiều nhãn trên cùng net: GND/OT
+U34,4,GND/OT,? nhiều nhãn trên cùng net: GND/OT
+U34,10,GND/OT,? nhiều nhãn trên cùng net: GND/OT
+U35,4,GND/OT,? nhiều nhãn trên cùng net: GND/OT
+U36,4,GND/OT,? nhiều nhãn trên cùng net: GND/OT
+U36,10,GND/OT,? nhiều nhãn trên cùng net: GND/OT
+U37,4,GND/OT,? nhiều nhãn trên cùng net: GND/OT
+U38,4,GND/OT,? nhiều nhãn trên cùng net: GND/OT
+U38,10,GND/OT,? nhiều nhãn trên cùng net: GND/OT
+U39,4,GND/OT,? nhiều nhãn trên cùng net: GND/OT
+U40,4,GND/OT,? nhiều nhãn trên cùng net: GND/OT
+U40,10,GND/OT,? nhiều nhãn trên cùng net: GND/OT
+U61,4,GND/OT,? nhiều nhãn trên cùng net: GND/OT
+U61,10,GND/OT,? nhiều nhãn trên cùng net: GND/OT
+U62,4,GND/OT,? nhiều nhãn trên cùng net: GND/OT
+C15,2,int.a,? nhãn có mã font Latin chưa giải mã chắc chắn: int.a
+C34,1,int.a,? nhãn có mã font Latin chưa giải mã chắc chắn: int.a
+DC5,A25,int.a,? nhãn có mã font Latin chưa giải mã chắc chắn: int.a
+DC5,B25,int.a,? nhãn có mã font Latin chưa giải mã chắc chắn: int.a
+DC5,C25,int.a,? nhãn có mã font Latin chưa giải mã chắc chắn: int.a
+U25,7,int.a,? nhãn có mã font Latin chưa giải mã chắc chắn: int.a
+U25,8,int.a,? nhãn có mã font Latin chưa giải mã chắc chắn: int.a
+U25,12,int.a,? nhãn có mã font Latin chưa giải mã chắc chắn: int.a
+U36,5,int.a,? nhãn có mã font Latin chưa giải mã chắc chắn: int.a
+C16,2,int.b,? nhãn có mã font Latin chưa giải mã chắc chắn: int.b
+C40,1,int.b,? nhãn có mã font Latin chưa giải mã chắc chắn: int.b
+DC5,A26,int.b,? nhãn có mã font Latin chưa giải mã chắc chắn: int.b
+DC5,B26,int.b,? nhãn có mã font Latin chưa giải mã chắc chắn: int.b
+DC5,C26,int.b,? nhãn có mã font Latin chưa giải mã chắc chắn: int.b
+U26,7,int.b,? nhãn có mã font Latin chưa giải mã chắc chắn: int.b
+U26,8,int.b,? nhãn có mã font Latin chưa giải mã chắc chắn: int.b
+U26,12,int.b,? nhãn có mã font Latin chưa giải mã chắc chắn: int.b
+U40,5,int.b,? nhãn có mã font Latin chưa giải mã chắc chắn: int.b
+DC5,C5,ip,? nhãn có mã font Latin chưa giải mã chắc chắn: ip
+R28,1,ip,? nhãn có mã font Latin chưa giải mã chắc chắn: ip
+T2,1,ip,? nhãn có mã font Latin chưa giải mã chắc chắn: ip
+DC5,A13,oxa,? nhãn có mã font Latin chưa giải mã chắc chắn: oxa
+DC5,B13,oxa,? nhãn có mã font Latin chưa giải mã chắc chắn: oxa
+DC5,C13,oxa,? nhãn có mã font Latin chưa giải mã chắc chắn: oxa
+R75,1,oxa,? nhãn có mã font Latin chưa giải mã chắc chắn: oxa
+DC5,A14,oxb,? nhãn có mã font Latin chưa giải mã chắc chắn: oxb
+DC5,B14,oxb,? nhãn có mã font Latin chưa giải mã chắc chắn: oxb
+DC5,C14,oxb,? nhãn có mã font Latin chưa giải mã chắc chắn: oxb
+R76,1,oxb,? nhãn có mã font Latin chưa giải mã chắc chắn: oxb
+DC6,B9,УПР 10r rm,nhãn gốc=upr 10r rm
+R65,1,УПР 10r rm,nhãn gốc=upr 10r rm
+U28,6,УПР 10r rm,nhãn gốc=upr 10r rm
+U31,9,УПР 10r rm,nhãn gốc=upr 10r rm
+R57,2,УПР 10r rm_,nhãn gốc=upr 10r rm_
+U28,5,УПР 10r rm_,nhãn gốc=upr 10r rm_
+U31,13,УПР 10r rm_,nhãn gốc=upr 10r rm_
+DC6,C9,УПР 11r rm,nhãn gốc=upr 11r rm
+R66,1,УПР 11r rm,nhãn gốc=upr 11r rm
+U28,2,УПР 11r rm,nhãn gốc=upr 11r rm
+U31,2,УПР 11r rm,nhãn gốc=upr 11r rm
+R58,2,УПР 11r rm_,nhãn gốc=upr 11r rm_
+U28,1,УПР 11r rm_,nhãn gốc=upr 11r rm_
+U31,6,УПР 11r rm_,nhãn gốc=upr 11r rm_
+DC6,A10,УПР 12r rm,nhãn gốc=upr 12r rm
+R67,1,УПР 12r rm,nhãn gốc=upr 12r rm
+U29,9,УПР 12r rm,nhãn gốc=upr 12r rm
+U30,13,УПР 12r rm,nhãn gốc=upr 12r rm
+R59,2,УПР 12r rm_,nhãn gốc=upr 12r rm_
+U29,13,УПР 12r rm_,nhãn gốc=upr 12r rm_
+U30,12,УПР 12r rm_,nhãn gốc=upr 12r rm_
+DC6,B10,УПР 13r rm,nhãn gốc=upr 13r rm
+R68,1,УПР 13r rm,nhãn gốc=upr 13r rm
+U29,2,УПР 13r rm,nhãn gốc=upr 13r rm
+U30,9,УПР 13r rm,nhãn gốc=upr 13r rm
+R60,2,УПР 13r rm_,nhãn gốc=upr 13r rm_
+U29,6,УПР 13r rm_,nhãn gốc=upr 13r rm_
+U30,10,УПР 13r rm_,nhãn gốc=upr 13r rm_
+DC6,C10,УПР 14r rm,nhãn gốc=upr 14r rm
+R69,1,УПР 14r rm,nhãn gốc=upr 14r rm
+U27,9,УПР 14r rm,nhãn gốc=upr 14r rm
+U30,6,УПР 14r rm,nhãn gốc=upr 14r rm
+R61,2,УПР 14r rm_,nhãn gốc=upr 14r rm_
+U27,13,УПР 14r rm_,nhãn gốc=upr 14r rm_
+U30,5,УПР 14r rm_,nhãn gốc=upr 14r rm_
+DC6,A11,УПР 15r rm,nhãn gốc=upr 15r rm
+R70,1,УПР 15r rm,nhãn gốc=upr 15r rm
+U27,2,УПР 15r rm,nhãn gốc=upr 15r rm
+U30,2,УПР 15r rm,nhãn gốc=upr 15r rm
+R62,2,УПР 15r rm_,nhãn gốc=upr 15r rm_
+U27,6,УПР 15r rm_,nhãn gốc=upr 15r rm_
+U30,1,УПР 15r rm_,nhãn gốc=upr 15r rm_
+DC6,C8,УПР 8r rm,nhãn gốc=upr 8r rm
+R63,1,УПР 8r rm,nhãn gốc=upr 8r rm
+U28,13,УПР 8r rm,nhãn gốc=upr 8r rm
+U32,9,УПР 8r rm,nhãn gốc=upr 8r rm
+R54,2,УПР 8r rm_,nhãn gốc=upr 8r rm_
+U28,12,УПР 8r rm_,nhãn gốc=upr 8r rm_
+U32,13,УПР 8r rm_,nhãn gốc=upr 8r rm_
+DC6,A9,УПР 9r rm,nhãn gốc=upr 9r rm
+R64,1,УПР 9r rm,nhãn gốc=upr 9r rm
+U28,9,УПР 9r rm,nhãn gốc=upr 9r rm
+U32,2,УПР 9r rm,nhãn gốc=upr 9r rm
+R56,2,УПР 9r rm_,nhãn gốc=upr 9r rm_
+U28,10,УПР 9r rm_,nhãn gốc=upr 9r rm_
+U32,6,УПР 9r rm_,nhãn gốc=upr 9r rm_
+R32,1,УПР_ap,nhãn gốc=upr_ap
+U9,6,УПР_ap,nhãn gốc=upr_ap
+U9,9,УПР_ap,nhãn gốc=upr_ap
+U11,2,УПР_ap,nhãn gốc=upr_ap
+U11,6,УПР_ap,nhãn gốc=upr_ap
+U12,2,УПР_ap,nhãn gốc=upr_ap
+U12,6,УПР_ap,nhãn gốc=upr_ap
+U15,2,УПР_ap,nhãn gốc=upr_ap
+U15,6,УПР_ap,nhãn gốc=upr_ap
+U16,2,УПР_ap,nhãn gốc=upr_ap
+U16,6,УПР_ap,nhãn gốc=upr_ap
+U19,1,УПР_ap,nhãn gốc=upr_ap
+U19,5,УПР_ap,nhãn gốc=upr_ap
+U19,9,УПР_ap,nhãn gốc=upr_ap
+U21,6,УПР_ap,nhãn gốc=upr_ap
+U25,6,УПР_ap,nhãn gốc=upr_ap
+U25,9,УПР_ap,nhãn gốc=upr_ap
+U26,6,УПР_ap,nhãn gốc=upr_ap
+U26,9,УПР_ap,nhãn gốc=upr_ap
+DC6,A8,УПР_ap+nu,nhãn gốc=upr_ap+nu
+R73,1,УПР_ap+nu,nhãn gốc=upr_ap+nu
+U21,2,УПР_ap+nu,nhãn gốc=upr_ap+nu
+U24,6,УПР_ap+nu,nhãn gốc=upr_ap+nu
+R33,1,УПР_ap_,nhãn gốc=upr_ap_
+U9,2,УПР_ap_,nhãn gốc=upr_ap_
+U9,13,УПР_ap_,nhãn gốc=upr_ap_
+U11,9,УПР_ap_,nhãn gốc=upr_ap_
+U12,9,УПР_ap_,nhãn gốc=upr_ap_
+U15,9,УПР_ap_,nhãn gốc=upr_ap_
+U16,9,УПР_ap_,nhãn gốc=upr_ap_
+U21,5,УПР_ap_,nhãn gốc=upr_ap_
+U25,2,УПР_ap_,nhãn gốc=upr_ap_
+U26,2,УПР_ap_,nhãn gốc=upr_ap_
+DC6,A6,УПР_c1,nhãn gốc=upr_c1
+U4,2,УПР_c1,nhãn gốc=upr_c1
+U4,6,УПР_c1,nhãn gốc=upr_c1
+U6,2,УПР_c1,nhãn gốc=upr_c1
+DC6,B6,УПР_c2,nhãn gốc=upr_c2
+U4,9,УПР_c2,nhãn gốc=upr_c2
+U4,13,УПР_c2,nhãn gốc=upr_c2
+U6,6,УПР_c2,nhãn gốc=upr_c2
+DC6,C6,УПР_c3,nhãn gốc=upr_c3
+U5,2,УПР_c3,nhãn gốc=upr_c3
+U5,6,УПР_c3,nhãn gốc=upr_c3
+U6,9,УПР_c3,nhãn gốc=upr_c3
+DC6,A7,УПР_c4,nhãn gốc=upr_c4
+U5,9,УПР_c4,nhãn gốc=upr_c4
+U5,13,УПР_c4,nhãn gốc=upr_c4
+U6,13,УПР_c4,nhãn gốc=upr_c4
+DC6,B7,УПР_contr,nhãn gốc=upr_contr
+R72,1,УПР_contr,nhãn gốc=upr_contr
+U2,2,УПР_contr,nhãn gốc=upr_contr
+U2,13,УПР_contr,nhãn gốc=upr_contr
+U17,6,УПР_contr,nhãn gốc=upr_contr
+U20,6,УПР_contr,nhãn gốc=upr_contr
+U20,13,УПР_contr,nhãn gốc=upr_contr
+R30,1,УПР_contr_,nhãn gốc=upr_contr_
+U2,6,УПР_contr_,nhãn gốc=upr_contr_
+U2,9,УПР_contr_,nhãn gốc=upr_contr_
+U17,5,УПР_contr_,nhãn gốc=upr_contr_
+U20,2,УПР_contr_,nhãn gốc=upr_contr_
+U20,9,УПР_contr_,nhãn gốc=upr_contr_
+R39,1,УПР_int,nhãn gốc=upr_int
+U22,2,УПР_int,nhãn gốc=upr_int
+U23,2,УПР_int,nhãn gốc=upr_int
+U24,1,УПР_int,nhãn gốc=upr_int
+U24,5,УПР_int,nhãn gốc=upr_int
+U24,13,УПР_int,nhãn gốc=upr_int
+DC6,B8,УПР_int+nu,nhãn gốc=upr_int+nu
+R74,2,УПР_int+nu,nhãn gốc=upr_int+nu
+U19,6,УПР_int+nu,nhãn gốc=upr_int+nu
+U24,9,УПР_int+nu,nhãn gốc=upr_int+nu
+R38,1,УПР_int+nu_,nhãn gốc=upr_int+nu_
+U22,6,УПР_int+nu_,nhãn gốc=upr_int+nu_
+U23,6,УПР_int+nu_,nhãn gốc=upr_int+nu_
+U24,2,УПР_int+nu_,nhãn gốc=upr_int+nu_
+U24,8,УПР_int+nu_,nhãn gốc=upr_int+nu_
+C24,2,УПР_int_,nhãn gốc=upr_int_
+R42,1,УПР_int_,nhãn gốc=upr_int_
+U22,9,УПР_int_,nhãn gốc=upr_int_
+U23,9,УПР_int_,nhãn gốc=upr_int_
+U24,12,УПР_int_,nhãn gốc=upr_int_
+DC6,C7,УПР_knac,nhãn gốc=upr_knac
+R71,1,УПР_knac,nhãn gốc=upr_knac
+U13,6,УПР_knac,nhãn gốc=upr_knac
+U13,9,УПР_knac,nhãn gốc=upr_knac
+U17,2,УПР_knac,nhãn gốc=upr_knac
+R29,1,УПР_knac_,nhãn gốc=upr_knac_
+U13,2,УПР_knac_,nhãn gốc=upr_knac_
+U13,13,УПР_knac_,nhãn gốc=upr_knac_
+U17,1,УПР_knac_,nhãn gốc=upr_knac_
+R34,1,УПР_nu,nhãn gốc=upr_nu
+U19,8,УПР_nu,nhãn gốc=upr_nu
+U19,14,УПР_nu,nhãn gốc=upr_nu
+U21,9,УПР_nu,nhãn gốc=upr_nu
+U25,13,УПР_nu,nhãn gốc=upr_nu
+U26,13,УПР_nu,nhãn gốc=upr_nu
+R37,1,УПР_nu_,nhãn gốc=upr_nu_
+U21,8,УПР_nu_,nhãn gốc=upr_nu_
+U22,13,УПР_nu_,nhãn gốc=upr_nu_
+U23,13,УПР_nu_,nhãn gốc=upr_nu_
+DC5,A5,ВЫХ.compar_РК,nhãn gốc=vih.compar_rc
+R9,1,ВЫХ.compar_РК,nhãn gốc=vih.compar_rc
+T1,1,ВЫХ.compar_РК,nhãn gốc=vih.compar_rc
+C10,1,N0001,
+R27,1,N0001,
+C11,1,N0002,
+R40,1,N0002,
+C12,1,N0003,
+R41,1,N0003,
+C13,1,N0004,
+R48,2,N0004,
+C14,1,N0005,
+R50,2,N0005,
+C15,1,N0006,
+R51,1,N0006,
+U25,3,N0006,
+C16,1,N0007,
+R52,1,N0007,
+U26,3,N0007,
+C20,1,N0008,
+T10,1,N0008,
+U23,8,N0008,
+U23,14,N0008,
+C22,1,N0009,
+U2,3,N0009,
+U2,7,N0009,
+U9,1,N0009,
+C23,2,N0010,
+U2,8,N0010,
+U2,14,N0010,
+U9,12,N0010,
+C30,2,N0011,
+R81,2,N0011,
+C31,1,N0012,
+U15,7,N0012,
+U15,10,N0012,
+U34,5,N0012,
+C31,2,N0013,
+R24,2,N0013,
+R82,2,N0013,
+R83,2,N0013,
+U34,9,N0013,
+C32,2,N0014,
+R84,2,N0014,
+C33,2,N0015,
+R87,2,N0015,
+C34,2,N0016,
+R43,2,N0016,
+R44,2,N0016,
+R47,1,N0016,
+U25,1,N0016,
+U36,9,N0016,
+C35,2,N0017,
+R88,2,N0017,
+C36,2,N0018,
+R102,2,N0018,
+C37,1,N0019,
+U16,7,N0019,
+U16,10,N0019,
+U38,5,N0019,
+C37,2,N0020,
+R26,2,N0020,
+R109,2,N0020,
+R110,2,N0020,
+U38,9,N0020,
+C38,2,N0021,
+R103,2,N0021,
+C39,2,N0022,
+R106,2,N0022,
+C4,2,N0023,
+R5,2,N0023,
+U6,3,N0023,
+U6,7,N0023,
+U6,8,N0023,
+U6,14,N0023,
+C40,2,N0024,
+R46,2,N0024,
+R49,1,N0024,
+U26,1,N0024,
+U40,9,N0024,
+C41,2,N0025,
+R107,2,N0025,
+C5,2,N0026,
+R7,1,N0026,
+C6,1,N0027,
+T4,1,N0027,
+U11,5,N0027,
+C6,2,N0028,
+R14,2,N0028,
+C7,1,N0029,
+T8,1,N0029,
+U12,5,N0029,
+C7,2,N0030,
+R15,2,N0030,
+C8,2,N0031,
+R18,1,N0031,
+C9,1,N0032,
+R25,1,N0032,
+D1,2,N0033,
+D2,1,N0033,
+R5,1,N0033,
+R6,2,N0033,
+U61,9,N0033,
+D2,2,N0034,
+R8,2,N0034,
+U61,5,N0034,
+D4,1,N0035,
+R13,1,N0035,
+R16,2,N0035,
+D4,2,N0036,
+R12,1,N0036,
+U62,9,N0036,
+D7,2,N0037,
+R23,2,N0037,
+U62,5,N0037,
+DC5,A6,N0038,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC5,A8,N0039,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC5,A10,N0040,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC5,A12,N0041,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC5,A17,N0042,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC5,A18,N0043,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC5,A19,N0044,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC5,A20,N0045,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC5,A23,N0046,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC5,A24,N0047,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC5,A27,N0048,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC5,A28,N0049,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC5,A29,N0050,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC5,B5,N0051,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC5,B6,N0052,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC5,B8,N0053,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC5,B10,N0054,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC5,B12,N0055,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC5,B17,N0056,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC5,B18,N0057,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC5,B19,N0058,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC5,B20,N0059,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC5,B23,N0060,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC5,B24,N0061,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC5,B27,N0062,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC5,B28,N0063,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC5,B29,N0064,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC5,C6,N0065,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC5,C8,N0066,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC5,C10,N0067,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC5,C12,N0068,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC5,C17,N0069,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC5,C18,N0070,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC5,C19,N0071,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC5,C20,N0072,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC5,C23,N0073,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC5,C24,N0074,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC5,C27,N0075,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC5,C28,N0076,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC5,C29,N0077,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC6,A5,N0078,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC6,A12,N0079,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC6,A13,N0080,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC6,A14,N0081,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC6,A15,N0082,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC6,A16,N0083,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC6,A17,N0084,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC6,A18,N0085,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC6,A19,N0086,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC6,A20,N0087,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC6,A21,N0088,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC6,A22,N0089,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC6,A23,N0090,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC6,A24,N0091,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC6,A25,N0092,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC6,A26,N0093,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC6,A27,N0094,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC6,A28,N0095,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC6,A29,N0096,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC6,A30,N0097,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC6,B5,N0098,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC6,B11,N0099,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC6,B12,N0100,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC6,B13,N0101,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC6,B14,N0102,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC6,B15,N0103,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC6,B16,N0104,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC6,B17,N0105,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC6,B18,N0106,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC6,B19,N0107,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC6,B20,N0108,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC6,B21,N0109,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC6,B22,N0110,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC6,B23,N0111,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC6,B24,N0112,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC6,B25,N0113,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC6,B26,N0114,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC6,B27,N0115,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC6,B28,N0116,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC6,B29,N0117,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC6,B30,N0118,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC6,C5,N0119,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC6,C11,N0120,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC6,C12,N0121,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC6,C13,N0122,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC6,C14,N0123,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC6,C15,N0124,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC6,C16,N0125,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC6,C17,N0126,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC6,C18,N0127,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC6,C19,N0128,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC6,C20,N0129,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC6,C21,N0130,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC6,C22,N0131,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC6,C23,N0132,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC6,C24,N0133,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC6,C25,N0134,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC6,C26,N0135,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC6,C27,N0136,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC6,C28,N0137,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC6,C29,N0138,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC6,C30,N0139,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+R10,1,N0140,
+U9,7,N0140,
+R10,2,N0141,
+T3,1,N0141,
+U9,3,N0141,
+R100,1,N0142,
+T7,3,N0142,
+U37,10,N0142,
+R101,1,N0143,
+T8,3,N0143,
+U37,9,N0143,
+R102,1,N0144,
+U37,12,N0144,
+R103,1,N0145,
+U38,12,N0145,
+R104,1,N0146,
+T9,3,N0146,
+U39,10,N0146,
+R105,1,N0147,
+T10,3,N0147,
+U39,9,N0147,
+R106,1,N0148,
+U39,12,N0148,
+R107,1,N0149,
+U40,12,N0149,
+R108,1,N0150,
+U23,12,N0150,
+U39,5,N0150,
+R45,1,N0151,
+R108,2,N0151,
+R11,1,N0152,
+T7,1,N0152,
+U9,14,N0152,
+R11,2,N0153,
+U9,8,N0153,
+R12,2,N0154,
+U10,9,N0154,
+U10,10,N0154,
+U10,11,N0154,
+U10,12,N0154,
+R91,2,N0155,
+R159,1,N0155,
+R159,2,N0156,
+U27,10,N0156,
+U27,12,N0156,
+R89,1,N0157,
+R90,1,N0157,
+R91,1,N0157,
+R160,1,N0157,
+R92,1,N0158,
+R160,2,N0158,
+R92,2,N0159,
+R93,1,N0159,
+R94,1,N0159,
+R95,1,N0159,
+R161,1,N0159,
+R96,1,N0160,
+R161,2,N0160,
+R17,2,N0161,
+U62,10,N0161,
+R18,2,N0162,
+U62,12,N0162,
+R19,1,N0163,
+R20,2,N0163,
+R78,2,N0163,
+U20,5,N0163,
+R21,1,N0164,
+R22,2,N0164,
+R77,2,N0164,
+U20,14,N0164,
+R23,1,N0165,
+T2,3,N0165,
+R24,1,N0166,
+R25,2,N0166,
+U15,5,N0166,
+R26,1,N0167,
+R27,2,N0167,
+U16,5,N0167,
+R31,1,N0168,
+U19,2,N0168,
+U19,13,N0168,
+U21,1,N0168,
+R35,1,N0169,
+T5,1,N0169,
+U22,3,N0169,
+U25,14,N0169,
+R35,2,N0170,
+U22,5,N0170,
+R36,1,N0171,
+T9,1,N0171,
+U23,3,N0171,
+U26,14,N0171,
+R36,2,N0172,
+U23,5,N0172,
+R40,2,N0173,
+U22,10,N0173,
+R41,2,N0174,
+U23,10,N0174,
+R43,1,N0175,
+R53,2,N0175,
+R44,1,N0176,
+U22,12,N0176,
+U27,3,N0176,
+U27,8,N0176,
+U29,3,N0176,
+U29,8,N0176,
+U31,3,N0176,
+U31,8,N0176,
+U32,3,N0176,
+U32,8,N0176,
+U35,5,N0176,
+R45,2,N0177,
+R45,3,N0177,
+R46,1,N0177,
+R47,2,N0178,
+R48,1,N0178,
+U25,10,N0178,
+R49,2,N0179,
+R50,1,N0179,
+U26,10,N0179,
+R51,2,N0180,
+U25,5,N0180,
+R52,2,N0181,
+U26,5,N0181,
+R53,1,N0182,
+R96,2,N0182,
+R97,1,N0182,
+R98,1,N0182,
+R99,1,N0182,
+R7,2,N0183,
+U61,12,N0183,
+R75,2,N0184,
+U2,1,N0184,
+R76,2,N0185,
+U2,12,N0185,
+R79,1,N0186,
+T3,3,N0186,
+U33,10,N0186,
+R8,1,N0187,
+T1,3,N0187,
+R80,1,N0188,
+T4,3,N0188,
+U33,9,N0188,
+R81,1,N0189,
+U33,12,N0189,
+R84,1,N0190,
+U34,12,N0190,
+R85,1,N0191,
+T5,3,N0191,
+U35,10,N0191,
+R86,1,N0192,
+T6,3,N0192,
+U35,9,N0192,
+R87,1,N0193,
+U35,12,N0193,
+R88,1,N0194,
+U36,12,N0194,
+R90,2,N0195,
+U27,1,N0195,
+U27,5,N0195,
+R93,2,N0196,
+U29,1,N0196,
+U29,5,N0196,
+R94,2,N0197,
+U29,10,N0197,
+U29,12,N0197,
+R95,2,N0198,
+U31,1,N0198,
+U31,5,N0198,
+R97,2,N0199,
+U31,10,N0199,
+U31,12,N0199,
+R98,2,N0200,
+U32,1,N0200,
+U32,5,N0200,
+R99,2,N0201,
+U32,10,N0201,
+U32,12,N0201,
+T6,1,N0202,
+U22,8,N0202,
+U22,14,N0202,
+U10,5,N0203,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U10,6,N0204,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U10,7,N0205,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U10,8,N0206,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U11,7,N0207,
+U11,8,N0207,
+U33,5,N0207,
+U11,11,N0208,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U12,7,N0209,
+U12,8,N0209,
+U37,5,N0209,
+U12,11,N0210,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U13,3,N0211,
+U13,7,N0211,
+U20,1,N0211,
+U13,10,N0212,
+U13,12,N0212,
+U20,8,N0212,
+U13,11,N0213,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U15,11,N0214,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U16,11,N0215,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U17,11,N0216,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U19,11,N0217,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U2,5,N0218,
+U4,3,N0218,
+U4,8,N0218,
+U5,3,N0218,
+U5,8,N0218,
+U2,10,N0219,
+U4,7,N0219,
+U4,14,N0219,
+U5,7,N0219,
+U5,14,N0219,
+U2,11,N0220,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U20,3,N0221,
+U20,7,N0221,
+U22,1,N0221,
+U20,10,N0222,
+U20,12,N0222,
+U23,1,N0222,
+U20,11,N0223,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U21,11,N0224,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U22,11,N0225,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U23,11,N0226,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U24,11,N0227,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U25,11,N0228,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U26,11,N0229,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U27,11,N0230,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U28,11,N0231,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U29,11,N0232,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U30,11,N0233,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U31,11,N0234,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U32,11,N0235,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U33,2,N0236,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U33,3,N0237,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U33,6,N0238,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U33,8,N0239,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U33,11,N0240,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U34,2,N0241,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U34,3,N0242,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U34,6,N0243,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U34,8,N0244,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U34,11,N0245,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U35,2,N0246,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U35,3,N0247,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U35,6,N0248,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U35,8,N0249,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U35,11,N0250,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U36,2,N0251,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U36,3,N0252,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U36,6,N0253,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U36,8,N0254,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U36,11,N0255,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U37,2,N0256,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U37,3,N0257,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U37,6,N0258,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U37,8,N0259,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U37,11,N0260,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U38,2,N0261,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U38,3,N0262,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U38,6,N0263,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U38,8,N0264,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U38,11,N0265,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U39,2,N0266,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U39,3,N0267,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U39,6,N0268,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U39,8,N0269,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U39,11,N0270,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U4,11,N0271,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U40,2,N0272,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U40,3,N0273,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U40,6,N0274,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U40,8,N0275,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U40,11,N0276,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U5,11,N0277,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U6,11,N0278,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U61,2,N0279,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U61,3,N0280,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U61,6,N0281,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U61,8,N0282,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U61,11,N0283,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U62,2,N0284,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U62,3,N0285,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U62,6,N0286,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U62,8,N0287,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U62,11,N0288,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U9,11,N0289,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus

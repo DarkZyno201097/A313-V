@@ -1,0 +1,128 @@
+﻿table,pin,signal,sheet,note
+DC13A,A1,GND,machnguon_A313V/NGUON_A313.SchDoc,
+DC13A,A2,+5V,machnguon_A313V/NGUON_A313.SchDoc,
+DC13A,A3,+27V,machnguon_A313V/NGUON_A313.SchDoc,
+DC13A,A4,Выход РК1,machnguon_A313V/NGUON_A313.SchDoc,allowed_singleton: cổng/nhãn ngoài chỉ có một chân linh kiện
+DC13A,A5,Выход РК18,machnguon_A313V/NGUON_A313.SchDoc,allowed_singleton: cổng/nhãn ngoài chỉ có một chân linh kiện
+DC13A,A6,Упр. выхoд РК2,machnguon_A313V/NGUON_A313.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: Упр. выхoд РК2; allowed_singleton: cổng/nhãn ngoài chỉ có một chân linh kiện
+DC13A,A7,Выход РК19,machnguon_A313V/NGUON_A313.SchDoc,allowed_singleton: cổng/nhãn ngoài chỉ có một chân linh kiện
+DC13A,A8,Упр. выхoд РК3,machnguon_A313V/NGUON_A313.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: Упр. выхoд РК3; allowed_singleton: cổng/nhãn ngoài chỉ có một chân linh kiện
+DC13A,A9,Упр. выхoд РК20,machnguon_A313V/NGUON_A313.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: Упр. выхoд РК20; allowed_singleton: cổng/nhãn ngoài chỉ có một chân linh kiện
+DC13A,A10,Выход РК6,machnguon_A313V/NGUON_A313.SchDoc,allowed_singleton: cổng/nhãn ngoài chỉ có một chân linh kiện
+DC13A,A11,Упр. выхoд РК21,machnguon_A313V/NGUON_A313.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: Упр. выхoд РК21; allowed_singleton: cổng/nhãn ngoài chỉ có một chân linh kiện
+DC13A,A12,Выход РК7,machnguon_A313V/NGUON_A313.SchDoc,allowed_singleton: cổng/nhãn ngoài chỉ có một chân linh kiện
+DC13A,A13,Выход РК24,machnguon_A313V/NGUON_A313.SchDoc,allowed_singleton: cổng/nhãn ngoài chỉ có một chân linh kiện
+DC13A,A14,Упр. выхoд РК8,machnguon_A313V/NGUON_A313.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: Упр. выхoд РК8; allowed_singleton: cổng/nhãn ngoài chỉ có một chân linh kiện
+DC13A,A15,Исправн. Ключ TTL,machnguon_A313V/NGUON_A313.SchDoc,allowed_singleton: cổng/nhãn ngoài chỉ có một chân linh kiện
+DC13A,A16,Выход РК10,machnguon_A313V/NGUON_A313.SchDoc,allowed_singleton: cổng/nhãn ngoài chỉ có một chân linh kiện
+DC13A,A17,Упр. выхoд РК25,machnguon_A313V/NGUON_A313.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: Упр. выхoд РК25; allowed_singleton: cổng/nhãn ngoài chỉ có một chân linh kiện
+DC13A,A18,Выход РК11,machnguon_A313V/NGUON_A313.SchDoc,allowed_singleton: cổng/nhãn ngoài chỉ có một chân linh kiện
+DC13A,A19,Выход РК28,machnguon_A313V/NGUON_A313.SchDoc,allowed_singleton: cổng/nhãn ngoài chỉ có một chân linh kiện
+DC13A,A20,Упр. выхoд РК12,machnguon_A313V/NGUON_A313.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: Упр. выхoд РК12; allowed_singleton: cổng/nhãn ngoài chỉ có một chân linh kiện
+DC13A,A21,Выход РК29,machnguon_A313V/NGUON_A313.SchDoc,allowed_singleton: cổng/nhãn ngoài chỉ có một chân linh kiện
+DC13A,A22,Упр. выхoд РК13,machnguon_A313V/NGUON_A313.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: Упр. выхoд РК13; allowed_singleton: cổng/nhãn ngoài chỉ có một chân linh kiện
+DC13A,A23,Упр. выхoд РК30,machnguon_A313V/NGUON_A313.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: Упр. выхoд РК30; allowed_singleton: cổng/nhãn ngoài chỉ có một chân linh kiện
+DC13A,A24,Выход РК16,machnguon_A313V/NGUON_A313.SchDoc,allowed_singleton: cổng/nhãn ngoài chỉ có một chân linh kiện
+DC13A,A25,Упр. выхoд РК31,machnguon_A313V/NGUON_A313.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: Упр. выхoд РК31; allowed_singleton: cổng/nhãn ngoài chỉ có một chân linh kiện
+DC13A,A26,N0011,machnguon_A313V/NGUON_A313.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC13A,A27,N0012,machnguon_A313V/NGUON_A313.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC13A,A28,N0013,machnguon_A313V/NGUON_A313.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC13A,A29,N0014,machnguon_A313V/NGUON_A313.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC13A,A30,+27V,machnguon_A313V/NGUON_A313.SchDoc,
+DC13A,A31,GND,machnguon_A313V/NGUON_A313.SchDoc,
+DC13A,A32,GND,machnguon_A313V/NGUON_A313.SchDoc,
+DC13A,B1,GND,machnguon_A313V/NGUON_A313.SchDoc,
+DC13A,B2,+5V,machnguon_A313V/NGUON_A313.SchDoc,
+DC13A,B3,+27V,machnguon_A313V/NGUON_A313.SchDoc,
+DC13A,B4,Выход РК17,machnguon_A313V/NGUON_A313.SchDoc,allowed_singleton: cổng/nhãn ngoài chỉ có một chân linh kiện
+DC13A,B5,Упр. выхoд РК1,machnguon_A313V/NGUON_A313.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: Упр. выхoд РК1; allowed_singleton: cổng/nhãn ngoài chỉ có một chân linh kiện
+DC13A,B6,Упр. выхoд РК18,machnguon_A313V/NGUON_A313.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: Упр. выхoд РК18; allowed_singleton: cổng/nhãn ngoài chỉ có một chân linh kiện
+DC13A,B7,Выход РК4,machnguon_A313V/NGUON_A313.SchDoc,allowed_singleton: cổng/nhãn ngoài chỉ có một chân linh kiện
+DC13A,B8,Упр. выхoд РК19,machnguon_A313V/NGUON_A313.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: Упр. выхoд РК19; allowed_singleton: cổng/nhãn ngoài chỉ có một chân linh kiện
+DC13A,B9,Выход РК5,machnguon_A313V/NGUON_A313.SchDoc,allowed_singleton: cổng/nhãn ngoài chỉ có một chân linh kiện
+DC13A,B10,Выход РК22,machnguon_A313V/NGUON_A313.SchDoc,allowed_singleton: cổng/nhãn ngoài chỉ có một chân linh kiện
+DC13A,B11,Упр. выхoд РК6,machnguon_A313V/NGUON_A313.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: Упр. выхoд РК6; allowed_singleton: cổng/nhãn ngoài chỉ có một chân linh kiện
+DC13A,B12,Выход РК23,machnguon_A313V/NGUON_A313.SchDoc,allowed_singleton: cổng/nhãn ngoài chỉ có một chân linh kiện
+DC13A,B13,Упр. выхoд РК7,machnguon_A313V/NGUON_A313.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: Упр. выхoд РК7; allowed_singleton: cổng/nhãn ngoài chỉ có một chân linh kiện
+DC13A,B14,Упр. выхoд РК24,machnguon_A313V/NGUON_A313.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: Упр. выхoд РК24; allowed_singleton: cổng/nhãn ngoài chỉ có một chân linh kiện
+DC13A,B15,Выход РК9,machnguon_A313V/NGUON_A313.SchDoc,allowed_singleton: cổng/nhãn ngoài chỉ có một chân linh kiện
+DC13A,B16,Выход РК26,machnguon_A313V/NGUON_A313.SchDoc,allowed_singleton: cổng/nhãn ngoài chỉ có một chân linh kiện
+DC13A,B17,Упр. выхoд РК10,machnguon_A313V/NGUON_A313.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: Упр. выхoд РК10; allowed_singleton: cổng/nhãn ngoài chỉ có một chân linh kiện
+DC13A,B18,Выход РК27,machnguon_A313V/NGUON_A313.SchDoc,allowed_singleton: cổng/nhãn ngoài chỉ có một chân linh kiện
+DC13A,B19,Упр. выхoд РК11,machnguon_A313V/NGUON_A313.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: Упр. выхoд РК11; allowed_singleton: cổng/nhãn ngoài chỉ có một chân linh kiện
+DC13A,B20,Упр. выхoд РК28,machnguon_A313V/NGUON_A313.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: Упр. выхoд РК28; allowed_singleton: cổng/nhãn ngoài chỉ có một chân linh kiện
+DC13A,B21,Выход РК14,machnguon_A313V/NGUON_A313.SchDoc,allowed_singleton: cổng/nhãn ngoài chỉ có một chân linh kiện
+DC13A,B22,Упр. выхoд РК29,machnguon_A313V/NGUON_A313.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: Упр. выхoд РК29; allowed_singleton: cổng/nhãn ngoài chỉ có một chân linh kiện
+DC13A,B23,Выход РК15,machnguon_A313V/NGUON_A313.SchDoc,allowed_singleton: cổng/nhãn ngoài chỉ có một chân linh kiện
+DC13A,B24,Выход РК32,machnguon_A313V/NGUON_A313.SchDoc,allowed_singleton: cổng/nhãn ngoài chỉ có một chân linh kiện
+DC13A,B25,Упр. выхoд РК16,machnguon_A313V/NGUON_A313.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: Упр. выхoд РК16; allowed_singleton: cổng/nhãn ngoài chỉ có một chân linh kiện
+DC13A,B26,N0015,machnguon_A313V/NGUON_A313.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC13A,B27,N0016,machnguon_A313V/NGUON_A313.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC13A,B28,N0017,machnguon_A313V/NGUON_A313.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC13A,B29,N0018,machnguon_A313V/NGUON_A313.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC13A,B30,+27V,machnguon_A313V/NGUON_A313.SchDoc,
+DC13A,B31,GND,machnguon_A313V/NGUON_A313.SchDoc,
+DC13A,B32,GND,machnguon_A313V/NGUON_A313.SchDoc,
+DC13A,C1,GND,machnguon_A313V/NGUON_A313.SchDoc,
+DC13A,C2,+5V,machnguon_A313V/NGUON_A313.SchDoc,
+DC13A,C3,+27V,machnguon_A313V/NGUON_A313.SchDoc,
+DC13A,C4,Выход РК2,machnguon_A313V/NGUON_A313.SchDoc,allowed_singleton: cổng/nhãn ngoài chỉ có một chân linh kiện
+DC13A,C5,Упр. выхoд РК17,machnguon_A313V/NGUON_A313.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: Упр. выхoд РК17; allowed_singleton: cổng/nhãn ngoài chỉ có một chân linh kiện
+DC13A,C6,Выход РК3,machnguon_A313V/NGUON_A313.SchDoc,allowed_singleton: cổng/nhãn ngoài chỉ có một chân linh kiện
+DC13A,C7,Выход РК20,machnguon_A313V/NGUON_A313.SchDoc,allowed_singleton: cổng/nhãn ngoài chỉ có một chân linh kiện
+DC13A,C8,Упр. выхoд РК4,machnguon_A313V/NGUON_A313.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: Упр. выхoд РК4; allowed_singleton: cổng/nhãn ngoài chỉ có một chân linh kiện
+DC13A,C9,Выход РК21,machnguon_A313V/NGUON_A313.SchDoc,allowed_singleton: cổng/nhãn ngoài chỉ có một chân linh kiện
+DC13A,C10,Упр. выхoд РК5,machnguon_A313V/NGUON_A313.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: Упр. выхoд РК5; allowed_singleton: cổng/nhãn ngoài chỉ có một chân linh kiện
+DC13A,C11,Упр. выхoд РК22,machnguon_A313V/NGUON_A313.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: Упр. выхoд РК22; allowed_singleton: cổng/nhãn ngoài chỉ có một chân linh kiện
+DC13A,C12,Выход РК8,machnguon_A313V/NGUON_A313.SchDoc,allowed_singleton: cổng/nhãn ngoài chỉ có một chân linh kiện
+DC13A,C13,Упр. выхoд РК23,machnguon_A313V/NGUON_A313.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: Упр. выхoд РК23; allowed_singleton: cổng/nhãn ngoài chỉ có một chân linh kiện
+DC13A,C14,Испр Ключ,machnguon_A313V/NGUON_A313.SchDoc,allowed_singleton: cổng/nhãn ngoài chỉ có một chân linh kiện
+DC13A,C15,Выход РК25,machnguon_A313V/NGUON_A313.SchDoc,allowed_singleton: cổng/nhãn ngoài chỉ có một chân linh kiện
+DC13A,C16,Упр. выхoд РК9,machnguon_A313V/NGUON_A313.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: Упр. выхoд РК9; allowed_singleton: cổng/nhãn ngoài chỉ có một chân linh kiện
+DC13A,C17,Упр. выхoд РК26,machnguon_A313V/NGUON_A313.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: Упр. выхoд РК26; allowed_singleton: cổng/nhãn ngoài chỉ có một chân linh kiện
+DC13A,C18,Выход РК12,machnguon_A313V/NGUON_A313.SchDoc,allowed_singleton: cổng/nhãn ngoài chỉ có một chân linh kiện
+DC13A,C19,Упр. выхoд РК27,machnguon_A313V/NGUON_A313.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: Упр. выхoд РК27; allowed_singleton: cổng/nhãn ngoài chỉ có một chân linh kiện
+DC13A,C20,Выход РК13,machnguon_A313V/NGUON_A313.SchDoc,allowed_singleton: cổng/nhãn ngoài chỉ có một chân linh kiện
+DC13A,C21,Выход РК30,machnguon_A313V/NGUON_A313.SchDoc,allowed_singleton: cổng/nhãn ngoài chỉ có một chân linh kiện
+DC13A,C22,Упр. выхoд РК14,machnguon_A313V/NGUON_A313.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: Упр. выхoд РК14; allowed_singleton: cổng/nhãn ngoài chỉ có một chân linh kiện
+DC13A,C23,Выход РК31,machnguon_A313V/NGUON_A313.SchDoc,allowed_singleton: cổng/nhãn ngoài chỉ có một chân linh kiện
+DC13A,C24,Упр. выхoд РК15,machnguon_A313V/NGUON_A313.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: Упр. выхoд РК15; allowed_singleton: cổng/nhãn ngoài chỉ có một chân linh kiện
+DC13A,C25,Упр. выхoд РК32,machnguon_A313V/NGUON_A313.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: Упр. выхoд РК32; allowed_singleton: cổng/nhãn ngoài chỉ có một chân linh kiện
+DC13A,C26,N0019,machnguon_A313V/NGUON_A313.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC13A,C27,N0020,machnguon_A313V/NGUON_A313.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC13A,C28,N0021,machnguon_A313V/NGUON_A313.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC13A,C29,N0022,machnguon_A313V/NGUON_A313.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC13A,C30,+27V,machnguon_A313V/NGUON_A313.SchDoc,
+DC13A,C31,GND,machnguon_A313V/NGUON_A313.SchDoc,
+DC13A,C32,GND,machnguon_A313V/NGUON_A313.SchDoc,
+DC14C,1A,+5V,machnguon_A313V/NGUON_A313.SchDoc,
+DC14C,1B,+5V,machnguon_A313V/NGUON_A313.SchDoc,
+DC14C,2A,+5V,machnguon_A313V/NGUON_A313.SchDoc,
+DC14C,2B,+5V,machnguon_A313V/NGUON_A313.SchDoc,
+DC14C,3A,+6.3V,machnguon_A313V/NGUON_A313.SchDoc,
+DC14C,3B,+6.3V,machnguon_A313V/NGUON_A313.SchDoc,
+DC14C,4A,+6.3V,machnguon_A313V/NGUON_A313.SchDoc,
+DC14C,4B,+12.6V,machnguon_A313V/NGUON_A313.SchDoc,
+DC14C,5A,+12.6V,machnguon_A313V/NGUON_A313.SchDoc,
+DC14C,5B,+12.6V,machnguon_A313V/NGUON_A313.SchDoc,
+DC14C,6A,27V,machnguon_A313V/NGUON_A313.SchDoc,
+DC14C,6B,27V,machnguon_A313V/NGUON_A313.SchDoc,
+DC14C,7A,27V,machnguon_A313V/NGUON_A313.SchDoc,
+DC14C,7B,+3.5V,machnguon_A313V/NGUON_A313.SchDoc,
+DC14C,8A,+3.5V,machnguon_A313V/NGUON_A313.SchDoc,
+DC14C,8B,+3.5V,machnguon_A313V/NGUON_A313.SchDoc,
+DC14C,9A,-12.6V,machnguon_A313V/NGUON_A313.SchDoc,
+DC14C,9B,-12.6V,machnguon_A313V/NGUON_A313.SchDoc,
+DC14C,10A,-12.6V,machnguon_A313V/NGUON_A313.SchDoc,
+DC14C,10B,-6.3V,machnguon_A313V/NGUON_A313.SchDoc,
+DC14C,11A,-6.3V,machnguon_A313V/NGUON_A313.SchDoc,
+DC14C,11B,-6.3V,machnguon_A313V/NGUON_A313.SchDoc,
+DC14C,12A,-23V,machnguon_A313V/NGUON_A313.SchDoc,
+DC14C,12B,-23V,machnguon_A313V/NGUON_A313.SchDoc,
+DC14C,13A,-23V,machnguon_A313V/NGUON_A313.SchDoc,
+DC14C,13B,GND,machnguon_A313V/NGUON_A313.SchDoc,
+DC14C,14A,GND,machnguon_A313V/NGUON_A313.SchDoc,
+DC14C,14B,GND,machnguon_A313V/NGUON_A313.SchDoc,
+DC14C,15A,GND,machnguon_A313V/NGUON_A313.SchDoc,
+DC14C,15B,GND,machnguon_A313V/NGUON_A313.SchDoc,
+DC14C,16B,GND,machnguon_A313V/NGUON_A313.SchDoc,

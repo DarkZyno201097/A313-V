@@ -1,0 +1,32 @@
+﻿table,pin,signal,sheet,note
+DC14D,1A,-5b,machkiemtranguon/mach_kiem_tra_nguon.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: -5b
+DC14D,1B,-5b,machkiemtranguon/mach_kiem_tra_nguon.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: -5b
+DC14D,2A,+5b,machkiemtranguon/mach_kiem_tra_nguon.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: +5b
+DC14D,2B,+5b,machkiemtranguon/mach_kiem_tra_nguon.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: +5b
+DC14D,3A,+6.3b,machkiemtranguon/mach_kiem_tra_nguon.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: +6.3b
+DC14D,3B,+6.3b,machkiemtranguon/mach_kiem_tra_nguon.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: +6.3b
+DC14D,4A,-6.3b,machkiemtranguon/mach_kiem_tra_nguon.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: -6.3b
+DC14D,4B,-6.3b,machkiemtranguon/mach_kiem_tra_nguon.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: -6.3b
+DC14D,5A,+27b,machkiemtranguon/mach_kiem_tra_nguon.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: +27b
+DC14D,5B,+27b,machkiemtranguon/mach_kiem_tra_nguon.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: +27b
+DC14D,6A,-20b,machkiemtranguon/mach_kiem_tra_nguon.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: -20b
+DC14D,6B,-20b,machkiemtranguon/mach_kiem_tra_nguon.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: -20b
+DC14D,7A,+12.6B/+12.6b,machkiemtranguon/mach_kiem_tra_nguon.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: +12.6b; ? nhiều nhãn trên cùng net: +12.6B/+12.6b
+DC14D,7B,+12.6B/+12.6b,machkiemtranguon/mach_kiem_tra_nguon.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: +12.6b; ? nhiều nhãn trên cùng net: +12.6B/+12.6b
+DC14D,8A,-12.6b,machkiemtranguon/mach_kiem_tra_nguon.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: -12.6b
+DC14D,8B,-12.6b,machkiemtranguon/mach_kiem_tra_nguon.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: -12.6b
+DC14D,9A,18,machkiemtranguon/mach_kiem_tra_nguon.SchDoc,
+DC14D,9B,4,machkiemtranguon/mach_kiem_tra_nguon.SchDoc,
+DC14D,10A,4,machkiemtranguon/mach_kiem_tra_nguon.SchDoc,
+DC14D,10B,8,machkiemtranguon/mach_kiem_tra_nguon.SchDoc,
+DC14D,11A,17,machkiemtranguon/mach_kiem_tra_nguon.SchDoc,
+DC14D,11B,17,machkiemtranguon/mach_kiem_tra_nguon.SchDoc,
+DC14D,12A,10,machkiemtranguon/mach_kiem_tra_nguon.SchDoc,
+DC14D,12B,16,machkiemtranguon/mach_kiem_tra_nguon.SchDoc,
+DC14D,13A,16,machkiemtranguon/mach_kiem_tra_nguon.SchDoc,
+DC14D,13B,GND,machkiemtranguon/mach_kiem_tra_nguon.SchDoc,
+DC14D,14A,GND,machkiemtranguon/mach_kiem_tra_nguon.SchDoc,
+DC14D,14B,GND,machkiemtranguon/mach_kiem_tra_nguon.SchDoc,
+DC14D,15A,GND,machkiemtranguon/mach_kiem_tra_nguon.SchDoc,
+DC14D,15B,GND,machkiemtranguon/mach_kiem_tra_nguon.SchDoc,
+DC14D,16B,GND,machkiemtranguon/mach_kiem_tra_nguon.SchDoc,

@@ -1,0 +1,305 @@
+﻿ref,pin,net,note
+J?,13,+12.6b,? nhãn có mã font Latin chưa giải mã chắc chắn: +12.6b
+R?@record182,1,+12.6b,? nhãn có mã font Latin chưa giải mã chắc chắn: +12.6b
+R?@record767,1,+12.6b,? nhãn có mã font Latin chưa giải mã chắc chắn: +12.6b
+R?@record1026,1,+12.6b,? nhãn có mã font Latin chưa giải mã chắc chắn: +12.6b
+R?@record1138,1,+12.6b,? nhãn có mã font Latin chưa giải mã chắc chắn: +12.6b
+U?@record500,7,+12.6b,? nhãn có mã font Latin chưa giải mã chắc chắn: +12.6b
+U?@record683,7,+12.6b,? nhãn có mã font Latin chưa giải mã chắc chắn: +12.6b
+U?@record868,7,+12.6b,? nhãn có mã font Latin chưa giải mã chắc chắn: +12.6b
+C?@record1189,1,+27b,? nhãn có mã font Latin chưa giải mã chắc chắn: +27b
+J?,6,+27b,? nhãn có mã font Latin chưa giải mã chắc chắn: +27b
+R?@record428,1,+27b,? nhãn có mã font Latin chưa giải mã chắc chắn: +27b
+R?@record988,2,+27b,? nhãn có mã font Latin chưa giải mã chắc chắn: +27b
+R?@record1155,2,+27b,? nhãn có mã font Latin chưa giải mã chắc chắn: +27b
+R?@record1172,1,+27b,? nhãn có mã font Latin chưa giải mã chắc chắn: +27b
+R?@record1227,1,+27b,? nhãn có mã font Latin chưa giải mã chắc chắn: +27b
+R?@record1515,2,+27b,? nhãn có mã font Latin chưa giải mã chắc chắn: +27b
+R?@record1840,2,+27b,? nhãn có mã font Latin chưa giải mã chắc chắn: +27b
+J?,11,+5b,? nhãn có mã font Latin chưa giải mã chắc chắn: +5b
+R?@record550,1,+5b,? nhãn có mã font Latin chưa giải mã chắc chắn: +5b
+J?,14,+6.3b,? nhãn có mã font Latin chưa giải mã chắc chắn: +6.3b
+R?@record367,1,+6.3b,? nhãn có mã font Latin chưa giải mã chắc chắn: +6.3b
+J?,7,-12.6b,? nhãn có mã font Latin chưa giải mã chắc chắn: -12.6b
+R?@record1060,2,-12.6b,? nhãn có mã font Latin chưa giải mã chắc chắn: -12.6b
+R?@record1278,2,-12.6b,? nhãn có mã font Latin chưa giải mã chắc chắn: -12.6b
+U?@record500,1,-12.6b,? nhãn có mã font Latin chưa giải mã chắc chắn: -12.6b
+U?@record683,1,-12.6b,? nhãn có mã font Latin chưa giải mã chắc chắn: -12.6b
+U?@record835,1,-12.6b,? nhãn có mã font Latin chưa giải mã chắc chắn: -12.6b
+U?@record868,1,-12.6b,? nhãn có mã font Latin chưa giải mã chắc chắn: -12.6b
+J?,9,-20b,? nhãn có mã font Latin chưa giải mã chắc chắn: -20b
+R?@record818,2,-20b,? nhãn có mã font Latin chưa giải mã chắc chắn: -20b
+J?,2,-5b,? nhãn có mã font Latin chưa giải mã chắc chắn: -5b
+R?@record1204,3,-5b,? nhãn có mã font Latin chưa giải mã chắc chắn: -5b
+J?,3,-6.3b,? nhãn có mã font Latin chưa giải mã chắc chắn: -6.3b
+R?@record1458,2,-6.3b,? nhãn có mã font Latin chưa giải mã chắc chắn: -6.3b
+C?@record901,2,GND,
+C?@record1739,2,GND,
+D?@record390,1,GND,
+D?@record733,2,GND,
+D?@record1043,1,GND,
+D?@record1261,1,GND,
+D?@record1707,1,GND,
+J?,1,GND,
+R?@record49,1,GND,
+R?@record82,1,GND,
+R?@record105,2,GND,
+R?@record550,3,GND,
+R?@record618,1,GND,
+R?@record750,2,GND,
+R?@record801,1,GND,
+R?@record1077,2,GND,
+R?@record1094,1,GND,
+R?@record1204,1,GND,
+R?@record1244,1,GND,
+R?@record1295,3,GND,
+R?@record1322,1,GND,
+R?@record1492,1,GND,
+R?@record1532,3,GND,
+R?@record1555,2,GND,
+R?@record1572,2,GND,
+R?@record1722,1,GND,
+R?@record1857,3,GND,
+R?@record1981,3,GND,
+T?@record346,2,GND,
+T?@record407,2,GND,
+T?@record479,2,GND,
+T?@record662,2,GND,
+T?@record918,2,GND,
+T?@record1005,2,GND,
+T?@record1884,2,GND,
+U?@record500,4,GND,
+U?@record868,4,GND,
+J?,10,J1/10,
+R?@record1155,1,J1/10,
+T?@record479,3,J1/10,
+D?@record1043,2,J1/16,
+J?,16,J1/16,
+R?@record1555,1,J1/16,
+T?@record1117,2,J1/16,
+J?,17,J1/17,
+T?@record1005,3,J1/17,
+D?@record152,1,J1/18,
+D?@record603,2,J1/18,
+D?@record1966,2,J1/18,
+J?,18,J1/18,
+D?@record954,1,J1/4,
+J?,4,J1/4,
+D?@record137,1,J1/8,
+D?@record297,2,J1/8,
+D?@record588,2,J1/8,
+J?,8,J1/8,
+R?@record716,1,J1/8,
+C?@record1189,2,N0001,
+D?@record1707,2,N0001,
+R?@record533,2,N0001,
+C?@record1739,1,N0002,
+R?@record716,2,N0002,
+R?@record1244,2,N0002,
+T?@record407,1,N0002,
+C?@record901,1,N0003,
+D?@record1420,2,N0003,
+R?@record1138,2,N0003,
+T?@record662,3,N0003,
+D?@record122,1,N0004,
+R?@record1492,2,N0004,
+D?@record122,2,N0005,
+R?@record1475,1,N0005,
+U?@record868,9,N0005,
+D?@record1261,2,N0006,
+R?@record1172,2,N0006,
+U?@record835,7,N0006,
+D?@record137,2,N0007,
+D?@record152,2,N0007,
+R?@record199,2,N0007,
+D?@record1420,1,N0008,
+R?@record1572,1,N0008,
+T?@record346,1,N0008,
+D?@record1589,1,N0009,
+R?@record105,1,N0009,
+U?@record500,10,N0009,
+D?@record1589,2,N0010,
+R?@record1857,2,N0010,
+D?@record167,1,N0011,
+R?@record1094,2,N0011,
+D?@record167,2,N0012,
+R?@record1722,2,N0012,
+U?@record683,9,N0012,
+D?@record1966,1,N0013,
+U?@record868,5,N0013,
+D?@record297,1,N0014,
+U?@record683,5,N0014,
+D?@record390,2,N0015,
+R?@record462,1,N0015,
+R?@record784,1,N0015,
+R?@record1227,2,N0015,
+R?@record1905,1,N0015,
+D?@record573,1,N0016,
+R?@record1905,2,N0016,
+U?@record835,10,N0016,
+D?@record573,2,N0017,
+R?@record1981,2,N0017,
+D?@record588,1,N0018,
+U?@record500,5,N0018,
+D?@record603,1,N0019,
+U?@record835,5,N0019,
+D?@record733,1,N0020,
+R?@record645,2,N0020,
+R?@record1278,1,N0020,
+R?@record1475,2,N0020,
+R?@record1690,1,N0020,
+D?@record939,1,N0021,
+R?@record329,1,N0021,
+R?@record533,1,N0021,
+D?@record939,2,N0022,
+T?@record1884,1,N0022,
+D?@record954,2,N0023,
+R?@record1322,2,N0023,
+T?@record1437,2,N0023,
+J?,5,N0024,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+J?,12,N0025,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+J?,15,N0026,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+R?@record312,1,N0027,
+R?@record445,2,N0027,
+R?@record1026,2,N0027,
+T?@record918,3,N0027,
+T?@record1117,1,N0027,
+R?@record82,3,N0028,
+R?@record1060,1,N0028,
+R?@record1077,1,N0029,
+U?@record500,9,N0029,
+U?@record1604,9,N0029,
+U?@record1604,10,N0029,
+U?@record1604,11,N0029,
+U?@record1604,12,N0029,
+R?@record784,2,N0030,
+R?@record1094,3,N0030,
+R?@record2028,2,N0030,
+R?@record1204,2,N0031,
+U?@record1339,5,N0031,
+U?@record1604,4,N0031,
+R?@record367,2,N0032,
+R?@record1295,1,N0032,
+R?@record1295,2,N0033,
+U?@record216,2,N0033,
+U?@record1754,7,N0033,
+R?@record1295,4,N0034,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+R?@record1295,5,N0035,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+R?@record49,3,N0036,
+R?@record1458,1,N0036,
+R?@record645,1,N0037,
+R?@record1492,3,N0037,
+R?@record329,2,N0038,
+R?@record1515,1,N0038,
+T?@record407,3,N0038,
+R?@record767,2,N0039,
+R?@record1532,1,N0039,
+R?@record1532,2,N0040,
+U?@record216,4,N0040,
+U?@record1754,5,N0040,
+R?@record971,2,N0041,
+R?@record1690,2,N0041,
+R?@record1857,1,N0041,
+R?@record182,2,N0042,
+T?@record1117,3,N0042,
+R?@record1840,1,N0043,
+T?@record1437,3,N0043,
+R?@record1857,4,N0044,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+R?@record1857,5,N0045,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+R?@record462,2,N0046,
+R?@record1981,1,N0046,
+R?@record1981,4,N0047,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+R?@record1981,5,N0048,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+R?@record199,1,N0049,
+R?@record750,1,N0049,
+T?@record662,1,N0049,
+R?@record2028,1,N0050,
+U?@record835,9,N0050,
+U?@record1754,10,N0050,
+R?@record312,2,N0051,
+T?@record1005,1,N0051,
+R?@record428,2,N0052,
+T?@record346,3,N0052,
+T?@record918,1,N0052,
+R?@record445,1,N0053,
+T?@record479,1,N0053,
+R?@record49,2,N0054,
+U?@record1339,4,N0054,
+U?@record1604,5,N0054,
+R?@record49,4,N0055,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+R?@record49,5,N0056,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+R?@record550,2,N0057,
+U?@record216,1,N0057,
+U?@record1754,8,N0057,
+R?@record618,2,N0058,
+U?@record1339,1,N0058,
+U?@record1604,8,N0058,
+R?@record618,3,N0059,
+R?@record818,1,N0059,
+R?@record618,4,N0060,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+R?@record618,5,N0061,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+R?@record801,2,N0062,
+U?@record216,9,N0062,
+U?@record216,10,N0062,
+U?@record216,11,N0062,
+U?@record216,12,N0062,
+U?@record683,10,N0062,
+R?@record82,2,N0063,
+U?@record1339,2,N0063,
+U?@record1604,7,N0063,
+R?@record971,1,N0064,
+U?@record868,10,N0064,
+U?@record1339,10,N0064,
+R?@record988,1,N0065,
+T?@record1437,1,N0065,
+T?@record1884,3,N0065,
+U?@record1339,3,N0066,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U?@record1339,6,N0067,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U?@record1339,7,N0068,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U?@record1339,8,N0069,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U?@record1339,9,N0070,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U?@record1339,11,N0071,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U?@record1339,12,N0072,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U?@record1604,1,N0073,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U?@record1604,2,N0074,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U?@record1604,3,N0075,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U?@record1604,6,N0076,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U?@record1754,1,N0077,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U?@record1754,2,N0078,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U?@record1754,3,N0079,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U?@record1754,4,N0080,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U?@record1754,6,N0081,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U?@record1754,9,N0082,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U?@record1754,11,N0083,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U?@record1754,12,N0084,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U?@record216,3,N0085,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U?@record216,5,N0086,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U?@record216,6,N0087,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U?@record216,7,N0088,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U?@record216,8,N0089,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U?@record500,2,N0090,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U?@record500,3,N0091,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U?@record500,6,N0092,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U?@record500,8,N0093,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U?@record500,11,N0094,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U?@record500,12,N0095,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U?@record683,2,N0096,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U?@record683,3,N0097,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U?@record683,4,N0098,
+U?@record835,4,N0098,
+U?@record683,6,N0099,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U?@record683,8,N0100,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U?@record683,11,N0101,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U?@record683,12,N0102,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U?@record835,2,N0103,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U?@record835,3,N0104,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U?@record835,6,N0105,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U?@record835,8,N0106,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U?@record835,11,N0107,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U?@record835,12,N0108,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U?@record868,2,N0109,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U?@record868,3,N0110,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U?@record868,6,N0111,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U?@record868,8,N0112,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U?@record868,11,N0113,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U?@record868,12,N0114,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus

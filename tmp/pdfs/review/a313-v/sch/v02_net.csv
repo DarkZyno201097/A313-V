@@ -1,0 +1,1100 @@
+﻿ref,pin,net,note
+DC3,A3,"+3,5V",
+DC3,B3,"+3,5V",
+DC3,C3,"+3,5V",
+U65,1,"+3,5V",
+U65,4,"+3,5V",
+U65,7,"+3,5V",
+U65,12,"+3,5V",
+U66,1,"+3,5V",
+U66,4,"+3,5V",
+U66,7,"+3,5V",
+U66,12,"+3,5V",
+U67,1,"+3,5V",
+U67,4,"+3,5V",
+U67,7,"+3,5V",
+U67,12,"+3,5V",
+U68,1,"+3,5V",
+U68,4,"+3,5V",
+U68,7,"+3,5V",
+U68,12,"+3,5V",
+U69,1,"+3,5V",
+U69,4,"+3,5V",
+U69,7,"+3,5V",
+U69,12,"+3,5V",
+U70,1,"+3,5V",
+U70,4,"+3,5V",
+U70,7,"+3,5V",
+U70,12,"+3,5V",
+U71,1,"+3,5V",
+U71,4,"+3,5V",
+U71,7,"+3,5V",
+U71,12,"+3,5V",
+U72,1,"+3,5V",
+U72,4,"+3,5V",
+U72,7,"+3,5V",
+U72,12,"+3,5V",
+U73,1,"+3,5V",
+U73,4,"+3,5V",
+U73,7,"+3,5V",
+U73,12,"+3,5V",
+U74,1,"+3,5V",
+U74,4,"+3,5V",
+U74,7,"+3,5V",
+U74,12,"+3,5V",
+U75,1,"+3,5V",
+U75,4,"+3,5V",
+U75,7,"+3,5V",
+U76,1,"+3,5V",
+U76,4,"+3,5V",
+U76,7,"+3,5V",
+U76,12,"+3,5V",
+DC3,A2,+5V,
+DC3,B2,+5V,
+DC3,C2,+5V,
+R96,2,+5V,
+R99,2,+5V,
+R102,2,+5V,
+R105,2,+5V,
+R108,2,+5V,
+R111,2,+5V,
+R114,2,+5V,
+R117,2,+5V,
+R120,2,+5V,
+R123,2,+5V,
+R126,2,+5V,
+R129,2,+5V,
+R139,2,+5V,
+R140,2,+5V,
+R141,2,+5V,
+R142,2,+5V,
+R151,2,+5V,
+R152,2,+5V,
+R153,2,+5V,
+R154,2,+5V,
+R163,2,+5V,
+R164,2,+5V,
+R165,2,+5V,
+R166,2,+5V,
+R175,2,+5V,
+R176,2,+5V,
+R177,2,+5V,
+R178,2,+5V,
+R187,2,+5V,
+R188,2,+5V,
+R189,2,+5V,
+R190,2,+5V,
+R199,2,+5V,
+R200,2,+5V,
+R201,2,+5V,
+R202,2,+5V,
+R211,2,+5V,
+R212,2,+5V,
+R213,2,+5V,
+R214,2,+5V,
+R223,2,+5V,
+R224,2,+5V,
+R225,2,+5V,
+R227,2,+5V,
+R230,2,+5V,
+R233,2,+5V,
+R236,2,+5V,
+DC3,A4,"+6,3V",
+DC3,B4,"+6,3V",
+DC3,C4,"+6,3V",
+R1,2,"+6,3V",
+R2,2,"+6,3V",
+R3,2,"+6,3V",
+R4,2,"+6,3V",
+R5,2,"+6,3V",
+R6,2,"+6,3V",
+R7,2,"+6,3V",
+R48,2,"+6,3V",
+R49,2,"+6,3V",
+R50,2,"+6,3V",
+U1,11,"+6,3V",
+U2,11,"+6,3V",
+U3,11,"+6,3V",
+U4,11,"+6,3V",
+U5,11,"+6,3V",
+U6,11,"+6,3V",
+U7,11,"+6,3V",
+U8,11,"+6,3V",
+U9,11,"+6,3V",
+U13,11,"+6,3V",
+U14,11,"+6,3V",
+U15,11,"+6,3V",
+U16,11,"+6,3V",
+U17,11,"+6,3V",
+U18,11,"+6,3V",
+U19,11,"+6,3V",
+U20,11,"+6,3V",
+U21,11,"+6,3V",
+DC4,A2,-23V/contr cod ttl,? nhãn có mã font Latin chưa giải mã chắc chắn: contr cod ttl; ? nhiều nhãn trên cùng net: -23V/contr cod ttl
+DC4,A19,-23V/contr cod ttl,? nhãn có mã font Latin chưa giải mã chắc chắn: contr cod ttl; ? nhiều nhãn trên cùng net: -23V/contr cod ttl
+DC4,B2,-23V/contr cod ttl,? nhãn có mã font Latin chưa giải mã chắc chắn: contr cod ttl; ? nhiều nhãn trên cùng net: -23V/contr cod ttl
+DC4,C2,-23V/contr cod ttl,? nhãn có mã font Latin chưa giải mã chắc chắn: contr cod ttl; ? nhiều nhãn trên cùng net: -23V/contr cod ttl
+R1,1,-23V/contr cod ttl,? nhãn có mã font Latin chưa giải mã chắc chắn: contr cod ttl; ? nhiều nhãn trên cùng net: -23V/contr cod ttl
+R48,1,-23V/contr cod ttl,? nhãn có mã font Latin chưa giải mã chắc chắn: contr cod ttl; ? nhiều nhãn trên cùng net: -23V/contr cod ttl
+R97,1,-23V/contr cod ttl,? nhãn có mã font Latin chưa giải mã chắc chắn: contr cod ttl; ? nhiều nhãn trên cùng net: -23V/contr cod ttl
+R100,1,-23V/contr cod ttl,? nhãn có mã font Latin chưa giải mã chắc chắn: contr cod ttl; ? nhiều nhãn trên cùng net: -23V/contr cod ttl
+R103,1,-23V/contr cod ttl,? nhãn có mã font Latin chưa giải mã chắc chắn: contr cod ttl; ? nhiều nhãn trên cùng net: -23V/contr cod ttl
+R106,1,-23V/contr cod ttl,? nhãn có mã font Latin chưa giải mã chắc chắn: contr cod ttl; ? nhiều nhãn trên cùng net: -23V/contr cod ttl
+R109,1,-23V/contr cod ttl,? nhãn có mã font Latin chưa giải mã chắc chắn: contr cod ttl; ? nhiều nhãn trên cùng net: -23V/contr cod ttl
+R112,1,-23V/contr cod ttl,? nhãn có mã font Latin chưa giải mã chắc chắn: contr cod ttl; ? nhiều nhãn trên cùng net: -23V/contr cod ttl
+R115,1,-23V/contr cod ttl,? nhãn có mã font Latin chưa giải mã chắc chắn: contr cod ttl; ? nhiều nhãn trên cùng net: -23V/contr cod ttl
+R118,1,-23V/contr cod ttl,? nhãn có mã font Latin chưa giải mã chắc chắn: contr cod ttl; ? nhiều nhãn trên cùng net: -23V/contr cod ttl
+R121,1,-23V/contr cod ttl,? nhãn có mã font Latin chưa giải mã chắc chắn: contr cod ttl; ? nhiều nhãn trên cùng net: -23V/contr cod ttl
+R124,1,-23V/contr cod ttl,? nhãn có mã font Latin chưa giải mã chắc chắn: contr cod ttl; ? nhiều nhãn trên cùng net: -23V/contr cod ttl
+R127,1,-23V/contr cod ttl,? nhãn có mã font Latin chưa giải mã chắc chắn: contr cod ttl; ? nhiều nhãn trên cùng net: -23V/contr cod ttl
+R130,1,-23V/contr cod ttl,? nhãn có mã font Latin chưa giải mã chắc chắn: contr cod ttl; ? nhiều nhãn trên cùng net: -23V/contr cod ttl
+R131,1,-23V/contr cod ttl,? nhãn có mã font Latin chưa giải mã chắc chắn: contr cod ttl; ? nhiều nhãn trên cùng net: -23V/contr cod ttl
+R132,1,-23V/contr cod ttl,? nhãn có mã font Latin chưa giải mã chắc chắn: contr cod ttl; ? nhiều nhãn trên cùng net: -23V/contr cod ttl
+R133,1,-23V/contr cod ttl,? nhãn có mã font Latin chưa giải mã chắc chắn: contr cod ttl; ? nhiều nhãn trên cùng net: -23V/contr cod ttl
+R134,1,-23V/contr cod ttl,? nhãn có mã font Latin chưa giải mã chắc chắn: contr cod ttl; ? nhiều nhãn trên cùng net: -23V/contr cod ttl
+R137,1,-23V/contr cod ttl,? nhãn có mã font Latin chưa giải mã chắc chắn: contr cod ttl; ? nhiều nhãn trên cùng net: -23V/contr cod ttl
+R143,1,-23V/contr cod ttl,? nhãn có mã font Latin chưa giải mã chắc chắn: contr cod ttl; ? nhiều nhãn trên cùng net: -23V/contr cod ttl
+R144,1,-23V/contr cod ttl,? nhãn có mã font Latin chưa giải mã chắc chắn: contr cod ttl; ? nhiều nhãn trên cùng net: -23V/contr cod ttl
+R145,1,-23V/contr cod ttl,? nhãn có mã font Latin chưa giải mã chắc chắn: contr cod ttl; ? nhiều nhãn trên cùng net: -23V/contr cod ttl
+R146,1,-23V/contr cod ttl,? nhãn có mã font Latin chưa giải mã chắc chắn: contr cod ttl; ? nhiều nhãn trên cùng net: -23V/contr cod ttl
+R155,1,-23V/contr cod ttl,? nhãn có mã font Latin chưa giải mã chắc chắn: contr cod ttl; ? nhiều nhãn trên cùng net: -23V/contr cod ttl
+R156,1,-23V/contr cod ttl,? nhãn có mã font Latin chưa giải mã chắc chắn: contr cod ttl; ? nhiều nhãn trên cùng net: -23V/contr cod ttl
+R157,1,-23V/contr cod ttl,? nhãn có mã font Latin chưa giải mã chắc chắn: contr cod ttl; ? nhiều nhãn trên cùng net: -23V/contr cod ttl
+R158,1,-23V/contr cod ttl,? nhãn có mã font Latin chưa giải mã chắc chắn: contr cod ttl; ? nhiều nhãn trên cùng net: -23V/contr cod ttl
+R167,1,-23V/contr cod ttl,? nhãn có mã font Latin chưa giải mã chắc chắn: contr cod ttl; ? nhiều nhãn trên cùng net: -23V/contr cod ttl
+R168,1,-23V/contr cod ttl,? nhãn có mã font Latin chưa giải mã chắc chắn: contr cod ttl; ? nhiều nhãn trên cùng net: -23V/contr cod ttl
+R169,1,-23V/contr cod ttl,? nhãn có mã font Latin chưa giải mã chắc chắn: contr cod ttl; ? nhiều nhãn trên cùng net: -23V/contr cod ttl
+R170,1,-23V/contr cod ttl,? nhãn có mã font Latin chưa giải mã chắc chắn: contr cod ttl; ? nhiều nhãn trên cùng net: -23V/contr cod ttl
+R179,1,-23V/contr cod ttl,? nhãn có mã font Latin chưa giải mã chắc chắn: contr cod ttl; ? nhiều nhãn trên cùng net: -23V/contr cod ttl
+R180,1,-23V/contr cod ttl,? nhãn có mã font Latin chưa giải mã chắc chắn: contr cod ttl; ? nhiều nhãn trên cùng net: -23V/contr cod ttl
+R181,1,-23V/contr cod ttl,? nhãn có mã font Latin chưa giải mã chắc chắn: contr cod ttl; ? nhiều nhãn trên cùng net: -23V/contr cod ttl
+R182,1,-23V/contr cod ttl,? nhãn có mã font Latin chưa giải mã chắc chắn: contr cod ttl; ? nhiều nhãn trên cùng net: -23V/contr cod ttl
+R191,1,-23V/contr cod ttl,? nhãn có mã font Latin chưa giải mã chắc chắn: contr cod ttl; ? nhiều nhãn trên cùng net: -23V/contr cod ttl
+R192,1,-23V/contr cod ttl,? nhãn có mã font Latin chưa giải mã chắc chắn: contr cod ttl; ? nhiều nhãn trên cùng net: -23V/contr cod ttl
+R193,1,-23V/contr cod ttl,? nhãn có mã font Latin chưa giải mã chắc chắn: contr cod ttl; ? nhiều nhãn trên cùng net: -23V/contr cod ttl
+R194,1,-23V/contr cod ttl,? nhãn có mã font Latin chưa giải mã chắc chắn: contr cod ttl; ? nhiều nhãn trên cùng net: -23V/contr cod ttl
+R203,1,-23V/contr cod ttl,? nhãn có mã font Latin chưa giải mã chắc chắn: contr cod ttl; ? nhiều nhãn trên cùng net: -23V/contr cod ttl
+R204,1,-23V/contr cod ttl,? nhãn có mã font Latin chưa giải mã chắc chắn: contr cod ttl; ? nhiều nhãn trên cùng net: -23V/contr cod ttl
+R205,1,-23V/contr cod ttl,? nhãn có mã font Latin chưa giải mã chắc chắn: contr cod ttl; ? nhiều nhãn trên cùng net: -23V/contr cod ttl
+R206,1,-23V/contr cod ttl,? nhãn có mã font Latin chưa giải mã chắc chắn: contr cod ttl; ? nhiều nhãn trên cùng net: -23V/contr cod ttl
+R215,1,-23V/contr cod ttl,? nhãn có mã font Latin chưa giải mã chắc chắn: contr cod ttl; ? nhiều nhãn trên cùng net: -23V/contr cod ttl
+R216,1,-23V/contr cod ttl,? nhãn có mã font Latin chưa giải mã chắc chắn: contr cod ttl; ? nhiều nhãn trên cùng net: -23V/contr cod ttl
+R217,1,-23V/contr cod ttl,? nhãn có mã font Latin chưa giải mã chắc chắn: contr cod ttl; ? nhiều nhãn trên cùng net: -23V/contr cod ttl
+R228,1,-23V/contr cod ttl,? nhãn có mã font Latin chưa giải mã chắc chắn: contr cod ttl; ? nhiều nhãn trên cùng net: -23V/contr cod ttl
+R231,1,-23V/contr cod ttl,? nhãn có mã font Latin chưa giải mã chắc chắn: contr cod ttl; ? nhiều nhãn trên cùng net: -23V/contr cod ttl
+R234,1,-23V/contr cod ttl,? nhãn có mã font Latin chưa giải mã chắc chắn: contr cod ttl; ? nhiều nhãn trên cùng net: -23V/contr cod ttl
+R237,1,-23V/contr cod ttl,? nhãn có mã font Latin chưa giải mã chắc chắn: contr cod ttl; ? nhiều nhãn trên cùng net: -23V/contr cod ttl
+U2,2,-23V/contr cod ttl,? nhãn có mã font Latin chưa giải mã chắc chắn: contr cod ttl; ? nhiều nhãn trên cùng net: -23V/contr cod ttl
+U2,6,-23V/contr cod ttl,? nhãn có mã font Latin chưa giải mã chắc chắn: contr cod ttl; ? nhiều nhãn trên cùng net: -23V/contr cod ttl
+U2,9,-23V/contr cod ttl,? nhãn có mã font Latin chưa giải mã chắc chắn: contr cod ttl; ? nhiều nhãn trên cùng net: -23V/contr cod ttl
+U14,2,-23V/contr cod ttl,? nhãn có mã font Latin chưa giải mã chắc chắn: contr cod ttl; ? nhiều nhãn trên cùng net: -23V/contr cod ttl
+U14,6,-23V/contr cod ttl,? nhãn có mã font Latin chưa giải mã chắc chắn: contr cod ttl; ? nhiều nhãn trên cùng net: -23V/contr cod ttl
+U14,9,-23V/contr cod ttl,? nhãn có mã font Latin chưa giải mã chắc chắn: contr cod ttl; ? nhiều nhãn trên cùng net: -23V/contr cod ttl
+R8,1,1-1,
+U8,1,1-1,
+U12,8,1-1,
+R9,1,1-2,
+U8,5,1-2,
+U12,7,1-2,
+R10,1,1-3,
+U8,10,1-3,
+U12,6,1-3,
+R11,1,1-4,
+U8,12,1-4,
+U12,5,1-4,
+R12,1,1-5,
+U9,1,1-5,
+U12,4,1-5,
+R13,1,1-6,
+U9,5,1-6,
+U12,3,1-6,
+R14,1,1-7,
+U9,10,1-7,
+U12,2,1-7,
+R15,1,1-8,
+U9,12,1-8,
+U12,1,1-8,
+R65,1,10A,
+R66,1,10A,
+U16,5,10A,
+R81,1,10b,? nhãn có mã font Latin chưa giải mã chắc chắn: 10b
+R82,1,10b,? nhãn có mã font Latin chưa giải mã chắc chắn: 10b
+U17,5,10b,? nhãn có mã font Latin chưa giải mã chắc chắn: 10b
+R67,1,11A,
+R68,1,11A,
+U16,10,11A,
+R83,1,11b,? nhãn có mã font Latin chưa giải mã chắc chắn: 11b
+R84,1,11b,? nhãn có mã font Latin chưa giải mã chắc chắn: 11b
+U17,10,11b,? nhãn có mã font Latin chưa giải mã chắc chắn: 11b
+R69,1,12A,
+R70,1,12A,
+U16,12,12A,
+R85,1,12b,? nhãn có mã font Latin chưa giải mã chắc chắn: 12b
+R86,1,12b,? nhãn có mã font Latin chưa giải mã chắc chắn: 12b
+U17,12,12b,? nhãn có mã font Latin chưa giải mã chắc chắn: 12b
+R71,1,13A,
+R72,1,13A,
+U18,1,13A,
+R87,1,13b,? nhãn có mã font Latin chưa giải mã chắc chắn: 13b
+R88,1,13b,? nhãn có mã font Latin chưa giải mã chắc chắn: 13b
+U19,1,13b,? nhãn có mã font Latin chưa giải mã chắc chắn: 13b
+R73,1,14A,
+R74,1,14A,
+U18,5,14A,
+R89,1,14b,? nhãn có mã font Latin chưa giải mã chắc chắn: 14b
+R90,1,14b,? nhãn có mã font Latin chưa giải mã chắc chắn: 14b
+U19,5,14b,? nhãn có mã font Latin chưa giải mã chắc chắn: 14b
+R75,1,15A,
+R76,1,15A,
+U18,10,15A,
+R91,1,15b,? nhãn có mã font Latin chưa giải mã chắc chắn: 15b
+R92,1,15b,? nhãn có mã font Latin chưa giải mã chắc chắn: 15b
+U19,10,15b,? nhãn có mã font Latin chưa giải mã chắc chắn: 15b
+R77,1,16A,
+R78,1,16A,
+U18,12,16A,
+R93,1,16b,? nhãn có mã font Latin chưa giải mã chắc chắn: 16b
+R94,1,16b,? nhãn có mã font Latin chưa giải mã chắc chắn: 16b
+U19,12,16b,? nhãn có mã font Latin chưa giải mã chắc chắn: 16b
+R16,1,1A,
+R17,1,1A,
+U4,1,1A,
+R32,1,1b,? nhãn có mã font Latin chưa giải mã chắc chắn: 1b
+R33,1,1b,? nhãn có mã font Latin chưa giải mã chắc chắn: 1b
+U5,1,1b,? nhãn có mã font Latin chưa giải mã chắc chắn: 1b
+R18,1,2A,
+R19,1,2A,
+U4,5,2A,
+R34,1,2b,? nhãn có mã font Latin chưa giải mã chắc chắn: 2b
+R35,1,2b,? nhãn có mã font Latin chưa giải mã chắc chắn: 2b
+U5,5,2b,? nhãn có mã font Latin chưa giải mã chắc chắn: 2b
+R20,1,3A,
+R21,1,3A,
+U4,10,3A,
+R36,1,3b,? nhãn có mã font Latin chưa giải mã chắc chắn: 3b
+R37,1,3b,? nhãn có mã font Latin chưa giải mã chắc chắn: 3b
+U5,10,3b,? nhãn có mã font Latin chưa giải mã chắc chắn: 3b
+R55,1,4-1,
+U20,1,4-1,
+U24,8,4-1,
+R56,1,4-2,
+U20,5,4-2,
+U24,7,4-2,
+R57,1,4-3,
+U20,10,4-3,
+U24,6,4-3,
+R58,1,4-4,
+U20,12,4-4,
+U24,5,4-4,
+R59,1,4-5,
+U21,1,4-5,
+U24,4,4-5,
+R60,1,4-6,
+U21,5,4-6,
+U24,3,4-6,
+R61,1,4-7,
+U21,10,4-7,
+U24,2,4-7,
+R62,1,4-8,
+U21,12,4-8,
+U24,1,4-8,
+R22,1,4A,
+R23,1,4A,
+U4,12,4A,
+R38,1,4b,? nhãn có mã font Latin chưa giải mã chắc chắn: 4b
+R39,1,4b,? nhãn có mã font Latin chưa giải mã chắc chắn: 4b
+U5,12,4b,? nhãn có mã font Latin chưa giải mã chắc chắn: 4b
+R24,1,5A,
+R25,1,5A,
+U6,1,5A,
+R40,1,5b,? nhãn có mã font Latin chưa giải mã chắc chắn: 5b
+R41,1,5b,? nhãn có mã font Latin chưa giải mã chắc chắn: 5b
+U7,1,5b,? nhãn có mã font Latin chưa giải mã chắc chắn: 5b
+R26,1,6A,
+R27,1,6A,
+U6,5,6A,
+R42,1,6b,? nhãn có mã font Latin chưa giải mã chắc chắn: 6b
+R43,1,6b,? nhãn có mã font Latin chưa giải mã chắc chắn: 6b
+U7,5,6b,? nhãn có mã font Latin chưa giải mã chắc chắn: 6b
+R28,1,7A,
+R29,1,7A,
+U6,10,7A,
+R44,1,7b,? nhãn có mã font Latin chưa giải mã chắc chắn: 7b
+R45,1,7b,? nhãn có mã font Latin chưa giải mã chắc chắn: 7b
+U7,10,7b,? nhãn có mã font Latin chưa giải mã chắc chắn: 7b
+R30,1,8A,
+R31,1,8A,
+U6,12,8A,
+R46,1,8b,? nhãn có mã font Latin chưa giải mã chắc chắn: 8b
+R47,1,8b,? nhãn có mã font Latin chưa giải mã chắc chắn: 8b
+U7,12,8b,? nhãn có mã font Latin chưa giải mã chắc chắn: 8b
+R63,1,9A,
+R64,1,9A,
+U16,1,9A,
+R79,1,9b,? nhãn có mã font Latin chưa giải mã chắc chắn: 9b
+R80,1,9b,? nhãn có mã font Latin chưa giải mã chắc chắn: 9b
+U17,1,9b,? nhãn có mã font Latin chưa giải mã chắc chắn: 9b
+D1,1,a/GND,? nhãn có mã font Latin chưa giải mã chắc chắn: a; ? nhiều nhãn trên cùng net: a/GND
+D2,1,a/GND,? nhãn có mã font Latin chưa giải mã chắc chắn: a; ? nhiều nhãn trên cùng net: a/GND
+DC3,A1,a/GND,? nhãn có mã font Latin chưa giải mã chắc chắn: a; ? nhiều nhãn trên cùng net: a/GND
+DC3,A31,a/GND,? nhãn có mã font Latin chưa giải mã chắc chắn: a; ? nhiều nhãn trên cùng net: a/GND
+DC3,A32,a/GND,? nhãn có mã font Latin chưa giải mã chắc chắn: a; ? nhiều nhãn trên cùng net: a/GND
+DC3,B1,a/GND,? nhãn có mã font Latin chưa giải mã chắc chắn: a; ? nhiều nhãn trên cùng net: a/GND
+DC3,B31,a/GND,? nhãn có mã font Latin chưa giải mã chắc chắn: a; ? nhiều nhãn trên cùng net: a/GND
+DC3,B32,a/GND,? nhãn có mã font Latin chưa giải mã chắc chắn: a; ? nhiều nhãn trên cùng net: a/GND
+DC3,C1,a/GND,? nhãn có mã font Latin chưa giải mã chắc chắn: a; ? nhiều nhãn trên cùng net: a/GND
+DC3,C31,a/GND,? nhãn có mã font Latin chưa giải mã chắc chắn: a; ? nhiều nhãn trên cùng net: a/GND
+DC3,C32,a/GND,? nhãn có mã font Latin chưa giải mã chắc chắn: a; ? nhiều nhãn trên cùng net: a/GND
+DC4,A1,a/GND,? nhãn có mã font Latin chưa giải mã chắc chắn: a; ? nhiều nhãn trên cùng net: a/GND
+DC4,A31,a/GND,? nhãn có mã font Latin chưa giải mã chắc chắn: a; ? nhiều nhãn trên cùng net: a/GND
+DC4,A32,a/GND,? nhãn có mã font Latin chưa giải mã chắc chắn: a; ? nhiều nhãn trên cùng net: a/GND
+DC4,B1,a/GND,? nhãn có mã font Latin chưa giải mã chắc chắn: a; ? nhiều nhãn trên cùng net: a/GND
+DC4,B31,a/GND,? nhãn có mã font Latin chưa giải mã chắc chắn: a; ? nhiều nhãn trên cùng net: a/GND
+DC4,B32,a/GND,? nhãn có mã font Latin chưa giải mã chắc chắn: a; ? nhiều nhãn trên cùng net: a/GND
+DC4,C1,a/GND,? nhãn có mã font Latin chưa giải mã chắc chắn: a; ? nhiều nhãn trên cùng net: a/GND
+DC4,C31,a/GND,? nhãn có mã font Latin chưa giải mã chắc chắn: a; ? nhiều nhãn trên cùng net: a/GND
+DC4,C32,a/GND,? nhãn có mã font Latin chưa giải mã chắc chắn: a; ? nhiều nhãn trên cùng net: a/GND
+R17,2,a/GND,? nhãn có mã font Latin chưa giải mã chắc chắn: a; ? nhiều nhãn trên cùng net: a/GND
+R19,2,a/GND,? nhãn có mã font Latin chưa giải mã chắc chắn: a; ? nhiều nhãn trên cùng net: a/GND
+R21,2,a/GND,? nhãn có mã font Latin chưa giải mã chắc chắn: a; ? nhiều nhãn trên cùng net: a/GND
+R23,2,a/GND,? nhãn có mã font Latin chưa giải mã chắc chắn: a; ? nhiều nhãn trên cùng net: a/GND
+R25,2,a/GND,? nhãn có mã font Latin chưa giải mã chắc chắn: a; ? nhiều nhãn trên cùng net: a/GND
+R27,2,a/GND,? nhãn có mã font Latin chưa giải mã chắc chắn: a; ? nhiều nhãn trên cùng net: a/GND
+R29,2,a/GND,? nhãn có mã font Latin chưa giải mã chắc chắn: a; ? nhiều nhãn trên cùng net: a/GND
+R31,2,a/GND,? nhãn có mã font Latin chưa giải mã chắc chắn: a; ? nhiều nhãn trên cùng net: a/GND
+R33,2,a/GND,? nhãn có mã font Latin chưa giải mã chắc chắn: a; ? nhiều nhãn trên cùng net: a/GND
+R35,2,a/GND,? nhãn có mã font Latin chưa giải mã chắc chắn: a; ? nhiều nhãn trên cùng net: a/GND
+R37,2,a/GND,? nhãn có mã font Latin chưa giải mã chắc chắn: a; ? nhiều nhãn trên cùng net: a/GND
+R39,2,a/GND,? nhãn có mã font Latin chưa giải mã chắc chắn: a; ? nhiều nhãn trên cùng net: a/GND
+R41,2,a/GND,? nhãn có mã font Latin chưa giải mã chắc chắn: a; ? nhiều nhãn trên cùng net: a/GND
+R43,2,a/GND,? nhãn có mã font Latin chưa giải mã chắc chắn: a; ? nhiều nhãn trên cùng net: a/GND
+R45,2,a/GND,? nhãn có mã font Latin chưa giải mã chắc chắn: a; ? nhiều nhãn trên cùng net: a/GND
+R47,2,a/GND,? nhãn có mã font Latin chưa giải mã chắc chắn: a; ? nhiều nhãn trên cùng net: a/GND
+R64,2,a/GND,? nhãn có mã font Latin chưa giải mã chắc chắn: a; ? nhiều nhãn trên cùng net: a/GND
+R66,2,a/GND,? nhãn có mã font Latin chưa giải mã chắc chắn: a; ? nhiều nhãn trên cùng net: a/GND
+R68,2,a/GND,? nhãn có mã font Latin chưa giải mã chắc chắn: a; ? nhiều nhãn trên cùng net: a/GND
+R70,2,a/GND,? nhãn có mã font Latin chưa giải mã chắc chắn: a; ? nhiều nhãn trên cùng net: a/GND
+R72,2,a/GND,? nhãn có mã font Latin chưa giải mã chắc chắn: a; ? nhiều nhãn trên cùng net: a/GND
+R74,2,a/GND,? nhãn có mã font Latin chưa giải mã chắc chắn: a; ? nhiều nhãn trên cùng net: a/GND
+R76,2,a/GND,? nhãn có mã font Latin chưa giải mã chắc chắn: a; ? nhiều nhãn trên cùng net: a/GND
+R78,2,a/GND,? nhãn có mã font Latin chưa giải mã chắc chắn: a; ? nhiều nhãn trên cùng net: a/GND
+R80,2,a/GND,? nhãn có mã font Latin chưa giải mã chắc chắn: a; ? nhiều nhãn trên cùng net: a/GND
+R82,2,a/GND,? nhãn có mã font Latin chưa giải mã chắc chắn: a; ? nhiều nhãn trên cùng net: a/GND
+R84,2,a/GND,? nhãn có mã font Latin chưa giải mã chắc chắn: a; ? nhiều nhãn trên cùng net: a/GND
+R86,2,a/GND,? nhãn có mã font Latin chưa giải mã chắc chắn: a; ? nhiều nhãn trên cùng net: a/GND
+R88,2,a/GND,? nhãn có mã font Latin chưa giải mã chắc chắn: a; ? nhiều nhãn trên cùng net: a/GND
+R90,2,a/GND,? nhãn có mã font Latin chưa giải mã chắc chắn: a; ? nhiều nhãn trên cùng net: a/GND
+R92,2,a/GND,? nhãn có mã font Latin chưa giải mã chắc chắn: a; ? nhiều nhãn trên cùng net: a/GND
+R94,2,a/GND,? nhãn có mã font Latin chưa giải mã chắc chắn: a; ? nhiều nhãn trên cùng net: a/GND
+U1,4,a/GND,? nhãn có mã font Latin chưa giải mã chắc chắn: a; ? nhiều nhãn trên cùng net: a/GND
+U2,4,a/GND,? nhãn có mã font Latin chưa giải mã chắc chắn: a; ? nhiều nhãn trên cùng net: a/GND
+U3,4,a/GND,? nhãn có mã font Latin chưa giải mã chắc chắn: a; ? nhiều nhãn trên cùng net: a/GND
+U4,4,a/GND,? nhãn có mã font Latin chưa giải mã chắc chắn: a; ? nhiều nhãn trên cùng net: a/GND
+U5,4,a/GND,? nhãn có mã font Latin chưa giải mã chắc chắn: a; ? nhiều nhãn trên cùng net: a/GND
+U6,4,a/GND,? nhãn có mã font Latin chưa giải mã chắc chắn: a; ? nhiều nhãn trên cùng net: a/GND
+U7,4,a/GND,? nhãn có mã font Latin chưa giải mã chắc chắn: a; ? nhiều nhãn trên cùng net: a/GND
+U8,4,a/GND,? nhãn có mã font Latin chưa giải mã chắc chắn: a; ? nhiều nhãn trên cùng net: a/GND
+U9,4,a/GND,? nhãn có mã font Latin chưa giải mã chắc chắn: a; ? nhiều nhãn trên cùng net: a/GND
+U13,4,a/GND,? nhãn có mã font Latin chưa giải mã chắc chắn: a; ? nhiều nhãn trên cùng net: a/GND
+U14,4,a/GND,? nhãn có mã font Latin chưa giải mã chắc chắn: a; ? nhiều nhãn trên cùng net: a/GND
+U15,4,a/GND,? nhãn có mã font Latin chưa giải mã chắc chắn: a; ? nhiều nhãn trên cùng net: a/GND
+U16,4,a/GND,? nhãn có mã font Latin chưa giải mã chắc chắn: a; ? nhiều nhãn trên cùng net: a/GND
+U17,4,a/GND,? nhãn có mã font Latin chưa giải mã chắc chắn: a; ? nhiều nhãn trên cùng net: a/GND
+U18,4,a/GND,? nhãn có mã font Latin chưa giải mã chắc chắn: a; ? nhiều nhãn trên cùng net: a/GND
+U19,4,a/GND,? nhãn có mã font Latin chưa giải mã chắc chắn: a; ? nhiều nhãn trên cùng net: a/GND
+U20,4,a/GND,? nhãn có mã font Latin chưa giải mã chắc chắn: a; ? nhiều nhãn trên cùng net: a/GND
+U21,4,a/GND,? nhãn có mã font Latin chưa giải mã chắc chắn: a; ? nhiều nhãn trên cùng net: a/GND
+DC4,A8,ap_nu,? nhãn có mã font Latin chưa giải mã chắc chắn: ap_nu
+R143,2,ap_nu,? nhãn có mã font Latin chưa giải mã chắc chắn: ap_nu
+U69,3,ap_nu,? nhãn có mã font Latin chưa giải mã chắc chắn: ap_nu
+DC4,C19,ap_nu ttl,? nhãn có mã font Latin chưa giải mã chắc chắn: ap_nu ttl
+R147,1,ap_nu ttl,? nhãn có mã font Latin chưa giải mã chắc chắn: ap_nu ttl
+DC4,C17,c1 ttl,? nhãn có mã font Latin chưa giải mã chắc chắn: c1 ttl
+R125,1,c1 ttl,? nhãn có mã font Latin chưa giải mã chắc chắn: c1 ttl
+DC4,A18,c2 ttl,? nhãn có mã font Latin chưa giải mã chắc chắn: c2 ttl
+R128,1,c2 ttl,? nhãn có mã font Latin chưa giải mã chắc chắn: c2 ttl
+DC4,B18,c3 ttl,? nhãn có mã font Latin chưa giải mã chắc chắn: c3 ttl
+R135,1,c3 ttl,? nhãn có mã font Latin chưa giải mã chắc chắn: c3 ttl
+DC4,C18,c4 ttl,? nhãn có mã font Latin chưa giải mã chắc chắn: c4 ttl
+R136,1,c4 ttl,? nhãn có mã font Latin chưa giải mã chắc chắn: c4 ttl
+DC4,B7,contr cod,? nhãn có mã font Latin chưa giải mã chắc chắn: contr cod
+R133,2,contr cod,? nhãn có mã font Latin chưa giải mã chắc chắn: contr cod
+U68,9,contr cod,? nhãn có mã font Latin chưa giải mã chắc chắn: contr cod
+DC4,C29,dubi1,? nhãn có mã font Latin chưa giải mã chắc chắn: dubi1
+R216,2,dubi1,? nhãn có mã font Latin chưa giải mã chắc chắn: dubi1
+U75,6,dubi1,? nhãn có mã font Latin chưa giải mã chắc chắn: dubi1
+DC4,B29,dubi1ttl,? nhãn có mã font Latin chưa giải mã chắc chắn: dubi1ttl
+R220,1,dubi1ttl,? nhãn có mã font Latin chưa giải mã chắc chắn: dubi1ttl
+DC4,B30,dubi2,? nhãn có mã font Latin chưa giải mã chắc chắn: dubi2
+R217,2,dubi2,? nhãn có mã font Latin chưa giải mã chắc chắn: dubi2
+U75,9,dubi2,? nhãn có mã font Latin chưa giải mã chắc chắn: dubi2
+DC4,A30,dubi2ttl,? nhãn có mã font Latin chưa giải mã chắc chắn: dubi2ttl
+R221,1,dubi2ttl,? nhãn có mã font Latin chưa giải mã chắc chắn: dubi2ttl
+DC4,B8,int_nu,? nhãn có mã font Latin chưa giải mã chắc chắn: int_nu
+R144,2,int_nu,? nhãn có mã font Latin chưa giải mã chắc chắn: int_nu
+U69,6,int_nu,? nhãn có mã font Latin chưa giải mã chắc chắn: int_nu
+DC4,A20,int_nu ttl,? nhãn có mã font Latin chưa giải mã chắc chắn: int_nu ttl
+R148,1,int_nu ttl,? nhãn có mã font Latin chưa giải mã chắc chắn: int_nu ttl
+DC4,C7,knac,? nhãn có mã font Latin chưa giải mã chắc chắn: knac
+R134,2,knac,? nhãn có mã font Latin chưa giải mã chắc chắn: knac
+U68,10,knac,? nhãn có mã font Latin chưa giải mã chắc chắn: knac
+DC4,B19,knac ttl,? nhãn có mã font Latin chưa giải mã chắc chắn: knac ttl
+R138,1,knac ttl,? nhãn có mã font Latin chưa giải mã chắc chắn: knac ttl
+DC3,B28,podcl 1 ttl,? nhãn có mã font Latin chưa giải mã chắc chắn: podcl 1 ttl
+R119,1,podcl 1 ttl,? nhãn có mã font Latin chưa giải mã chắc chắn: podcl 1 ttl
+DC3,C28,podcl 2 ttl,? nhãn có mã font Latin chưa giải mã chắc chắn: podcl 2 ttl
+R122,1,podcl 2 ttl,? nhãn có mã font Latin chưa giải mã chắc chắn: podcl 2 ttl
+DC3,A29,podcl. 1,? nhãn có mã font Latin chưa giải mã chắc chắn: podcl. 1
+R121,2,podcl. 1,? nhãn có mã font Latin chưa giải mã chắc chắn: podcl. 1
+U67,3,podcl. 1,? nhãn có mã font Latin chưa giải mã chắc chắn: podcl. 1
+DC3,B29,podcl. 2,? nhãn có mã font Latin chưa giải mã chắc chắn: podcl. 2
+R124,2,podcl. 2,? nhãn có mã font Latin chưa giải mã chắc chắn: podcl. 2
+U67,6,podcl. 2,? nhãn có mã font Latin chưa giải mã chắc chắn: podcl. 2
+DC4,B9,УПР 10r rm,nhãn gốc=upr 10r rm
+R155,2,УПР 10r rm,nhãn gốc=upr 10r rm
+U70,3,УПР 10r rm,nhãn gốc=upr 10r rm
+DC4,A21,УПР 10r rm ttl,nhãn gốc=upr 10r rm ttl
+R159,1,УПР 10r rm ttl,nhãn gốc=upr 10r rm ttl
+DC4,C15,УПР 10r rpr,nhãn gốc=upr 10r rpr
+R206,2,УПР 10r rpr,nhãn gốc=upr 10r rpr
+U74,10,УПР 10r rpr,nhãn gốc=upr 10r rpr
+DC4,B27,УПР 10r rpr ttl,nhãn gốc=upr 10r rpr ttl
+R210,1,УПР 10r rpr ttl,nhãn gốc=upr 10r rpr ttl
+DC4,C9,УПР 11r rm,nhãn gốc=upr 11r rm
+R156,2,УПР 11r rm,nhãn gốc=upr 11r rm
+U70,6,УПР 11r rm,nhãn gốc=upr 11r rm
+DC4,B21,УПР 11r rm ttl,nhãn gốc=upr 11r rm ttl
+R160,1,УПР 11r rm ttl,nhãn gốc=upr 11r rm ttl
+DC4,A16,УПР 11r rpr,nhãn gốc=upr 11r rpr
+R228,2,УПР 11r rpr,nhãn gốc=upr 11r rpr
+U76,3,УПР 11r rpr,nhãn gốc=upr 11r rpr
+DC4,C27,УПР 11r rpr ttl,nhãn gốc=upr 11r rpr ttl
+R226,1,УПР 11r rpr ttl,nhãn gốc=upr 11r rpr ttl
+DC4,A10,УПР 12r rm,nhãn gốc=upr 12r rm
+R157,2,УПР 12r rm,nhãn gốc=upr 12r rm
+U70,9,УПР 12r rm,nhãn gốc=upr 12r rm
+DC4,C21,УПР 12r rm ttl,nhãn gốc=upr 12r rm ttl
+R161,1,УПР 12r rm ttl,nhãn gốc=upr 12r rm ttl
+DC4,B16,УПР 12r rpr,nhãn gốc=upr 12r rpr
+R231,2,УПР 12r rpr,nhãn gốc=upr 12r rpr
+U76,6,УПР 12r rpr,nhãn gốc=upr 12r rpr
+DC4,A28,УПР 12r rpr ttl,nhãn gốc=upr 12r rpr ttl
+R229,1,УПР 12r rpr ttl,nhãn gốc=upr 12r rpr ttl
+DC4,B10,УПР 13r rm,nhãn gốc=upr 13r rm
+R158,2,УПР 13r rm,nhãn gốc=upr 13r rm
+U70,10,УПР 13r rm,nhãn gốc=upr 13r rm
+DC4,A22,УПР 13r rm ttl,nhãn gốc=upr 13r rm ttl
+R162,1,УПР 13r rm ttl,nhãn gốc=upr 13r rm ttl
+DC4,C16,УПР 13r rpr,nhãn gốc=upr 13r rpr
+R234,2,УПР 13r rpr,nhãn gốc=upr 13r rpr
+U76,9,УПР 13r rpr,nhãn gốc=upr 13r rpr
+DC4,B28,УПР 13r rpr ttl,nhãn gốc=upr 13r rpr ttl
+R232,1,УПР 13r rpr ttl,nhãn gốc=upr 13r rpr ttl
+DC4,C10,УПР 14r rm,nhãn gốc=upr 14r rm
+R167,2,УПР 14r rm,nhãn gốc=upr 14r rm
+U71,3,УПР 14r rm,nhãn gốc=upr 14r rm
+DC4,B22,УПР 14r rm ttl,nhãn gốc=upr 14r rm ttl
+R171,1,УПР 14r rm ttl,nhãn gốc=upr 14r rm ttl
+DC4,A17,УПР 14r rpr,nhãn gốc=upr 14r rpr
+R237,2,УПР 14r rpr,nhãn gốc=upr 14r rpr
+U76,10,УПР 14r rpr,nhãn gốc=upr 14r rpr
+DC4,C28,УПР 14r rpr ttl,nhãn gốc=upr 14r rpr ttl
+R235,1,УПР 14r rpr ttl,nhãn gốc=upr 14r rpr ttl
+DC4,A11,УПР 15r rm,nhãn gốc=upr 15r rm
+R168,2,УПР 15r rm,nhãn gốc=upr 15r rm
+U71,6,УПР 15r rm,nhãn gốc=upr 15r rm
+DC4,C22,УПР 15r rm ttl,nhãn gốc=upr 15r rm ttl
+R172,1,УПР 15r rm ttl,nhãn gốc=upr 15r rm ttl
+DC4,B17,УПР 15r rpr,nhãn gốc=upr 15r rpr
+R215,2,УПР 15r rpr,nhãn gốc=upr 15r rpr
+U75,3,УПР 15r rpr,nhãn gốc=upr 15r rpr
+DC4,A29,УПР 15r rpr ttl,nhãn gốc=upr 15r rpr ttl
+R219,1,УПР 15r rpr ttl,nhãn gốc=upr 15r rpr ttl
+DC4,C13,УПР 4r rpr,nhãn gốc=upr 4r rpr
+R192,2,УПР 4r rpr,nhãn gốc=upr 4r rpr
+U73,6,УПР 4r rpr,nhãn gốc=upr 4r rpr
+DC4,B25,УПР 4r rpr ttl,nhãn gốc=upr 4r rpr ttl
+R196,1,УПР 4r rpr ttl,nhãn gốc=upr 4r rpr ttl
+DC4,A14,УПР 5r rpr,nhãn gốc=upr 5r rpr
+R193,2,УПР 5r rpr,nhãn gốc=upr 5r rpr
+U73,9,УПР 5r rpr,nhãn gốc=upr 5r rpr
+DC4,C25,УПР 5r rpr ttl,nhãn gốc=upr 5r rpr ttl
+R197,1,УПР 5r rpr ttl,nhãn gốc=upr 5r rpr ttl
+DC4,B14,УПР 6r rpr,nhãn gốc=upr 6r rpr
+R194,2,УПР 6r rpr,nhãn gốc=upr 6r rpr
+U73,10,УПР 6r rpr,nhãn gốc=upr 6r rpr
+DC4,A26,УПР 6r rpr ttl,nhãn gốc=upr 6r rpr ttl
+R198,1,УПР 6r rpr ttl,nhãn gốc=upr 6r rpr ttl
+DC4,C14,УПР 7r rpr,nhãn gốc=upr 7r rpr
+R203,2,УПР 7r rpr,nhãn gốc=upr 7r rpr
+U74,3,УПР 7r rpr,nhãn gốc=upr 7r rpr
+DC4,B26,УПР 7r rpr ttl,nhãn gốc=upr 7r rpr ttl
+R207,1,УПР 7r rpr ttl,nhãn gốc=upr 7r rpr ttl
+DC4,C8,УПР 8r rm,nhãn gốc=upr 8r rm
+R145,2,УПР 8r rm,nhãn gốc=upr 8r rm
+U69,9,УПР 8r rm,nhãn gốc=upr 8r rm
+DC4,B20,УПР 8r rm ttl,nhãn gốc=upr 8r rm ttl
+R149,1,УПР 8r rm ttl,nhãn gốc=upr 8r rm ttl
+DC4,A15,УПР 8r rpr,nhãn gốc=upr 8r rpr
+R204,2,УПР 8r rpr,nhãn gốc=upr 8r rpr
+U74,6,УПР 8r rpr,nhãn gốc=upr 8r rpr
+DC4,C26,УПР 8r rpr ttl,nhãn gốc=upr 8r rpr ttl
+R208,1,УПР 8r rpr ttl,nhãn gốc=upr 8r rpr ttl
+DC4,A9,УПР 9r rm,nhãn gốc=upr 9r rm
+R146,2,УПР 9r rm,nhãn gốc=upr 9r rm
+U69,10,УПР 9r rm,nhãn gốc=upr 9r rm
+DC4,C20,УПР 9r rm ttl,nhãn gốc=upr 9r rm ttl
+R150,1,УПР 9r rm ttl,nhãn gốc=upr 9r rm ttl
+DC4,B15,УПР 9r rpr,nhãn gốc=upr 9r rpr
+R205,2,УПР 9r rpr,nhãn gốc=upr 9r rpr
+U74,9,УПР 9r rpr,nhãn gốc=upr 9r rpr
+DC4,A27,УПР 9r rpr ttl,nhãn gốc=upr 9r rpr ttl
+R209,1,УПР 9r rpr ttl,nhãn gốc=upr 9r rpr ttl
+DC4,B12,УПР c,nhãn gốc=upr c
+R180,2,УПР c,nhãn gốc=upr c
+U72,6,УПР c,nhãn gốc=upr c
+DC4,A24,УПР c ttl,nhãn gốc=upr c ttl
+R184,1,УПР c ttl,nhãn gốc=upr c ttl
+DC4,B11,УПР d,nhãn gốc=upr d
+R169,2,УПР d,nhãn gốc=upr d
+U71,9,УПР d,nhãn gốc=upr d
+DC4,A23,УПР d ttl,nhãn gốc=upr d ttl
+R173,1,УПР d ttl,nhãn gốc=upr d ttl
+DC4,A12,УПР f,nhãn gốc=upr f
+R179,2,УПР f,nhãn gốc=upr f
+U72,3,УПР f,nhãn gốc=upr f
+DC4,C23,УПР f ttl,nhãn gốc=upr f ttl
+R183,1,УПР f ttl,nhãn gốc=upr f ttl
+DC4,A13,УПР kn1,nhãn gốc=upr kn1
+R182,2,УПР kn1,nhãn gốc=upr kn1
+U72,10,УПР kn1,nhãn gốc=upr kn1
+DC4,C24,УПР kn1 ttl,nhãn gốc=upr kn1 ttl
+R186,1,УПР kn1 ttl,nhãn gốc=upr kn1 ttl
+DC4,C12,УПР kn2,nhãn gốc=upr kn2
+R181,2,УПР kn2,nhãn gốc=upr kn2
+U72,9,УПР kn2,nhãn gốc=upr kn2
+DC4,B24,УПР kn2 ttl,nhãn gốc=upr kn2 ttl
+R185,1,УПР kn2 ttl,nhãn gốc=upr kn2 ttl
+DC4,C11,УПР pp,nhãn gốc=upr pp
+R170,2,УПР pp,nhãn gốc=upr pp
+U71,10,УПР pp,nhãn gốc=upr pp
+DC4,B23,УПР pp ttl,nhãn gốc=upr pp ttl
+R174,1,УПР pp ttl,nhãn gốc=upr pp ttl
+DC3,C25,УПР t1 ttl,nhãn gốc=upr t1 ttl
+R95,1,УПР t1 ttl,nhãn gốc=upr t1 ttl
+DC3,A26,УПР t2 ttl,nhãn gốc=upr t2 ttl
+R98,1,УПР t2 ttl,nhãn gốc=upr t2 ttl
+DC3,B26,УПР t3 ttl,nhãn gốc=upr t3 ttl
+R113,1,УПР t3 ttl,nhãn gốc=upr t3 ttl
+DC3,C26,УПР t4 ttl,nhãn gốc=upr t4 ttl
+R116,1,УПР t4 ttl,nhãn gốc=upr t4 ttl
+DC3,A27,УПР te1 ttl,nhãn gốc=upr te1 ttl
+R101,1,УПР te1 ttl,nhãn gốc=upr te1 ttl
+DC3,B27,УПР te2 ttl,nhãn gốc=upr te2 ttl
+R104,1,УПР te2 ttl,nhãn gốc=upr te2 ttl
+DC3,C27,УПР te3 ttl,nhãn gốc=upr te3 ttl
+R107,1,УПР te3 ttl,nhãn gốc=upr te3 ttl
+DC3,A28,УПР te4 ttl,nhãn gốc=upr te4 ttl
+R110,1,УПР te4 ttl,nhãn gốc=upr te4 ttl
+DC4,B13,УПР ВЫХ,nhãn gốc=upr vih
+R191,2,УПР ВЫХ,nhãn gốc=upr vih
+U73,3,УПР ВЫХ,nhãn gốc=upr vih
+DC4,A25,УПР ВЫХ ttl,nhãn gốc=upr vih ttl
+R195,1,УПР ВЫХ ttl,nhãn gốc=upr vih ttl
+DC4,A6,УПР. c1,nhãn gốc=upr. c1
+R127,2,УПР. c1,nhãn gốc=upr. c1
+U67,9,УПР. c1,nhãn gốc=upr. c1
+DC4,B6,УПР. c2,nhãn gốc=upr. c2
+R130,2,УПР. c2,nhãn gốc=upr. c2
+U67,10,УПР. c2,nhãn gốc=upr. c2
+DC4,C6,УПР. c3,nhãn gốc=upr. c3
+R131,2,УПР. c3,nhãn gốc=upr. c3
+U68,3,УПР. c3,nhãn gốc=upr. c3
+DC4,A7,УПР. c4,nhãn gốc=upr. c4
+R132,2,УПР. c4,nhãn gốc=upr. c4
+U68,6,УПР. c4,nhãn gốc=upr. c4
+DC3,A23,УПР. t1,nhãn gốc=upr. t1
+R2,1,УПР. t1,nhãn gốc=upr. t1
+R97,2,УПР. t1,nhãn gốc=upr. t1
+U1,2,УПР. t1,nhãn gốc=upr. t1
+U1,6,УПР. t1,nhãn gốc=upr. t1
+U3,2,УПР. t1,nhãn gốc=upr. t1
+U65,3,УПР. t1,nhãn gốc=upr. t1
+DC3,B23,УПР. t2,nhãn gốc=upr. t2
+R3,1,УПР. t2,nhãn gốc=upr. t2
+R100,2,УПР. t2,nhãn gốc=upr. t2
+U1,9,УПР. t2,nhãn gốc=upr. t2
+U1,13,УПР. t2,nhãn gốc=upr. t2
+U3,6,УПР. t2,nhãn gốc=upr. t2
+U65,6,УПР. t2,nhãn gốc=upr. t2
+DC3,C23,УПР. t3,nhãn gốc=upr. t3
+R49,1,УПР. t3,nhãn gốc=upr. t3
+R115,2,УПР. t3,nhãn gốc=upr. t3
+U13,2,УПР. t3,nhãn gốc=upr. t3
+U13,6,УПР. t3,nhãn gốc=upr. t3
+U15,2,УПР. t3,nhãn gốc=upr. t3
+U66,9,УПР. t3,nhãn gốc=upr. t3
+DC3,A24,УПР. t4,nhãn gốc=upr. t4
+R50,1,УПР. t4,nhãn gốc=upr. t4
+R118,2,УПР. t4,nhãn gốc=upr. t4
+U13,9,УПР. t4,nhãn gốc=upr. t4
+U13,13,УПР. t4,nhãn gốc=upr. t4
+U15,6,УПР. t4,nhãn gốc=upr. t4
+U66,10,УПР. t4,nhãn gốc=upr. t4
+DC3,B24,УПР. tk1,nhãn gốc=upr. tk1
+R4,1,УПР. tk1,nhãn gốc=upr. tk1
+R103,2,УПР. tk1,nhãn gốc=upr. tk1
+U4,2,УПР. tk1,nhãn gốc=upr. tk1
+U5,2,УПР. tk1,nhãn gốc=upr. tk1
+U6,2,УПР. tk1,nhãn gốc=upr. tk1
+U7,2,УПР. tk1,nhãn gốc=upr. tk1
+U8,2,УПР. tk1,nhãn gốc=upr. tk1
+U9,2,УПР. tk1,nhãn gốc=upr. tk1
+U16,2,УПР. tk1,nhãn gốc=upr. tk1
+U17,2,УПР. tk1,nhãn gốc=upr. tk1
+U18,2,УПР. tk1,nhãn gốc=upr. tk1
+U19,2,УПР. tk1,nhãn gốc=upr. tk1
+U20,2,УПР. tk1,nhãn gốc=upr. tk1
+U21,2,УПР. tk1,nhãn gốc=upr. tk1
+U65,9,УПР. tk1,nhãn gốc=upr. tk1
+DC3,C24,УПР. tk2,nhãn gốc=upr. tk2
+R5,1,УПР. tk2,nhãn gốc=upr. tk2
+R106,2,УПР. tk2,nhãn gốc=upr. tk2
+U4,6,УПР. tk2,nhãn gốc=upr. tk2
+U5,6,УПР. tk2,nhãn gốc=upr. tk2
+U6,6,УПР. tk2,nhãn gốc=upr. tk2
+U7,6,УПР. tk2,nhãn gốc=upr. tk2
+U8,6,УПР. tk2,nhãn gốc=upr. tk2
+U9,6,УПР. tk2,nhãn gốc=upr. tk2
+U16,6,УПР. tk2,nhãn gốc=upr. tk2
+U17,6,УПР. tk2,nhãn gốc=upr. tk2
+U18,6,УПР. tk2,nhãn gốc=upr. tk2
+U19,6,УПР. tk2,nhãn gốc=upr. tk2
+U20,6,УПР. tk2,nhãn gốc=upr. tk2
+U21,6,УПР. tk2,nhãn gốc=upr. tk2
+U65,10,УПР. tk2,nhãn gốc=upr. tk2
+DC3,A25,УПР. tk3,nhãn gốc=upr. tk3
+R6,1,УПР. tk3,nhãn gốc=upr. tk3
+R109,2,УПР. tk3,nhãn gốc=upr. tk3
+U4,9,УПР. tk3,nhãn gốc=upr. tk3
+U5,9,УПР. tk3,nhãn gốc=upr. tk3
+U6,9,УПР. tk3,nhãn gốc=upr. tk3
+U7,9,УПР. tk3,nhãn gốc=upr. tk3
+U8,9,УПР. tk3,nhãn gốc=upr. tk3
+U9,9,УПР. tk3,nhãn gốc=upr. tk3
+U16,9,УПР. tk3,nhãn gốc=upr. tk3
+U17,9,УПР. tk3,nhãn gốc=upr. tk3
+U18,9,УПР. tk3,nhãn gốc=upr. tk3
+U19,9,УПР. tk3,nhãn gốc=upr. tk3
+U20,9,УПР. tk3,nhãn gốc=upr. tk3
+U21,9,УПР. tk3,nhãn gốc=upr. tk3
+U66,3,УПР. tk3,nhãn gốc=upr. tk3
+DC3,B25,УПР. tk4,nhãn gốc=upr. tk4
+R7,1,УПР. tk4,nhãn gốc=upr. tk4
+R112,2,УПР. tk4,nhãn gốc=upr. tk4
+U4,13,УПР. tk4,nhãn gốc=upr. tk4
+U5,13,УПР. tk4,nhãn gốc=upr. tk4
+U6,13,УПР. tk4,nhãn gốc=upr. tk4
+U7,13,УПР. tk4,nhãn gốc=upr. tk4
+U8,13,УПР. tk4,nhãn gốc=upr. tk4
+U9,13,УПР. tk4,nhãn gốc=upr. tk4
+U16,13,УПР. tk4,nhãn gốc=upr. tk4
+U17,13,УПР. tk4,nhãn gốc=upr. tk4
+U18,13,УПР. tk4,nhãn gốc=upr. tk4
+U19,13,УПР. tk4,nhãn gốc=upr. tk4
+U20,13,УПР. tk4,nhãn gốc=upr. tk4
+U21,13,УПР. tk4,nhãn gốc=upr. tk4
+U66,6,УПР. tk4,nhãn gốc=upr. tk4
+DC3,B13,ВХОД 10a,nhãn gốc=vhod 10a
+R65,2,ВХОД 10a,nhãn gốc=vhod 10a
+DC3,C14,ВХОД 10b,nhãn gốc=vhod 10b
+R81,2,ВХОД 10b,nhãn gốc=vhod 10b
+DC3,C13,ВХОД 11a,nhãn gốc=vhod 11a
+R67,2,ВХОД 11a,nhãn gốc=vhod 11a
+DC3,A15,ВХОД 11b,nhãn gốc=vhod 11b
+R83,2,ВХОД 11b,nhãn gốc=vhod 11b
+DC3,A14,ВХОД 12a,nhãn gốc=vhod 12a
+R69,2,ВХОД 12a,nhãn gốc=vhod 12a
+DC3,B15,ВХОД 12b,nhãn gốc=vhod 12b
+R85,2,ВХОД 12b,nhãn gốc=vhod 12b
+DC3,C15,ВХОД 13a,nhãn gốc=vhod 13a
+R71,2,ВХОД 13a,nhãn gốc=vhod 13a
+DC3,A17,ВХОД 13b,nhãn gốc=vhod 13b
+R87,2,ВХОД 13b,nhãn gốc=vhod 13b
+DC3,A16,ВХОД 14a,nhãn gốc=vhod 14a
+R73,2,ВХОД 14a,nhãn gốc=vhod 14a
+DC3,B17,ВХОД 14b,nhãn gốc=vhod 14b
+R89,2,ВХОД 14b,nhãn gốc=vhod 14b
+DC3,B16,ВХОД 15a,nhãn gốc=vhod 15a
+R75,2,ВХОД 15a,nhãn gốc=vhod 15a
+DC3,C17,ВХОД 15b,nhãn gốc=vhod 15b
+R91,2,ВХОД 15b,nhãn gốc=vhod 15b
+DC3,C16,ВХОД 16a,nhãn gốc=vhod 16a
+R77,2,ВХОД 16a,nhãn gốc=vhod 16a
+DC3,A18,ВХОД 16b,nhãn gốc=vhod 16b
+R93,2,ВХОД 16b,nhãn gốc=vhod 16b
+DC3,A5,ВХОД 1a,nhãn gốc=vhod 1a
+R16,2,ВХОД 1a,nhãn gốc=vhod 1a
+DC3,B6,ВХОД 1b,nhãn gốc=vhod 1b
+R32,2,ВХОД 1b,nhãn gốc=vhod 1b
+DC3,B5,ВХОД 2a,nhãn gốc=vhod 2a
+R18,2,ВХОД 2a,nhãn gốc=vhod 2a
+DC3,C6,ВХОД 2b,nhãn gốc=vhod 2b
+R34,2,ВХОД 2b,nhãn gốc=vhod 2b
+DC3,C5,ВХОД 3a,nhãn gốc=vhod 3a
+R20,2,ВХОД 3a,nhãn gốc=vhod 3a
+DC3,A7,ВХОД 3b,nhãn gốc=vhod 3b
+R36,2,ВХОД 3b,nhãn gốc=vhod 3b
+DC3,A6,ВХОД 4a,nhãn gốc=vhod 4a
+R22,2,ВХОД 4a,nhãn gốc=vhod 4a
+DC3,B7,ВХОД 4b,nhãn gốc=vhod 4b
+R38,2,ВХОД 4b,nhãn gốc=vhod 4b
+DC3,C7,ВХОД 5a,nhãn gốc=vhod 5a
+R24,2,ВХОД 5a,nhãn gốc=vhod 5a
+DC3,A9,ВХОД 5b,nhãn gốc=vhod 5b
+R40,2,ВХОД 5b,nhãn gốc=vhod 5b
+DC3,A8,ВХОД 6a,nhãn gốc=vhod 6a
+R26,2,ВХОД 6a,nhãn gốc=vhod 6a
+DC3,B9,ВХОД 6b,nhãn gốc=vhod 6b
+R42,2,ВХОД 6b,nhãn gốc=vhod 6b
+DC3,B8,ВХОД 7a,nhãn gốc=vhod 7a
+R28,2,ВХОД 7a,nhãn gốc=vhod 7a
+DC3,C9,ВХОД 7b,nhãn gốc=vhod 7b
+R44,2,ВХОД 7b,nhãn gốc=vhod 7b
+DC3,C8,ВХОД 8a,nhãn gốc=vhod 8a
+R30,2,ВХОД 8a,nhãn gốc=vhod 8a
+DC3,A10,ВХОД 8b,nhãn gốc=vhod 8b
+R46,2,ВХОД 8b,nhãn gốc=vhod 8b
+DC3,A13,ВХОД 9a,nhãn gốc=vhod 9a
+R63,2,ВХОД 9a,nhãn gốc=vhod 9a
+DC3,B14,ВХОД 9b,nhãn gốc=vhod 9b
+R79,2,ВХОД 9b,nhãn gốc=vhod 9b
+DC3,B10,ВХОД РК1,nhãn gốc=vhod rc1
+R8,2,ВХОД РК1,nhãn gốc=vhod rc1
+DC3,C18,ВХОД РК10,nhãn gốc=vhod rc10
+R56,2,ВХОД РК10,nhãn gốc=vhod rc10
+DC3,A19,ВХОД РК11,nhãn gốc=vhod rc11
+R57,2,ВХОД РК11,nhãn gốc=vhod rc11
+DC3,B19,ВХОД РК12,nhãn gốc=vhod rc12
+R58,2,ВХОД РК12,nhãn gốc=vhod rc12
+DC3,C19,ВХОД РК13,nhãn gốc=vhod rc13
+R59,2,ВХОД РК13,nhãn gốc=vhod rc13
+DC3,A20,ВХОД РК14,nhãn gốc=vhod rc14
+R60,2,ВХОД РК14,nhãn gốc=vhod rc14
+DC3,B20,ВХОД РК15,nhãn gốc=vhod rc15
+R61,2,ВХОД РК15,nhãn gốc=vhod rc15
+DC3,C20,ВХОД РК16,nhãn gốc=vhod rc16
+R62,2,ВХОД РК16,nhãn gốc=vhod rc16
+DC3,C10,ВХОД РК2,nhãn gốc=vhod rc2
+R9,2,ВХОД РК2,nhãn gốc=vhod rc2
+DC3,A11,ВХОД РК3,nhãn gốc=vhod rc3
+R10,2,ВХОД РК3,nhãn gốc=vhod rc3
+DC3,B11,ВХОД РК4,nhãn gốc=vhod rc4
+R11,2,ВХОД РК4,nhãn gốc=vhod rc4
+DC3,C11,ВХОД РК5,nhãn gốc=vhod rc5
+R12,2,ВХОД РК5,nhãn gốc=vhod rc5
+DC3,A12,ВХОД РК6,nhãn gốc=vhod rc6
+R13,2,ВХОД РК6,nhãn gốc=vhod rc6
+DC3,B12,ВХОД РК7,nhãn gốc=vhod rc7
+R14,2,ВХОД РК7,nhãn gốc=vhod rc7
+DC3,C12,ВХОД РК8,nhãn gốc=vhod rc8
+R15,2,ВХОД РК8,nhãn gốc=vhod rc8
+DC3,B18,ВХОД РК9,nhãn gốc=vhod rc9
+R55,2,ВХОД РК9,nhãn gốc=vhod rc9
+DC3,A21,ВЫХod a,nhãn gốc=vihod a
+DC3,B21,ВЫХod a,nhãn gốc=vihod a
+U2,3,ВЫХod a,nhãn gốc=vihod a
+U14,3,ВЫХod a,nhãn gốc=vihod a
+DC3,A22,ВЫХod b,nhãn gốc=vihod b
+DC3,C21,ВЫХod b,nhãn gốc=vihod b
+U2,7,ВЫХod b,nhãn gốc=vihod b
+U14,7,ВЫХod b,nhãn gốc=vihod b
+DC3,B22,ВЫХod РК,nhãn gốc=vihod rc
+DC3,C22,ВЫХod РК,nhãn gốc=vihod rc
+U2,8,ВЫХod РК,nhãn gốc=vihod rc
+U14,8,ВЫХod РК,nhãn gốc=vihod rc
+D1,2,N0001,
+U12,9,N0001,
+U12,10,N0001,
+U12,11,N0001,
+U12,12,N0001,
+D2,2,N0002,
+U24,9,N0002,
+U24,10,N0002,
+U24,11,N0002,
+U24,12,N0002,
+DC3,A30,N0003,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC3,B30,N0004,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC3,C29,N0005,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC3,C30,N0006,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC4,A3,N0007,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC4,A4,N0008,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC4,A5,N0009,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC4,B3,N0010,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC4,B4,N0011,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC4,B5,N0012,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC4,C3,N0013,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC4,C4,N0014,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC4,C5,N0015,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC4,C30,N0016,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+R101,2,N0017,
+R102,1,N0017,
+U65,8,N0017,
+R104,2,N0018,
+R105,1,N0018,
+U65,11,N0018,
+R107,2,N0019,
+R108,1,N0019,
+U66,2,N0019,
+R110,2,N0020,
+R111,1,N0020,
+U66,5,N0020,
+R113,2,N0021,
+R114,1,N0021,
+U66,8,N0021,
+R116,2,N0022,
+R117,1,N0022,
+U66,11,N0022,
+R119,2,N0023,
+R120,1,N0023,
+U67,2,N0023,
+R122,2,N0024,
+R123,1,N0024,
+U67,5,N0024,
+R125,2,N0025,
+R126,1,N0025,
+U67,8,N0025,
+R128,2,N0026,
+R129,1,N0026,
+U67,11,N0026,
+R135,2,N0027,
+R139,1,N0027,
+U68,2,N0027,
+R136,2,N0028,
+R140,1,N0028,
+U68,5,N0028,
+R137,2,N0029,
+R141,1,N0029,
+U68,8,N0029,
+R138,2,N0030,
+R142,1,N0030,
+U68,11,N0030,
+R147,2,N0031,
+R151,1,N0031,
+U69,2,N0031,
+R148,2,N0032,
+R152,1,N0032,
+U69,5,N0032,
+R149,2,N0033,
+R153,1,N0033,
+U69,8,N0033,
+R150,2,N0034,
+R154,1,N0034,
+U69,11,N0034,
+R159,2,N0035,
+R163,1,N0035,
+U70,2,N0035,
+R160,2,N0036,
+R164,1,N0036,
+U70,5,N0036,
+R161,2,N0037,
+R165,1,N0037,
+U70,8,N0037,
+R162,2,N0038,
+R166,1,N0038,
+U70,11,N0038,
+R171,2,N0039,
+R175,1,N0039,
+U71,2,N0039,
+R172,2,N0040,
+R176,1,N0040,
+U71,5,N0040,
+R173,2,N0041,
+R177,1,N0041,
+U71,8,N0041,
+R174,2,N0042,
+R178,1,N0042,
+U71,11,N0042,
+R183,2,N0043,
+R187,1,N0043,
+U72,2,N0043,
+R184,2,N0044,
+R188,1,N0044,
+U72,5,N0044,
+R185,2,N0045,
+R189,1,N0045,
+U72,8,N0045,
+R186,2,N0046,
+R190,1,N0046,
+U72,11,N0046,
+R195,2,N0047,
+R199,1,N0047,
+U73,2,N0047,
+R196,2,N0048,
+R200,1,N0048,
+U73,5,N0048,
+R197,2,N0049,
+R201,1,N0049,
+U73,8,N0049,
+R198,2,N0050,
+R202,1,N0050,
+U73,11,N0050,
+R207,2,N0051,
+R211,1,N0051,
+U74,2,N0051,
+R208,2,N0052,
+R212,1,N0052,
+U74,5,N0052,
+R209,2,N0053,
+R213,1,N0053,
+U74,8,N0053,
+R210,2,N0054,
+R214,1,N0054,
+U74,11,N0054,
+R219,2,N0055,
+R223,1,N0055,
+U75,2,N0055,
+R220,2,N0056,
+R224,1,N0056,
+U75,5,N0056,
+R221,2,N0057,
+R225,1,N0057,
+U75,8,N0057,
+R226,2,N0058,
+R227,1,N0058,
+U76,2,N0058,
+R229,2,N0059,
+R230,1,N0059,
+U76,5,N0059,
+R232,2,N0060,
+R233,1,N0060,
+U76,8,N0060,
+R235,2,N0061,
+R236,1,N0061,
+U76,11,N0061,
+R95,2,N0062,
+R96,1,N0062,
+U65,2,N0062,
+R98,2,N0063,
+R99,1,N0063,
+U65,5,N0063,
+U1,1,N0064,
+U4,3,N0064,
+U4,7,N0064,
+U4,8,N0064,
+U4,14,N0064,
+U1,3,N0065,
+U1,8,N0065,
+U2,1,N0065,
+U1,5,N0066,
+U5,3,N0066,
+U5,7,N0066,
+U5,8,N0066,
+U5,14,N0066,
+U1,7,N0067,
+U1,14,N0067,
+U2,5,N0067,
+U1,10,N0068,
+U6,3,N0068,
+U6,7,N0068,
+U6,8,N0068,
+U6,14,N0068,
+U1,12,N0069,
+U7,3,N0069,
+U7,7,N0069,
+U7,8,N0069,
+U7,14,N0069,
+U13,1,N0070,
+U16,3,N0070,
+U16,7,N0070,
+U16,8,N0070,
+U16,14,N0070,
+U13,3,N0071,
+U13,8,N0071,
+U14,1,N0071,
+U13,5,N0072,
+U17,3,N0072,
+U17,7,N0072,
+U17,8,N0072,
+U17,14,N0072,
+U13,7,N0073,
+U13,14,N0073,
+U14,5,N0073,
+U13,10,N0074,
+U18,3,N0074,
+U18,7,N0074,
+U18,8,N0074,
+U18,14,N0074,
+U13,12,N0075,
+U19,3,N0075,
+U19,7,N0075,
+U19,8,N0075,
+U19,14,N0075,
+U14,10,N0076,
+U15,3,N0076,
+U15,7,N0076,
+U14,12,N0077,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U14,13,N0078,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U14,14,N0079,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U15,1,N0080,
+U20,3,N0080,
+U20,7,N0080,
+U20,8,N0080,
+U20,14,N0080,
+U15,5,N0081,
+U21,3,N0081,
+U21,7,N0081,
+U21,8,N0081,
+U21,14,N0081,
+U15,8,N0082,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U15,9,N0083,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U15,10,N0084,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U15,12,N0085,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U15,13,N0086,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U15,14,N0087,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U2,10,N0088,
+U3,3,N0088,
+U3,7,N0088,
+U2,12,N0089,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U2,13,N0090,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U2,14,N0091,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U3,1,N0092,
+U8,3,N0092,
+U8,7,N0092,
+U8,8,N0092,
+U8,14,N0092,
+U3,5,N0093,
+U9,3,N0093,
+U9,7,N0093,
+U9,8,N0093,
+U9,14,N0093,
+U3,8,N0094,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U3,9,N0095,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U3,10,N0096,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U3,12,N0097,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U3,13,N0098,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U3,14,N0099,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U65,13,N0100,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U65,14,N0101,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U66,13,N0102,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U66,14,N0103,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U67,13,N0104,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U67,14,N0105,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U68,13,N0106,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U68,14,N0107,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U69,13,N0108,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U69,14,N0109,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U70,13,N0110,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U70,14,N0111,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U71,13,N0112,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U71,14,N0113,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U72,13,N0114,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U72,14,N0115,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U73,13,N0116,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U73,14,N0117,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U74,13,N0118,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U74,14,N0119,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U75,13,N0120,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U75,14,N0121,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U76,13,N0122,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U76,14,N0123,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus

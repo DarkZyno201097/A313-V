@@ -1,0 +1,19 @@
+﻿table,pin,signal,sheet,note
+J?,1,GND,machkiemtranguon/ngoc.SchDoc,
+J?,2,-5b,machkiemtranguon/ngoc.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: -5b
+J?,3,-6.3b,machkiemtranguon/ngoc.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: -6.3b
+J?,4,J1/4,machkiemtranguon/ngoc.SchDoc,
+J?,5,N0024,machkiemtranguon/ngoc.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+J?,6,+27b,machkiemtranguon/ngoc.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: +27b
+J?,7,-12.6b,machkiemtranguon/ngoc.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: -12.6b
+J?,8,J1/8,machkiemtranguon/ngoc.SchDoc,
+J?,9,-20b,machkiemtranguon/ngoc.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: -20b
+J?,10,J1/10,machkiemtranguon/ngoc.SchDoc,
+J?,11,+5b,machkiemtranguon/ngoc.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: +5b
+J?,12,N0025,machkiemtranguon/ngoc.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+J?,13,+12.6b,machkiemtranguon/ngoc.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: +12.6b
+J?,14,+6.3b,machkiemtranguon/ngoc.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: +6.3b
+J?,15,N0026,machkiemtranguon/ngoc.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+J?,16,J1/16,machkiemtranguon/ngoc.SchDoc,
+J?,17,J1/17,machkiemtranguon/ngoc.SchDoc,
+J?,18,J1/18,machkiemtranguon/ngoc.SchDoc,

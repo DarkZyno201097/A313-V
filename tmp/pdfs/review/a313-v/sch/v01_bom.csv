@@ -1,0 +1,146 @@
+﻿ref,name,qty,page,note
+C1,10uF [CAP],1,1,nguồn SchDoc=TAM1_Xulytrungtam/PAGE1.SchDoc; sheet=PAGE1.SchDoc
+C2,10uF [CAP],1,1,nguồn SchDoc=TAM1_Xulytrungtam/PAGE1.SchDoc; sheet=PAGE1.SchDoc
+C3,10uF [CAP],1,1,nguồn SchDoc=TAM1_Xulytrungtam/PAGE1.SchDoc; sheet=PAGE1.SchDoc
+C4,10uF [CAP],1,1,nguồn SchDoc=TAM1_Xulytrungtam/PAGE1.SchDoc; sheet=PAGE1.SchDoc
+C5,0.1uF [CAP NP],1,1,nguồn SchDoc=TAM1_Xulytrungtam/PAGE1.SchDoc; sheet=PAGE1.SchDoc
+C6,0.01uF [CAP_Dup1],1,1,nguồn SchDoc=TAM1_Xulytrungtam/PAGE1.SchDoc; sheet=PAGE1.SchDoc
+C8,10uF [CAP],1,1,nguồn SchDoc=TAM1_Xulytrungtam/PAGE1.SchDoc; sheet=PAGE1.SchDoc
+C9,0.1uF [CAP NP],1,1,nguồn SchDoc=TAM1_Xulytrungtam/PAGE1.SchDoc; sheet=PAGE1.SchDoc
+C10,10uF [CAP],1,1,nguồn SchDoc=TAM1_Xulytrungtam/PAGE1.SchDoc; sheet=PAGE1.SchDoc
+C11,0.1uF [CAP NP],1,1,nguồn SchDoc=TAM1_Xulytrungtam/PAGE1.SchDoc; sheet=PAGE1.SchDoc
+C12,10uF [CAP],1,1,nguồn SchDoc=TAM1_Xulytrungtam/PAGE1.SchDoc; sheet=PAGE1.SchDoc
+C13,0.1uF [CAP NP],1,1,nguồn SchDoc=TAM1_Xulytrungtam/PAGE1.SchDoc; sheet=PAGE1.SchDoc
+C14,0.1uF [CAP NP],1,1,nguồn SchDoc=TAM1_Xulytrungtam/PAGE1.SchDoc; sheet=PAGE1.SchDoc
+C15,0.1uF [CAP NP],1,1,nguồn SchDoc=TAM1_Xulytrungtam/PAGE1.SchDoc; sheet=PAGE1.SchDoc
+C16,0.1uF [CAP NP],1,1,nguồn SchDoc=TAM1_Xulytrungtam/PAGE1.SchDoc; sheet=PAGE1.SchDoc
+C17,0.1uF [CAP NP],1,1,nguồn SchDoc=TAM1_Xulytrungtam/PAGE1.SchDoc; sheet=PAGE1.SchDoc
+C18,47u [CAPACITOR POL],1,1,nguồn SchDoc=TAM1_Xulytrungtam/PAGE1.SchDoc; sheet=PAGE1.SchDoc
+C19,47u [CAPACITOR POL],1,1,nguồn SchDoc=TAM1_Xulytrungtam/PAGE1.SchDoc; sheet=PAGE1.SchDoc
+C20,680p [CAP NP],1,1,nguồn SchDoc=TAM1_Xulytrungtam/PAGE1.SchDoc; sheet=PAGE1.SchDoc
+C21,120p [CAP NP],1,1,nguồn SchDoc=TAM1_Xulytrungtam/PAGE1.SchDoc; sheet=PAGE1.SchDoc
+C22,0.1uF [CAP NP],1,1,nguồn SchDoc=TAM1_Xulytrungtam/PAGE1.SchDoc; sheet=PAGE1.SchDoc
+C23,0.1uF [CAP NP],1,1,nguồn SchDoc=TAM1_Xulytrungtam/PAGE1.SchDoc; sheet=PAGE1.SchDoc
+C24,0.1uF [CAP NP],1,1,nguồn SchDoc=TAM1_Xulytrungtam/PAGE1.SchDoc; sheet=PAGE1.SchDoc
+C25,0.1uF [CAP NP],1,1,nguồn SchDoc=TAM1_Xulytrungtam/PAGE1.SchDoc; sheet=PAGE1.SchDoc
+D1,LED,1,1,nguồn SchDoc=TAM1_Xulytrungtam/PAGE1.SchDoc; sheet=PAGE1.SchDoc
+D3,LED,1,1,nguồn SchDoc=TAM1_Xulytrungtam/PAGE1.SchDoc; sheet=PAGE1.SchDoc
+DC1B,DC96c,1,1,nguồn SchDoc=TAM1_Xulytrungtam/PAGE1.SchDoc; sheet=PAGE1.SchDoc
+DC2B,DC96c,1,1,nguồn SchDoc=TAM1_Xulytrungtam/PAGE1.SchDoc; sheet=PAGE1.SchDoc
+J1,AS CONFG [CON10A_2],1,1,nguồn SchDoc=TAM1_Xulytrungtam/PAGE1.SchDoc; sheet=PAGE1.SchDoc
+J2,JTAG [CON10A_2],1,1,nguồn SchDoc=TAM1_Xulytrungtam/PAGE1.SchDoc; sheet=PAGE1.SchDoc
+R1,"4,7k [R_Dup1]",1,1,nguồn SchDoc=TAM1_Xulytrungtam/PAGE1.SchDoc; sheet=PAGE1.SchDoc
+R2,"4,7k [R_Dup1]",1,1,nguồn SchDoc=TAM1_Xulytrungtam/PAGE1.SchDoc; sheet=PAGE1.SchDoc
+R3,"4,7k [R_Dup1]",1,1,nguồn SchDoc=TAM1_Xulytrungtam/PAGE1.SchDoc; sheet=PAGE1.SchDoc
+R4,"4,7k [R_Dup1]",1,1,nguồn SchDoc=TAM1_Xulytrungtam/PAGE1.SchDoc; sheet=PAGE1.SchDoc
+R5,"4,7k [R_Dup1]",1,1,nguồn SchDoc=TAM1_Xulytrungtam/PAGE1.SchDoc; sheet=PAGE1.SchDoc
+R6,"4,7k [R_Dup1]",1,1,nguồn SchDoc=TAM1_Xulytrungtam/PAGE1.SchDoc; sheet=PAGE1.SchDoc
+R7,"4,7k [R_Dup1]",1,1,nguồn SchDoc=TAM1_Xulytrungtam/PAGE1.SchDoc; sheet=PAGE1.SchDoc
+R8,"4,7k [R_Dup1]",1,1,nguồn SchDoc=TAM1_Xulytrungtam/PAGE1.SchDoc; sheet=PAGE1.SchDoc
+R9,100r [R],1,1,nguồn SchDoc=TAM1_Xulytrungtam/PAGE1.SchDoc; sheet=PAGE1.SchDoc
+R10,100r [R],1,1,nguồn SchDoc=TAM1_Xulytrungtam/PAGE1.SchDoc; sheet=PAGE1.SchDoc
+R11,100r [R],1,1,nguồn SchDoc=TAM1_Xulytrungtam/PAGE1.SchDoc; sheet=PAGE1.SchDoc
+R12,100r [R],1,1,nguồn SchDoc=TAM1_Xulytrungtam/PAGE1.SchDoc; sheet=PAGE1.SchDoc
+R13,100r [R],1,1,nguồn SchDoc=TAM1_Xulytrungtam/PAGE1.SchDoc; sheet=PAGE1.SchDoc
+R14,100r [R],1,1,nguồn SchDoc=TAM1_Xulytrungtam/PAGE1.SchDoc; sheet=PAGE1.SchDoc
+R15,100r [R],1,1,nguồn SchDoc=TAM1_Xulytrungtam/PAGE1.SchDoc; sheet=PAGE1.SchDoc
+R16,100r [R],1,1,nguồn SchDoc=TAM1_Xulytrungtam/PAGE1.SchDoc; sheet=PAGE1.SchDoc
+R17,"4,7k [R_Dup1]",1,1,nguồn SchDoc=TAM1_Xulytrungtam/PAGE1.SchDoc; sheet=PAGE1.SchDoc
+R18,100r [R],1,1,nguồn SchDoc=TAM1_Xulytrungtam/PAGE1.SchDoc; sheet=PAGE1.SchDoc
+R19,100r [R],1,1,nguồn SchDoc=TAM1_Xulytrungtam/PAGE1.SchDoc; sheet=PAGE1.SchDoc
+R20,100r [R],1,1,nguồn SchDoc=TAM1_Xulytrungtam/PAGE1.SchDoc; sheet=PAGE1.SchDoc
+R21,100r [R],1,1,nguồn SchDoc=TAM1_Xulytrungtam/PAGE1.SchDoc; sheet=PAGE1.SchDoc
+R22,"4,7k [R_Dup1]",1,1,nguồn SchDoc=TAM1_Xulytrungtam/PAGE1.SchDoc; sheet=PAGE1.SchDoc
+R26,100r [R],1,1,nguồn SchDoc=TAM1_Xulytrungtam/PAGE1.SchDoc; sheet=PAGE1.SchDoc
+R27,100r [R],1,1,nguồn SchDoc=TAM1_Xulytrungtam/PAGE1.SchDoc; sheet=PAGE1.SchDoc
+R28,100r [R],1,1,nguồn SchDoc=TAM1_Xulytrungtam/PAGE1.SchDoc; sheet=PAGE1.SchDoc
+R29,100r [R],1,1,nguồn SchDoc=TAM1_Xulytrungtam/PAGE1.SchDoc; sheet=PAGE1.SchDoc
+R30,"4,7k [R_Dup1]",1,1,nguồn SchDoc=TAM1_Xulytrungtam/PAGE1.SchDoc; sheet=PAGE1.SchDoc
+R31,"4,7k [R_Dup1]",1,1,nguồn SchDoc=TAM1_Xulytrungtam/PAGE1.SchDoc; sheet=PAGE1.SchDoc
+R32,160R [R_Dup1],1,1,nguồn SchDoc=TAM1_Xulytrungtam/PAGE1.SchDoc; sheet=PAGE1.SchDoc
+R33,160R [R_Dup1],1,1,nguồn SchDoc=TAM1_Xulytrungtam/PAGE1.SchDoc; sheet=PAGE1.SchDoc
+R34,160R [R_Dup1],1,1,nguồn SchDoc=TAM1_Xulytrungtam/PAGE1.SchDoc; sheet=PAGE1.SchDoc
+R35,160R [R_Dup1],1,1,nguồn SchDoc=TAM1_Xulytrungtam/PAGE1.SchDoc; sheet=PAGE1.SchDoc
+R36,160R [R_Dup1],1,1,nguồn SchDoc=TAM1_Xulytrungtam/PAGE1.SchDoc; sheet=PAGE1.SchDoc
+R37,160R [R_Dup1],1,1,nguồn SchDoc=TAM1_Xulytrungtam/PAGE1.SchDoc; sheet=PAGE1.SchDoc
+R38,"4,7k [R_Dup1]",1,1,nguồn SchDoc=TAM1_Xulytrungtam/PAGE1.SchDoc; sheet=PAGE1.SchDoc
+R39,"4,7k [R_Dup1]",1,1,nguồn SchDoc=TAM1_Xulytrungtam/PAGE1.SchDoc; sheet=PAGE1.SchDoc
+R40,"4,7k [R_Dup1]",1,1,nguồn SchDoc=TAM1_Xulytrungtam/PAGE1.SchDoc; sheet=PAGE1.SchDoc
+R41,160R [R_Dup1],1,1,nguồn SchDoc=TAM1_Xulytrungtam/PAGE1.SchDoc; sheet=PAGE1.SchDoc
+R42,"4,7k [R_Dup1]",1,1,nguồn SchDoc=TAM1_Xulytrungtam/PAGE1.SchDoc; sheet=PAGE1.SchDoc
+R43,"4,7k [R_Dup1]",1,1,nguồn SchDoc=TAM1_Xulytrungtam/PAGE1.SchDoc; sheet=PAGE1.SchDoc
+R44,"4,7k [R_Dup1]",1,1,nguồn SchDoc=TAM1_Xulytrungtam/PAGE1.SchDoc; sheet=PAGE1.SchDoc
+R45,"4,7k [R_Dup1]",1,1,nguồn SchDoc=TAM1_Xulytrungtam/PAGE1.SchDoc; sheet=PAGE1.SchDoc
+R46,1k [R_Dup1],1,1,nguồn SchDoc=TAM1_Xulytrungtam/PAGE1.SchDoc; sheet=PAGE1.SchDoc
+R47,1k [R_Dup1],1,1,nguồn SchDoc=TAM1_Xulytrungtam/PAGE1.SchDoc; sheet=PAGE1.SchDoc
+R48,"4,7k [R_Dup1]",1,1,nguồn SchDoc=TAM1_Xulytrungtam/PAGE1.SchDoc; sheet=PAGE1.SchDoc
+R49,160R [R_Dup1],1,1,nguồn SchDoc=TAM1_Xulytrungtam/PAGE1.SchDoc; sheet=PAGE1.SchDoc
+R50,160R [R_Dup1],1,1,nguồn SchDoc=TAM1_Xulytrungtam/PAGE1.SchDoc; sheet=PAGE1.SchDoc
+R51,160R [R_Dup1],1,1,nguồn SchDoc=TAM1_Xulytrungtam/PAGE1.SchDoc; sheet=PAGE1.SchDoc
+R52,160R [R_Dup1],1,1,nguồn SchDoc=TAM1_Xulytrungtam/PAGE1.SchDoc; sheet=PAGE1.SchDoc
+R53,160R [R_Dup1],1,1,nguồn SchDoc=TAM1_Xulytrungtam/PAGE1.SchDoc; sheet=PAGE1.SchDoc
+R54,160R [R_Dup1],1,1,nguồn SchDoc=TAM1_Xulytrungtam/PAGE1.SchDoc; sheet=PAGE1.SchDoc
+R55,160R [R_Dup1],1,1,nguồn SchDoc=TAM1_Xulytrungtam/PAGE1.SchDoc; sheet=PAGE1.SchDoc
+R56,160R [R_Dup1],1,1,nguồn SchDoc=TAM1_Xulytrungtam/PAGE1.SchDoc; sheet=PAGE1.SchDoc
+R57,160R [R_Dup1],1,1,nguồn SchDoc=TAM1_Xulytrungtam/PAGE1.SchDoc; sheet=PAGE1.SchDoc
+R58,160R [R_Dup1],1,1,nguồn SchDoc=TAM1_Xulytrungtam/PAGE1.SchDoc; sheet=PAGE1.SchDoc
+R59,160R [R_Dup1],1,1,nguồn SchDoc=TAM1_Xulytrungtam/PAGE1.SchDoc; sheet=PAGE1.SchDoc
+R60,160R [R_Dup1],1,1,nguồn SchDoc=TAM1_Xulytrungtam/PAGE1.SchDoc; sheet=PAGE1.SchDoc
+R61,160R [R_Dup1],1,1,nguồn SchDoc=TAM1_Xulytrungtam/PAGE1.SchDoc; sheet=PAGE1.SchDoc
+R62,160R [R_Dup1],1,1,nguồn SchDoc=TAM1_Xulytrungtam/PAGE1.SchDoc; sheet=PAGE1.SchDoc
+R63,160R [R_Dup1],1,1,nguồn SchDoc=TAM1_Xulytrungtam/PAGE1.SchDoc; sheet=PAGE1.SchDoc
+R64,160R [R_Dup1],1,1,nguồn SchDoc=TAM1_Xulytrungtam/PAGE1.SchDoc; sheet=PAGE1.SchDoc
+R65,160R [R_Dup1],1,1,nguồn SchDoc=TAM1_Xulytrungtam/PAGE1.SchDoc; sheet=PAGE1.SchDoc
+R66,160R [R_Dup1],1,1,nguồn SchDoc=TAM1_Xulytrungtam/PAGE1.SchDoc; sheet=PAGE1.SchDoc
+R67,160R [R_Dup1],1,1,nguồn SchDoc=TAM1_Xulytrungtam/PAGE1.SchDoc; sheet=PAGE1.SchDoc
+R68,160R [R_Dup1],1,1,nguồn SchDoc=TAM1_Xulytrungtam/PAGE1.SchDoc; sheet=PAGE1.SchDoc
+R69,160R [R_Dup1],1,1,nguồn SchDoc=TAM1_Xulytrungtam/PAGE1.SchDoc; sheet=PAGE1.SchDoc
+R70,160R [R_Dup1],1,1,nguồn SchDoc=TAM1_Xulytrungtam/PAGE1.SchDoc; sheet=PAGE1.SchDoc
+R71,160R [R_Dup1],1,1,nguồn SchDoc=TAM1_Xulytrungtam/PAGE1.SchDoc; sheet=PAGE1.SchDoc
+R72,160R [R_Dup1],1,1,nguồn SchDoc=TAM1_Xulytrungtam/PAGE1.SchDoc; sheet=PAGE1.SchDoc
+R73,160R [R_Dup1],1,1,nguồn SchDoc=TAM1_Xulytrungtam/PAGE1.SchDoc; sheet=PAGE1.SchDoc
+R74,160R [R_Dup1],1,1,nguồn SchDoc=TAM1_Xulytrungtam/PAGE1.SchDoc; sheet=PAGE1.SchDoc
+R75,160R [R_Dup1],1,1,nguồn SchDoc=TAM1_Xulytrungtam/PAGE1.SchDoc; sheet=PAGE1.SchDoc
+R76,160R [R_Dup1],1,1,nguồn SchDoc=TAM1_Xulytrungtam/PAGE1.SchDoc; sheet=PAGE1.SchDoc
+R77,160R [R_Dup1],1,1,nguồn SchDoc=TAM1_Xulytrungtam/PAGE1.SchDoc; sheet=PAGE1.SchDoc
+R78,160R [R_Dup1],1,1,nguồn SchDoc=TAM1_Xulytrungtam/PAGE1.SchDoc; sheet=PAGE1.SchDoc
+R79,160R [R_Dup1],1,1,nguồn SchDoc=TAM1_Xulytrungtam/PAGE1.SchDoc; sheet=PAGE1.SchDoc
+R80,160R [R_Dup1],1,1,nguồn SchDoc=TAM1_Xulytrungtam/PAGE1.SchDoc; sheet=PAGE1.SchDoc
+TP1,T POINT A,1,1,nguồn SchDoc=TAM1_Xulytrungtam/PAGE1.SchDoc; sheet=PAGE1.SchDoc
+TP2,T POINT A,1,1,nguồn SchDoc=TAM1_Xulytrungtam/PAGE1.SchDoc; sheet=PAGE1.SchDoc
+TP3,T POINT A,1,1,nguồn SchDoc=TAM1_Xulytrungtam/PAGE1.SchDoc; sheet=PAGE1.SchDoc
+U1,Thachanh 64MHz [thachanh4c],1,1,nguồn SchDoc=TAM1_Xulytrungtam/PAGE1.SchDoc; sheet=PAGE1.SchDoc
+U2,Thachanh 4MHz [thachanh4c],1,1,nguồn SchDoc=TAM1_Xulytrungtam/PAGE1.SchDoc; sheet=PAGE1.SchDoc
+U3,EPCS16 [EPCS16_0],1,1,nguồn SchDoc=TAM1_Xulytrungtam/PAGE1.SchDoc; sheet=PAGE1.SchDoc
+U4,tlv1117cdcy [tlv1117cdcy_1],1,1,nguồn SchDoc=TAM1_Xulytrungtam/PAGE1.SchDoc; sheet=PAGE1.SchDoc
+U5,tlv1117cdcy [tlv1117cdcy_1],1,1,nguồn SchDoc=TAM1_Xulytrungtam/PAGE1.SchDoc; sheet=PAGE1.SchDoc
+U6,TPS70248,1,1,nguồn SchDoc=TAM1_Xulytrungtam/PAGE1.SchDoc; sheet=PAGE1.SchDoc
+U7,LM393,1,1,nguồn SchDoc=TAM1_Xulytrungtam/PAGE1.SchDoc; sheet=PAGE1.SchDoc
+U10,EP1C12Q240 [ep1c12q240_5],1,1,nguồn SchDoc=TAM1_Xulytrungtam/PAGE1.SchDoc; sheet=PAGE1.SchDoc
+U11,74HC374,1,1,nguồn SchDoc=TAM1_Xulytrungtam/PAGE1.SchDoc; sheet=PAGE1.SchDoc
+U13,74HC374,1,1,nguồn SchDoc=TAM1_Xulytrungtam/PAGE1.SchDoc; sheet=PAGE1.SchDoc
+U15,74HC374,1,1,nguồn SchDoc=TAM1_Xulytrungtam/PAGE1.SchDoc; sheet=PAGE1.SchDoc
+U17,74HC374,1,1,nguồn SchDoc=TAM1_Xulytrungtam/PAGE1.SchDoc; sheet=PAGE1.SchDoc
+U19,CT25244 [CT25244_13],1,1,nguồn SchDoc=TAM1_Xulytrungtam/PAGE1.SchDoc; sheet=PAGE1.SchDoc
+U20,CT25244 [CT25244_13],1,1,nguồn SchDoc=TAM1_Xulytrungtam/PAGE1.SchDoc; sheet=PAGE1.SchDoc
+U21,CT25244 [CT25244_13],1,1,nguồn SchDoc=TAM1_Xulytrungtam/PAGE1.SchDoc; sheet=PAGE1.SchDoc
+U22,CT25244 [CT25244_13],1,1,nguồn SchDoc=TAM1_Xulytrungtam/PAGE1.SchDoc; sheet=PAGE1.SchDoc
+U23,CT25244 [CT25244_13],1,1,nguồn SchDoc=TAM1_Xulytrungtam/PAGE1.SchDoc; sheet=PAGE1.SchDoc
+U24,CT25244 [CT25244_13],1,1,nguồn SchDoc=TAM1_Xulytrungtam/PAGE1.SchDoc; sheet=PAGE1.SchDoc
+U25,CT25244 [CT25244_13],1,1,nguồn SchDoc=TAM1_Xulytrungtam/PAGE1.SchDoc; sheet=PAGE1.SchDoc
+U26,CT25244 [CT25244_13],1,1,nguồn SchDoc=TAM1_Xulytrungtam/PAGE1.SchDoc; sheet=PAGE1.SchDoc
+U27,CT25244 [CT25244_13],1,1,nguồn SchDoc=TAM1_Xulytrungtam/PAGE1.SchDoc; sheet=PAGE1.SchDoc
+U33,CY62256N [CY62256N_0],1,1,nguồn SchDoc=TAM1_Xulytrungtam/PAGE1.SchDoc; sheet=PAGE1.SchDoc
+U34,CY62256N [CY62256N_0],1,1,nguồn SchDoc=TAM1_Xulytrungtam/PAGE1.SchDoc; sheet=PAGE1.SchDoc
+U35,CY62256N [CY62256N_0],1,1,nguồn SchDoc=TAM1_Xulytrungtam/PAGE1.SchDoc; sheet=PAGE1.SchDoc
+U36,CY14B101K [CY14B101K_1],1,1,nguồn SchDoc=TAM1_Xulytrungtam/PAGE1.SchDoc; sheet=PAGE1.SchDoc
+U37,CY14B101K [CY14B101K_1],1,1,nguồn SchDoc=TAM1_Xulytrungtam/PAGE1.SchDoc; sheet=PAGE1.SchDoc
+U38,CY14B101K [CY14B101K_1],1,1,nguồn SchDoc=TAM1_Xulytrungtam/PAGE1.SchDoc; sheet=PAGE1.SchDoc
+U39,7400 [7400_0_Dup1],1,1,nguồn SchDoc=TAM1_Xulytrungtam/PAGE1.SchDoc; sheet=PAGE1.SchDoc
+U42,Thachanh 13MHz [thachanh4c],1,1,nguồn SchDoc=TAM1_Xulytrungtam/PAGE1.SchDoc; sheet=PAGE1.SchDoc
+U43,133LA8,1,1,nguồn SchDoc=TAM1_Xulytrungtam/PAGE1.SchDoc; sheet=PAGE1.SchDoc
+U44,133LN1,1,1,nguồn SchDoc=TAM1_Xulytrungtam/PAGE1.SchDoc; sheet=PAGE1.SchDoc
+U45,1HT251,1,1,nguồn SchDoc=TAM1_Xulytrungtam/PAGE1.SchDoc; sheet=PAGE1.SchDoc
+U46,133LA8,1,1,nguồn SchDoc=TAM1_Xulytrungtam/PAGE1.SchDoc; sheet=PAGE1.SchDoc
+U47,133LA3,1,1,nguồn SchDoc=TAM1_Xulytrungtam/PAGE1.SchDoc; sheet=PAGE1.SchDoc
+Y1,thach_anh [XTAL],1,1,nguồn SchDoc=TAM1_Xulytrungtam/PAGE1.SchDoc; sheet=PAGE1.SchDoc

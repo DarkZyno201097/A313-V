@@ -1,0 +1,193 @@
+﻿table,pin,signal,sheet,note
+DC9,A1,GND/obs.prov,Tam5_Chuyenmachtinhieura/A313_5.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: obs.prov; ? nhiều nhãn trên cùng net: GND/obs.prov
+DC9,A2,+5V,Tam5_Chuyenmachtinhieura/A313_5.SchDoc,
+DC9,A3,"+3,5V",Tam5_Chuyenmachtinhieura/A313_5.SchDoc,
+DC9,A4,"+6,3V",Tam5_Chuyenmachtinhieura/A313_5.SchDoc,
+DC9,A5,"-6,3V",Tam5_Chuyenmachtinhieura/A313_5.SchDoc,
+DC9,A6,N0078,Tam5_Chuyenmachtinhieura/A313_5.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC9,A7,N0079,Tam5_Chuyenmachtinhieura/A313_5.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC9,A8,N0080,Tam5_Chuyenmachtinhieura/A313_5.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC9,A9,N0081,Tam5_Chuyenmachtinhieura/A313_5.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC9,A10,N0082,Tam5_Chuyenmachtinhieura/A313_5.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC9,A11,N0083,Tam5_Chuyenmachtinhieura/A313_5.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC9,A12,N0084,Tam5_Chuyenmachtinhieura/A313_5.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC9,A13,"OC""a""",Tam5_Chuyenmachtinhieura/A313_5.SchDoc,"? nhãn có mã font Latin chưa giải mã chắc chắn: OC""a"""
+DC9,A14,"OC""b""",Tam5_Chuyenmachtinhieura/A313_5.SchDoc,"? nhãn có mã font Latin chưa giải mã chắc chắn: OC""b"""
+DC9,A15,a pr,Tam5_Chuyenmachtinhieura/A313_5.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: a pr
+DC9,A16,b pr,Tam5_Chuyenmachtinhieura/A313_5.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: b pr
+DC9,A17,N0085,Tam5_Chuyenmachtinhieura/A313_5.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC9,A18,N0086,Tam5_Chuyenmachtinhieura/A313_5.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC9,A19,N0087,Tam5_Chuyenmachtinhieura/A313_5.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC9,A20,N0088,Tam5_Chuyenmachtinhieura/A313_5.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC9,A21,N0089,Tam5_Chuyenmachtinhieura/A313_5.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC9,A22,N0090,Tam5_Chuyenmachtinhieura/A313_5.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC9,A23,УПР. t1,Tam5_Chuyenmachtinhieura/A313_5.SchDoc,nhãn gốc=upr. t1
+DC9,A24,УПР. t4,Tam5_Chuyenmachtinhieura/A313_5.SchDoc,nhãn gốc=upr. t4
+DC9,A25,УПР. tk3,Tam5_Chuyenmachtinhieura/A313_5.SchDoc,nhãn gốc=upr. tk3
+DC9,A26,N0091,Tam5_Chuyenmachtinhieura/A313_5.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC9,A27,N0092,Tam5_Chuyenmachtinhieura/A313_5.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC9,A28,N0093,Tam5_Chuyenmachtinhieura/A313_5.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC9,A29,N0094,Tam5_Chuyenmachtinhieura/A313_5.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC9,A30,N0095,Tam5_Chuyenmachtinhieura/A313_5.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC9,A31,GND/obs.prov,Tam5_Chuyenmachtinhieura/A313_5.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: obs.prov; ? nhiều nhãn trên cùng net: GND/obs.prov
+DC9,A32,GND/obs.prov,Tam5_Chuyenmachtinhieura/A313_5.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: obs.prov; ? nhiều nhãn trên cùng net: GND/obs.prov
+DC9,B1,GND/obs.prov,Tam5_Chuyenmachtinhieura/A313_5.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: obs.prov; ? nhiều nhãn trên cùng net: GND/obs.prov
+DC9,B2,+5V,Tam5_Chuyenmachtinhieura/A313_5.SchDoc,
+DC9,B3,"+3,5V",Tam5_Chuyenmachtinhieura/A313_5.SchDoc,
+DC9,B4,"+6,3V",Tam5_Chuyenmachtinhieura/A313_5.SchDoc,
+DC9,B5,"-6,3V",Tam5_Chuyenmachtinhieura/A313_5.SchDoc,
+DC9,B6,N0096,Tam5_Chuyenmachtinhieura/A313_5.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC9,B7,N0097,Tam5_Chuyenmachtinhieura/A313_5.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC9,B8,N0098,Tam5_Chuyenmachtinhieura/A313_5.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC9,B9,N0099,Tam5_Chuyenmachtinhieura/A313_5.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC9,B10,N0100,Tam5_Chuyenmachtinhieura/A313_5.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC9,B11,N0101,Tam5_Chuyenmachtinhieura/A313_5.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC9,B12,N0102,Tam5_Chuyenmachtinhieura/A313_5.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC9,B13,"OC""a""",Tam5_Chuyenmachtinhieura/A313_5.SchDoc,"? nhãn có mã font Latin chưa giải mã chắc chắn: OC""a"""
+DC9,B14,"OC""b""",Tam5_Chuyenmachtinhieura/A313_5.SchDoc,"? nhãn có mã font Latin chưa giải mã chắc chắn: OC""b"""
+DC9,B15,a pr,Tam5_Chuyenmachtinhieura/A313_5.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: a pr
+DC9,B16,b pr,Tam5_Chuyenmachtinhieura/A313_5.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: b pr
+DC9,B17,N0103,Tam5_Chuyenmachtinhieura/A313_5.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC9,B18,N0104,Tam5_Chuyenmachtinhieura/A313_5.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC9,B19,N0105,Tam5_Chuyenmachtinhieura/A313_5.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC9,B20,N0106,Tam5_Chuyenmachtinhieura/A313_5.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC9,B21,N0107,Tam5_Chuyenmachtinhieura/A313_5.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC9,B22,N0108,Tam5_Chuyenmachtinhieura/A313_5.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC9,B23,УПР. t2,Tam5_Chuyenmachtinhieura/A313_5.SchDoc,nhãn gốc=upr. t2
+DC9,B24,УПР. tk1,Tam5_Chuyenmachtinhieura/A313_5.SchDoc,nhãn gốc=upr. tk1
+DC9,B25,УПР. tk4,Tam5_Chuyenmachtinhieura/A313_5.SchDoc,nhãn gốc=upr. tk4
+DC9,B26,N0109,Tam5_Chuyenmachtinhieura/A313_5.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC9,B27,N0110,Tam5_Chuyenmachtinhieura/A313_5.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC9,B28,N0111,Tam5_Chuyenmachtinhieura/A313_5.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC9,B29,N0112,Tam5_Chuyenmachtinhieura/A313_5.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC9,B30,N0113,Tam5_Chuyenmachtinhieura/A313_5.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC9,B31,GND/obs.prov,Tam5_Chuyenmachtinhieura/A313_5.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: obs.prov; ? nhiều nhãn trên cùng net: GND/obs.prov
+DC9,B32,GND/obs.prov,Tam5_Chuyenmachtinhieura/A313_5.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: obs.prov; ? nhiều nhãn trên cùng net: GND/obs.prov
+DC9,C1,GND/obs.prov,Tam5_Chuyenmachtinhieura/A313_5.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: obs.prov; ? nhiều nhãn trên cùng net: GND/obs.prov
+DC9,C2,+5V,Tam5_Chuyenmachtinhieura/A313_5.SchDoc,
+DC9,C3,"+3,5V",Tam5_Chuyenmachtinhieura/A313_5.SchDoc,
+DC9,C4,"+6,3V",Tam5_Chuyenmachtinhieura/A313_5.SchDoc,
+DC9,C5,"-6,3V",Tam5_Chuyenmachtinhieura/A313_5.SchDoc,
+DC9,C6,N0114,Tam5_Chuyenmachtinhieura/A313_5.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC9,C7,N0115,Tam5_Chuyenmachtinhieura/A313_5.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC9,C8,N0116,Tam5_Chuyenmachtinhieura/A313_5.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC9,C9,N0117,Tam5_Chuyenmachtinhieura/A313_5.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC9,C10,N0118,Tam5_Chuyenmachtinhieura/A313_5.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC9,C11,N0119,Tam5_Chuyenmachtinhieura/A313_5.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC9,C12,N0120,Tam5_Chuyenmachtinhieura/A313_5.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC9,C13,"OC""a""",Tam5_Chuyenmachtinhieura/A313_5.SchDoc,"? nhãn có mã font Latin chưa giải mã chắc chắn: OC""a"""
+DC9,C14,"OC""b""",Tam5_Chuyenmachtinhieura/A313_5.SchDoc,"? nhãn có mã font Latin chưa giải mã chắc chắn: OC""b"""
+DC9,C15,a pr,Tam5_Chuyenmachtinhieura/A313_5.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: a pr
+DC9,C16,b pr,Tam5_Chuyenmachtinhieura/A313_5.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: b pr
+DC9,C17,N0121,Tam5_Chuyenmachtinhieura/A313_5.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC9,C18,N0122,Tam5_Chuyenmachtinhieura/A313_5.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC9,C19,N0123,Tam5_Chuyenmachtinhieura/A313_5.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC9,C20,N0124,Tam5_Chuyenmachtinhieura/A313_5.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC9,C21,N0125,Tam5_Chuyenmachtinhieura/A313_5.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC9,C22,N0126,Tam5_Chuyenmachtinhieura/A313_5.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC9,C23,УПР. t3,Tam5_Chuyenmachtinhieura/A313_5.SchDoc,nhãn gốc=upr. t3
+DC9,C24,УПР. tk2,Tam5_Chuyenmachtinhieura/A313_5.SchDoc,nhãn gốc=upr. tk2
+DC9,C25,N0127,Tam5_Chuyenmachtinhieura/A313_5.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC9,C26,N0128,Tam5_Chuyenmachtinhieura/A313_5.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC9,C27,N0129,Tam5_Chuyenmachtinhieura/A313_5.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC9,C28,N0130,Tam5_Chuyenmachtinhieura/A313_5.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC9,C29,N0131,Tam5_Chuyenmachtinhieura/A313_5.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC9,C30,N0132,Tam5_Chuyenmachtinhieura/A313_5.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC9,C31,GND/obs.prov,Tam5_Chuyenmachtinhieura/A313_5.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: obs.prov; ? nhiều nhãn trên cùng net: GND/obs.prov
+DC9,C32,GND/obs.prov,Tam5_Chuyenmachtinhieura/A313_5.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: obs.prov; ? nhiều nhãn trên cùng net: GND/obs.prov
+DC10,A1,GND/obs.prov,Tam5_Chuyenmachtinhieura/A313_5.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: obs.prov; ? nhiều nhãn trên cùng net: GND/obs.prov
+DC10,A2,-23V,Tam5_Chuyenmachtinhieura/A313_5.SchDoc,
+DC10,A3,"-12,6V",Tam5_Chuyenmachtinhieura/A313_5.SchDoc,
+DC10,A4,"+12,6V",Tam5_Chuyenmachtinhieura/A313_5.SchDoc,
+DC10,A5,N0051,Tam5_Chuyenmachtinhieura/A313_5.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC10,A6,УПР. c1,Tam5_Chuyenmachtinhieura/A313_5.SchDoc,nhãn gốc=upr. c1
+DC10,A7,ВЫХ.1А=,Tam5_Chuyenmachtinhieura/A313_5.SchDoc,nhãn gốc=vih.1a=
+DC10,A8,ВЫХ.2А=,Tam5_Chuyenmachtinhieura/A313_5.SchDoc,nhãn gốc=vih.2a=
+DC10,A9,ВЫХ.3А=,Tam5_Chuyenmachtinhieura/A313_5.SchDoc,nhãn gốc=vih.3a=
+DC10,A10,ВЫХ.4А=,Tam5_Chuyenmachtinhieura/A313_5.SchDoc,nhãn gốc=vih.4a=
+DC10,A11,ВЫХ.5А=,Tam5_Chuyenmachtinhieura/A313_5.SchDoc,nhãn gốc=vih.5a=
+DC10,A12,ВЫХ.6А=,Tam5_Chuyenmachtinhieura/A313_5.SchDoc,nhãn gốc=vih.6a=
+DC10,A13,ВЫХ.7А=,Tam5_Chuyenmachtinhieura/A313_5.SchDoc,nhãn gốc=vih.7a=
+DC10,A14,ВЫХ.8А=,Tam5_Chuyenmachtinhieura/A313_5.SchDoc,nhãn gốc=vih.8a=
+DC10,A15,ВЫХ.9А=,Tam5_Chuyenmachtinhieura/A313_5.SchDoc,nhãn gốc=vih.9a=
+DC10,A16,ВЫХ.10А=,Tam5_Chuyenmachtinhieura/A313_5.SchDoc,nhãn gốc=vih.10a=
+DC10,A17,ВЫХ.11А=,Tam5_Chuyenmachtinhieura/A313_5.SchDoc,nhãn gốc=vih.11a=
+DC10,A18,ВЫХ.12А=,Tam5_Chuyenmachtinhieura/A313_5.SchDoc,nhãn gốc=vih.12a=
+DC10,A19,ВЫХ.13А=,Tam5_Chuyenmachtinhieura/A313_5.SchDoc,nhãn gốc=vih.13a=
+DC10,A20,ВЫХ.14А=,Tam5_Chuyenmachtinhieura/A313_5.SchDoc,nhãn gốc=vih.14a=
+DC10,A21,ВЫХ.15А=,Tam5_Chuyenmachtinhieura/A313_5.SchDoc,nhãn gốc=vih.15a=
+DC10,A22,ВЫХ.16А=,Tam5_Chuyenmachtinhieura/A313_5.SchDoc,nhãn gốc=vih.16a=
+DC10,A23,ВЫХ.17А=,Tam5_Chuyenmachtinhieura/A313_5.SchDoc,nhãn gốc=vih.17a=
+DC10,A24,ВЫХ.20А=,Tam5_Chuyenmachtinhieura/A313_5.SchDoc,nhãn gốc=vih.20a=
+DC10,A25,ВЫХ.23А=,Tam5_Chuyenmachtinhieura/A313_5.SchDoc,nhãn gốc=vih.23a=
+DC10,A26,ВЫХ.26А=,Tam5_Chuyenmachtinhieura/A313_5.SchDoc,nhãn gốc=vih.26a=
+DC10,A27,ВЫХ.29А=,Tam5_Chuyenmachtinhieura/A313_5.SchDoc,nhãn gốc=vih.29a=
+DC10,A28,ВЫХ.32А=,Tam5_Chuyenmachtinhieura/A313_5.SchDoc,nhãn gốc=vih.32a=
+DC10,A29,N0052,Tam5_Chuyenmachtinhieura/A313_5.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC10,A30,N0053,Tam5_Chuyenmachtinhieura/A313_5.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC10,A31,GND/obs.prov,Tam5_Chuyenmachtinhieura/A313_5.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: obs.prov; ? nhiều nhãn trên cùng net: GND/obs.prov
+DC10,A32,GND/obs.prov,Tam5_Chuyenmachtinhieura/A313_5.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: obs.prov; ? nhiều nhãn trên cùng net: GND/obs.prov
+DC10,B1,GND/obs.prov,Tam5_Chuyenmachtinhieura/A313_5.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: obs.prov; ? nhiều nhãn trên cùng net: GND/obs.prov
+DC10,B2,-23V,Tam5_Chuyenmachtinhieura/A313_5.SchDoc,
+DC10,B3,"-12,6V",Tam5_Chuyenmachtinhieura/A313_5.SchDoc,
+DC10,B4,"+12,6V",Tam5_Chuyenmachtinhieura/A313_5.SchDoc,
+DC10,B5,N0054,Tam5_Chuyenmachtinhieura/A313_5.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC10,B6,УПР. c2,Tam5_Chuyenmachtinhieura/A313_5.SchDoc,nhãn gốc=upr. c2
+DC10,B7,N0055,Tam5_Chuyenmachtinhieura/A313_5.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC10,B8,N0056,Tam5_Chuyenmachtinhieura/A313_5.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC10,B9,N0057,Tam5_Chuyenmachtinhieura/A313_5.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC10,B10,N0058,Tam5_Chuyenmachtinhieura/A313_5.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC10,B11,N0059,Tam5_Chuyenmachtinhieura/A313_5.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC10,B12,N0060,Tam5_Chuyenmachtinhieura/A313_5.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC10,B13,N0061,Tam5_Chuyenmachtinhieura/A313_5.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC10,B14,N0062,Tam5_Chuyenmachtinhieura/A313_5.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC10,B15,N0063,Tam5_Chuyenmachtinhieura/A313_5.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC10,B16,N0064,Tam5_Chuyenmachtinhieura/A313_5.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC10,B17,N0065,Tam5_Chuyenmachtinhieura/A313_5.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC10,B18,N0066,Tam5_Chuyenmachtinhieura/A313_5.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC10,B19,N0067,Tam5_Chuyenmachtinhieura/A313_5.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC10,B20,N0068,Tam5_Chuyenmachtinhieura/A313_5.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC10,B21,N0069,Tam5_Chuyenmachtinhieura/A313_5.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC10,B22,N0070,Tam5_Chuyenmachtinhieura/A313_5.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC10,B23,ВЫХ.18А=,Tam5_Chuyenmachtinhieura/A313_5.SchDoc,nhãn gốc=vih.18a=
+DC10,B24,ВЫХ.21А=,Tam5_Chuyenmachtinhieura/A313_5.SchDoc,nhãn gốc=vih.21a=
+DC10,B25,ВЫХ.24А=,Tam5_Chuyenmachtinhieura/A313_5.SchDoc,nhãn gốc=vih.24a=
+DC10,B26,ВЫХ.27А=,Tam5_Chuyenmachtinhieura/A313_5.SchDoc,nhãn gốc=vih.27a=
+DC10,B27,ВЫХ.30А=,Tam5_Chuyenmachtinhieura/A313_5.SchDoc,nhãn gốc=vih.30a=
+DC10,B28,N0071,Tam5_Chuyenmachtinhieura/A313_5.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC10,B29,N0072,Tam5_Chuyenmachtinhieura/A313_5.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC10,B30,N0073,Tam5_Chuyenmachtinhieura/A313_5.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC10,B31,GND/obs.prov,Tam5_Chuyenmachtinhieura/A313_5.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: obs.prov; ? nhiều nhãn trên cùng net: GND/obs.prov
+DC10,B32,GND/obs.prov,Tam5_Chuyenmachtinhieura/A313_5.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: obs.prov; ? nhiều nhãn trên cùng net: GND/obs.prov
+DC10,C1,GND/obs.prov,Tam5_Chuyenmachtinhieura/A313_5.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: obs.prov; ? nhiều nhãn trên cùng net: GND/obs.prov
+DC10,C2,-23V,Tam5_Chuyenmachtinhieura/A313_5.SchDoc,
+DC10,C3,"-12,6V",Tam5_Chuyenmachtinhieura/A313_5.SchDoc,
+DC10,C4,"+12,6V",Tam5_Chuyenmachtinhieura/A313_5.SchDoc,
+DC10,C5,N0074,Tam5_Chuyenmachtinhieura/A313_5.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC10,C6,N0075,Tam5_Chuyenmachtinhieura/A313_5.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC10,C7,ВЫХ.1Б=,Tam5_Chuyenmachtinhieura/A313_5.SchDoc,nhãn gốc=vih.1b=
+DC10,C8,ВЫХ.2Б=,Tam5_Chuyenmachtinhieura/A313_5.SchDoc,nhãn gốc=vih.2b=
+DC10,C9,ВЫХ.3Б=,Tam5_Chuyenmachtinhieura/A313_5.SchDoc,nhãn gốc=vih.3b=
+DC10,C10,ВЫХ.4Б=,Tam5_Chuyenmachtinhieura/A313_5.SchDoc,nhãn gốc=vih.4b=
+DC10,C11,ВЫХ.5Б=,Tam5_Chuyenmachtinhieura/A313_5.SchDoc,nhãn gốc=vih.5b=
+DC10,C12,ВЫХ.6Б=,Tam5_Chuyenmachtinhieura/A313_5.SchDoc,nhãn gốc=vih.6b=
+DC10,C13,ВЫХ.7Б=,Tam5_Chuyenmachtinhieura/A313_5.SchDoc,nhãn gốc=vih.7b=
+DC10,C14,ВЫХ.8Б=,Tam5_Chuyenmachtinhieura/A313_5.SchDoc,nhãn gốc=vih.8b=
+DC10,C15,ВЫХ.9Б=,Tam5_Chuyenmachtinhieura/A313_5.SchDoc,nhãn gốc=vih.9b=
+DC10,C16,ВЫХ.10Б=,Tam5_Chuyenmachtinhieura/A313_5.SchDoc,nhãn gốc=vih.10b=
+DC10,C17,ВЫХ.11Б=,Tam5_Chuyenmachtinhieura/A313_5.SchDoc,nhãn gốc=vih.11b=
+DC10,C18,ВЫХ.12Б=,Tam5_Chuyenmachtinhieura/A313_5.SchDoc,nhãn gốc=vih.12b=
+DC10,C19,ВЫХ.13Б=,Tam5_Chuyenmachtinhieura/A313_5.SchDoc,nhãn gốc=vih.13b=
+DC10,C20,ВЫХ.14Б=,Tam5_Chuyenmachtinhieura/A313_5.SchDoc,nhãn gốc=vih.14b=
+DC10,C21,ВЫХ.15Б=,Tam5_Chuyenmachtinhieura/A313_5.SchDoc,nhãn gốc=vih.15b=
+DC10,C22,ВЫХ.16Б=,Tam5_Chuyenmachtinhieura/A313_5.SchDoc,nhãn gốc=vih.16b=
+DC10,C23,ВЫХ.19А=,Tam5_Chuyenmachtinhieura/A313_5.SchDoc,nhãn gốc=vih.19a=
+DC10,C24,ВЫХ.22А=,Tam5_Chuyenmachtinhieura/A313_5.SchDoc,nhãn gốc=vih.22a=
+DC10,C25,ВЫХ.25А=,Tam5_Chuyenmachtinhieura/A313_5.SchDoc,nhãn gốc=vih.25a=
+DC10,C26,ВЫХ.28А=,Tam5_Chuyenmachtinhieura/A313_5.SchDoc,nhãn gốc=vih.28a=
+DC10,C27,ВЫХ.31А=,Tam5_Chuyenmachtinhieura/A313_5.SchDoc,nhãn gốc=vih.31a=
+DC10,C28,"ВЫХod""b""",Tam5_Chuyenmachtinhieura/A313_5.SchDoc,"nhãn gốc=vihod""b"""
+DC10,C29,N0076,Tam5_Chuyenmachtinhieura/A313_5.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC10,C30,N0077,Tam5_Chuyenmachtinhieura/A313_5.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC10,C31,GND/obs.prov,Tam5_Chuyenmachtinhieura/A313_5.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: obs.prov; ? nhiều nhãn trên cùng net: GND/obs.prov
+DC10,C32,GND/obs.prov,Tam5_Chuyenmachtinhieura/A313_5.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: obs.prov; ? nhiều nhãn trên cùng net: GND/obs.prov

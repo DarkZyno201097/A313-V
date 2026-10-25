@@ -1,0 +1,1164 @@
+﻿ref,pin,net,note
+C9,1,"+12,6V",
+C14,1,"+12,6V",
+C16,1,"+12,6V",
+C18,1,"+12,6V",
+DC8,A4,"+12,6V",
+DC8,B4,"+12,6V",
+DC8,C4,"+12,6V",
+R12,2,"+12,6V",
+T2,2,"+12,6V",
+T5,2,"+12,6V",
+T6,2,"+12,6V",
+T9,2,"+12,6V",
+T10,2,"+12,6V",
+T11,2,"+12,6V",
+T12,2,"+12,6V",
+T13,2,"+12,6V",
+T14,2,"+12,6V",
+U27,7,"+12,6V",
+U31,7,"+12,6V",
+U33,7,"+12,6V",
+U41,7,"+12,6V",
+U42,7,"+12,6V",
+U45,7,"+12,6V",
+U53,7,"+12,6V",
+U144,7,"+12,6V",
+DC7,A3,"+3,5V",
+DC7,B3,"+3,5V",
+DC7,C3,"+3,5V",
+R31,2,"+3,5V",
+R46,2,"+3,5V",
+U11,3,"+3,5V",
+U11,7,"+3,5V",
+U12,3,"+3,5V",
+U12,7,"+3,5V",
+U12,10,"+3,5V",
+U54,3,"+3,5V",
+U54,7,"+3,5V",
+U54,10,"+3,5V",
+U54,14,"+3,5V",
+U55,3,"+3,5V",
+U55,7,"+3,5V",
+U55,10,"+3,5V",
+U55,14,"+3,5V",
+U56,3,"+3,5V",
+U56,7,"+3,5V",
+U56,10,"+3,5V",
+U56,14,"+3,5V",
+U57,3,"+3,5V",
+U57,7,"+3,5V",
+U57,10,"+3,5V",
+U57,14,"+3,5V",
+U58,3,"+3,5V",
+U58,7,"+3,5V",
+U58,10,"+3,5V",
+U58,14,"+3,5V",
+DC7,A2,+5V,
+DC7,B2,+5V,
+DC7,C2,+5V,
+DC7,A4,"+6,3V",
+DC7,B4,"+6,3V",
+DC7,C4,"+6,3V",
+R105,1,"+6,3V",
+R106,1,"+6,3V",
+R107,1,"+6,3V",
+R108,1,"+6,3V",
+R113,1,"+6,3V",
+R114,1,"+6,3V",
+R115,1,"+6,3V",
+R116,1,"+6,3V",
+R121,1,"+6,3V",
+R122,1,"+6,3V",
+R123,1,"+6,3V",
+R124,1,"+6,3V",
+R129,1,"+6,3V",
+R130,1,"+6,3V",
+R131,1,"+6,3V",
+R132,1,"+6,3V",
+R137,1,"+6,3V",
+R138,1,"+6,3V",
+R139,1,"+6,3V",
+R140,1,"+6,3V",
+U34,11,"+6,3V",
+U35,11,"+6,3V",
+U36,11,"+6,3V",
+U37,11,"+6,3V",
+U38,11,"+6,3V",
+U39,11,"+6,3V",
+U46,11,"+6,3V",
+U47,11,"+6,3V",
+U48,11,"+6,3V",
+U49,11,"+6,3V",
+U50,11,"+6,3V",
+U51,11,"+6,3V",
+C10,2,"-12,6V",
+C11,2,"-12,6V",
+C12,2,"-12,6V",
+C13,2,"-12,6V",
+C15,2,"-12,6V",
+C17,2,"-12,6V",
+DC8,A3,"-12,6V",
+DC8,B3,"-12,6V",
+DC8,C3,"-12,6V",
+R25,1,"-12,6V",
+R47,2,"-12,6V",
+R48,2,"-12,6V",
+R71,2,"-12,6V",
+R72,2,"-12,6V",
+R77,2,"-12,6V",
+R78,2,"-12,6V",
+R98,2,"-12,6V",
+R99,2,"-12,6V",
+T3,3,"-12,6V",
+U27,1,"-12,6V",
+U31,1,"-12,6V",
+U33,1,"-12,6V",
+U41,1,"-12,6V",
+U42,1,"-12,6V",
+U45,1,"-12,6V",
+U53,1,"-12,6V",
+U144,1,"-12,6V",
+DC8,A2,-20V/-23V,? nhiều nhãn trên cùng net: -20V/-23V
+DC8,B2,-20V/-23V,? nhiều nhãn trên cùng net: -20V/-23V
+DC8,C2,-20V/-23V,? nhiều nhãn trên cùng net: -20V/-23V
+R11,2,-20V/-23V,? nhiều nhãn trên cùng net: -20V/-23V
+R15,2,-20V/-23V,? nhiều nhãn trên cùng net: -20V/-23V
+R44,1,-20V/-23V,? nhiều nhãn trên cùng net: -20V/-23V
+R45,2,-20V/-23V,? nhiều nhãn trên cùng net: -20V/-23V
+R101,2,-20V/-23V,? nhiều nhãn trên cùng net: -20V/-23V
+R102,2,-20V/-23V,? nhiều nhãn trên cùng net: -20V/-23V
+R103,2,-20V/-23V,? nhiều nhãn trên cùng net: -20V/-23V
+R104,2,-20V/-23V,? nhiều nhãn trên cùng net: -20V/-23V
+R109,2,-20V/-23V,? nhiều nhãn trên cùng net: -20V/-23V
+R110,2,-20V/-23V,? nhiều nhãn trên cùng net: -20V/-23V
+R111,2,-20V/-23V,? nhiều nhãn trên cùng net: -20V/-23V
+R112,2,-20V/-23V,? nhiều nhãn trên cùng net: -20V/-23V
+R117,2,-20V/-23V,? nhiều nhãn trên cùng net: -20V/-23V
+R118,2,-20V/-23V,? nhiều nhãn trên cùng net: -20V/-23V
+R119,2,-20V/-23V,? nhiều nhãn trên cùng net: -20V/-23V
+R120,2,-20V/-23V,? nhiều nhãn trên cùng net: -20V/-23V
+R125,2,-20V/-23V,? nhiều nhãn trên cùng net: -20V/-23V
+R126,2,-20V/-23V,? nhiều nhãn trên cùng net: -20V/-23V
+R127,2,-20V/-23V,? nhiều nhãn trên cùng net: -20V/-23V
+R128,2,-20V/-23V,? nhiều nhãn trên cùng net: -20V/-23V
+R133,2,-20V/-23V,? nhiều nhãn trên cùng net: -20V/-23V
+R134,2,-20V/-23V,? nhiều nhãn trên cùng net: -20V/-23V
+R135,2,-20V/-23V,? nhiều nhãn trên cùng net: -20V/-23V
+R136,2,-20V/-23V,? nhiều nhãn trên cùng net: -20V/-23V
+DC8,C15,10p,? nhãn có mã font Latin chưa giải mã chắc chắn: 10p
+R130,2,10p,? nhãn có mã font Latin chưa giải mã chắc chắn: 10p
+U36,13,10p,? nhãn có mã font Latin chưa giải mã chắc chắn: 10p
+U48,13,10p,? nhãn có mã font Latin chưa giải mã chắc chắn: 10p
+U57,6,10p,? nhãn có mã font Latin chưa giải mã chắc chắn: 10p
+R126,1,10p_,? nhãn có mã font Latin chưa giải mã chắc chắn: 10p_
+U36,9,10p_,? nhãn có mã font Latin chưa giải mã chắc chắn: 10p_
+U48,9,10p_,? nhãn có mã font Latin chưa giải mã chắc chắn: 10p_
+U57,5,10p_,? nhãn có mã font Latin chưa giải mã chắc chắn: 10p_
+DC8,A16,11p,? nhãn có mã font Latin chưa giải mã chắc chắn: 11p
+R129,2,11p,? nhãn có mã font Latin chưa giải mã chắc chắn: 11p
+U36,6,11p,? nhãn có mã font Latin chưa giải mã chắc chắn: 11p
+U48,6,11p,? nhãn có mã font Latin chưa giải mã chắc chắn: 11p
+U57,2,11p,? nhãn có mã font Latin chưa giải mã chắc chắn: 11p
+R125,1,11p_,? nhãn có mã font Latin chưa giải mã chắc chắn: 11p_
+U36,2,11p_,? nhãn có mã font Latin chưa giải mã chắc chắn: 11p_
+U48,2,11p_,? nhãn có mã font Latin chưa giải mã chắc chắn: 11p_
+U57,1,11p_,? nhãn có mã font Latin chưa giải mã chắc chắn: 11p_
+DC8,B16,12p,? nhãn có mã font Latin chưa giải mã chắc chắn: 12p
+R124,2,12p,? nhãn có mã font Latin chưa giải mã chắc chắn: 12p
+U35,13,12p,? nhãn có mã font Latin chưa giải mã chắc chắn: 12p
+U47,13,12p,? nhãn có mã font Latin chưa giải mã chắc chắn: 12p
+U56,13,12p,? nhãn có mã font Latin chưa giải mã chắc chắn: 12p
+R120,1,12p_,? nhãn có mã font Latin chưa giải mã chắc chắn: 12p_
+U35,9,12p_,? nhãn có mã font Latin chưa giải mã chắc chắn: 12p_
+U47,9,12p_,? nhãn có mã font Latin chưa giải mã chắc chắn: 12p_
+U56,12,12p_,? nhãn có mã font Latin chưa giải mã chắc chắn: 12p_
+DC8,C16,13p,? nhãn có mã font Latin chưa giải mã chắc chắn: 13p
+R123,2,13p,? nhãn có mã font Latin chưa giải mã chắc chắn: 13p
+U35,6,13p,? nhãn có mã font Latin chưa giải mã chắc chắn: 13p
+U47,6,13p,? nhãn có mã font Latin chưa giải mã chắc chắn: 13p
+U56,9,13p,? nhãn có mã font Latin chưa giải mã chắc chắn: 13p
+R119,1,13p_,? nhãn có mã font Latin chưa giải mã chắc chắn: 13p_
+U35,2,13p_,? nhãn có mã font Latin chưa giải mã chắc chắn: 13p_
+U47,2,13p_,? nhãn có mã font Latin chưa giải mã chắc chắn: 13p_
+U56,8,13p_,? nhãn có mã font Latin chưa giải mã chắc chắn: 13p_
+DC8,A17,14p,? nhãn có mã font Latin chưa giải mã chắc chắn: 14p
+R122,2,14p,? nhãn có mã font Latin chưa giải mã chắc chắn: 14p
+U34,13,14p,? nhãn có mã font Latin chưa giải mã chắc chắn: 14p
+U46,13,14p,? nhãn có mã font Latin chưa giải mã chắc chắn: 14p
+U56,6,14p,? nhãn có mã font Latin chưa giải mã chắc chắn: 14p
+R118,1,14p_,? nhãn có mã font Latin chưa giải mã chắc chắn: 14p_
+U34,9,14p_,? nhãn có mã font Latin chưa giải mã chắc chắn: 14p_
+U46,9,14p_,? nhãn có mã font Latin chưa giải mã chắc chắn: 14p_
+U56,5,14p_,? nhãn có mã font Latin chưa giải mã chắc chắn: 14p_
+DC8,B17,15p,? nhãn có mã font Latin chưa giải mã chắc chắn: 15p
+R121,2,15p,? nhãn có mã font Latin chưa giải mã chắc chắn: 15p
+U34,6,15p,? nhãn có mã font Latin chưa giải mã chắc chắn: 15p
+U46,6,15p,? nhãn có mã font Latin chưa giải mã chắc chắn: 15p
+U56,2,15p,? nhãn có mã font Latin chưa giải mã chắc chắn: 15p
+R117,1,15p_,? nhãn có mã font Latin chưa giải mã chắc chắn: 15p_
+U34,2,15p_,? nhãn có mã font Latin chưa giải mã chắc chắn: 15p_
+U46,2,15p_,? nhãn có mã font Latin chưa giải mã chắc chắn: 15p_
+U56,1,15p_,? nhãn có mã font Latin chưa giải mã chắc chắn: 15p_
+C5,1,30/a/GND/ob]ii provod,? nhãn có mã font Latin chưa giải mã chắc chắn: a/ob]ii provod; ? nhiều nhãn trên cùng net: 30/a/GND/ob]ii provod
+C6,2,30/a/GND/ob]ii provod,? nhãn có mã font Latin chưa giải mã chắc chắn: a/ob]ii provod; ? nhiều nhãn trên cùng net: 30/a/GND/ob]ii provod
+C8,2,30/a/GND/ob]ii provod,? nhãn có mã font Latin chưa giải mã chắc chắn: a/ob]ii provod; ? nhiều nhãn trên cùng net: 30/a/GND/ob]ii provod
+C9,2,30/a/GND/ob]ii provod,? nhãn có mã font Latin chưa giải mã chắc chắn: a/ob]ii provod; ? nhiều nhãn trên cùng net: 30/a/GND/ob]ii provod
+C10,1,30/a/GND/ob]ii provod,? nhãn có mã font Latin chưa giải mã chắc chắn: a/ob]ii provod; ? nhiều nhãn trên cùng net: 30/a/GND/ob]ii provod
+C11,1,30/a/GND/ob]ii provod,? nhãn có mã font Latin chưa giải mã chắc chắn: a/ob]ii provod; ? nhiều nhãn trên cùng net: 30/a/GND/ob]ii provod
+C12,1,30/a/GND/ob]ii provod,? nhãn có mã font Latin chưa giải mã chắc chắn: a/ob]ii provod; ? nhiều nhãn trên cùng net: 30/a/GND/ob]ii provod
+C13,1,30/a/GND/ob]ii provod,? nhãn có mã font Latin chưa giải mã chắc chắn: a/ob]ii provod; ? nhiều nhãn trên cùng net: 30/a/GND/ob]ii provod
+C14,2,30/a/GND/ob]ii provod,? nhãn có mã font Latin chưa giải mã chắc chắn: a/ob]ii provod; ? nhiều nhãn trên cùng net: 30/a/GND/ob]ii provod
+C15,1,30/a/GND/ob]ii provod,? nhãn có mã font Latin chưa giải mã chắc chắn: a/ob]ii provod; ? nhiều nhãn trên cùng net: 30/a/GND/ob]ii provod
+C16,2,30/a/GND/ob]ii provod,? nhãn có mã font Latin chưa giải mã chắc chắn: a/ob]ii provod; ? nhiều nhãn trên cùng net: 30/a/GND/ob]ii provod
+C17,1,30/a/GND/ob]ii provod,? nhãn có mã font Latin chưa giải mã chắc chắn: a/ob]ii provod; ? nhiều nhãn trên cùng net: 30/a/GND/ob]ii provod
+C18,2,30/a/GND/ob]ii provod,? nhãn có mã font Latin chưa giải mã chắc chắn: a/ob]ii provod; ? nhiều nhãn trên cùng net: 30/a/GND/ob]ii provod
+C26,2,30/a/GND/ob]ii provod,? nhãn có mã font Latin chưa giải mã chắc chắn: a/ob]ii provod; ? nhiều nhãn trên cùng net: 30/a/GND/ob]ii provod
+C27,2,30/a/GND/ob]ii provod,? nhãn có mã font Latin chưa giải mã chắc chắn: a/ob]ii provod; ? nhiều nhãn trên cùng net: 30/a/GND/ob]ii provod
+C28,2,30/a/GND/ob]ii provod,? nhãn có mã font Latin chưa giải mã chắc chắn: a/ob]ii provod; ? nhiều nhãn trên cùng net: 30/a/GND/ob]ii provod
+C30,2,30/a/GND/ob]ii provod,? nhãn có mã font Latin chưa giải mã chắc chắn: a/ob]ii provod; ? nhiều nhãn trên cùng net: 30/a/GND/ob]ii provod
+C31,2,30/a/GND/ob]ii provod,? nhãn có mã font Latin chưa giải mã chắc chắn: a/ob]ii provod; ? nhiều nhãn trên cùng net: 30/a/GND/ob]ii provod
+C32,2,30/a/GND/ob]ii provod,? nhãn có mã font Latin chưa giải mã chắc chắn: a/ob]ii provod; ? nhiều nhãn trên cùng net: 30/a/GND/ob]ii provod
+C34,2,30/a/GND/ob]ii provod,? nhãn có mã font Latin chưa giải mã chắc chắn: a/ob]ii provod; ? nhiều nhãn trên cùng net: 30/a/GND/ob]ii provod
+C35,2,30/a/GND/ob]ii provod,? nhãn có mã font Latin chưa giải mã chắc chắn: a/ob]ii provod; ? nhiều nhãn trên cùng net: 30/a/GND/ob]ii provod
+D1,1,30/a/GND/ob]ii provod,? nhãn có mã font Latin chưa giải mã chắc chắn: a/ob]ii provod; ? nhiều nhãn trên cùng net: 30/a/GND/ob]ii provod
+DC7,A1,30/a/GND/ob]ii provod,? nhãn có mã font Latin chưa giải mã chắc chắn: a/ob]ii provod; ? nhiều nhãn trên cùng net: 30/a/GND/ob]ii provod
+DC7,A31,30/a/GND/ob]ii provod,? nhãn có mã font Latin chưa giải mã chắc chắn: a/ob]ii provod; ? nhiều nhãn trên cùng net: 30/a/GND/ob]ii provod
+DC7,A32,30/a/GND/ob]ii provod,? nhãn có mã font Latin chưa giải mã chắc chắn: a/ob]ii provod; ? nhiều nhãn trên cùng net: 30/a/GND/ob]ii provod
+DC7,B1,30/a/GND/ob]ii provod,? nhãn có mã font Latin chưa giải mã chắc chắn: a/ob]ii provod; ? nhiều nhãn trên cùng net: 30/a/GND/ob]ii provod
+DC7,B31,30/a/GND/ob]ii provod,? nhãn có mã font Latin chưa giải mã chắc chắn: a/ob]ii provod; ? nhiều nhãn trên cùng net: 30/a/GND/ob]ii provod
+DC7,B32,30/a/GND/ob]ii provod,? nhãn có mã font Latin chưa giải mã chắc chắn: a/ob]ii provod; ? nhiều nhãn trên cùng net: 30/a/GND/ob]ii provod
+DC7,C1,30/a/GND/ob]ii provod,? nhãn có mã font Latin chưa giải mã chắc chắn: a/ob]ii provod; ? nhiều nhãn trên cùng net: 30/a/GND/ob]ii provod
+DC7,C31,30/a/GND/ob]ii provod,? nhãn có mã font Latin chưa giải mã chắc chắn: a/ob]ii provod; ? nhiều nhãn trên cùng net: 30/a/GND/ob]ii provod
+DC7,C32,30/a/GND/ob]ii provod,? nhãn có mã font Latin chưa giải mã chắc chắn: a/ob]ii provod; ? nhiều nhãn trên cùng net: 30/a/GND/ob]ii provod
+DC8,A1,30/a/GND/ob]ii provod,? nhãn có mã font Latin chưa giải mã chắc chắn: a/ob]ii provod; ? nhiều nhãn trên cùng net: 30/a/GND/ob]ii provod
+DC8,A30,30/a/GND/ob]ii provod,? nhãn có mã font Latin chưa giải mã chắc chắn: a/ob]ii provod; ? nhiều nhãn trên cùng net: 30/a/GND/ob]ii provod
+DC8,A31,30/a/GND/ob]ii provod,? nhãn có mã font Latin chưa giải mã chắc chắn: a/ob]ii provod; ? nhiều nhãn trên cùng net: 30/a/GND/ob]ii provod
+DC8,A32,30/a/GND/ob]ii provod,? nhãn có mã font Latin chưa giải mã chắc chắn: a/ob]ii provod; ? nhiều nhãn trên cùng net: 30/a/GND/ob]ii provod
+DC8,B1,30/a/GND/ob]ii provod,? nhãn có mã font Latin chưa giải mã chắc chắn: a/ob]ii provod; ? nhiều nhãn trên cùng net: 30/a/GND/ob]ii provod
+DC8,B30,30/a/GND/ob]ii provod,? nhãn có mã font Latin chưa giải mã chắc chắn: a/ob]ii provod; ? nhiều nhãn trên cùng net: 30/a/GND/ob]ii provod
+DC8,B31,30/a/GND/ob]ii provod,? nhãn có mã font Latin chưa giải mã chắc chắn: a/ob]ii provod; ? nhiều nhãn trên cùng net: 30/a/GND/ob]ii provod
+DC8,B32,30/a/GND/ob]ii provod,? nhãn có mã font Latin chưa giải mã chắc chắn: a/ob]ii provod; ? nhiều nhãn trên cùng net: 30/a/GND/ob]ii provod
+DC8,C1,30/a/GND/ob]ii provod,? nhãn có mã font Latin chưa giải mã chắc chắn: a/ob]ii provod; ? nhiều nhãn trên cùng net: 30/a/GND/ob]ii provod
+DC8,C30,30/a/GND/ob]ii provod,? nhãn có mã font Latin chưa giải mã chắc chắn: a/ob]ii provod; ? nhiều nhãn trên cùng net: 30/a/GND/ob]ii provod
+DC8,C31,30/a/GND/ob]ii provod,? nhãn có mã font Latin chưa giải mã chắc chắn: a/ob]ii provod; ? nhiều nhãn trên cùng net: 30/a/GND/ob]ii provod
+DC8,C32,30/a/GND/ob]ii provod,? nhãn có mã font Latin chưa giải mã chắc chắn: a/ob]ii provod; ? nhiều nhãn trên cùng net: 30/a/GND/ob]ii provod
+R14,3,30/a/GND/ob]ii provod,? nhãn có mã font Latin chưa giải mã chắc chắn: a/ob]ii provod; ? nhiều nhãn trên cùng net: 30/a/GND/ob]ii provod
+R35,2,30/a/GND/ob]ii provod,? nhãn có mã font Latin chưa giải mã chắc chắn: a/ob]ii provod; ? nhiều nhãn trên cùng net: 30/a/GND/ob]ii provod
+R36,2,30/a/GND/ob]ii provod,? nhãn có mã font Latin chưa giải mã chắc chắn: a/ob]ii provod; ? nhiều nhãn trên cùng net: 30/a/GND/ob]ii provod
+R53,1,30/a/GND/ob]ii provod,? nhãn có mã font Latin chưa giải mã chắc chắn: a/ob]ii provod; ? nhiều nhãn trên cùng net: 30/a/GND/ob]ii provod
+R80,1,30/a/GND/ob]ii provod,? nhãn có mã font Latin chưa giải mã chắc chắn: a/ob]ii provod; ? nhiều nhãn trên cùng net: 30/a/GND/ob]ii provod
+T1,2,30/a/GND/ob]ii provod,? nhãn có mã font Latin chưa giải mã chắc chắn: a/ob]ii provod; ? nhiều nhãn trên cùng net: 30/a/GND/ob]ii provod
+T4,2,30/a/GND/ob]ii provod,? nhãn có mã font Latin chưa giải mã chắc chắn: a/ob]ii provod; ? nhiều nhãn trên cùng net: 30/a/GND/ob]ii provod
+U14,10,30/a/GND/ob]ii provod,? nhãn có mã font Latin chưa giải mã chắc chắn: a/ob]ii provod; ? nhiều nhãn trên cùng net: 30/a/GND/ob]ii provod
+U14,14,30/a/GND/ob]ii provod,? nhãn có mã font Latin chưa giải mã chắc chắn: a/ob]ii provod; ? nhiều nhãn trên cùng net: 30/a/GND/ob]ii provod
+U19,10,30/a/GND/ob]ii provod,? nhãn có mã font Latin chưa giải mã chắc chắn: a/ob]ii provod; ? nhiều nhãn trên cùng net: 30/a/GND/ob]ii provod
+U20,10,30/a/GND/ob]ii provod,? nhãn có mã font Latin chưa giải mã chắc chắn: a/ob]ii provod; ? nhiều nhãn trên cùng net: 30/a/GND/ob]ii provod
+U21,10,30/a/GND/ob]ii provod,? nhãn có mã font Latin chưa giải mã chắc chắn: a/ob]ii provod; ? nhiều nhãn trên cùng net: 30/a/GND/ob]ii provod
+U22,10,30/a/GND/ob]ii provod,? nhãn có mã font Latin chưa giải mã chắc chắn: a/ob]ii provod; ? nhiều nhãn trên cùng net: 30/a/GND/ob]ii provod
+U22,12,30/a/GND/ob]ii provod,? nhãn có mã font Latin chưa giải mã chắc chắn: a/ob]ii provod; ? nhiều nhãn trên cùng net: 30/a/GND/ob]ii provod
+U23,10,30/a/GND/ob]ii provod,? nhãn có mã font Latin chưa giải mã chắc chắn: a/ob]ii provod; ? nhiều nhãn trên cùng net: 30/a/GND/ob]ii provod
+U23,12,30/a/GND/ob]ii provod,? nhãn có mã font Latin chưa giải mã chắc chắn: a/ob]ii provod; ? nhiều nhãn trên cùng net: 30/a/GND/ob]ii provod
+U24,3,30/a/GND/ob]ii provod,? nhãn có mã font Latin chưa giải mã chắc chắn: a/ob]ii provod; ? nhiều nhãn trên cùng net: 30/a/GND/ob]ii provod
+U24,7,30/a/GND/ob]ii provod,? nhãn có mã font Latin chưa giải mã chắc chắn: a/ob]ii provod; ? nhiều nhãn trên cùng net: 30/a/GND/ob]ii provod
+U24,12,30/a/GND/ob]ii provod,? nhãn có mã font Latin chưa giải mã chắc chắn: a/ob]ii provod; ? nhiều nhãn trên cùng net: 30/a/GND/ob]ii provod
+U25,10,30/a/GND/ob]ii provod,? nhãn có mã font Latin chưa giải mã chắc chắn: a/ob]ii provod; ? nhiều nhãn trên cùng net: 30/a/GND/ob]ii provod
+U26,1,30/a/GND/ob]ii provod,? nhãn có mã font Latin chưa giải mã chắc chắn: a/ob]ii provod; ? nhiều nhãn trên cùng net: 30/a/GND/ob]ii provod
+U26,7,30/a/GND/ob]ii provod,? nhãn có mã font Latin chưa giải mã chắc chắn: a/ob]ii provod; ? nhiều nhãn trên cùng net: 30/a/GND/ob]ii provod
+U27,4,30/a/GND/ob]ii provod,? nhãn có mã font Latin chưa giải mã chắc chắn: a/ob]ii provod; ? nhiều nhãn trên cùng net: 30/a/GND/ob]ii provod
+U27,10,30/a/GND/ob]ii provod,? nhãn có mã font Latin chưa giải mã chắc chắn: a/ob]ii provod; ? nhiều nhãn trên cùng net: 30/a/GND/ob]ii provod
+U31,4,30/a/GND/ob]ii provod,? nhãn có mã font Latin chưa giải mã chắc chắn: a/ob]ii provod; ? nhiều nhãn trên cùng net: 30/a/GND/ob]ii provod
+U32,8,30/a/GND/ob]ii provod,? nhãn có mã font Latin chưa giải mã chắc chắn: a/ob]ii provod; ? nhiều nhãn trên cùng net: 30/a/GND/ob]ii provod
+U32,12,30/a/GND/ob]ii provod,? nhãn có mã font Latin chưa giải mã chắc chắn: a/ob]ii provod; ? nhiều nhãn trên cùng net: 30/a/GND/ob]ii provod
+U33,4,30/a/GND/ob]ii provod,? nhãn có mã font Latin chưa giải mã chắc chắn: a/ob]ii provod; ? nhiều nhãn trên cùng net: 30/a/GND/ob]ii provod
+U34,3,30/a/GND/ob]ii provod,? nhãn có mã font Latin chưa giải mã chắc chắn: a/ob]ii provod; ? nhiều nhãn trên cùng net: 30/a/GND/ob]ii provod
+U34,8,30/a/GND/ob]ii provod,? nhãn có mã font Latin chưa giải mã chắc chắn: a/ob]ii provod; ? nhiều nhãn trên cùng net: 30/a/GND/ob]ii provod
+U35,3,30/a/GND/ob]ii provod,? nhãn có mã font Latin chưa giải mã chắc chắn: a/ob]ii provod; ? nhiều nhãn trên cùng net: 30/a/GND/ob]ii provod
+U35,8,30/a/GND/ob]ii provod,? nhãn có mã font Latin chưa giải mã chắc chắn: a/ob]ii provod; ? nhiều nhãn trên cùng net: 30/a/GND/ob]ii provod
+U36,3,30/a/GND/ob]ii provod,? nhãn có mã font Latin chưa giải mã chắc chắn: a/ob]ii provod; ? nhiều nhãn trên cùng net: 30/a/GND/ob]ii provod
+U36,8,30/a/GND/ob]ii provod,? nhãn có mã font Latin chưa giải mã chắc chắn: a/ob]ii provod; ? nhiều nhãn trên cùng net: 30/a/GND/ob]ii provod
+U37,3,30/a/GND/ob]ii provod,? nhãn có mã font Latin chưa giải mã chắc chắn: a/ob]ii provod; ? nhiều nhãn trên cùng net: 30/a/GND/ob]ii provod
+U37,8,30/a/GND/ob]ii provod,? nhãn có mã font Latin chưa giải mã chắc chắn: a/ob]ii provod; ? nhiều nhãn trên cùng net: 30/a/GND/ob]ii provod
+U38,3,30/a/GND/ob]ii provod,? nhãn có mã font Latin chưa giải mã chắc chắn: a/ob]ii provod; ? nhiều nhãn trên cùng net: 30/a/GND/ob]ii provod
+U38,8,30/a/GND/ob]ii provod,? nhãn có mã font Latin chưa giải mã chắc chắn: a/ob]ii provod; ? nhiều nhãn trên cùng net: 30/a/GND/ob]ii provod
+U39,3,30/a/GND/ob]ii provod,? nhãn có mã font Latin chưa giải mã chắc chắn: a/ob]ii provod; ? nhiều nhãn trên cùng net: 30/a/GND/ob]ii provod
+U39,8,30/a/GND/ob]ii provod,? nhãn có mã font Latin chưa giải mã chắc chắn: a/ob]ii provod; ? nhiều nhãn trên cùng net: 30/a/GND/ob]ii provod
+U41,4,30/a/GND/ob]ii provod,? nhãn có mã font Latin chưa giải mã chắc chắn: a/ob]ii provod; ? nhiều nhãn trên cùng net: 30/a/GND/ob]ii provod
+U42,4,30/a/GND/ob]ii provod,? nhãn có mã font Latin chưa giải mã chắc chắn: a/ob]ii provod; ? nhiều nhãn trên cùng net: 30/a/GND/ob]ii provod
+U42,10,30/a/GND/ob]ii provod,? nhãn có mã font Latin chưa giải mã chắc chắn: a/ob]ii provod; ? nhiều nhãn trên cùng net: 30/a/GND/ob]ii provod
+U43,8,30/a/GND/ob]ii provod,? nhãn có mã font Latin chưa giải mã chắc chắn: a/ob]ii provod; ? nhiều nhãn trên cùng net: 30/a/GND/ob]ii provod
+U45,4,30/a/GND/ob]ii provod,? nhãn có mã font Latin chưa giải mã chắc chắn: a/ob]ii provod; ? nhiều nhãn trên cùng net: 30/a/GND/ob]ii provod
+U46,3,30/a/GND/ob]ii provod,? nhãn có mã font Latin chưa giải mã chắc chắn: a/ob]ii provod; ? nhiều nhãn trên cùng net: 30/a/GND/ob]ii provod
+U46,8,30/a/GND/ob]ii provod,? nhãn có mã font Latin chưa giải mã chắc chắn: a/ob]ii provod; ? nhiều nhãn trên cùng net: 30/a/GND/ob]ii provod
+U47,3,30/a/GND/ob]ii provod,? nhãn có mã font Latin chưa giải mã chắc chắn: a/ob]ii provod; ? nhiều nhãn trên cùng net: 30/a/GND/ob]ii provod
+U47,8,30/a/GND/ob]ii provod,? nhãn có mã font Latin chưa giải mã chắc chắn: a/ob]ii provod; ? nhiều nhãn trên cùng net: 30/a/GND/ob]ii provod
+U48,3,30/a/GND/ob]ii provod,? nhãn có mã font Latin chưa giải mã chắc chắn: a/ob]ii provod; ? nhiều nhãn trên cùng net: 30/a/GND/ob]ii provod
+U48,8,30/a/GND/ob]ii provod,? nhãn có mã font Latin chưa giải mã chắc chắn: a/ob]ii provod; ? nhiều nhãn trên cùng net: 30/a/GND/ob]ii provod
+U49,3,30/a/GND/ob]ii provod,? nhãn có mã font Latin chưa giải mã chắc chắn: a/ob]ii provod; ? nhiều nhãn trên cùng net: 30/a/GND/ob]ii provod
+U49,8,30/a/GND/ob]ii provod,? nhãn có mã font Latin chưa giải mã chắc chắn: a/ob]ii provod; ? nhiều nhãn trên cùng net: 30/a/GND/ob]ii provod
+U50,3,30/a/GND/ob]ii provod,? nhãn có mã font Latin chưa giải mã chắc chắn: a/ob]ii provod; ? nhiều nhãn trên cùng net: 30/a/GND/ob]ii provod
+U50,8,30/a/GND/ob]ii provod,? nhãn có mã font Latin chưa giải mã chắc chắn: a/ob]ii provod; ? nhiều nhãn trên cùng net: 30/a/GND/ob]ii provod
+U51,3,30/a/GND/ob]ii provod,? nhãn có mã font Latin chưa giải mã chắc chắn: a/ob]ii provod; ? nhiều nhãn trên cùng net: 30/a/GND/ob]ii provod
+U51,8,30/a/GND/ob]ii provod,? nhãn có mã font Latin chưa giải mã chắc chắn: a/ob]ii provod; ? nhiều nhãn trên cùng net: 30/a/GND/ob]ii provod
+U53,4,30/a/GND/ob]ii provod,? nhãn có mã font Latin chưa giải mã chắc chắn: a/ob]ii provod; ? nhiều nhãn trên cùng net: 30/a/GND/ob]ii provod
+U144,4,30/a/GND/ob]ii provod,? nhãn có mã font Latin chưa giải mã chắc chắn: a/ob]ii provod; ? nhiều nhãn trên cùng net: 30/a/GND/ob]ii provod
+U144,10,30/a/GND/ob]ii provod,? nhãn có mã font Latin chưa giải mã chắc chắn: a/ob]ii provod; ? nhiều nhãn trên cùng net: 30/a/GND/ob]ii provod
+DC8,C13,4p,? nhãn có mã font Latin chưa giải mã chắc chắn: 4p
+R140,2,4p,? nhãn có mã font Latin chưa giải mã chắc chắn: 4p
+U20,13,4p,? nhãn có mã font Latin chưa giải mã chắc chắn: 4p
+U21,13,4p,? nhãn có mã font Latin chưa giải mã chắc chắn: 4p
+U22,2,4p,? nhãn có mã font Latin chưa giải mã chắc chắn: 4p
+U22,6,4p,? nhãn có mã font Latin chưa giải mã chắc chắn: 4p
+U23,2,4p,? nhãn có mã font Latin chưa giải mã chắc chắn: 4p
+U23,6,4p,? nhãn có mã font Latin chưa giải mã chắc chắn: 4p
+U39,13,4p,? nhãn có mã font Latin chưa giải mã chắc chắn: 4p
+U51,13,4p,? nhãn có mã font Latin chưa giải mã chắc chắn: 4p
+U58,13,4p,? nhãn có mã font Latin chưa giải mã chắc chắn: 4p
+R136,1,4P_/4p_,? nhãn có mã font Latin chưa giải mã chắc chắn: 4p_; ? nhiều nhãn trên cùng net: 4P_/4p_
+U12,2,4P_/4p_,? nhãn có mã font Latin chưa giải mã chắc chắn: 4p_; ? nhiều nhãn trên cùng net: 4P_/4p_
+U22,9,4P_/4p_,? nhãn có mã font Latin chưa giải mã chắc chắn: 4p_; ? nhiều nhãn trên cùng net: 4P_/4p_
+U22,13,4P_/4p_,? nhãn có mã font Latin chưa giải mã chắc chắn: 4p_; ? nhiều nhãn trên cùng net: 4P_/4p_
+U23,9,4P_/4p_,? nhãn có mã font Latin chưa giải mã chắc chắn: 4p_; ? nhiều nhãn trên cùng net: 4P_/4p_
+U23,13,4P_/4p_,? nhãn có mã font Latin chưa giải mã chắc chắn: 4p_; ? nhiều nhãn trên cùng net: 4P_/4p_
+U24,2,4P_/4p_,? nhãn có mã font Latin chưa giải mã chắc chắn: 4p_; ? nhiều nhãn trên cùng net: 4P_/4p_
+U24,6,4P_/4p_,? nhãn có mã font Latin chưa giải mã chắc chắn: 4p_; ? nhiều nhãn trên cùng net: 4P_/4p_
+U39,9,4P_/4p_,? nhãn có mã font Latin chưa giải mã chắc chắn: 4p_; ? nhiều nhãn trên cùng net: 4P_/4p_
+U51,9,4P_/4p_,? nhãn có mã font Latin chưa giải mã chắc chắn: 4p_; ? nhiều nhãn trên cùng net: 4P_/4p_
+U58,12,4P_/4p_,? nhãn có mã font Latin chưa giải mã chắc chắn: 4p_; ? nhiều nhãn trên cùng net: 4P_/4p_
+DC8,A14,5p,? nhãn có mã font Latin chưa giải mã chắc chắn: 5p
+R139,2,5p,? nhãn có mã font Latin chưa giải mã chắc chắn: 5p
+U20,6,5p,? nhãn có mã font Latin chưa giải mã chắc chắn: 5p
+U21,6,5p,? nhãn có mã font Latin chưa giải mã chắc chắn: 5p
+U39,6,5p,? nhãn có mã font Latin chưa giải mã chắc chắn: 5p
+U51,6,5p,? nhãn có mã font Latin chưa giải mã chắc chắn: 5p
+U58,9,5p,? nhãn có mã font Latin chưa giải mã chắc chắn: 5p
+R135,1,5P_/5p_,? nhãn có mã font Latin chưa giải mã chắc chắn: 5p_; ? nhiều nhãn trên cùng net: 5P_/5p_
+U12,6,5P_/5p_,? nhãn có mã font Latin chưa giải mã chắc chắn: 5p_; ? nhiều nhãn trên cùng net: 5P_/5p_
+U20,9,5P_/5p_,? nhãn có mã font Latin chưa giải mã chắc chắn: 5p_; ? nhiều nhãn trên cùng net: 5P_/5p_
+U21,9,5P_/5p_,? nhãn có mã font Latin chưa giải mã chắc chắn: 5p_; ? nhiều nhãn trên cùng net: 5P_/5p_
+U39,2,5P_/5p_,? nhãn có mã font Latin chưa giải mã chắc chắn: 5p_; ? nhiều nhãn trên cùng net: 5P_/5p_
+U51,2,5P_/5p_,? nhãn có mã font Latin chưa giải mã chắc chắn: 5p_; ? nhiều nhãn trên cùng net: 5P_/5p_
+U58,8,5P_/5p_,? nhãn có mã font Latin chưa giải mã chắc chắn: 5p_; ? nhiều nhãn trên cùng net: 5P_/5p_
+DC8,B14,6p,? nhãn có mã font Latin chưa giải mã chắc chắn: 6p
+R138,2,6p,? nhãn có mã font Latin chưa giải mã chắc chắn: 6p
+U20,2,6p,? nhãn có mã font Latin chưa giải mã chắc chắn: 6p
+U21,2,6p,? nhãn có mã font Latin chưa giải mã chắc chắn: 6p
+U38,13,6p,? nhãn có mã font Latin chưa giải mã chắc chắn: 6p
+U50,13,6p,? nhãn có mã font Latin chưa giải mã chắc chắn: 6p
+U58,6,6p,? nhãn có mã font Latin chưa giải mã chắc chắn: 6p
+R134,1,6p_,? nhãn có mã font Latin chưa giải mã chắc chắn: 6p_
+U38,9,6p_,? nhãn có mã font Latin chưa giải mã chắc chắn: 6p_
+U50,9,6p_,? nhãn có mã font Latin chưa giải mã chắc chắn: 6p_
+U58,5,6p_,? nhãn có mã font Latin chưa giải mã chắc chắn: 6p_
+DC8,C14,7p,? nhãn có mã font Latin chưa giải mã chắc chắn: 7p
+R137,2,7p,? nhãn có mã font Latin chưa giải mã chắc chắn: 7p
+U38,6,7p,? nhãn có mã font Latin chưa giải mã chắc chắn: 7p
+U50,6,7p,? nhãn có mã font Latin chưa giải mã chắc chắn: 7p
+U58,2,7p,? nhãn có mã font Latin chưa giải mã chắc chắn: 7p
+R133,1,7p_,? nhãn có mã font Latin chưa giải mã chắc chắn: 7p_
+U38,2,7p_,? nhãn có mã font Latin chưa giải mã chắc chắn: 7p_
+U50,2,7p_,? nhãn có mã font Latin chưa giải mã chắc chắn: 7p_
+U58,1,7p_,? nhãn có mã font Latin chưa giải mã chắc chắn: 7p_
+DC8,A15,8p,? nhãn có mã font Latin chưa giải mã chắc chắn: 8p
+R132,2,8p,? nhãn có mã font Latin chưa giải mã chắc chắn: 8p
+U37,13,8p,? nhãn có mã font Latin chưa giải mã chắc chắn: 8p
+U49,13,8p,? nhãn có mã font Latin chưa giải mã chắc chắn: 8p
+U57,13,8p,? nhãn có mã font Latin chưa giải mã chắc chắn: 8p
+R128,1,8p_,? nhãn có mã font Latin chưa giải mã chắc chắn: 8p_
+U37,9,8p_,? nhãn có mã font Latin chưa giải mã chắc chắn: 8p_
+U49,9,8p_,? nhãn có mã font Latin chưa giải mã chắc chắn: 8p_
+U57,12,8p_,? nhãn có mã font Latin chưa giải mã chắc chắn: 8p_
+DC8,B15,9p,? nhãn có mã font Latin chưa giải mã chắc chắn: 9p
+R131,2,9p,? nhãn có mã font Latin chưa giải mã chắc chắn: 9p
+U37,6,9p,? nhãn có mã font Latin chưa giải mã chắc chắn: 9p
+U49,6,9p,? nhãn có mã font Latin chưa giải mã chắc chắn: 9p
+U57,9,9p,? nhãn có mã font Latin chưa giải mã chắc chắn: 9p
+R127,1,9p_,? nhãn có mã font Latin chưa giải mã chắc chắn: 9p_
+U37,2,9p_,? nhãn có mã font Latin chưa giải mã chắc chắn: 9p_
+U49,2,9p_,? nhãn có mã font Latin chưa giải mã chắc chắn: 9p_
+U57,8,9p_,? nhãn có mã font Latin chưa giải mã chắc chắn: 9p_
+DC7,A15,a pr,? nhãn có mã font Latin chưa giải mã chắc chắn: a pr
+DC7,B15,a pr,? nhãn có mã font Latin chưa giải mã chắc chắn: a pr
+DC7,C15,a pr,? nhãn có mã font Latin chưa giải mã chắc chắn: a pr
+U28,1,a pr,? nhãn có mã font Latin chưa giải mã chắc chắn: a pr
+U28,12,a pr,? nhãn có mã font Latin chưa giải mã chắc chắn: a pr
+R21,2,AA,
+R26,1,AA,
+T13,1,AA,
+U41,5,AA,
+R22,2,B,
+R249,2,B,
+U16,5,B,
+U16,12,B,
+U43,7,B,
+U43,10,B,
+DC7,A16,b pr,? nhãn có mã font Latin chưa giải mã chắc chắn: b pr
+DC7,B16,b pr,? nhãn có mã font Latin chưa giải mã chắc chắn: b pr
+DC7,C16,b pr,? nhãn có mã font Latin chưa giải mã chắc chắn: b pr
+U28,5,b pr,? nhãn có mã font Latin chưa giải mã chắc chắn: b pr
+U28,8,b pr,? nhãn có mã font Latin chưa giải mã chắc chắn: b pr
+DC7,A27,comp[nx Uop,? nhãn có mã font Latin chưa giải mã chắc chắn: comp[nx Uop
+DC7,B27,comp[nx Uop,? nhãn có mã font Latin chưa giải mã chắc chắn: comp[nx Uop
+DC7,C27,comp[nx Uop,? nhãn có mã font Latin chưa giải mã chắc chắn: comp[nx Uop
+R14,1,comp[nx Uop,? nhãn có mã font Latin chưa giải mã chắc chắn: comp[nx Uop
+R14,2,comp[nx Uop,? nhãn có mã font Latin chưa giải mã chắc chắn: comp[nx Uop
+R16,1,comp[nx Uop,? nhãn có mã font Latin chưa giải mã chắc chắn: comp[nx Uop
+DC7,A6,compar contr,? nhãn có mã font Latin chưa giải mã chắc chắn: compar contr
+R31,1,compar contr,? nhãn có mã font Latin chưa giải mã chắc chắn: compar contr
+T1,3,compar contr,? nhãn có mã font Latin chưa giải mã chắc chắn: compar contr
+C23,2,compar rpr,? nhãn có mã font Latin chưa giải mã chắc chắn: compar rpr
+DC7,B5,compar rpr,? nhãn có mã font Latin chưa giải mã chắc chắn: compar rpr
+R46,1,compar rpr,? nhãn có mã font Latin chưa giải mã chắc chắn: compar rpr
+T4,3,compar rpr,? nhãn có mã font Latin chưa giải mã chắc chắn: compar rpr
+C21,1,contact R,? nhãn có mã font Latin chưa giải mã chắc chắn: contact R
+DC7,A28,contact R,? nhãn có mã font Latin chưa giải mã chắc chắn: contact R
+DC7,B28,contact R,? nhãn có mã font Latin chưa giải mã chắc chắn: contact R
+DC7,C28,contact R,? nhãn có mã font Latin chưa giải mã chắc chắn: contact R
+R283,2,contact R,? nhãn có mã font Latin chưa giải mã chắc chắn: contact R
+T9,1,contact R,? nhãn có mã font Latin chưa giải mã chắc chắn: contact R
+U26,10,contact R,? nhãn có mã font Latin chưa giải mã chắc chắn: contact R
+C7,2,contact x,? nhãn có mã font Latin chưa giải mã chắc chắn: contact x
+DC7,A29,contact x,? nhãn có mã font Latin chưa giải mã chắc chắn: contact x
+DC7,B29,contact x,? nhãn có mã font Latin chưa giải mã chắc chắn: contact x
+DC7,C29,contact x,? nhãn có mã font Latin chưa giải mã chắc chắn: contact x
+U26,5,contact x,? nhãn có mã font Latin chưa giải mã chắc chắn: contact x
+U26,12,contact x,? nhãn có mã font Latin chưa giải mã chắc chắn: contact x
+DC8,B11,d,? nhãn có mã font Latin chưa giải mã chắc chắn: d
+R116,2,d,? nhãn có mã font Latin chưa giải mã chắc chắn: d
+U11,2,d,? nhãn có mã font Latin chưa giải mã chắc chắn: d
+U14,6,d,? nhãn có mã font Latin chưa giải mã chắc chắn: d
+U15,6,d,? nhãn có mã font Latin chưa giải mã chắc chắn: d
+U19,6,d,? nhãn có mã font Latin chưa giải mã chắc chắn: d
+U24,9,d,? nhãn có mã font Latin chưa giải mã chắc chắn: d
+U25,2,d,? nhãn có mã font Latin chưa giải mã chắc chắn: d
+U26,13,d,? nhãn có mã font Latin chưa giải mã chắc chắn: d
+U55,13,d,? nhãn có mã font Latin chưa giải mã chắc chắn: d
+R101,1,d+c,? nhãn có mã font Latin chưa giải mã chắc chắn: d+c
+U32,6,d+c,? nhãn có mã font Latin chưa giải mã chắc chắn: d+c
+U43,6,d+c,? nhãn có mã font Latin chưa giải mã chắc chắn: d+c
+U54,1,d+c,? nhãn có mã font Latin chưa giải mã chắc chắn: d+c
+R11,1,d+c_,? nhãn có mã font Latin chưa giải mã chắc chắn: d+c_
+R105,2,d+c_,? nhãn có mã font Latin chưa giải mã chắc chắn: d+c_
+U11,1,d+c_,? nhãn có mã font Latin chưa giải mã chắc chắn: d+c_
+U11,5,d+c_,? nhãn có mã font Latin chưa giải mã chắc chắn: d+c_
+U14,9,d+c_,? nhãn có mã font Latin chưa giải mã chắc chắn: d+c_
+U14,13,d+c_,? nhãn có mã font Latin chưa giải mã chắc chắn: d+c_
+U19,9,d+c_,? nhãn có mã font Latin chưa giải mã chắc chắn: d+c_
+U25,13,d+c_,? nhãn có mã font Latin chưa giải mã chắc chắn: d+c_
+U32,2,d+c_,? nhãn có mã font Latin chưa giải mã chắc chắn: d+c_
+U32,9,d+c_,? nhãn có mã font Latin chưa giải mã chắc chắn: d+c_
+U43,2,d+c_,? nhãn có mã font Latin chưa giải mã chắc chắn: d+c_
+U43,9,d+c_,? nhãn có mã font Latin chưa giải mã chắc chắn: d+c_
+U54,2,d+c_,? nhãn có mã font Latin chưa giải mã chắc chắn: d+c_
+R112,1,d_,? nhãn có mã font Latin chưa giải mã chắc chắn: d_
+U24,13,d_,? nhãn có mã font Latin chưa giải mã chắc chắn: d_
+U26,2,d_,? nhãn có mã font Latin chưa giải mã chắc chắn: d_
+U26,6,d_,? nhãn có mã font Latin chưa giải mã chắc chắn: d_
+U26,9,d_,? nhãn có mã font Latin chưa giải mã chắc chắn: d_
+U55,12,d_,? nhãn có mã font Latin chưa giải mã chắc chắn: d_
+DC8,A12,f,? nhãn có mã font Latin chưa giải mã chắc chắn: f
+R114,2,f,? nhãn có mã font Latin chưa giải mã chắc chắn: f
+U18,2,f,? nhãn có mã font Latin chưa giải mã chắc chắn: f
+U18,9,f,? nhãn có mã font Latin chưa giải mã chắc chắn: f
+U55,6,f,? nhãn có mã font Latin chưa giải mã chắc chắn: f
+R110,1,f_,? nhãn có mã font Latin chưa giải mã chắc chắn: f_
+U12,9,f_,? nhãn có mã font Latin chưa giải mã chắc chắn: f_
+U18,6,f_,? nhãn có mã font Latin chưa giải mã chắc chắn: f_
+U18,13,f_,? nhãn có mã font Latin chưa giải mã chắc chắn: f_
+U55,5,f_,? nhãn có mã font Latin chưa giải mã chắc chắn: f_
+R24,2,G,
+R290,2,G,
+U20,3,G,
+U20,7,G,
+U20,12,G,
+U22,3,G,
+U22,7,G,
+U32,7,G,
+U32,10,G,
+U34,7,G,
+U34,12,G,
+U35,7,G,
+U35,12,G,
+U36,7,G,
+U36,12,G,
+U37,7,G,
+U37,12,G,
+U38,7,G,
+U38,12,G,
+U39,7,G,
+U39,12,G,
+DC7,A25,int.a,? nhãn có mã font Latin chưa giải mã chắc chắn: int.a
+DC7,B25,int.a,? nhãn có mã font Latin chưa giải mã chắc chắn: int.a
+DC7,C25,int.a,? nhãn có mã font Latin chưa giải mã chắc chắn: int.a
+U14,1,int.a,? nhãn có mã font Latin chưa giải mã chắc chắn: int.a
+DC7,A26,int.b,? nhãn có mã font Latin chưa giải mã chắc chắn: int.b
+DC7,B26,int.b,? nhãn có mã font Latin chưa giải mã chắc chắn: int.b
+DC7,C26,int.b,? nhãn có mã font Latin chưa giải mã chắc chắn: int.b
+U10,1,int.b,? nhãn có mã font Latin chưa giải mã chắc chắn: int.b
+U10,12,int.b,? nhãn có mã font Latin chưa giải mã chắc chắn: int.b
+DC8,B12,K,
+R115,2,K,
+U11,6,K,
+U14,2,K,
+U15,2,K,
+U19,2,K,
+U25,6,K,
+U55,9,K,
+R111,1,K_,
+U25,9,K_,
+U55,8,K_,
+DC8,A13,kn1,? nhãn có mã font Latin chưa giải mã chắc chắn: kn1
+R108,2,kn1,? nhãn có mã font Latin chưa giải mã chắc chắn: kn1
+U16,2,kn1,? nhãn có mã font Latin chưa giải mã chắc chắn: kn1
+U54,13,kn1,? nhãn có mã font Latin chưa giải mã chắc chắn: kn1
+R104,1,kn1_,? nhãn có mã font Latin chưa giải mã chắc chắn: kn1_
+U16,6,kn1_,? nhãn có mã font Latin chưa giải mã chắc chắn: kn1_
+U54,12,kn1_,? nhãn có mã font Latin chưa giải mã chắc chắn: kn1_
+DC8,C12,kn2,? nhãn có mã font Latin chưa giải mã chắc chắn: kn2
+R113,2,kn2,? nhãn có mã font Latin chưa giải mã chắc chắn: kn2
+U16,9,kn2,? nhãn có mã font Latin chưa giải mã chắc chắn: kn2
+U55,2,kn2,? nhãn có mã font Latin chưa giải mã chắc chắn: kn2
+R109,1,kn2_,? nhãn có mã font Latin chưa giải mã chắc chắn: kn2_
+U16,13,kn2_,? nhãn có mã font Latin chưa giải mã chắc chắn: kn2_
+U55,1,kn2_,? nhãn có mã font Latin chưa giải mã chắc chắn: kn2_
+R15,1,KOPP,
+R106,2,KOPP,
+U12,1,KOPP,
+U12,5,KOPP,
+U12,8,KOPP,
+U19,13,KOPP,
+U54,6,KOPP,
+R102,1,KOPP_,
+U32,13,KOPP_,
+U54,5,KOPP_,
+DC7,A13,"OC""a""","? nhãn có mã font Latin chưa giải mã chắc chắn: OC""a"""
+DC7,B13,"OC""a""","? nhãn có mã font Latin chưa giải mã chắc chắn: OC""a"""
+DC7,C13,"OC""a""","? nhãn có mã font Latin chưa giải mã chắc chắn: OC""a"""
+U29,3,"OC""a""","? nhãn có mã font Latin chưa giải mã chắc chắn: OC""a"""
+U29,7,"OC""a""","? nhãn có mã font Latin chưa giải mã chắc chắn: OC""a"""
+DC7,A14,"OC""b""","? nhãn có mã font Latin chưa giải mã chắc chắn: OC""b"""
+DC7,B14,"OC""b""","? nhãn có mã font Latin chưa giải mã chắc chắn: OC""b"""
+DC7,C14,"OC""b""","? nhãn có mã font Latin chưa giải mã chắc chắn: OC""b"""
+U29,10,"OC""b""","? nhãn có mã font Latin chưa giải mã chắc chắn: OC""b"""
+U29,14,"OC""b""","? nhãn có mã font Latin chưa giải mã chắc chắn: OC""b"""
+DC8,C11,pp,? nhãn có mã font Latin chưa giải mã chắc chắn: pp
+R107,2,pp,? nhãn có mã font Latin chưa giải mã chắc chắn: pp
+U10,2,pp,? nhãn có mã font Latin chưa giải mã chắc chắn: pp
+U10,9,pp,? nhãn có mã font Latin chưa giải mã chắc chắn: pp
+U28,2,pp,? nhãn có mã font Latin chưa giải mã chắc chắn: pp
+U28,9,pp,? nhãn có mã font Latin chưa giải mã chắc chắn: pp
+U29,2,pp,? nhãn có mã font Latin chưa giải mã chắc chắn: pp
+U29,9,pp,? nhãn có mã font Latin chưa giải mã chắc chắn: pp
+U54,9,pp,? nhãn có mã font Latin chưa giải mã chắc chắn: pp
+R103,1,pp_,? nhãn có mã font Latin chưa giải mã chắc chắn: pp_
+U10,6,pp_,? nhãn có mã font Latin chưa giải mã chắc chắn: pp_
+U10,13,pp_,? nhãn có mã font Latin chưa giải mã chắc chắn: pp_
+U28,6,pp_,? nhãn có mã font Latin chưa giải mã chắc chắn: pp_
+U28,13,pp_,? nhãn có mã font Latin chưa giải mã chắc chắn: pp_
+U29,6,pp_,? nhãn có mã font Latin chưa giải mã chắc chắn: pp_
+U29,13,pp_,? nhãn có mã font Latin chưa giải mã chắc chắn: pp_
+U54,8,pp_,? nhãn có mã font Latin chưa giải mã chắc chắn: pp_
+DC8,B13,УПР ВЫХ,nhãn gốc=upr vih
+U13,6,УПР ВЫХ,nhãn gốc=upr vih
+U13,13,УПР ВЫХ,nhãn gốc=upr vih
+R23,2,V,
+R292,1,V,
+T5,1,V,
+U31,5,V,
+C20,1,N0001,
+D8,2,N0001,
+U24,14,N0001,
+U25,3,N0001,
+C20,2,N0002,
+D5,2,N0002,
+D6,1,N0002,
+R39,2,N0002,
+R67,2,N0002,
+R68,2,N0002,
+R69,2,N0002,
+R70,2,N0002,
+R299,2,N0002,
+U27,9,N0002,
+C21,2,N0003,
+D9,2,N0003,
+U26,8,N0003,
+U53,5,N0003,
+C23,1,N0004,
+R43,2,N0004,
+T4,1,N0004,
+C26,1,N0005,
+R49,1,N0005,
+C27,1,N0006,
+R52,2,N0006,
+C28,1,N0007,
+R51,1,N0007,
+C29,1,N0008,
+R50,2,N0008,
+R300,2,N0008,
+U18,3,N0008,
+U18,7,N0008,
+U33,9,N0008,
+C29,2,N0009,
+U32,1,N0009,
+U32,5,N0009,
+U33,5,N0009,
+C30,1,N0010,
+R73,2,N0010,
+C31,1,N0011,
+R75,2,N0011,
+C32,1,N0012,
+R76,1,N0012,
+C33,1,N0013,
+R26,2,N0013,
+R74,2,N0013,
+R249,1,N0013,
+U42,9,N0013,
+C33,2,N0014,
+U42,5,N0014,
+U43,1,N0014,
+U43,5,N0014,
+C34,1,N0015,
+R79,2,N0015,
+C35,1,N0016,
+R100,1,N0016,
+C36,1,N0017,
+R78,1,N0017,
+T11,3,N0017,
+U45,9,N0017,
+C36,2,N0018,
+R299,1,N0018,
+T2,3,N0018,
+T3,1,N0018,
+T11,1,N0018,
+U19,14,N0018,
+U21,3,N0018,
+U21,7,N0018,
+U21,12,N0018,
+U23,3,N0018,
+U23,7,N0018,
+U46,7,N0018,
+U46,12,N0018,
+U47,7,N0018,
+U47,12,N0018,
+U48,7,N0018,
+U48,12,N0018,
+U49,7,N0018,
+U49,12,N0018,
+U50,7,N0018,
+U50,12,N0018,
+U51,7,N0018,
+U51,12,N0018,
+C5,2,N0019,
+R27,1,N0019,
+C6,1,N0020,
+R40,1,N0020,
+C7,1,N0021,
+R283,1,N0021,
+C8,1,N0022,
+R42,2,N0022,
+D1,2,N0023,
+R12,1,N0023,
+R13,2,N0023,
+D7,2,N0024,
+D10,1,N0024,
+D5,1,N0025,
+D10,2,N0025,
+D2,1,N0026,
+D3,2,N0026,
+R25,2,N0026,
+U17,9,N0026,
+U17,10,N0026,
+U17,11,N0026,
+U17,12,N0026,
+U144,9,N0026,
+D2,2,N0027,
+D4,1,N0027,
+R28,2,N0027,
+U144,5,N0027,
+D3,1,N0028,
+D4,2,N0028,
+D6,2,N0029,
+D7,1,N0029,
+R43,1,N0029,
+U25,7,N0029,
+U25,8,N0029,
+D8,1,N0030,
+R44,2,N0030,
+U13,14,N0030,
+D9,1,N0031,
+R45,1,N0031,
+U13,7,N0031,
+DC7,A5,N0032,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC7,A7,N0033,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC7,A8,N0034,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC7,A9,N0035,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC7,A10,N0036,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC7,A11,N0037,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC7,A12,N0038,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC7,A17,N0039,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC7,A18,N0040,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC7,A19,N0041,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC7,A20,N0042,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC7,A21,N0043,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC7,A22,N0044,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC7,A23,N0045,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC7,A24,N0046,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC7,A30,N0047,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC7,B6,N0048,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC7,B7,N0049,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC7,B8,N0050,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC7,B9,N0051,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC7,B10,N0052,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC7,B11,N0053,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC7,B12,N0054,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC7,B17,N0055,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC7,B18,N0056,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC7,B19,N0057,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC7,B20,N0058,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC7,B21,N0059,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC7,B22,N0060,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC7,B23,N0061,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC7,B24,N0062,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC7,B30,N0063,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC7,C5,N0064,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC7,C6,N0065,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC7,C7,N0066,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC7,C8,N0067,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC7,C9,N0068,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC7,C10,N0069,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC7,C11,N0070,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC7,C12,N0071,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC7,C17,N0072,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC7,C18,N0073,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC7,C19,N0074,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC7,C20,N0075,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC7,C21,N0076,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC7,C22,N0077,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC7,C23,N0078,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC7,C24,N0079,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC7,C30,N0080,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC8,A5,N0081,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC8,A6,N0082,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC8,A7,N0083,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC8,A8,N0084,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC8,A9,N0085,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC8,A10,N0086,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC8,A11,N0087,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC8,A18,N0088,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC8,A19,N0089,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC8,A20,N0090,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC8,A21,N0091,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC8,A22,N0092,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC8,A23,N0093,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC8,A24,N0094,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC8,A25,N0095,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC8,A26,N0096,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC8,A27,N0097,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC8,A28,N0098,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC8,A29,N0099,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC8,B5,N0100,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC8,B6,N0101,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC8,B7,N0102,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC8,B8,N0103,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC8,B9,N0104,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC8,B10,N0105,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC8,B18,N0106,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC8,B19,N0107,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC8,B20,N0108,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC8,B21,N0109,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC8,B22,N0110,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC8,B23,N0111,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC8,B24,N0112,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC8,B25,N0113,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC8,B26,N0114,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC8,B27,N0115,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC8,B28,N0116,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC8,B29,N0117,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC8,C5,N0118,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC8,C6,N0119,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC8,C7,N0120,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC8,C8,N0121,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC8,C9,N0122,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC8,C10,N0123,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC8,C17,N0124,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC8,C18,N0125,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC8,C19,N0126,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC8,C20,N0127,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC8,C21,N0128,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC8,C22,N0129,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC8,C23,N0130,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC8,C24,N0131,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC8,C25,N0132,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC8,C26,N0133,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC8,C27,N0134,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC8,C28,N0135,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC8,C29,N0136,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+R100,2,N0137,
+U53,12,N0137,
+R13,1,N0138,
+R16,2,N0138,
+U14,5,N0138,
+R17,1,N0139,
+U26,3,N0139,
+R17,2,N0140,
+T10,1,N0140,
+U24,8,N0140,
+R18,1,N0141,
+U14,12,N0141,
+R18,2,N0142,
+T6,1,N0142,
+U15,3,N0142,
+U15,7,N0142,
+R19,1,N0143,
+T14,1,N0143,
+U14,3,N0143,
+U14,7,N0143,
+U16,1,N0143,
+U16,8,N0143,
+R19,2,N0144,
+U14,8,N0144,
+R21,1,N0145,
+U17,8,N0145,
+R22,1,N0146,
+U17,6,N0146,
+R23,1,N0147,
+U17,4,N0147,
+R24,1,N0148,
+U17,2,N0148,
+R27,2,N0149,
+U144,12,N0149,
+R28,1,N0150,
+T1,1,N0150,
+R284,1,N0151,
+R294,2,N0151,
+R284,2,N0152,
+R302,1,N0152,
+R285,1,N0153,
+R297,2,N0153,
+R298,2,N0153,
+R94,2,N0154,
+R95,2,N0154,
+R96,2,N0154,
+R97,2,N0154,
+R285,2,N0154,
+U18,10,N0154,
+R286,1,N0155,
+R287,1,N0155,
+R292,2,N0155,
+R286,2,N0156,
+R287,2,N0156,
+R288,1,N0156,
+R289,1,N0156,
+U18,5,N0156,
+R288,2,N0157,
+R289,2,N0157,
+R290,1,N0157,
+U18,1,N0157,
+R291,1,N0158,
+R294,1,N0158,
+R291,2,N0159,
+R300,1,N0159,
+R293,1,N0160,
+R302,2,N0160,
+R30,1,N0161,
+R293,2,N0161,
+R295,1,N0162,
+U32,14,N0162,
+R295,2,N0163,
+R296,1,N0163,
+R296,2,N0164,
+R298,1,N0164,
+R301,1,N0164,
+R297,1,N0165,
+R301,2,N0165,
+R30,2,N0166,
+R30,3,N0166,
+U18,8,N0166,
+U18,12,N0166,
+R32,1,N0167,
+R33,1,N0167,
+U19,12,N0167,
+R32,2,N0168,
+R33,2,N0168,
+R35,1,N0168,
+U33,10,N0168,
+R34,1,N0169,
+T12,1,N0169,
+U19,3,N0169,
+U19,7,N0169,
+R34,2,N0170,
+U19,8,N0170,
+R36,1,N0171,
+U18,14,N0171,
+R39,1,N0172,
+R40,2,N0172,
+U25,14,N0172,
+R42,1,N0173,
+U27,12,N0173,
+R47,1,N0174,
+T6,3,N0174,
+U31,10,N0174,
+R48,1,N0175,
+T5,3,N0175,
+U31,9,N0175,
+R49,2,N0176,
+U31,12,N0176,
+R50,1,N0177,
+R52,1,N0177,
+U32,3,N0177,
+R51,2,N0178,
+U33,12,N0178,
+R53,2,N0179,
+R54,1,N0179,
+R54,2,N0180,
+R55,2,N0180,
+R56,2,N0180,
+R57,2,N0180,
+R58,1,N0180,
+R55,1,N0181,
+U34,1,N0181,
+U34,5,N0181,
+R56,1,N0182,
+U34,10,N0182,
+U34,14,N0182,
+R57,1,N0183,
+U35,1,N0183,
+U35,5,N0183,
+R58,2,N0184,
+R59,2,N0184,
+R60,2,N0184,
+R61,2,N0184,
+R62,2,N0184,
+R63,1,N0184,
+R59,1,N0185,
+U35,10,N0185,
+U35,14,N0185,
+R60,1,N0186,
+U36,1,N0186,
+U36,5,N0186,
+R61,1,N0187,
+U36,10,N0187,
+U36,14,N0187,
+R62,1,N0188,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+R63,2,N0189,
+R64,2,N0189,
+R65,2,N0189,
+R66,2,N0189,
+R67,1,N0189,
+R64,1,N0190,
+U37,1,N0190,
+U37,5,N0190,
+R65,1,N0191,
+U37,10,N0191,
+U37,14,N0191,
+R66,1,N0192,
+U38,1,N0192,
+U38,5,N0192,
+R68,1,N0193,
+U20,1,N0193,
+U38,10,N0193,
+U38,14,N0193,
+R69,1,N0194,
+U20,5,N0194,
+U20,8,N0194,
+U39,1,N0194,
+U39,5,N0194,
+R70,1,N0195,
+U20,14,N0195,
+U22,1,N0195,
+U22,5,N0195,
+U22,8,N0195,
+U22,14,N0195,
+U24,1,N0195,
+U39,10,N0195,
+U39,14,N0195,
+R71,1,N0196,
+T14,3,N0196,
+U41,10,N0196,
+R72,1,N0197,
+T13,3,N0197,
+U41,9,N0197,
+R73,1,N0198,
+U41,12,N0198,
+R74,1,N0199,
+R75,1,N0199,
+U43,3,N0199,
+R76,2,N0200,
+U42,12,N0200,
+R77,1,N0201,
+T12,3,N0201,
+U45,10,N0201,
+R79,1,N0202,
+U45,12,N0202,
+R80,2,N0203,
+R81,1,N0203,
+R81,2,N0204,
+R82,2,N0204,
+R83,2,N0204,
+R84,2,N0204,
+R85,1,N0204,
+R82,1,N0205,
+U46,1,N0205,
+U46,5,N0205,
+R83,1,N0206,
+U46,10,N0206,
+U46,14,N0206,
+R84,1,N0207,
+U47,1,N0207,
+U47,5,N0207,
+R85,2,N0208,
+R86,2,N0208,
+R87,2,N0208,
+R88,2,N0208,
+R89,2,N0208,
+R90,1,N0208,
+R86,1,N0209,
+U47,10,N0209,
+U47,14,N0209,
+R87,1,N0210,
+U48,1,N0210,
+U48,5,N0210,
+R88,1,N0211,
+U48,10,N0211,
+U48,14,N0211,
+R89,1,N0212,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+R90,2,N0213,
+R91,2,N0213,
+R92,2,N0213,
+R93,2,N0213,
+R94,1,N0213,
+R91,1,N0214,
+U49,1,N0214,
+U49,5,N0214,
+R92,1,N0215,
+U49,10,N0215,
+U49,14,N0215,
+R93,1,N0216,
+U50,1,N0216,
+U50,5,N0216,
+R95,1,N0217,
+U21,1,N0217,
+U50,10,N0217,
+U50,14,N0217,
+R96,1,N0218,
+U21,5,N0218,
+U21,8,N0218,
+U51,1,N0218,
+U51,5,N0218,
+R97,1,N0219,
+U21,14,N0219,
+U23,1,N0219,
+U23,5,N0219,
+U23,8,N0219,
+U23,14,N0219,
+U24,5,N0219,
+U51,10,N0219,
+U51,14,N0219,
+R98,1,N0220,
+T10,3,N0220,
+U53,10,N0220,
+R99,1,N0221,
+T9,3,N0221,
+U53,9,N0221,
+T2,1,N0222,
+T3,2,N0222,
+U45,5,N0222,
+U10,3,N0223,
+U10,7,N0223,
+U15,1,N0223,
+U10,5,N0224,
+U10,8,N0224,
+U15,5,N0224,
+U16,3,N0224,
+U16,7,N0224,
+U10,10,N0225,
+U10,14,N0225,
+U19,1,N0225,
+U10,11,N0226,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U11,11,N0227,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U12,11,N0228,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U13,5,N0229,
+U28,10,N0229,
+U28,14,N0229,
+U13,11,N0230,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U13,12,N0231,
+U28,3,N0231,
+U28,7,N0231,
+U14,11,N0232,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U144,2,N0233,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U144,3,N0234,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U144,6,N0235,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U144,8,N0236,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U144,11,N0237,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U15,11,N0238,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U16,10,N0239,
+U16,14,N0239,
+U24,10,N0239,
+U16,11,N0240,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U17,1,N0241,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U17,3,N0242,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U17,5,N0243,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U17,7,N0244,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U18,11,N0245,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U19,5,N0246,
+U29,1,N0246,
+U29,12,N0246,
+U19,11,N0247,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U20,11,N0248,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U21,11,N0249,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U22,11,N0250,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U23,11,N0251,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U24,11,N0252,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U25,1,N0253,
+U25,5,N0253,
+U25,12,N0253,
+U27,5,N0253,
+U25,11,N0254,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U26,11,N0255,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U26,14,N0256,
+U29,5,N0256,
+U29,8,N0256,
+U27,2,N0257,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U27,3,N0258,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U27,6,N0259,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U27,8,N0260,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U27,11,N0261,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U28,11,N0262,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U29,11,N0263,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U31,2,N0264,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U31,3,N0265,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U31,6,N0266,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U31,8,N0267,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U31,11,N0268,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U32,11,N0269,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U33,2,N0270,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U33,3,N0271,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U33,6,N0272,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U33,8,N0273,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U33,11,N0274,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U41,2,N0275,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U41,3,N0276,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U41,6,N0277,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U41,8,N0278,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U41,11,N0279,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U42,2,N0280,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U42,3,N0281,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U42,6,N0282,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U42,8,N0283,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U42,11,N0284,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U43,11,N0285,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U45,2,N0286,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U45,3,N0287,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U45,6,N0288,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U45,8,N0289,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U45,11,N0290,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U53,2,N0291,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U53,3,N0292,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U53,6,N0293,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U53,8,N0294,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U53,11,N0295,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U54,11,N0296,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U55,11,N0297,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U56,11,N0298,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U57,11,N0299,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+U58,11,N0300,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus

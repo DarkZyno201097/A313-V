@@ -1,0 +1,245 @@
+﻿ref,name,qty,page,note
+C5,3300pf [CAP NP],1,4,nguồn SchDoc=TAM4_Cumbiendoi/A313_4.SchDoc; sheet=A313_4.SchDoc
+C6,10uf [C_0],1,4,nguồn SchDoc=TAM4_Cumbiendoi/A313_4.SchDoc; sheet=A313_4.SchDoc
+C7,10uf [C],1,4,nguồn SchDoc=TAM4_Cumbiendoi/A313_4.SchDoc; sheet=A313_4.SchDoc
+C8,3300pf [CAP NP],1,4,nguồn SchDoc=TAM4_Cumbiendoi/A313_4.SchDoc; sheet=A313_4.SchDoc
+C9,22uf [C],1,4,nguồn SchDoc=TAM4_Cumbiendoi/A313_4.SchDoc; sheet=A313_4.SchDoc
+C10,22uf [C],1,4,nguồn SchDoc=TAM4_Cumbiendoi/A313_4.SchDoc; sheet=A313_4.SchDoc
+C11,"0,01uf [CAP NP]",1,4,nguồn SchDoc=TAM4_Cumbiendoi/A313_4.SchDoc; sheet=A313_4.SchDoc
+C12,"0,01uf [CAP NP]",1,4,nguồn SchDoc=TAM4_Cumbiendoi/A313_4.SchDoc; sheet=A313_4.SchDoc
+C13,"0,01uf [CAP NP]",1,4,nguồn SchDoc=TAM4_Cumbiendoi/A313_4.SchDoc; sheet=A313_4.SchDoc
+C14,"0,01uf [CAP NP]",1,4,nguồn SchDoc=TAM4_Cumbiendoi/A313_4.SchDoc; sheet=A313_4.SchDoc
+C15,"0,01uf [CAP NP]",1,4,nguồn SchDoc=TAM4_Cumbiendoi/A313_4.SchDoc; sheet=A313_4.SchDoc
+C16,"0,01uf [CAP NP]",1,4,nguồn SchDoc=TAM4_Cumbiendoi/A313_4.SchDoc; sheet=A313_4.SchDoc
+C17,"0,01uf [CAP NP]",1,4,nguồn SchDoc=TAM4_Cumbiendoi/A313_4.SchDoc; sheet=A313_4.SchDoc
+C18,"0,01uf [CAP NP]",1,4,nguồn SchDoc=TAM4_Cumbiendoi/A313_4.SchDoc; sheet=A313_4.SchDoc
+C20,18pf [CAP NP],1,4,nguồn SchDoc=TAM4_Cumbiendoi/A313_4.SchDoc; sheet=A313_4.SchDoc
+C21,18pf [CAP NP],1,4,nguồn SchDoc=TAM4_Cumbiendoi/A313_4.SchDoc; sheet=A313_4.SchDoc
+C23,270pf [CAP NP],1,4,nguồn SchDoc=TAM4_Cumbiendoi/A313_4.SchDoc; sheet=A313_4.SchDoc
+C26,3300pf [CAP NP],1,4,nguồn SchDoc=TAM4_Cumbiendoi/A313_4.SchDoc; sheet=A313_4.SchDoc
+C27,10U [CAP POL],1,4,nguồn SchDoc=TAM4_Cumbiendoi/A313_4.SchDoc; sheet=A313_4.SchDoc
+C28,3300pf [CAP NP],1,4,nguồn SchDoc=TAM4_Cumbiendoi/A313_4.SchDoc; sheet=A313_4.SchDoc
+C29,22pf [CAP NP],1,4,nguồn SchDoc=TAM4_Cumbiendoi/A313_4.SchDoc; sheet=A313_4.SchDoc
+C30,3300pf [CAP NP],1,4,nguồn SchDoc=TAM4_Cumbiendoi/A313_4.SchDoc; sheet=A313_4.SchDoc
+C31,10U [CAP POL],1,4,nguồn SchDoc=TAM4_Cumbiendoi/A313_4.SchDoc; sheet=A313_4.SchDoc
+C32,3300pf [CAP NP],1,4,nguồn SchDoc=TAM4_Cumbiendoi/A313_4.SchDoc; sheet=A313_4.SchDoc
+C33,22pf [CAP NP],1,4,nguồn SchDoc=TAM4_Cumbiendoi/A313_4.SchDoc; sheet=A313_4.SchDoc
+C34,3300pf [CAP NP],1,4,nguồn SchDoc=TAM4_Cumbiendoi/A313_4.SchDoc; sheet=A313_4.SchDoc
+C35,3300pf [CAP NP],1,4,nguồn SchDoc=TAM4_Cumbiendoi/A313_4.SchDoc; sheet=A313_4.SchDoc
+C36,270pf [CAP NP],1,4,nguồn SchDoc=TAM4_Cumbiendoi/A313_4.SchDoc; sheet=A313_4.SchDoc
+D1,D818E [DIODE ZENER],1,4,nguồn SchDoc=TAM4_Cumbiendoi/A313_4.SchDoc; sheet=A313_4.SchDoc
+D2,2D102A [DIODE],1,4,nguồn SchDoc=TAM4_Cumbiendoi/A313_4.SchDoc; sheet=A313_4.SchDoc
+D3,2D102A [DIODE],1,4,nguồn SchDoc=TAM4_Cumbiendoi/A313_4.SchDoc; sheet=A313_4.SchDoc
+D4,2D102A [DIODE],1,4,nguồn SchDoc=TAM4_Cumbiendoi/A313_4.SchDoc; sheet=A313_4.SchDoc
+D5,D104 [DIODE],1,4,nguồn SchDoc=TAM4_Cumbiendoi/A313_4.SchDoc; sheet=A313_4.SchDoc
+D6,D104 [DIODE],1,4,nguồn SchDoc=TAM4_Cumbiendoi/A313_4.SchDoc; sheet=A313_4.SchDoc
+D7,D104 [DIODE],1,4,nguồn SchDoc=TAM4_Cumbiendoi/A313_4.SchDoc; sheet=A313_4.SchDoc
+D8,D818A [DIODE ZENER_0],1,4,nguồn SchDoc=TAM4_Cumbiendoi/A313_4.SchDoc; sheet=A313_4.SchDoc
+D9,D818D [DIODE ZENER],1,4,nguồn SchDoc=TAM4_Cumbiendoi/A313_4.SchDoc; sheet=A313_4.SchDoc
+D10,D104 [DIODE],1,4,nguồn SchDoc=TAM4_Cumbiendoi/A313_4.SchDoc; sheet=A313_4.SchDoc
+DC7,DC96c,1,4,nguồn SchDoc=TAM4_Cumbiendoi/A313_4.SchDoc; sheet=A313_4.SchDoc
+DC8,DC96c,1,4,nguồn SchDoc=TAM4_Cumbiendoi/A313_4.SchDoc; sheet=A313_4.SchDoc
+R11,10k [R],1,4,nguồn SchDoc=TAM4_Cumbiendoi/A313_4.SchDoc; sheet=A313_4.SchDoc
+R12,220R [R],1,4,nguồn SchDoc=TAM4_Cumbiendoi/A313_4.SchDoc; sheet=A313_4.SchDoc
+R13,"2,43K [R]",1,4,nguồn SchDoc=TAM4_Cumbiendoi/A313_4.SchDoc; sheet=A313_4.SchDoc
+R14,"1,5k [RESISTOR VAR]",1,4,nguồn SchDoc=TAM4_Cumbiendoi/A313_4.SchDoc; sheet=A313_4.SchDoc
+R15,10k [R],1,4,nguồn SchDoc=TAM4_Cumbiendoi/A313_4.SchDoc; sheet=A313_4.SchDoc
+R16,"1,82K [R]",1,4,nguồn SchDoc=TAM4_Cumbiendoi/A313_4.SchDoc; sheet=A313_4.SchDoc
+R17,220R [R],1,4,nguồn SchDoc=TAM4_Cumbiendoi/A313_4.SchDoc; sheet=A313_4.SchDoc
+R18,220R [R],1,4,nguồn SchDoc=TAM4_Cumbiendoi/A313_4.SchDoc; sheet=A313_4.SchDoc
+R19,220R [R],1,4,nguồn SchDoc=TAM4_Cumbiendoi/A313_4.SchDoc; sheet=A313_4.SchDoc
+R21,10k [R],1,4,nguồn SchDoc=TAM4_Cumbiendoi/A313_4.SchDoc; sheet=A313_4.SchDoc
+R22,10k [R],1,4,nguồn SchDoc=TAM4_Cumbiendoi/A313_4.SchDoc; sheet=A313_4.SchDoc
+R23,10k [R],1,4,nguồn SchDoc=TAM4_Cumbiendoi/A313_4.SchDoc; sheet=A313_4.SchDoc
+R24,"7,5k [R]",1,4,nguồn SchDoc=TAM4_Cumbiendoi/A313_4.SchDoc; sheet=A313_4.SchDoc
+R25,120k [R],1,4,nguồn SchDoc=TAM4_Cumbiendoi/A313_4.SchDoc; sheet=A313_4.SchDoc
+R26,10k/1% [R],1,4,nguồn SchDoc=TAM4_Cumbiendoi/A313_4.SchDoc; sheet=A313_4.SchDoc
+R27,56r [R],1,4,nguồn SchDoc=TAM4_Cumbiendoi/A313_4.SchDoc; sheet=A313_4.SchDoc
+R28,1k [R],1,4,nguồn SchDoc=TAM4_Cumbiendoi/A313_4.SchDoc; sheet=A313_4.SchDoc
+R30,Bientro 1.5K [RESISTOR VAR],1,4,nguồn SchDoc=TAM4_Cumbiendoi/A313_4.SchDoc; sheet=A313_4.SchDoc
+R31,"2,7k [R]",1,4,nguồn SchDoc=TAM4_Cumbiendoi/A313_4.SchDoc; sheet=A313_4.SchDoc
+R32,75k/1% [R],1,4,nguồn SchDoc=TAM4_Cumbiendoi/A313_4.SchDoc; sheet=A313_4.SchDoc
+R33,"1,8Mom/1% [R]",1,4,nguồn SchDoc=TAM4_Cumbiendoi/A313_4.SchDoc; sheet=A313_4.SchDoc
+R34,220r [R],1,4,nguồn SchDoc=TAM4_Cumbiendoi/A313_4.SchDoc; sheet=A313_4.SchDoc
+R35,511r/1% [R],1,4,nguồn SchDoc=TAM4_Cumbiendoi/A313_4.SchDoc; sheet=A313_4.SchDoc
+R36,"4,7k [R]",1,4,nguồn SchDoc=TAM4_Cumbiendoi/A313_4.SchDoc; sheet=A313_4.SchDoc
+R39,220K [R],1,4,nguồn SchDoc=TAM4_Cumbiendoi/A313_4.SchDoc; sheet=A313_4.SchDoc
+R40,220R [R],1,4,nguồn SchDoc=TAM4_Cumbiendoi/A313_4.SchDoc; sheet=A313_4.SchDoc
+R42,56r [R],1,4,nguồn SchDoc=TAM4_Cumbiendoi/A313_4.SchDoc; sheet=A313_4.SchDoc
+R43,1k [R],1,4,nguồn SchDoc=TAM4_Cumbiendoi/A313_4.SchDoc; sheet=A313_4.SchDoc
+R44,"3,92k [R]",1,4,nguồn SchDoc=TAM4_Cumbiendoi/A313_4.SchDoc; sheet=A313_4.SchDoc
+R45,"3,92k [R]",1,4,nguồn SchDoc=TAM4_Cumbiendoi/A313_4.SchDoc; sheet=A313_4.SchDoc
+R46,680R [R],1,4,nguồn SchDoc=TAM4_Cumbiendoi/A313_4.SchDoc; sheet=A313_4.SchDoc
+R47,1Mom [R],1,4,nguồn SchDoc=TAM4_Cumbiendoi/A313_4.SchDoc; sheet=A313_4.SchDoc
+R48,1Mom [R],1,4,nguồn SchDoc=TAM4_Cumbiendoi/A313_4.SchDoc; sheet=A313_4.SchDoc
+R49,56r [R],1,4,nguồn SchDoc=TAM4_Cumbiendoi/A313_4.SchDoc; sheet=A313_4.SchDoc
+R50,220K [R],1,4,nguồn SchDoc=TAM4_Cumbiendoi/A313_4.SchDoc; sheet=A313_4.SchDoc
+R51,56r [R],1,4,nguồn SchDoc=TAM4_Cumbiendoi/A313_4.SchDoc; sheet=A313_4.SchDoc
+R52,100r [R],1,4,nguồn SchDoc=TAM4_Cumbiendoi/A313_4.SchDoc; sheet=A313_4.SchDoc
+R53,5k/1% [R],1,4,nguồn SchDoc=TAM4_Cumbiendoi/A313_4.SchDoc; sheet=A313_4.SchDoc
+R54,35k/1% [R],1,4,nguồn SchDoc=TAM4_Cumbiendoi/A313_4.SchDoc; sheet=A313_4.SchDoc
+R55,40k/1% [R],1,4,nguồn SchDoc=TAM4_Cumbiendoi/A313_4.SchDoc; sheet=A313_4.SchDoc
+R56,20k/1% [R],1,4,nguồn SchDoc=TAM4_Cumbiendoi/A313_4.SchDoc; sheet=A313_4.SchDoc
+R57,10k/1% [R],1,4,nguồn SchDoc=TAM4_Cumbiendoi/A313_4.SchDoc; sheet=A313_4.SchDoc
+R58,35k/1% [R],1,4,nguồn SchDoc=TAM4_Cumbiendoi/A313_4.SchDoc; sheet=A313_4.SchDoc
+R59,40k/1% [R],1,4,nguồn SchDoc=TAM4_Cumbiendoi/A313_4.SchDoc; sheet=A313_4.SchDoc
+R60,20k [R],1,4,nguồn SchDoc=TAM4_Cumbiendoi/A313_4.SchDoc; sheet=A313_4.SchDoc
+R61,10k/1% [R],1,4,nguồn SchDoc=TAM4_Cumbiendoi/A313_4.SchDoc; sheet=A313_4.SchDoc
+R62,5k/1% [R],1,4,nguồn SchDoc=TAM4_Cumbiendoi/A313_4.SchDoc; sheet=A313_4.SchDoc
+R63,35k/1% [R],1,4,nguồn SchDoc=TAM4_Cumbiendoi/A313_4.SchDoc; sheet=A313_4.SchDoc
+R64,40k/1% [R],1,4,nguồn SchDoc=TAM4_Cumbiendoi/A313_4.SchDoc; sheet=A313_4.SchDoc
+R65,20k/1% [R],1,4,nguồn SchDoc=TAM4_Cumbiendoi/A313_4.SchDoc; sheet=A313_4.SchDoc
+R66,10k/1% [R],1,4,nguồn SchDoc=TAM4_Cumbiendoi/A313_4.SchDoc; sheet=A313_4.SchDoc
+R67,35k/1% [R],1,4,nguồn SchDoc=TAM4_Cumbiendoi/A313_4.SchDoc; sheet=A313_4.SchDoc
+R68,40k/1% [R],1,4,nguồn SchDoc=TAM4_Cumbiendoi/A313_4.SchDoc; sheet=A313_4.SchDoc
+R69,20k [R],1,4,nguồn SchDoc=TAM4_Cumbiendoi/A313_4.SchDoc; sheet=A313_4.SchDoc
+R70,10k/1% [R],1,4,nguồn SchDoc=TAM4_Cumbiendoi/A313_4.SchDoc; sheet=A313_4.SchDoc
+R71,1Mom [R],1,4,nguồn SchDoc=TAM4_Cumbiendoi/A313_4.SchDoc; sheet=A313_4.SchDoc
+R72,1Mom [R],1,4,nguồn SchDoc=TAM4_Cumbiendoi/A313_4.SchDoc; sheet=A313_4.SchDoc
+R73,56r [R],1,4,nguồn SchDoc=TAM4_Cumbiendoi/A313_4.SchDoc; sheet=A313_4.SchDoc
+R74,220K [R],1,4,nguồn SchDoc=TAM4_Cumbiendoi/A313_4.SchDoc; sheet=A313_4.SchDoc
+R75,100r [R],1,4,nguồn SchDoc=TAM4_Cumbiendoi/A313_4.SchDoc; sheet=A313_4.SchDoc
+R76,56r [R],1,4,nguồn SchDoc=TAM4_Cumbiendoi/A313_4.SchDoc; sheet=A313_4.SchDoc
+R77,1Mom [R],1,4,nguồn SchDoc=TAM4_Cumbiendoi/A313_4.SchDoc; sheet=A313_4.SchDoc
+R78,1Mom [R],1,4,nguồn SchDoc=TAM4_Cumbiendoi/A313_4.SchDoc; sheet=A313_4.SchDoc
+R79,56r [R],1,4,nguồn SchDoc=TAM4_Cumbiendoi/A313_4.SchDoc; sheet=A313_4.SchDoc
+R80,5k/1% [R],1,4,nguồn SchDoc=TAM4_Cumbiendoi/A313_4.SchDoc; sheet=A313_4.SchDoc
+R81,35k/1% [R],1,4,nguồn SchDoc=TAM4_Cumbiendoi/A313_4.SchDoc; sheet=A313_4.SchDoc
+R82,40k/1% [R],1,4,nguồn SchDoc=TAM4_Cumbiendoi/A313_4.SchDoc; sheet=A313_4.SchDoc
+R83,20k/1% [R],1,4,nguồn SchDoc=TAM4_Cumbiendoi/A313_4.SchDoc; sheet=A313_4.SchDoc
+R84,10k/1% [R],1,4,nguồn SchDoc=TAM4_Cumbiendoi/A313_4.SchDoc; sheet=A313_4.SchDoc
+R85,35k/1% [R],1,4,nguồn SchDoc=TAM4_Cumbiendoi/A313_4.SchDoc; sheet=A313_4.SchDoc
+R86,40k/1% [R],1,4,nguồn SchDoc=TAM4_Cumbiendoi/A313_4.SchDoc; sheet=A313_4.SchDoc
+R87,20k [R],1,4,nguồn SchDoc=TAM4_Cumbiendoi/A313_4.SchDoc; sheet=A313_4.SchDoc
+R88,10k/1% [R],1,4,nguồn SchDoc=TAM4_Cumbiendoi/A313_4.SchDoc; sheet=A313_4.SchDoc
+R89,5k/1% [R],1,4,nguồn SchDoc=TAM4_Cumbiendoi/A313_4.SchDoc; sheet=A313_4.SchDoc
+R90,35k/1% [R],1,4,nguồn SchDoc=TAM4_Cumbiendoi/A313_4.SchDoc; sheet=A313_4.SchDoc
+R91,40k/1% [R],1,4,nguồn SchDoc=TAM4_Cumbiendoi/A313_4.SchDoc; sheet=A313_4.SchDoc
+R92,20k/1% [R],1,4,nguồn SchDoc=TAM4_Cumbiendoi/A313_4.SchDoc; sheet=A313_4.SchDoc
+R93,10k/1% [R],1,4,nguồn SchDoc=TAM4_Cumbiendoi/A313_4.SchDoc; sheet=A313_4.SchDoc
+R94,35k/1% [R],1,4,nguồn SchDoc=TAM4_Cumbiendoi/A313_4.SchDoc; sheet=A313_4.SchDoc
+R95,40k/1% [R],1,4,nguồn SchDoc=TAM4_Cumbiendoi/A313_4.SchDoc; sheet=A313_4.SchDoc
+R96,20k/1% [R],1,4,nguồn SchDoc=TAM4_Cumbiendoi/A313_4.SchDoc; sheet=A313_4.SchDoc
+R97,10k/1% [R],1,4,nguồn SchDoc=TAM4_Cumbiendoi/A313_4.SchDoc; sheet=A313_4.SchDoc
+R98,1Mom [R],1,4,nguồn SchDoc=TAM4_Cumbiendoi/A313_4.SchDoc; sheet=A313_4.SchDoc
+R99,1Mom [R],1,4,nguồn SchDoc=TAM4_Cumbiendoi/A313_4.SchDoc; sheet=A313_4.SchDoc
+R100,56r [R],1,4,nguồn SchDoc=TAM4_Cumbiendoi/A313_4.SchDoc; sheet=A313_4.SchDoc
+R101,10k [R],1,4,nguồn SchDoc=TAM4_Cumbiendoi/A313_4.SchDoc; sheet=A313_4.SchDoc
+R102,10k [R],1,4,nguồn SchDoc=TAM4_Cumbiendoi/A313_4.SchDoc; sheet=A313_4.SchDoc
+R103,10k [R],1,4,nguồn SchDoc=TAM4_Cumbiendoi/A313_4.SchDoc; sheet=A313_4.SchDoc
+R104,10k [R],1,4,nguồn SchDoc=TAM4_Cumbiendoi/A313_4.SchDoc; sheet=A313_4.SchDoc
+R105,330k [R],1,4,nguồn SchDoc=TAM4_Cumbiendoi/A313_4.SchDoc; sheet=A313_4.SchDoc
+R106,330k [R],1,4,nguồn SchDoc=TAM4_Cumbiendoi/A313_4.SchDoc; sheet=A313_4.SchDoc
+R107,330k [R],1,4,nguồn SchDoc=TAM4_Cumbiendoi/A313_4.SchDoc; sheet=A313_4.SchDoc
+R108,330k [R],1,4,nguồn SchDoc=TAM4_Cumbiendoi/A313_4.SchDoc; sheet=A313_4.SchDoc
+R109,10k [R],1,4,nguồn SchDoc=TAM4_Cumbiendoi/A313_4.SchDoc; sheet=A313_4.SchDoc
+R110,10k [R],1,4,nguồn SchDoc=TAM4_Cumbiendoi/A313_4.SchDoc; sheet=A313_4.SchDoc
+R111,10k [R],1,4,nguồn SchDoc=TAM4_Cumbiendoi/A313_4.SchDoc; sheet=A313_4.SchDoc
+R112,10k [R],1,4,nguồn SchDoc=TAM4_Cumbiendoi/A313_4.SchDoc; sheet=A313_4.SchDoc
+R113,330k [R],1,4,nguồn SchDoc=TAM4_Cumbiendoi/A313_4.SchDoc; sheet=A313_4.SchDoc
+R114,330k [R],1,4,nguồn SchDoc=TAM4_Cumbiendoi/A313_4.SchDoc; sheet=A313_4.SchDoc
+R115,330k [R],1,4,nguồn SchDoc=TAM4_Cumbiendoi/A313_4.SchDoc; sheet=A313_4.SchDoc
+R116,330k [R],1,4,nguồn SchDoc=TAM4_Cumbiendoi/A313_4.SchDoc; sheet=A313_4.SchDoc
+R117,10k [R],1,4,nguồn SchDoc=TAM4_Cumbiendoi/A313_4.SchDoc; sheet=A313_4.SchDoc
+R118,10k [R],1,4,nguồn SchDoc=TAM4_Cumbiendoi/A313_4.SchDoc; sheet=A313_4.SchDoc
+R119,10k [R],1,4,nguồn SchDoc=TAM4_Cumbiendoi/A313_4.SchDoc; sheet=A313_4.SchDoc
+R120,10k [R],1,4,nguồn SchDoc=TAM4_Cumbiendoi/A313_4.SchDoc; sheet=A313_4.SchDoc
+R121,330k [R],1,4,nguồn SchDoc=TAM4_Cumbiendoi/A313_4.SchDoc; sheet=A313_4.SchDoc
+R122,330k [R],1,4,nguồn SchDoc=TAM4_Cumbiendoi/A313_4.SchDoc; sheet=A313_4.SchDoc
+R123,330k [R],1,4,nguồn SchDoc=TAM4_Cumbiendoi/A313_4.SchDoc; sheet=A313_4.SchDoc
+R124,330k [R],1,4,nguồn SchDoc=TAM4_Cumbiendoi/A313_4.SchDoc; sheet=A313_4.SchDoc
+R125,10k [R],1,4,nguồn SchDoc=TAM4_Cumbiendoi/A313_4.SchDoc; sheet=A313_4.SchDoc
+R126,10k [R],1,4,nguồn SchDoc=TAM4_Cumbiendoi/A313_4.SchDoc; sheet=A313_4.SchDoc
+R127,10k [R],1,4,nguồn SchDoc=TAM4_Cumbiendoi/A313_4.SchDoc; sheet=A313_4.SchDoc
+R128,10k [R],1,4,nguồn SchDoc=TAM4_Cumbiendoi/A313_4.SchDoc; sheet=A313_4.SchDoc
+R129,330k [R],1,4,nguồn SchDoc=TAM4_Cumbiendoi/A313_4.SchDoc; sheet=A313_4.SchDoc
+R130,330k [R],1,4,nguồn SchDoc=TAM4_Cumbiendoi/A313_4.SchDoc; sheet=A313_4.SchDoc
+R131,330k [R],1,4,nguồn SchDoc=TAM4_Cumbiendoi/A313_4.SchDoc; sheet=A313_4.SchDoc
+R132,330k [R],1,4,nguồn SchDoc=TAM4_Cumbiendoi/A313_4.SchDoc; sheet=A313_4.SchDoc
+R133,10k [R],1,4,nguồn SchDoc=TAM4_Cumbiendoi/A313_4.SchDoc; sheet=A313_4.SchDoc
+R134,10k [R],1,4,nguồn SchDoc=TAM4_Cumbiendoi/A313_4.SchDoc; sheet=A313_4.SchDoc
+R135,10k [R],1,4,nguồn SchDoc=TAM4_Cumbiendoi/A313_4.SchDoc; sheet=A313_4.SchDoc
+R136,10k [R],1,4,nguồn SchDoc=TAM4_Cumbiendoi/A313_4.SchDoc; sheet=A313_4.SchDoc
+R137,330k [R],1,4,nguồn SchDoc=TAM4_Cumbiendoi/A313_4.SchDoc; sheet=A313_4.SchDoc
+R138,330k [R],1,4,nguồn SchDoc=TAM4_Cumbiendoi/A313_4.SchDoc; sheet=A313_4.SchDoc
+R139,330k [R],1,4,nguồn SchDoc=TAM4_Cumbiendoi/A313_4.SchDoc; sheet=A313_4.SchDoc
+R140,330k [R],1,4,nguồn SchDoc=TAM4_Cumbiendoi/A313_4.SchDoc; sheet=A313_4.SchDoc
+R249,10k/1% [R],1,4,nguồn SchDoc=TAM4_Cumbiendoi/A313_4.SchDoc; sheet=A313_4.SchDoc
+R283,100r [R],1,4,nguồn SchDoc=TAM4_Cumbiendoi/A313_4.SchDoc; sheet=A313_4.SchDoc
+R284,10k/1% [R],1,4,nguồn SchDoc=TAM4_Cumbiendoi/A313_4.SchDoc; sheet=A313_4.SchDoc
+R285,32k/1% [R],1,4,nguồn SchDoc=TAM4_Cumbiendoi/A313_4.SchDoc; sheet=A313_4.SchDoc
+R286,"1,6k/1% [R]",1,4,nguồn SchDoc=TAM4_Cumbiendoi/A313_4.SchDoc; sheet=A313_4.SchDoc
+R287,10k/1% [R],1,4,nguồn SchDoc=TAM4_Cumbiendoi/A313_4.SchDoc; sheet=A313_4.SchDoc
+R288,10k/1% [R],1,4,nguồn SchDoc=TAM4_Cumbiendoi/A313_4.SchDoc; sheet=A313_4.SchDoc
+R289,"1,6k/1% [R]",1,4,nguồn SchDoc=TAM4_Cumbiendoi/A313_4.SchDoc; sheet=A313_4.SchDoc
+R290,10k/1% [R],1,4,nguồn SchDoc=TAM4_Cumbiendoi/A313_4.SchDoc; sheet=A313_4.SchDoc
+R291,"7,725k/1% [R]",1,4,nguồn SchDoc=TAM4_Cumbiendoi/A313_4.SchDoc; sheet=A313_4.SchDoc
+R292,10k/1% [R],1,4,nguồn SchDoc=TAM4_Cumbiendoi/A313_4.SchDoc; sheet=A313_4.SchDoc
+R293,10k [R],1,4,nguồn SchDoc=TAM4_Cumbiendoi/A313_4.SchDoc; sheet=A313_4.SchDoc
+R294,10k/1% [R],1,4,nguồn SchDoc=TAM4_Cumbiendoi/A313_4.SchDoc; sheet=A313_4.SchDoc
+R295,10k/1% [R],1,4,nguồn SchDoc=TAM4_Cumbiendoi/A313_4.SchDoc; sheet=A313_4.SchDoc
+R296,10k/1% [R],1,4,nguồn SchDoc=TAM4_Cumbiendoi/A313_4.SchDoc; sheet=A313_4.SchDoc
+R297,"7,725k [R]",1,4,nguồn SchDoc=TAM4_Cumbiendoi/A313_4.SchDoc; sheet=A313_4.SchDoc
+R298,5k/1% [R],1,4,nguồn SchDoc=TAM4_Cumbiendoi/A313_4.SchDoc; sheet=A313_4.SchDoc
+R299,5k/1% [R],1,4,nguồn SchDoc=TAM4_Cumbiendoi/A313_4.SchDoc; sheet=A313_4.SchDoc
+R300,"7,725k/1% [R]",1,4,nguồn SchDoc=TAM4_Cumbiendoi/A313_4.SchDoc; sheet=A313_4.SchDoc
+R301,"7,725k [R]",1,4,nguồn SchDoc=TAM4_Cumbiendoi/A313_4.SchDoc; sheet=A313_4.SchDoc
+R302,1K [R],1,4,nguồn SchDoc=TAM4_Cumbiendoi/A313_4.SchDoc; sheet=A313_4.SchDoc
+T1,2T312Б [1R1001_4],1,4,nguồn SchDoc=TAM4_Cumbiendoi/A313_4.SchDoc; sheet=A313_4.SchDoc
+T2,2T312Б [1R1001_2],1,4,nguồn SchDoc=TAM4_Cumbiendoi/A313_4.SchDoc; sheet=A313_4.SchDoc
+T3,2T203Г [2N1132_1],1,4,nguồn SchDoc=TAM4_Cumbiendoi/A313_4.SchDoc; sheet=A313_4.SchDoc
+T4,2T301Ж [1R1001_5],1,4,nguồn SchDoc=TAM4_Cumbiendoi/A313_4.SchDoc; sheet=A313_4.SchDoc
+T5,C1815 [1R1001_1],1,4,nguồn SchDoc=TAM4_Cumbiendoi/A313_4.SchDoc; sheet=A313_4.SchDoc
+T6,C1815 [1R1001_1],1,4,nguồn SchDoc=TAM4_Cumbiendoi/A313_4.SchDoc; sheet=A313_4.SchDoc
+T9,C1815 [1R1001_1],1,4,nguồn SchDoc=TAM4_Cumbiendoi/A313_4.SchDoc; sheet=A313_4.SchDoc
+T10,C1815 [1R1001_1],1,4,nguồn SchDoc=TAM4_Cumbiendoi/A313_4.SchDoc; sheet=A313_4.SchDoc
+T11,C1815 [1R1001_1],1,4,nguồn SchDoc=TAM4_Cumbiendoi/A313_4.SchDoc; sheet=A313_4.SchDoc
+T12,C1815 [1R1001_1],1,4,nguồn SchDoc=TAM4_Cumbiendoi/A313_4.SchDoc; sheet=A313_4.SchDoc
+T13,C1815 [1R1001_1],1,4,nguồn SchDoc=TAM4_Cumbiendoi/A313_4.SchDoc; sheet=A313_4.SchDoc
+T14,C1815 [1R1001_1],1,4,nguồn SchDoc=TAM4_Cumbiendoi/A313_4.SchDoc; sheet=A313_4.SchDoc
+U10,168KT2b_4,1,4,nguồn SchDoc=TAM4_Cumbiendoi/A313_4.SchDoc; sheet=A313_4.SchDoc
+U11,168KT2V_4 [168KT2b_22] | 168KT2V_4 [168KT2b_25],1,4,nguồn SchDoc=TAM4_Cumbiendoi/A313_4.SchDoc; sheet=A313_4.SchDoc; ? nhiều name/libref: 168KT2V_4 [168KT2b_22] | 168KT2V_4 [168KT2b_25]
+U12,168KT2V_4 [168KT2b_17] | 168KT2V_4 [168KT2b_25],1,4,nguồn SchDoc=TAM4_Cumbiendoi/A313_4.SchDoc; sheet=A313_4.SchDoc; ? nhiều name/libref: 168KT2V_4 [168KT2b_17] | 168KT2V_4 [168KT2b_25]
+U13,168KT2b_4 | 168KT2b_4 [168KT2b_23],1,4,nguồn SchDoc=TAM4_Cumbiendoi/A313_4.SchDoc; sheet=A313_4.SchDoc; ? nhiều name/libref: 168KT2b_4 | 168KT2b_4 [168KT2b_23]
+U14,168KT2b_4,1,4,nguồn SchDoc=TAM4_Cumbiendoi/A313_4.SchDoc; sheet=A313_4.SchDoc
+U15,168KT2b_4,1,4,nguồn SchDoc=TAM4_Cumbiendoi/A313_4.SchDoc; sheet=A313_4.SchDoc
+U16,168KT2b_4 | 168KT2b_4 [168KT2b_24],1,4,nguồn SchDoc=TAM4_Cumbiendoi/A313_4.SchDoc; sheet=A313_4.SchDoc; ? nhiều name/libref: 168KT2b_4 | 168KT2b_4 [168KT2b_24]
+U17,2D908A [2D908A_1],1,4,nguồn SchDoc=TAM4_Cumbiendoi/A313_4.SchDoc; sheet=A313_4.SchDoc
+U18,168KT2b_4,1,4,nguồn SchDoc=TAM4_Cumbiendoi/A313_4.SchDoc; sheet=A313_4.SchDoc
+U19,168KT2b_4,1,4,nguồn SchDoc=TAM4_Cumbiendoi/A313_4.SchDoc; sheet=A313_4.SchDoc
+U20,168KT2b_4,1,4,nguồn SchDoc=TAM4_Cumbiendoi/A313_4.SchDoc; sheet=A313_4.SchDoc
+U21,168KT2b_4 | 168KT2b_4 [168KT2b_18],1,4,nguồn SchDoc=TAM4_Cumbiendoi/A313_4.SchDoc; sheet=A313_4.SchDoc; ? nhiều name/libref: 168KT2b_4 | 168KT2b_4 [168KT2b_18]
+U22,168KT2b_4,1,4,nguồn SchDoc=TAM4_Cumbiendoi/A313_4.SchDoc; sheet=A313_4.SchDoc
+U23,168KT2b_4,1,4,nguồn SchDoc=TAM4_Cumbiendoi/A313_4.SchDoc; sheet=A313_4.SchDoc
+U24,168KT2b_4,1,4,nguồn SchDoc=TAM4_Cumbiendoi/A313_4.SchDoc; sheet=A313_4.SchDoc
+U25,168KT2b_4,1,4,nguồn SchDoc=TAM4_Cumbiendoi/A313_4.SchDoc; sheet=A313_4.SchDoc
+U26,168KT2b_4,1,4,nguồn SchDoc=TAM4_Cumbiendoi/A313_4.SchDoc; sheet=A313_4.SchDoc
+U27,140YD1B [140YD1B_2],1,4,nguồn SchDoc=TAM4_Cumbiendoi/A313_4.SchDoc; sheet=A313_4.SchDoc
+U28,168KT2b_4,1,4,nguồn SchDoc=TAM4_Cumbiendoi/A313_4.SchDoc; sheet=A313_4.SchDoc
+U29,168KT2b_4,1,4,nguồn SchDoc=TAM4_Cumbiendoi/A313_4.SchDoc; sheet=A313_4.SchDoc
+U31,140YD1B [140YD1B_2],1,4,nguồn SchDoc=TAM4_Cumbiendoi/A313_4.SchDoc; sheet=A313_4.SchDoc
+U32,168KT2b_4 | 168KT2b_4 [168KT2b_8],1,4,nguồn SchDoc=TAM4_Cumbiendoi/A313_4.SchDoc; sheet=A313_4.SchDoc; ? nhiều name/libref: 168KT2b_4 | 168KT2b_4 [168KT2b_8]
+U33,140YD1B [140YD1B_2],1,4,nguồn SchDoc=TAM4_Cumbiendoi/A313_4.SchDoc; sheet=A313_4.SchDoc
+U34,168KT2B [168KT2B_13],1,4,nguồn SchDoc=TAM4_Cumbiendoi/A313_4.SchDoc; sheet=A313_4.SchDoc
+U35,168KT2B [168KT2B_13],1,4,nguồn SchDoc=TAM4_Cumbiendoi/A313_4.SchDoc; sheet=A313_4.SchDoc
+U36,168KT2B [168KT2B_13],1,4,nguồn SchDoc=TAM4_Cumbiendoi/A313_4.SchDoc; sheet=A313_4.SchDoc
+U37,168KT2B [168KT2B_13],1,4,nguồn SchDoc=TAM4_Cumbiendoi/A313_4.SchDoc; sheet=A313_4.SchDoc
+U38,168KT2B [168KT2B_13],1,4,nguồn SchDoc=TAM4_Cumbiendoi/A313_4.SchDoc; sheet=A313_4.SchDoc
+U39,168KT2B [168KT2B_13],1,4,nguồn SchDoc=TAM4_Cumbiendoi/A313_4.SchDoc; sheet=A313_4.SchDoc
+U41,140YD1B [140YD1B_3],1,4,nguồn SchDoc=TAM4_Cumbiendoi/A313_4.SchDoc; sheet=A313_4.SchDoc
+U42,140YD1B [140YD1B_4],1,4,nguồn SchDoc=TAM4_Cumbiendoi/A313_4.SchDoc; sheet=A313_4.SchDoc
+U43,168KT2b_4,1,4,nguồn SchDoc=TAM4_Cumbiendoi/A313_4.SchDoc; sheet=A313_4.SchDoc
+U45,140YD1B [140YD1B_2],1,4,nguồn SchDoc=TAM4_Cumbiendoi/A313_4.SchDoc; sheet=A313_4.SchDoc
+U46,168KT2B [168KT2B_13],1,4,nguồn SchDoc=TAM4_Cumbiendoi/A313_4.SchDoc; sheet=A313_4.SchDoc
+U47,168KT2B [168KT2B_13],1,4,nguồn SchDoc=TAM4_Cumbiendoi/A313_4.SchDoc; sheet=A313_4.SchDoc
+U48,168KT2B [168KT2B_13],1,4,nguồn SchDoc=TAM4_Cumbiendoi/A313_4.SchDoc; sheet=A313_4.SchDoc
+U49,168KT2B [168KT2B_13],1,4,nguồn SchDoc=TAM4_Cumbiendoi/A313_4.SchDoc; sheet=A313_4.SchDoc
+U50,168KT2B [168KT2B_13],1,4,nguồn SchDoc=TAM4_Cumbiendoi/A313_4.SchDoc; sheet=A313_4.SchDoc
+U51,168KT2B [168KT2B_13],1,4,nguồn SchDoc=TAM4_Cumbiendoi/A313_4.SchDoc; sheet=A313_4.SchDoc
+U53,140YD1B [140YD1B_2],1,4,nguồn SchDoc=TAM4_Cumbiendoi/A313_4.SchDoc; sheet=A313_4.SchDoc
+U54,168KT2b_4 [168KT2b_25],1,4,nguồn SchDoc=TAM4_Cumbiendoi/A313_4.SchDoc; sheet=A313_4.SchDoc
+U55,168KT2b_4 [168KT2b_25],1,4,nguồn SchDoc=TAM4_Cumbiendoi/A313_4.SchDoc; sheet=A313_4.SchDoc
+U56,168KT2b_4 [168KT2b_25],1,4,nguồn SchDoc=TAM4_Cumbiendoi/A313_4.SchDoc; sheet=A313_4.SchDoc
+U57,168KT2b_4 [168KT2b_25],1,4,nguồn SchDoc=TAM4_Cumbiendoi/A313_4.SchDoc; sheet=A313_4.SchDoc
+U58,168KT2b_4 [168KT2b_19] | 168KT2b_4 [168KT2b_25],1,4,nguồn SchDoc=TAM4_Cumbiendoi/A313_4.SchDoc; sheet=A313_4.SchDoc; ? nhiều name/libref: 168KT2b_4 [168KT2b_19] | 168KT2b_4 [168KT2b_25]
+U144,140YD1B [140YD1B_2],1,4,nguồn SchDoc=TAM4_Cumbiendoi/A313_4.SchDoc; sheet=A313_4.SchDoc

@@ -1,0 +1,193 @@
+﻿table,pin,signal,sheet,note
+DC5,A1,GND/OT,Tam3_Cum_tich_phan/A313_3.SchDoc,? nhiều nhãn trên cùng net: GND/OT
+DC5,A2,+5V,Tam3_Cum_tich_phan/A313_3.SchDoc,
+DC5,A3,"+3,5V",Tam3_Cum_tich_phan/A313_3.SchDoc,
+DC5,A4,"+6,3V",Tam3_Cum_tich_phan/A313_3.SchDoc,
+DC5,A5,ВЫХ.compar_РК,Tam3_Cum_tich_phan/A313_3.SchDoc,nhãn gốc=vih.compar_rc
+DC5,A6,N0038,Tam3_Cum_tich_phan/A313_3.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC5,A7,ВХОД_c1a,Tam3_Cum_tich_phan/A313_3.SchDoc,nhãn gốc=Bhod_c1a
+DC5,A8,N0039,Tam3_Cum_tich_phan/A313_3.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC5,A9,ВХОД_c2a,Tam3_Cum_tich_phan/A313_3.SchDoc,nhãn gốc=Bhod_c2a
+DC5,A10,N0040,Tam3_Cum_tich_phan/A313_3.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC5,A11,ВХОД_c3a,Tam3_Cum_tich_phan/A313_3.SchDoc,nhãn gốc=Bhod_c3a
+DC5,A12,N0041,Tam3_Cum_tich_phan/A313_3.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC5,A13,oxa,Tam3_Cum_tich_phan/A313_3.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: oxa
+DC5,A14,oxb,Tam3_Cum_tich_phan/A313_3.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: oxb
+DC5,A15,a pr,Tam3_Cum_tich_phan/A313_3.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: a pr
+DC5,A16,b pr,Tam3_Cum_tich_phan/A313_3.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: b pr
+DC5,A17,N0042,Tam3_Cum_tich_phan/A313_3.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC5,A18,N0043,Tam3_Cum_tich_phan/A313_3.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC5,A19,N0044,Tam3_Cum_tich_phan/A313_3.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC5,A20,N0045,Tam3_Cum_tich_phan/A313_3.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC5,A21,ВХОДa,Tam3_Cum_tich_phan/A313_3.SchDoc,nhãn gốc=Bhoda
+DC5,A22,ВХОДb,Tam3_Cum_tich_phan/A313_3.SchDoc,nhãn gốc=Bhodb
+DC5,A23,N0046,Tam3_Cum_tich_phan/A313_3.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC5,A24,N0047,Tam3_Cum_tich_phan/A313_3.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC5,A25,int.a,Tam3_Cum_tich_phan/A313_3.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: int.a
+DC5,A26,int.b,Tam3_Cum_tich_phan/A313_3.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: int.b
+DC5,A27,N0048,Tam3_Cum_tich_phan/A313_3.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC5,A28,N0049,Tam3_Cum_tich_phan/A313_3.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC5,A29,N0050,Tam3_Cum_tich_phan/A313_3.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC5,A30,GND/OT,Tam3_Cum_tich_phan/A313_3.SchDoc,? nhiều nhãn trên cùng net: GND/OT
+DC5,A31,GND/OT,Tam3_Cum_tich_phan/A313_3.SchDoc,? nhiều nhãn trên cùng net: GND/OT
+DC5,A32,GND/OT,Tam3_Cum_tich_phan/A313_3.SchDoc,? nhiều nhãn trên cùng net: GND/OT
+DC5,B1,GND/OT,Tam3_Cum_tich_phan/A313_3.SchDoc,? nhiều nhãn trên cùng net: GND/OT
+DC5,B2,+5V,Tam3_Cum_tich_phan/A313_3.SchDoc,
+DC5,B3,"+3,5V",Tam3_Cum_tich_phan/A313_3.SchDoc,
+DC5,B4,"+6,3V",Tam3_Cum_tich_phan/A313_3.SchDoc,
+DC5,B5,N0051,Tam3_Cum_tich_phan/A313_3.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC5,B6,N0052,Tam3_Cum_tich_phan/A313_3.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC5,B7,ВХОД_c1b,Tam3_Cum_tich_phan/A313_3.SchDoc,nhãn gốc=Bhod_c1b
+DC5,B8,N0053,Tam3_Cum_tich_phan/A313_3.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC5,B9,ВХОД_c2b,Tam3_Cum_tich_phan/A313_3.SchDoc,nhãn gốc=Bhod_c2b
+DC5,B10,N0054,Tam3_Cum_tich_phan/A313_3.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC5,B11,ВХОД_c3b,Tam3_Cum_tich_phan/A313_3.SchDoc,nhãn gốc=Bhod_c3b
+DC5,B12,N0055,Tam3_Cum_tich_phan/A313_3.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC5,B13,oxa,Tam3_Cum_tich_phan/A313_3.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: oxa
+DC5,B14,oxb,Tam3_Cum_tich_phan/A313_3.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: oxb
+DC5,B15,a pr,Tam3_Cum_tich_phan/A313_3.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: a pr
+DC5,B16,b pr,Tam3_Cum_tich_phan/A313_3.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: b pr
+DC5,B17,N0056,Tam3_Cum_tich_phan/A313_3.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC5,B18,N0057,Tam3_Cum_tich_phan/A313_3.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC5,B19,N0058,Tam3_Cum_tich_phan/A313_3.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC5,B20,N0059,Tam3_Cum_tich_phan/A313_3.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC5,B21,ВХОДa,Tam3_Cum_tich_phan/A313_3.SchDoc,nhãn gốc=Bhoda
+DC5,B22,ВХОД_РК,Tam3_Cum_tich_phan/A313_3.SchDoc,nhãn gốc=Bhod_rc
+DC5,B23,N0060,Tam3_Cum_tich_phan/A313_3.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC5,B24,N0061,Tam3_Cum_tich_phan/A313_3.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC5,B25,int.a,Tam3_Cum_tich_phan/A313_3.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: int.a
+DC5,B26,int.b,Tam3_Cum_tich_phan/A313_3.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: int.b
+DC5,B27,N0062,Tam3_Cum_tich_phan/A313_3.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC5,B28,N0063,Tam3_Cum_tich_phan/A313_3.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC5,B29,N0064,Tam3_Cum_tich_phan/A313_3.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC5,B30,GND/OT,Tam3_Cum_tich_phan/A313_3.SchDoc,? nhiều nhãn trên cùng net: GND/OT
+DC5,B31,GND/OT,Tam3_Cum_tich_phan/A313_3.SchDoc,? nhiều nhãn trên cùng net: GND/OT
+DC5,B32,GND/OT,Tam3_Cum_tich_phan/A313_3.SchDoc,? nhiều nhãn trên cùng net: GND/OT
+DC5,C1,GND/OT,Tam3_Cum_tich_phan/A313_3.SchDoc,? nhiều nhãn trên cùng net: GND/OT
+DC5,C2,+5V,Tam3_Cum_tich_phan/A313_3.SchDoc,
+DC5,C3,"+3,5V",Tam3_Cum_tich_phan/A313_3.SchDoc,
+DC5,C4,"+6,3V",Tam3_Cum_tich_phan/A313_3.SchDoc,
+DC5,C5,ip,Tam3_Cum_tich_phan/A313_3.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: ip
+DC5,C6,N0065,Tam3_Cum_tich_phan/A313_3.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC5,C7,ВХОД_c1РК,Tam3_Cum_tich_phan/A313_3.SchDoc,nhãn gốc=Bhod_c1rc
+DC5,C8,N0066,Tam3_Cum_tich_phan/A313_3.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC5,C9,ВХОД_c2РК,Tam3_Cum_tich_phan/A313_3.SchDoc,nhãn gốc=Bhod_c2rc
+DC5,C10,N0067,Tam3_Cum_tich_phan/A313_3.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC5,C11,ВХОД_c3РК,Tam3_Cum_tich_phan/A313_3.SchDoc,nhãn gốc=Bhod_c3rc
+DC5,C12,N0068,Tam3_Cum_tich_phan/A313_3.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC5,C13,oxa,Tam3_Cum_tich_phan/A313_3.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: oxa
+DC5,C14,oxb,Tam3_Cum_tich_phan/A313_3.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: oxb
+DC5,C15,a pr,Tam3_Cum_tich_phan/A313_3.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: a pr
+DC5,C16,b pr,Tam3_Cum_tich_phan/A313_3.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: b pr
+DC5,C17,N0069,Tam3_Cum_tich_phan/A313_3.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC5,C18,N0070,Tam3_Cum_tich_phan/A313_3.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC5,C19,N0071,Tam3_Cum_tich_phan/A313_3.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC5,C20,N0072,Tam3_Cum_tich_phan/A313_3.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC5,C21,ВХОДb,Tam3_Cum_tich_phan/A313_3.SchDoc,nhãn gốc=Bhodb
+DC5,C22,ВХОД_РК,Tam3_Cum_tich_phan/A313_3.SchDoc,nhãn gốc=Bhod_rc
+DC5,C23,N0073,Tam3_Cum_tich_phan/A313_3.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC5,C24,N0074,Tam3_Cum_tich_phan/A313_3.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC5,C25,int.a,Tam3_Cum_tich_phan/A313_3.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: int.a
+DC5,C26,int.b,Tam3_Cum_tich_phan/A313_3.SchDoc,? nhãn có mã font Latin chưa giải mã chắc chắn: int.b
+DC5,C27,N0075,Tam3_Cum_tich_phan/A313_3.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC5,C28,N0076,Tam3_Cum_tich_phan/A313_3.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC5,C29,N0077,Tam3_Cum_tich_phan/A313_3.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC5,C30,GND/OT,Tam3_Cum_tich_phan/A313_3.SchDoc,? nhiều nhãn trên cùng net: GND/OT
+DC5,C31,GND/OT,Tam3_Cum_tich_phan/A313_3.SchDoc,? nhiều nhãn trên cùng net: GND/OT
+DC5,C32,GND/OT,Tam3_Cum_tich_phan/A313_3.SchDoc,? nhiều nhãn trên cùng net: GND/OT
+DC6,A1,GND/OT,Tam3_Cum_tich_phan/A313_3.SchDoc,? nhiều nhãn trên cùng net: GND/OT
+DC6,A2,-23V,Tam3_Cum_tich_phan/A313_3.SchDoc,
+DC6,A3,"-12,6V",Tam3_Cum_tich_phan/A313_3.SchDoc,
+DC6,A4,"+12,6V",Tam3_Cum_tich_phan/A313_3.SchDoc,
+DC6,A5,N0078,Tam3_Cum_tich_phan/A313_3.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC6,A6,УПР_c1,Tam3_Cum_tich_phan/A313_3.SchDoc,nhãn gốc=upr_c1
+DC6,A7,УПР_c4,Tam3_Cum_tich_phan/A313_3.SchDoc,nhãn gốc=upr_c4
+DC6,A8,УПР_ap+nu,Tam3_Cum_tich_phan/A313_3.SchDoc,nhãn gốc=upr_ap+nu
+DC6,A9,УПР 9r rm,Tam3_Cum_tich_phan/A313_3.SchDoc,nhãn gốc=upr 9r rm
+DC6,A10,УПР 12r rm,Tam3_Cum_tich_phan/A313_3.SchDoc,nhãn gốc=upr 12r rm
+DC6,A11,УПР 15r rm,Tam3_Cum_tich_phan/A313_3.SchDoc,nhãn gốc=upr 15r rm
+DC6,A12,N0079,Tam3_Cum_tich_phan/A313_3.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC6,A13,N0080,Tam3_Cum_tich_phan/A313_3.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC6,A14,N0081,Tam3_Cum_tich_phan/A313_3.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC6,A15,N0082,Tam3_Cum_tich_phan/A313_3.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC6,A16,N0083,Tam3_Cum_tich_phan/A313_3.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC6,A17,N0084,Tam3_Cum_tich_phan/A313_3.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC6,A18,N0085,Tam3_Cum_tich_phan/A313_3.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC6,A19,N0086,Tam3_Cum_tich_phan/A313_3.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC6,A20,N0087,Tam3_Cum_tich_phan/A313_3.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC6,A21,N0088,Tam3_Cum_tich_phan/A313_3.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC6,A22,N0089,Tam3_Cum_tich_phan/A313_3.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC6,A23,N0090,Tam3_Cum_tich_phan/A313_3.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC6,A24,N0091,Tam3_Cum_tich_phan/A313_3.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC6,A25,N0092,Tam3_Cum_tich_phan/A313_3.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC6,A26,N0093,Tam3_Cum_tich_phan/A313_3.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC6,A27,N0094,Tam3_Cum_tich_phan/A313_3.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC6,A28,N0095,Tam3_Cum_tich_phan/A313_3.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC6,A29,N0096,Tam3_Cum_tich_phan/A313_3.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC6,A30,N0097,Tam3_Cum_tich_phan/A313_3.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC6,A31,GND/OT,Tam3_Cum_tich_phan/A313_3.SchDoc,? nhiều nhãn trên cùng net: GND/OT
+DC6,A32,GND/OT,Tam3_Cum_tich_phan/A313_3.SchDoc,? nhiều nhãn trên cùng net: GND/OT
+DC6,B1,GND/OT,Tam3_Cum_tich_phan/A313_3.SchDoc,? nhiều nhãn trên cùng net: GND/OT
+DC6,B2,-23V,Tam3_Cum_tich_phan/A313_3.SchDoc,
+DC6,B3,"-12,6V",Tam3_Cum_tich_phan/A313_3.SchDoc,
+DC6,B4,"+12,6V",Tam3_Cum_tich_phan/A313_3.SchDoc,
+DC6,B5,N0098,Tam3_Cum_tich_phan/A313_3.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC6,B6,УПР_c2,Tam3_Cum_tich_phan/A313_3.SchDoc,nhãn gốc=upr_c2
+DC6,B7,УПР_contr,Tam3_Cum_tich_phan/A313_3.SchDoc,nhãn gốc=upr_contr
+DC6,B8,УПР_int+nu,Tam3_Cum_tich_phan/A313_3.SchDoc,nhãn gốc=upr_int+nu
+DC6,B9,УПР 10r rm,Tam3_Cum_tich_phan/A313_3.SchDoc,nhãn gốc=upr 10r rm
+DC6,B10,УПР 13r rm,Tam3_Cum_tich_phan/A313_3.SchDoc,nhãn gốc=upr 13r rm
+DC6,B11,N0099,Tam3_Cum_tich_phan/A313_3.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC6,B12,N0100,Tam3_Cum_tich_phan/A313_3.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC6,B13,N0101,Tam3_Cum_tich_phan/A313_3.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC6,B14,N0102,Tam3_Cum_tich_phan/A313_3.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC6,B15,N0103,Tam3_Cum_tich_phan/A313_3.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC6,B16,N0104,Tam3_Cum_tich_phan/A313_3.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC6,B17,N0105,Tam3_Cum_tich_phan/A313_3.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC6,B18,N0106,Tam3_Cum_tich_phan/A313_3.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC6,B19,N0107,Tam3_Cum_tich_phan/A313_3.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC6,B20,N0108,Tam3_Cum_tich_phan/A313_3.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC6,B21,N0109,Tam3_Cum_tich_phan/A313_3.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC6,B22,N0110,Tam3_Cum_tich_phan/A313_3.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC6,B23,N0111,Tam3_Cum_tich_phan/A313_3.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC6,B24,N0112,Tam3_Cum_tich_phan/A313_3.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC6,B25,N0113,Tam3_Cum_tich_phan/A313_3.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC6,B26,N0114,Tam3_Cum_tich_phan/A313_3.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC6,B27,N0115,Tam3_Cum_tich_phan/A313_3.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC6,B28,N0116,Tam3_Cum_tich_phan/A313_3.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC6,B29,N0117,Tam3_Cum_tich_phan/A313_3.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC6,B30,N0118,Tam3_Cum_tich_phan/A313_3.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC6,B31,GND/OT,Tam3_Cum_tich_phan/A313_3.SchDoc,? nhiều nhãn trên cùng net: GND/OT
+DC6,B32,GND/OT,Tam3_Cum_tich_phan/A313_3.SchDoc,? nhiều nhãn trên cùng net: GND/OT
+DC6,C1,GND/OT,Tam3_Cum_tich_phan/A313_3.SchDoc,? nhiều nhãn trên cùng net: GND/OT
+DC6,C2,-23V,Tam3_Cum_tich_phan/A313_3.SchDoc,
+DC6,C3,"-12,6V",Tam3_Cum_tich_phan/A313_3.SchDoc,
+DC6,C4,"+12,6V",Tam3_Cum_tich_phan/A313_3.SchDoc,
+DC6,C5,N0119,Tam3_Cum_tich_phan/A313_3.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC6,C6,УПР_c3,Tam3_Cum_tich_phan/A313_3.SchDoc,nhãn gốc=upr_c3
+DC6,C7,УПР_knac,Tam3_Cum_tich_phan/A313_3.SchDoc,nhãn gốc=upr_knac
+DC6,C8,УПР 8r rm,Tam3_Cum_tich_phan/A313_3.SchDoc,nhãn gốc=upr 8r rm
+DC6,C9,УПР 11r rm,Tam3_Cum_tich_phan/A313_3.SchDoc,nhãn gốc=upr 11r rm
+DC6,C10,УПР 14r rm,Tam3_Cum_tich_phan/A313_3.SchDoc,nhãn gốc=upr 14r rm
+DC6,C11,N0120,Tam3_Cum_tich_phan/A313_3.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC6,C12,N0121,Tam3_Cum_tich_phan/A313_3.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC6,C13,N0122,Tam3_Cum_tich_phan/A313_3.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC6,C14,N0123,Tam3_Cum_tich_phan/A313_3.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC6,C15,N0124,Tam3_Cum_tich_phan/A313_3.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC6,C16,N0125,Tam3_Cum_tich_phan/A313_3.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC6,C17,N0126,Tam3_Cum_tich_phan/A313_3.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC6,C18,N0127,Tam3_Cum_tich_phan/A313_3.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC6,C19,N0128,Tam3_Cum_tich_phan/A313_3.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC6,C20,N0129,Tam3_Cum_tich_phan/A313_3.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC6,C21,N0130,Tam3_Cum_tich_phan/A313_3.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC6,C22,N0131,Tam3_Cum_tich_phan/A313_3.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC6,C23,N0132,Tam3_Cum_tich_phan/A313_3.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC6,C24,N0133,Tam3_Cum_tich_phan/A313_3.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC6,C25,N0134,Tam3_Cum_tich_phan/A313_3.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC6,C26,N0135,Tam3_Cum_tich_phan/A313_3.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC6,C27,N0136,Tam3_Cum_tich_phan/A313_3.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC6,C28,N0137,Tam3_Cum_tich_phan/A313_3.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC6,C29,N0138,Tam3_Cum_tich_phan/A313_3.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC6,C30,N0139,Tam3_Cum_tich_phan/A313_3.SchDoc,allowed_singleton: floating khai báo từ hình học SchDoc; cần kiểm nếu lẽ ra đi qua bus
+DC6,C31,GND/OT,Tam3_Cum_tich_phan/A313_3.SchDoc,? nhiều nhãn trên cùng net: GND/OT
+DC6,C32,GND/OT,Tam3_Cum_tich_phan/A313_3.SchDoc,? nhiều nhãn trên cùng net: GND/OT

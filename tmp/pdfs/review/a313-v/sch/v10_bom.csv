@@ -1,0 +1,8 @@
+﻿ref,name,qty,page,note
+C1,Cap,1,10,nguồn SchDoc=tamcaclinhkienroirac/A313_10.SchDoc; sheet=A313_10.SchDoc
+C2,Cap,1,10,nguồn SchDoc=tamcaclinhkienroirac/A313_10.SchDoc; sheet=A313_10.SchDoc
+C3,Cap,1,10,nguồn SchDoc=tamcaclinhkienroirac/A313_10.SchDoc; sheet=A313_10.SchDoc
+C4,Cap,1,10,nguồn SchDoc=tamcaclinhkienroirac/A313_10.SchDoc; sheet=A313_10.SchDoc
+D1,DIODE,1,10,nguồn SchDoc=tamcaclinhkienroirac/A313_10.SchDoc; sheet=A313_10.SchDoc
+D2,DIODE,1,10,nguồn SchDoc=tamcaclinhkienroirac/A313_10.SchDoc; sheet=A313_10.SchDoc
+DC15,Header 14,1,10,nguồn SchDoc=tamcaclinhkienroirac/A313_10.SchDoc; sheet=A313_10.SchDoc
