@@ -58,8 +58,8 @@ Cột "Thay thế tạm" là bản vẽ khác trong repo có thể dùng tạm:
 | Y5       | Bộ điều khiển lệnh (РгК1/2, РгПр, РРК1/2)        | ЕУ3.057.139    | Hình 8 (2 tờ) — **thiếu**    | ✔ trang PDF 86–87 | —                                               | Э3                                                 |
 | Y6       | Bộ điều khiển biến đổi (РПР 16 bit, РМ)             | ЕУ3.057.140    | ✔ đủ 3/3 lист + **ĐÃ CHÉP PARTIAL** 2026-10-24 (Codex: BOM 77, net 997, conn 173 — khớp Э3↔Э4 103/139) | ✔ (chung ảnh với Э3) | — | Э3 — PARTIAL, xem PROJECT_HANDOFF.md T06 |
 | Y7       | Tấm mạch phối hợp                                           | ВШ3.031.020    | Hình 11 — **thiếu**           | **thiếu**    | —                                               | Э3 + danh mục; lắp ráp Hình 27                 |
-| Y14      | Bộ biến đổi PK I (lệnh đơn ra 27 V)                      | ВШ2.068.054    | không có trong mục lục (Hình 13?) | **thiếu**    | ✅ A313-V.07 chép theo У14/У15 ([TMKT] §6.6) | Э3 hoặc xác nhận giống Y15; lắp ráp Hình 29 |
-| Y15      | Bộ biến đổi PK II (lệnh đơn ra chập mát)               | ВШ2.068.054-01 | Hình 12 — **thiếu**           | **thiếu**    | ✅ A313-V.07 (như trên)                        | Э3; lắp ráp Hình 28                             |
+| Y14      | Bộ biến đổi PK I (lệnh đơn ra 27 V)                      | ВШ2.068.054    | Hình 13, dùng chung ảnh với Y15 (`RE_tr188_a184.jpg`), chép PARTIAL 2026-10-25 | BOM 42 ref; net 92 dòng (51 truy trực tiếp, 41 placeholder, `check_ric12_13.py` PASS); bảng chân П1 43 dòng (`ric12_13_conn.csv`) | ✅ A313-V.07 chép theo У14/У15 ([TMKT] §6.6) | mâu thuẫn danh tính Y14/Y15 (xem 00_GHI-CHU.txt) chưa giải quyết; lắp ráp Hình 29 |
+| Y15      | Bộ biến đổi PK II (lệnh đơn ra chập mát)               | ВШ2.068.054-01 | Hình 12, dùng chung ảnh với Y14 (`RE_tr188_a184.jpg`), chép PARTIAL 2026-10-25 | BOM/net/conn như Y14 (một dataset `ric12_13_*` chung) | ✅ A313-V.07 (như trên)                        | mâu thuẫn danh tính Y14/Y15 chưa giải quyết; lắp ráp Hình 28 |
 
 ### 1.2. Phần biến đổi số–tương tự
 

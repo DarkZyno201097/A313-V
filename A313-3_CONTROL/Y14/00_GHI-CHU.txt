@@ -1,8 +1,16 @@
 ⚠ MÂU THUẪN DANH TÍNH chưa giải quyết giữa Y14 và Y15:
 - Danh mục cấp khối Э4 tr.142 ghi: У14 = Преобразователь РК II (ВШ3.036.053).
 - Nhưng CHÍNH Э4 tr.149 lại ghi dọc cạnh bảng У14: "РК I ВШ2.068.054" — ngược lại.
-- Ảnh sơ đồ nguyên lý (RE_tr188_a184.jpg) dùng CHUNG cho cả Y14 và Y15 (chưa tách được
-  12 hay 13 theo DANH-MUC).
+- Ảnh sơ đồ nguyên lý (RE_tr188_a184.jpg) dùng CHUNG cho cả Y14 và Y15 (xác nhận
+  của người dùng 2026-10-25; không còn "chưa tách được 12 hay 13").
 - Ảnh bố trí kèm theo (RE_tr243_a244_bo-tri.jpg = Рис.29) tự ghi "Преобразователь РК I"
   nhưng KHÔNG tự nêu rõ là của Y14 hay Y15.
 => PHẢI đọc nhãn in trực tiếp trên tấm thật để chốt đâu là Y14, đâu là Y15.
+
+Chép PARTIAL 2026-10-25: dataset `ric12_13_*` trong `tmp/pdfs/review/a313-3/e3/`
+(một bộ chung cho рис.12=Y15 và рис.13=Y14, vì chung một ảnh sơ đồ). BOM 42 ref;
+net 92 dòng (51 truy trực tiếp, 41 placeholder, `check_ric12_13.py` PASS); bảng
+đầu nối П1 43 dòng. Coordinator đã spot-check độc lập khớp tốt (khối У3-2/3/4
+bị gạch chéo X lớn = không lắp; У3-1 tách riêng phục vụ tín hiệu "Исправн").
+Còn 2 chỗ mâu thuẫn số chân chưa giải quyết (П1/26 vs /27, Упр.В-2/В- vs nhãn
+dây trong sơ đồ) — xem `ric12_13_mota.md`.

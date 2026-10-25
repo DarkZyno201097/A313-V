@@ -1,3 +1,15 @@
 ⚠ MÂU THUẪN DANH TÍNH — xem ghi chú chi tiết trong thư mục Y14 (vấn đề chung của cả 2 tấm).
 Ảnh bố trí kèm theo (RE_tr242_a243_bo-tri.jpg = Рис.28) tự ghi "Преобразователь РК II",
 mã gốc ВШ3.036.053 bị gạch, thay bằng ВШ2.068.054-01 — nhưng cũng KHÔNG tự nêu rõ Y14/Y15.
+
+Y14 và Y15 dùng chung một sơ đồ (xác nhận của người dùng 2026-10-25). Ảnh
+`RE_tr188_a184.jpg` (trang 188, mã ВШ2.068.054 Э3) byte-identical giữa Y14/Y15.
+
+Ảnh cũ `1792809106620_..._a1c0696a....jpg` trong thư mục này là bản chụp khác
+(độ phân giải/khung hình khác) của CÙNG trang vật lý — giữ tham khảo, chưa
+dùng làm nguồn chép chính trong lượt này (phần khung tên bị cắt khỏi
+RE_tr188_a184.jpg nên ảnh này có thể hữu ích để soát lại mã/số trang sau).
+
+Chép PARTIAL 2026-10-25: dùng chung dataset `ric12_13_*` với Y14 (xem ghi chú
+đầy đủ trong thư mục Y14/00_GHI-CHU.txt). BOM 42 ref; net 92 dòng (51 truy
+trực tiếp, 41 placeholder, checker PASS); bảng đầu nối П1 43 dòng.

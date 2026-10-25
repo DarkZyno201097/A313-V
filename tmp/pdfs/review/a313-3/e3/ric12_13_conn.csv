@@ -1,0 +1,44 @@
+table,pin,signal,photo,note
+П1,41,Корпус,RE_tr188_a184.jpg,Đọc trực tiếp từ bảng 'П1' (2 hàng viết tay: Конт / Цепь) ở đầu trang.
+П1,33,+27В,RE_tr188_a184.jpg,"Đọc trực tiếp từ bảng 'П1' (2 hàng viết tay: Конт / Цепь) ở đầu trang. LƯU Ý: chữ số có thể đọc nhầm '33' <-> '43' (nét viết tay rất giống nhau); chọn '33' vì khớp với nhãn 'П1/33 +27В' thấy trực tiếp trên dây vào khối У3 (ric1213/crossed_top.png), tránh trùng với pin 43='Исправн.' đã xác nhận riêng."
+П1,2,+27В Б/С,RE_tr188_a184.jpg,Đọc trực tiếp từ bảng 'П1' (2 hàng viết tay: Конт / Цепь) ở đầu trang.
+П1,26,"-6,3В",RE_tr188_a184.jpg,Đọc trực tiếp từ bảng 'П1' (2 hàng viết tay: Конт / Цепь) ở đầu trang.
+П1,1,+5В,RE_tr188_a184.jpg,Đọc trực tiếp từ bảng 'П1' (2 hàng viết tay: Конт / Цепь) ở đầu trang.
+П1,28,Упр.1,RE_tr188_a184.jpg,Đọc trực tiếp từ bảng 'П1' (2 hàng viết tay: Конт / Цепь) ở đầu trang.
+П1,16,Упр.2,RE_tr188_a184.jpg,Đọc trực tiếp từ bảng 'П1' (2 hàng viết tay: Конт / Цепь) ở đầu trang.
+П1,30,Упр.3,RE_tr188_a184.jpg,Đọc trực tiếp từ bảng 'П1' (2 hàng viết tay: Конт / Цепь) ở đầu trang.
+П1,15,Упр.4,RE_tr188_a184.jpg,Đọc trực tiếp từ bảng 'П1' (2 hàng viết tay: Конт / Цепь) ở đầu trang.
+П1,14,РК-1,RE_tr188_a184.jpg,Đọc trực tiếp từ bảng 'П1' (2 hàng viết tay: Конт / Цепь) ở đầu trang.
+П1,29,РК-2,RE_tr188_a184.jpg,Đọc trực tiếp từ bảng 'П1' (2 hàng viết tay: Конт / Цепь) ở đầu trang.
+П1,3,РК-3,RE_tr188_a184.jpg,Đọc trực tiếp từ bảng 'П1' (2 hàng viết tay: Конт / Цепь) ở đầu trang.
+П1,31,РК-4,RE_tr188_a184.jpg,Đọc trực tiếp từ bảng 'П1' (2 hàng viết tay: Конт / Цепь) ở đầu trang.
+П1,17,Упр.5,RE_tr188_a184.jpg,Đọc trực tiếp từ bảng 'П1' (2 hàng viết tay: Конт / Цепь) ở đầu trang.
+П1,6,Упр.6,RE_tr188_a184.jpg,Đọc trực tiếp từ bảng 'П1' (2 hàng viết tay: Конт / Цепь) ở đầu trang.
+П1,18,Упр.7,RE_tr188_a184.jpg,Đọc trực tiếp từ bảng 'П1' (2 hàng viết tay: Конт / Цепь) ở đầu trang.
+П1,4,Упр.8,RE_tr188_a184.jpg,Đọc trực tiếp từ bảng 'П1' (2 hàng viết tay: Конт / Цепь) ở đầu trang.
+П1,37,РК-5,RE_tr188_a184.jpg,Đọc trực tiếp từ bảng 'П1' (2 hàng viết tay: Конт / Цепь) ở đầu trang.
+П1,5,РК-6,RE_tr188_a184.jpg,Đọc trực tiếp từ bảng 'П1' (2 hàng viết tay: Конт / Цепь) ở đầu trang.
+П1,32,РК-7,RE_tr188_a184.jpg,Đọc trực tiếp từ bảng 'П1' (2 hàng viết tay: Конт / Цепь) ở đầu trang.
+П1,19,РК-8,RE_tr188_a184.jpg,Đọc trực tiếp từ bảng 'П1' (2 hàng viết tay: Конт / Цепь) ở đầu trang.
+П1,35,Упр.9,RE_tr188_a184.jpg,Đọc trực tiếp từ bảng 'П1' (2 hàng viết tay: Конт / Цепь) ở đầu trang.
+П1,36,Упр.10,RE_tr188_a184.jpg,Đọc trực tiếp từ bảng 'П1' (2 hàng viết tay: Конт / Цепь) ở đầu trang.
+П1,8,Упр.11,RE_tr188_a184.jpg,Đọc trực tiếp từ bảng 'П1' (2 hàng viết tay: Конт / Цепь) ở đầu trang.
+П1,34,Упр.12,RE_tr188_a184.jpg,Đọc trực tiếp từ bảng 'П1' (2 hàng viết tay: Конт / Цепь) ở đầu trang.
+П1,39,РК-9,RE_tr188_a184.jpg,Đọc trực tiếp từ bảng 'П1' (2 hàng viết tay: Конт / Цепь) ở đầu trang.
+П1,7,РК-10,RE_tr188_a184.jpg,Đọc trực tiếp từ bảng 'П1' (2 hàng viết tay: Конт / Цепь) ở đầu trang.
+П1,20,РК-11,RE_tr188_a184.jpg,Đọc trực tiếp từ bảng 'П1' (2 hàng viết tay: Конт / Цепь) ở đầu trang.
+П1,21,РК-12,RE_tr188_a184.jpg,Đọc trực tiếp từ bảng 'П1' (2 hàng viết tay: Конт / Цепь) ở đầu trang.
+П1,38,Упр.13,RE_tr188_a184.jpg,Đọc trực tiếp từ bảng 'П1' (2 hàng viết tay: Конт / Цепь) ở đầu trang.
+П1,10,Упр.14,RE_tr188_a184.jpg,Đọc trực tiếp từ bảng 'П1' (2 hàng viết tay: Конт / Цепь) ở đầu trang.
+П1,24,Упр.15,RE_tr188_a184.jpg,Đọc trực tiếp từ bảng 'П1' (2 hàng viết tay: Конт / Цепь) ở đầu trang.
+П1,22,Упр.16,RE_tr188_a184.jpg,Đọc trực tiếp từ bảng 'П1' (2 hàng viết tay: Конт / Цепь) ở đầu trang.
+П1,25,РК-13,RE_tr188_a184.jpg,Đọc trực tiếp từ bảng 'П1' (2 hàng viết tay: Конт / Цепь) ở đầu trang.
+П1,23,РК-14,RE_tr188_a184.jpg,Đọc trực tiếp từ bảng 'П1' (2 hàng viết tay: Конт / Цепь) ở đầu trang.
+П1,12,РК-15,RE_tr188_a184.jpg,Đọc trực tiếp từ bảng 'П1' (2 hàng viết tay: Конт / Цепь) ở đầu trang.
+П1,40,РК-16,RE_tr188_a184.jpg,Đọc trực tiếp từ bảng 'П1' (2 hàng viết tay: Конт / Цепь) ở đầu trang.
+П1,9,"Упр.""Исправн""",RE_tr188_a184.jpg,Đọc trực tiếp từ bảng 'П1' (2 hàng viết tay: Конт / Цепь) ở đầu trang.
+П1,43,Исправн.,RE_tr188_a184.jpg,Đọc trực tiếp từ bảng 'П1' (2 hàng viết tay: Конт / Цепь) ở đầu trang.
+П1,42,Режим.,RE_tr188_a184.jpg,Đọc trực tiếp từ bảng 'П1' (2 hàng viết tay: Конт / Цепь) ở đầu trang.
+П1,27,"+6,3В",RE_tr188_a184.jpg,"Đọc trực tiếp từ bảng 'П1' (2 hàng viết tay: Конт / Цепь) ở đầu trang. LƯU Ý: chữ số có thể là '26' hoặc '27' (nét viết tay mơ hồ ở vùng này); bảng gốc đọc '27', trong khi nhãn dây trong thân sơ đồ gần khối У3 (ric1213/crossed_bottom.png) đọc giống '26' — CHƯA GIẢI QUYẾT được mâu thuẫn này, ghi theo bảng П1 vì đó là nguồn chính thức hơn, không tự suy luận khớp."
+П1,13,Упр.В-2,RE_tr188_a184.jpg,"Đọc trực tiếp từ bảng 'П1' (2 hàng viết tay: Конт / Цепь) ở đầu trang. LƯU Ý: nhãn dây trong thân sơ đồ (ric1213/crossed_top.png) ghi 'Упр.В1', 'Упр.В', 'Упр.В2' tại П1/27, П1/14, П1/13 — không khớp hoàn toàn số chân với bảng П1 ở đây (П1/13, П1/11). CHƯA GIẢI QUYẾT được sai khác này; có thể do đọc nhầm chữ số viết tay ở một trong hai chỗ, ghi trung thực cả hai, không tự ý sửa cho khớp."
+П1,11,Упр.В-,RE_tr188_a184.jpg,"Đọc trực tiếp từ bảng 'П1' (2 hàng viết tay: Конт / Цепь) ở đầu trang. LƯU Ý: nhãn dây trong thân sơ đồ (ric1213/crossed_top.png) ghi 'Упр.В1', 'Упр.В', 'Упр.В2' tại П1/27, П1/14, П1/13 — không khớp hoàn toàn số chân với bảng П1 ở đây (П1/13, П1/11). CHƯA GIẢI QUYẾT được sai khác này; có thể do đọc nhầm chữ số viết tay ở một trong hai chỗ, ghi trung thực cả hai, không tự ý sửa cho khớp."

@@ -59,8 +59,8 @@ hoặc khung tên tờ sơ đồ. Cột «Tấm» theo `KE-HOACH_KIEM-TRA_A-313-
 | 9 | Преобразователь цифровых сигналов | Y2 | 175–176 (#171, #172) | 177–178 (#173, #174) |
 | 10 | Формирователь ПК и магистрали | Y1 | 179 (#175) ⚠ + tờ #75 kẹp ở tr.79/80 | 181–183 (#176–#178) |
 | 11 | Плата согласования | Y7 | 184 (#180) | 185 (#179) |
-| 12 | Преобразователь РК II | Y15 | #184 (mạch rơ-le РК/Упр, chưa rõ 12 hay 13) | 187 (#183) |
-| 13 | Преобразователь РК I | Y14 | như trên | #181 (số viết tay «185» trùng #179) |
+| 12 | Преобразователь РК II | Y15 | **Chép PARTIAL 2026-10-25:** dùng chung ảnh `A313-3_CONTROL/Y14/RE_tr188_a184.jpg` (byte-identical ở Y15) với Y14; dataset `ric12_13_*`: BOM 42 ref, net 92 dòng (51 truy trực tiếp, 41 placeholder, checker PASS), bảng đầu nối П1 43 dòng. Khối У3-2/3/4 bị gạch chéo X (không lắp), У3-1 riêng phục vụ "Исправн" | 187 (#183) |
+| 13 | Преобразователь РК I | Y14 | như trên — cùng dataset `ric12_13_*`; mã viết tay đọc được trên ảnh phụ (Y15) là "ВШ2.068.054 Э3" | #181 (số viết tay «185» trùng #179) |
 | 14 | (mux vào; dùng chung cho Y12/Y13 theo xác nhận người dùng) | Y12/Y13 | **Ảnh chụp lại rõ 2026-10-25:** tr.189 `A313-3_CONTROL/Y13/RE_tr189_a268.jpg` + bản sao tại Y12; mã ghi trên ảnh ЕУ3.628.121 Э3. Chép PARTIAL (mở rộng 2026-10-25): `ric14_bom.csv` 26 ref; `ric14_net.csv` 111 dòng (90 truy trực tiếp, 21 placeholder, `check_ric14.py` PASS); bảng `Контакт / Цепь` trong `ric14_conn.csv` 37 dòng (1–34, 35/A/B) đã chốt đủ. Vùng chưa truy: Я1-3 chân 9–16 (vết ố/nếp gấp giấy thật), phần lớn У4 và У1/У3 (giới hạn thời gian của subagent, không phải giới hạn ảnh) | ПЭ riêng chưa thấy; BOM sơ bộ đã có trong `ric14_bom.csv` |
 | 15 | Интегратор | Y9 | **XÁC ĐỊNH 2026-10-24: `A313-3_CONTROL/Y9/RE_tr191_a265.jpg`**, mã viết tay "ЕУ3.072.043 Э3" (đọc là "04373", "Э3" dễ nhầm "73"), trang 191 ngay trước ПЭ | 192–196 (#189–#193) |
 | 16 | Преобразователь | Y8 | 197 (#195/#196/**#199 nét nhất**) | 198–201 (#200–#203) |

@@ -1,0 +1,93 @@
+ref,pin,net,note
+У1-1,14,Nút А (Р1вх // Д1),"Đọc trực tiếp, nét nối thẳng không bắc cầu."
+У1-1,13,НЕ ПРОСЛЕЖЕНО У1-1.13,"Lên thanh bus dọc chung với У1-2/У1-3/У1-4. Nhiều nét gần như song song/chồng khít (<10px ở ảnh gốc) chạy dọc suốt chiều cao khối, không tách được từng chân riêng dù đã soi ở độ phóng đại 2-3x."
+У1-1,2,Р1вых (điện trở ra),"Đọc trực tiếp, nét nối thẳng không bắc cầu."
+У1-2,4,НЕ ПРОСЛЕЖЕНО У1-2.4,"Chân vào; chưa xác định nối với Р1вх hay Р2вх — cả 2 tổ hợp input (Р1вх/Д1 và Р2вх/Д2) đều có 2 nút 'Б'/'11' chạy dọc suốt khối, dây từ 4 vòng tròn đầu cuối (1,2,3,4) bên trái khối bắt chéo nhau trước khi tới từng chân. Nhiều nét gần như song song/chồng khít (<10px ở ảnh gốc) chạy dọc suốt chiều cao khối, không tách được từng chân riêng dù đã soi ở độ phóng đại 2-3x."
+У1-2,12,Р2вых (điện trở ra),"Đọc trực tiếp, nét nối thẳng không bắc cầu."
+У1-2,3,НЕ ПРОСЛЕЖЕНО У1-2.3,"Lên thanh bus dọc chung với У1-1/У1-3/У1-4. Nhiều nét gần như song song/chồng khít (<10px ở ảnh gốc) chạy dọc suốt chiều cao khối, không tách được từng chân riêng dù đã soi ở độ phóng đại 2-3x."
+У1-3,11,НЕ ПРОСЛЕЖЕНО У1-3.11,"Chân vào; cùng lý do chưa xác định như У1-2 chân 4 (xem ghi chú đó). Nhiều nét gần như song song/chồng khít (<10px ở ảnh gốc) chạy dọc suốt chiều cao khối, không tách được từng chân riêng dù đã soi ở độ phóng đại 2-3x."
+У1-3,10,Р4вых (điện trở ra),"Đọc trực tiếp, nét nối thẳng không bắc cầu."
+У1-3,5,НЕ ПРОСЛЕЖЕНО У1-3.5,"Lên thanh bus dọc chung với У1-1/У1-2/У1-4. Nhiều nét gần như song song/chồng khít (<10px ở ảnh gốc) chạy dọc suốt chiều cao khối, không tách được từng chân riêng dù đã soi ở độ phóng đại 2-3x."
+У1-4,7,Nút А (Р2вх // Д2),"Đọc trực tiếp, nét nối thẳng không bắc cầu."
+У1-4,6,Bắc cầu với chân 9 → Р3вых,"Chấm nối rõ giữa chân 6 và chân 9, cùng ra Р3вых."
+У1-4,9,Bắc cầu với chân 6 → Р3вых,"Chấm nối rõ giữa chân 6 và chân 9, cùng ra Р3вых."
+Д1,Б,НЕ ПРОСЛЕЖЕНО Д1.Б,Nguồn phía trên nút Б chưa xác định; nét kéo dài ra khỏi vùng đã chụp zoom.
+Д1,А,У1-1 chân 14 (song song với Р1вх),Đọc trực tiếp từ cách vẽ 2 ký hiệu song song giữa cùng 2 nút.
+Р1вх,Б,НЕ ПРОСЛЕЖЕНО Р1вх.Б,Nguồn phía trên nút Б chưa xác định; nét kéo dài ra khỏi vùng đã chụp zoom.
+Р1вх,А,У1-1 chân 14,"Đọc trực tiếp, nét nối thẳng."
+Д2,Б,НЕ ПРОСЛЕЖЕНО Д2.Б,Nguồn phía trên nút Б chưa xác định; nét kéo dài ra khỏi vùng đã chụp zoom.
+Д2,А,У1-4 chân 7 (song song với Р2вх),Đọc trực tiếp từ cách vẽ 2 ký hiệu song song giữa cùng 2 nút.
+Р2вх,Б,НЕ ПРОСЛЕЖЕНО Р2вх.Б,Nguồn phía trên nút Б chưa xác định; nét kéo dài ra khỏi vùng đã chụp zoom.
+Р2вх,А,У1-4 chân 7,"Đọc trực tiếp, nét nối thẳng."
+Р1вых,trái,У1-1 chân 2,"Đọc trực tiếp, nét nối thẳng."
+Р1вых,phải,НЕ ПРОСЛЕЖЕНО Р1вых.phải,Đầu phải bị cắt ở rìa vùng đã chụp zoom (ric1213/output_resistors.png); chưa chụp lại vùng mở rộng để xác nhận điểm đến.
+Р2вых,trái,У1-2 chân 3,"Đọc trực tiếp, nét nối thẳng (xác nhận ở output_resistors.png)."
+Р2вых,phải,НЕ ПРОСЛЕЖЕНО Р2вых.phải,Đầu phải bị cắt ở rìa vùng đã chụp zoom; chưa chụp lại vùng mở rộng để xác nhận điểm đến.
+Р3вых,trái,У1-4 chân 6+9 (nút chung),"Đọc trực tiếp, xác nhận ở output_resistors.png."
+Р3вых,phải,Đầu nối có nhãn số '8',"Đọc trực tiếp, mũi tên số 8 ngay cạnh đầu dây."
+Р4вых,trái,У1-3 chân 10,"Đọc trực tiếp, xác nhận ở output_resistors.png."
+Р4вых,phải,Đầu nối có nhãn số '7',"Đọc trực tiếp, mũi tên số 7 ngay cạnh đầu dây."
+У3-4,7,Nút А (Р3у3 // Д3),"Đọc trực tiếp, nét nối thẳng (ric1213/crossed_top.png)."
+У3-4,6,Корпус (П1/41),Đọc trực tiếp: dây ra ngay cạnh có nhãn 'Корпус' và 'П1/41' (ric1213/crossed_top.png).
+У3-4,9,Qua Р10 → chân 5 của У3-3,"Đọc trực tiếp, nét nối thẳng xuống Р10 (ric1213/crossed_mid.png)."
+У3-3,11,НЕ ПРОСЛЕЖЕНО У3-3.11,"Đường dây bị nét gạch chéo chữ 'X' lớn (ký hiệu không lắp) của khối cắt ngang qua đúng vị trí giao điểm, không phân biệt được dây nào thuộc X với dây mạch thật. Vùng xung quanh У3-3 chân 11/У3-2 chân 2/7 có thêm nhiều nét chồng nhau."
+У3-3,5,Qua Р10 ← chân 9 của У3-4,Đọc trực tiếp (xem У3-4 chân 9).
+У3-3,10,Qua Р9 → hướng khối У3-2,"Đọc trực tiếp nét nối tới Р9, nhưng điểm đến cụ thể bên khối У3-2 (chân 4 hay 3 hay 12) chưa phân biệt được do nhiều nét chồng khít + bị gạch X cắt ngang."
+У3-2,4,Qua Р8 → 'Режим'/П1/42 (hướng),"Đọc trực tiếp hướng đi của Р8 nhưng điểm cuối chính xác (nút nào trong cụm Режим/+6,3В) chưa phân biệt do chữ số П1/26 hay /27 không chắc chắn — xem ric12_13_conn.csv."
+У3-2,3,НЕ ПРОСЛЕЖЕНО У3-2.3,"Đường dây bị nét gạch chéo chữ 'X' lớn (ký hiệu không lắp) của khối cắt ngang qua đúng vị trí giao điểm, không phân biệt được dây nào thuộc X với dây mạch thật."
+У3-2,12,НЕ ПРОСЛЕЖЕНО У3-2.12,"Đường dây bị nét gạch chéo chữ 'X' lớn (ký hiệu không lắp) của khối cắt ngang qua đúng vị trí giao điểm, không phân biệt được dây nào thuộc X với dây mạch thật."
+Д3,Б,НЕ ПРОСЛЕЖЕНО Д3.Б,Nguồn phía trên (vùng input connector 'Упр.В1/В/В2') chưa truy được chân cụ thể nối vào — 3 dây song song sát nhau.
+Д3,А,У3-4 chân 7 (song song với Р3у3),Đọc trực tiếp từ cách vẽ 2 ký hiệu song song giữa cùng 2 nút.
+Р3у3,Б,НЕ ПРОСЛЕЖЕНО Р3у3.Б,Nguồn phía trên (vùng input connector 'Упр.В1/В/В2') chưa truy được chân cụ thể nối vào — 3 dây song song sát nhau.
+Р3у3,А,У3-4 chân 7,"Đọc trực tiếp, nét nối thẳng."
+Р5,trái,НЕ ПРОСЛЕЖЕНО Р5.trái,"Đường dây bị nét gạch chéo chữ 'X' lớn (ký hiệu không lắp) của khối cắt ngang qua đúng vị trí giao điểm, không phân biệt được dây nào thuộc X với dây mạch thật."
+Р5,phải,НЕ ПРОСЛЕЖЕНО Р5.phải,"Đường dây bị nét gạch chéo chữ 'X' lớn (ký hiệu không lắp) của khối cắt ngang qua đúng vị trí giao điểm, không phân biệt được dây nào thuộc X với dây mạch thật."
+Р6,trái,П1/1 +5В,"Đọc trực tiếp, nhãn 'П1/1 +5В' ngay đầu dây trái (ric1213/crossed_bottom.png)."
+Р6,phải,НЕ ПРОСЛЕЖЕНО Р6.phải,"Điện trở có NÉT GẠCH CHÉO RIÊNG đè lên ký hiệu (không lắp); đầu phải nối tiếp vào vùng nhiều nét chồng khít, chưa phân biệt được điểm đến."
+Р7,trái,НЕ ПРОСЛЕЖЕНО Р7.trái,"Đường dây bị nét gạch chéo chữ 'X' lớn (ký hiệu không lắp) của khối cắt ngang qua đúng vị trí giao điểm, không phân biệt được dây nào thuộc X với dây mạch thật."
+Р7,phải,НЕ ПРОСЛЕЖЕНО Р7.phải,"Đường dây bị nét gạch chéo chữ 'X' lớn (ký hiệu không lắp) của khối cắt ngang qua đúng vị trí giao điểm, không phân biệt được dây nào thuộc X với dây mạch thật."
+Р8,trái,"Khối У3-2 (hướng, xem У3-2 chân 4)",Xem ghi chú ở dòng У3-2.4.
+Р8,phải,НЕ ПРОСЛЕЖЕНО Р8.phải,Nối tiếp vào vùng nhãn 'Режим'/'П1/42' nhưng điểm nút chính xác chưa phân biệt do nhiều nét chồng khít.
+Р9,trái,НЕ ПРОСЛЕЖЕНО Р9.trái,"Nối từ hướng Р10/khối У3-3 nhưng điểm chân chính xác chưa phân biệt. Nhiều nét gần như song song/chồng khít (<10px ở ảnh gốc) chạy dọc suốt chiều cao khối, không tách được từng chân riêng dù đã soi ở độ phóng đại 2-3x."
+Р9,phải,НЕ ПРОСЛЕЖЕНО Р9.phải,"Đường dây bị nét gạch chéo chữ 'X' lớn (ký hiệu không lắp) của khối cắt ngang qua đúng vị trí giao điểm, không phân biệt được dây nào thuộc X với dây mạch thật."
+Р10,trái,У3-4 chân 9,"Đọc trực tiếp, nét nối thẳng (ric1213/crossed_mid.png)."
+Р10,phải,У3-3 chân 5,"Đọc trực tiếp, nét nối thẳng (ric1213/crossed_mid.png)."
+Р12,trái,НЕ ПРОСЛЕЖЕНО Р12.trái,"Cạnh chân 3 khối У3-2 nhưng điểm nối chính xác chưa phân biệt. Nhiều nét gần như song song/chồng khít (<10px ở ảnh gốc) chạy dọc suốt chiều cao khối, không tách được từng chân riêng dù đã soi ở độ phóng đại 2-3x."
+Р12,phải,"Hướng 'Режим'/'+6,3В' (П1/26 hoặc /27)",Đọc hướng đi chung nhưng chữ số pin chính xác không chắc chắn — xem ric12_13_conn.csv phần 'Chú ý đọc số'.
+У3-1,14,П1/43 Исправн,"Đọc trực tiếp, mũi tên nhãn 'Исправн' và 'П1/43' ngay đầu dây vào (ric1213/small_relay.png)."
+У3-1,13,Корпус,"Đọc trực tiếp, nhãn 'Корпус' ngay trên đường dây dọc cạnh chân 13."
+У3-1,2,Р13 (điện trở ra),"Đọc trực tiếp, nét nối thẳng xuống Р13."
+Р13,trái,У3-1 chân 2,Đọc trực tiếp.
+Р13,phải,"Nút chung '+5В' và 'П1/9 Упр.""Исправн""'","Đọc trực tiếp: điểm nối (chấm rõ) đồng thời chạm thanh dọc '+5В' và dây có mũi tên 'П1/9 Упр.""Исправн""' (ric1213/small_relay.png)."
+РК-1,упр,Упр.1 (xem ric12_13_conn.csv để lấy đúng số chân П1),Đọc trực tiếp nhãn 'Упр.N' ngay trên dây vào của ô relay (ric1213/right_matrix.png + matrix_left_labels.png).
+РК-1,chung,НЕ ПРОСЛЕЖЕНО РК-1.chung,"Đầu chung/tiếp điểm (các chân 1-4 phía trái mỗi khối) đi về nhóm 'Ячейка РК x...y' tương ứng (1-4 → Ячейка РК1...4; 5-8 dự đoán → khối У3 bị gạch, CHƯA XÁC NHẬN được tên nhóm chính thức cho RK9-16) nhưng không tách được RK cụ thể nào nối tới cực cụ thể nào của khối У vì nhiều nét gần như song song/chồng khít (<10px ở ảnh gốc) chạy dọc suốt chiều cao khối, không tách được từng chân riêng dù đã soi ở độ phóng đại 2-3x."
+РК-2,упр,Упр.2 (xem ric12_13_conn.csv để lấy đúng số chân П1),Đọc trực tiếp nhãn 'Упр.N' ngay trên dây vào của ô relay (ric1213/right_matrix.png + matrix_left_labels.png).
+РК-2,chung,НЕ ПРОСЛЕЖЕНО РК-2.chung,"Đầu chung/tiếp điểm (các chân 1-4 phía trái mỗi khối) đi về nhóm 'Ячейка РК x...y' tương ứng (1-4 → Ячейка РК1...4; 5-8 dự đoán → khối У3 bị gạch, CHƯA XÁC NHẬN được tên nhóm chính thức cho RK9-16) nhưng không tách được RK cụ thể nào nối tới cực cụ thể nào của khối У vì nhiều nét gần như song song/chồng khít (<10px ở ảnh gốc) chạy dọc suốt chiều cao khối, không tách được từng chân riêng dù đã soi ở độ phóng đại 2-3x."
+РК-3,упр,Упр.3 (xem ric12_13_conn.csv để lấy đúng số chân П1),Đọc trực tiếp nhãn 'Упр.N' ngay trên dây vào của ô relay (ric1213/right_matrix.png + matrix_left_labels.png).
+РК-3,chung,НЕ ПРОСЛЕЖЕНО РК-3.chung,"Đầu chung/tiếp điểm (các chân 1-4 phía trái mỗi khối) đi về nhóm 'Ячейка РК x...y' tương ứng (1-4 → Ячейка РК1...4; 5-8 dự đoán → khối У3 bị gạch, CHƯA XÁC NHẬN được tên nhóm chính thức cho RK9-16) nhưng không tách được RK cụ thể nào nối tới cực cụ thể nào của khối У vì nhiều nét gần như song song/chồng khít (<10px ở ảnh gốc) chạy dọc suốt chiều cao khối, không tách được từng chân riêng dù đã soi ở độ phóng đại 2-3x."
+РК-4,упр,Упр.4 (xem ric12_13_conn.csv để lấy đúng số chân П1),Đọc trực tiếp nhãn 'Упр.N' ngay trên dây vào của ô relay (ric1213/right_matrix.png + matrix_left_labels.png).
+РК-4,chung,НЕ ПРОСЛЕЖЕНО РК-4.chung,"Đầu chung/tiếp điểm (các chân 1-4 phía trái mỗi khối) đi về nhóm 'Ячейка РК x...y' tương ứng (1-4 → Ячейка РК1...4; 5-8 dự đoán → khối У3 bị gạch, CHƯA XÁC NHẬN được tên nhóm chính thức cho RK9-16) nhưng không tách được RK cụ thể nào nối tới cực cụ thể nào của khối У vì nhiều nét gần như song song/chồng khít (<10px ở ảnh gốc) chạy dọc suốt chiều cao khối, không tách được từng chân riêng dù đã soi ở độ phóng đại 2-3x."
+РК-5,упр,Упр.5 (xem ric12_13_conn.csv để lấy đúng số chân П1),Đọc trực tiếp nhãn 'Упр.N' ngay trên dây vào của ô relay (ric1213/right_matrix.png + matrix_left_labels.png).
+РК-5,chung,НЕ ПРОСЛЕЖЕНО РК-5.chung,"Đầu chung/tiếp điểm (các chân 1-4 phía trái mỗi khối) đi về nhóm 'Ячейка РК x...y' tương ứng (1-4 → Ячейка РК1...4; 5-8 dự đoán → khối У3 bị gạch, CHƯA XÁC NHẬN được tên nhóm chính thức cho RK9-16) nhưng không tách được RK cụ thể nào nối tới cực cụ thể nào của khối У vì nhiều nét gần như song song/chồng khít (<10px ở ảnh gốc) chạy dọc suốt chiều cao khối, không tách được từng chân riêng dù đã soi ở độ phóng đại 2-3x."
+РК-6,упр,Упр.6 (xem ric12_13_conn.csv để lấy đúng số chân П1),Đọc trực tiếp nhãn 'Упр.N' ngay trên dây vào của ô relay (ric1213/right_matrix.png + matrix_left_labels.png).
+РК-6,chung,НЕ ПРОСЛЕЖЕНО РК-6.chung,"Đầu chung/tiếp điểm (các chân 1-4 phía trái mỗi khối) đi về nhóm 'Ячейка РК x...y' tương ứng (1-4 → Ячейка РК1...4; 5-8 dự đoán → khối У3 bị gạch, CHƯA XÁC NHẬN được tên nhóm chính thức cho RK9-16) nhưng không tách được RK cụ thể nào nối tới cực cụ thể nào của khối У vì nhiều nét gần như song song/chồng khít (<10px ở ảnh gốc) chạy dọc suốt chiều cao khối, không tách được từng chân riêng dù đã soi ở độ phóng đại 2-3x."
+РК-7,упр,Упр.7 (xem ric12_13_conn.csv để lấy đúng số chân П1),Đọc trực tiếp nhãn 'Упр.N' ngay trên dây vào của ô relay (ric1213/right_matrix.png + matrix_left_labels.png).
+РК-7,chung,НЕ ПРОСЛЕЖЕНО РК-7.chung,"Đầu chung/tiếp điểm (các chân 1-4 phía trái mỗi khối) đi về nhóm 'Ячейка РК x...y' tương ứng (1-4 → Ячейка РК1...4; 5-8 dự đoán → khối У3 bị gạch, CHƯA XÁC NHẬN được tên nhóm chính thức cho RK9-16) nhưng không tách được RK cụ thể nào nối tới cực cụ thể nào của khối У vì nhiều nét gần như song song/chồng khít (<10px ở ảnh gốc) chạy dọc suốt chiều cao khối, không tách được từng chân riêng dù đã soi ở độ phóng đại 2-3x."
+РК-8,упр,Упр.8 (xem ric12_13_conn.csv để lấy đúng số chân П1),Đọc trực tiếp nhãn 'Упр.N' ngay trên dây vào của ô relay (ric1213/right_matrix.png + matrix_left_labels.png).
+РК-8,chung,НЕ ПРОСЛЕЖЕНО РК-8.chung,"Đầu chung/tiếp điểm (các chân 1-4 phía trái mỗi khối) đi về nhóm 'Ячейка РК x...y' tương ứng (1-4 → Ячейка РК1...4; 5-8 dự đoán → khối У3 bị gạch, CHƯA XÁC NHẬN được tên nhóm chính thức cho RK9-16) nhưng không tách được RK cụ thể nào nối tới cực cụ thể nào của khối У vì nhiều nét gần như song song/chồng khít (<10px ở ảnh gốc) chạy dọc suốt chiều cao khối, không tách được từng chân riêng dù đã soi ở độ phóng đại 2-3x."
+РК-9,упр,Упр.9 (xem ric12_13_conn.csv để lấy đúng số chân П1),Đọc trực tiếp nhãn 'Упр.N' ngay trên dây vào của ô relay (ric1213/right_matrix.png + matrix_left_labels.png).
+РК-9,chung,НЕ ПРОСЛЕЖЕНО РК-9.chung,"Đầu chung/tiếp điểm (các chân 1-4 phía trái mỗi khối) đi về nhóm 'Ячейка РК x...y' tương ứng (1-4 → Ячейка РК1...4; 5-8 dự đoán → khối У3 bị gạch, CHƯA XÁC NHẬN được tên nhóm chính thức cho RK9-16) nhưng không tách được RK cụ thể nào nối tới cực cụ thể nào của khối У vì nhiều nét gần như song song/chồng khít (<10px ở ảnh gốc) chạy dọc suốt chiều cao khối, không tách được từng chân riêng dù đã soi ở độ phóng đại 2-3x."
+РК-10,упр,Упр.10 (xem ric12_13_conn.csv để lấy đúng số chân П1),Đọc trực tiếp nhãn 'Упр.N' ngay trên dây vào của ô relay (ric1213/right_matrix.png + matrix_left_labels.png).
+РК-10,chung,НЕ ПРОСЛЕЖЕНО РК-10.chung,"Đầu chung/tiếp điểm (các chân 1-4 phía trái mỗi khối) đi về nhóm 'Ячейка РК x...y' tương ứng (1-4 → Ячейка РК1...4; 5-8 dự đoán → khối У3 bị gạch, CHƯA XÁC NHẬN được tên nhóm chính thức cho RK9-16) nhưng không tách được RK cụ thể nào nối tới cực cụ thể nào của khối У vì nhiều nét gần như song song/chồng khít (<10px ở ảnh gốc) chạy dọc suốt chiều cao khối, không tách được từng chân riêng dù đã soi ở độ phóng đại 2-3x."
+РК-11,упр,Упр.11 (xem ric12_13_conn.csv để lấy đúng số chân П1),Đọc trực tiếp nhãn 'Упр.N' ngay trên dây vào của ô relay (ric1213/right_matrix.png + matrix_left_labels.png).
+РК-11,chung,НЕ ПРОСЛЕЖЕНО РК-11.chung,"Đầu chung/tiếp điểm (các chân 1-4 phía trái mỗi khối) đi về nhóm 'Ячейка РК x...y' tương ứng (1-4 → Ячейка РК1...4; 5-8 dự đoán → khối У3 bị gạch, CHƯA XÁC NHẬN được tên nhóm chính thức cho RK9-16) nhưng không tách được RK cụ thể nào nối tới cực cụ thể nào của khối У vì nhiều nét gần như song song/chồng khít (<10px ở ảnh gốc) chạy dọc suốt chiều cao khối, không tách được từng chân riêng dù đã soi ở độ phóng đại 2-3x."
+РК-12,упр,Упр.12 (xem ric12_13_conn.csv để lấy đúng số chân П1),Đọc trực tiếp nhãn 'Упр.N' ngay trên dây vào của ô relay (ric1213/right_matrix.png + matrix_left_labels.png).
+РК-12,chung,НЕ ПРОСЛЕЖЕНО РК-12.chung,"Đầu chung/tiếp điểm (các chân 1-4 phía trái mỗi khối) đi về nhóm 'Ячейка РК x...y' tương ứng (1-4 → Ячейка РК1...4; 5-8 dự đoán → khối У3 bị gạch, CHƯA XÁC NHẬN được tên nhóm chính thức cho RK9-16) nhưng không tách được RK cụ thể nào nối tới cực cụ thể nào của khối У vì nhiều nét gần như song song/chồng khít (<10px ở ảnh gốc) chạy dọc suốt chiều cao khối, không tách được từng chân riêng dù đã soi ở độ phóng đại 2-3x."
+РК-13,упр,Упр.13 (xem ric12_13_conn.csv để lấy đúng số chân П1),Đọc trực tiếp nhãn 'Упр.N' ngay trên dây vào của ô relay (ric1213/right_matrix.png + matrix_left_labels.png).
+РК-13,chung,НЕ ПРОСЛЕЖЕНО РК-13.chung,"Đầu chung/tiếp điểm (các chân 1-4 phía trái mỗi khối) đi về nhóm 'Ячейка РК x...y' tương ứng (1-4 → Ячейка РК1...4; 5-8 dự đoán → khối У3 bị gạch, CHƯA XÁC NHẬN được tên nhóm chính thức cho RK9-16) nhưng không tách được RK cụ thể nào nối tới cực cụ thể nào của khối У vì nhiều nét gần như song song/chồng khít (<10px ở ảnh gốc) chạy dọc suốt chiều cao khối, không tách được từng chân riêng dù đã soi ở độ phóng đại 2-3x."
+РК-14,упр,Упр.14 (xem ric12_13_conn.csv để lấy đúng số chân П1),Đọc trực tiếp nhãn 'Упр.N' ngay trên dây vào của ô relay (ric1213/right_matrix.png + matrix_left_labels.png).
+РК-14,chung,НЕ ПРОСЛЕЖЕНО РК-14.chung,"Đầu chung/tiếp điểm (các chân 1-4 phía trái mỗi khối) đi về nhóm 'Ячейка РК x...y' tương ứng (1-4 → Ячейка РК1...4; 5-8 dự đoán → khối У3 bị gạch, CHƯA XÁC NHẬN được tên nhóm chính thức cho RK9-16) nhưng không tách được RK cụ thể nào nối tới cực cụ thể nào của khối У vì nhiều nét gần như song song/chồng khít (<10px ở ảnh gốc) chạy dọc suốt chiều cao khối, không tách được từng chân riêng dù đã soi ở độ phóng đại 2-3x."
+РК-15,упр,Упр.15 (xem ric12_13_conn.csv để lấy đúng số chân П1),Đọc trực tiếp nhãn 'Упр.N' ngay trên dây vào của ô relay (ric1213/right_matrix.png + matrix_left_labels.png).
+РК-15,chung,НЕ ПРОСЛЕЖЕНО РК-15.chung,"Đầu chung/tiếp điểm (các chân 1-4 phía trái mỗi khối) đi về nhóm 'Ячейка РК x...y' tương ứng (1-4 → Ячейка РК1...4; 5-8 dự đoán → khối У3 bị gạch, CHƯA XÁC NHẬN được tên nhóm chính thức cho RK9-16) nhưng không tách được RK cụ thể nào nối tới cực cụ thể nào của khối У vì nhiều nét gần như song song/chồng khít (<10px ở ảnh gốc) chạy dọc suốt chiều cao khối, không tách được từng chân riêng dù đã soi ở độ phóng đại 2-3x."
+РК-16,упр,Упр.16 (xem ric12_13_conn.csv để lấy đúng số chân П1),Đọc trực tiếp nhãn 'Упр.N' ngay trên dây vào của ô relay (ric1213/right_matrix.png + matrix_left_labels.png).
+РК-16,chung,НЕ ПРОСЛЕЖЕНО РК-16.chung,"Đầu chung/tiếp điểm (các chân 1-4 phía trái mỗi khối) đi về nhóm 'Ячейка РК x...y' tương ứng (1-4 → Ячейка РК1...4; 5-8 dự đoán → khối У3 bị gạch, CHƯA XÁC NHẬN được tên nhóm chính thức cho RK9-16) nhưng không tách được RK cụ thể nào nối tới cực cụ thể nào của khối У vì nhiều nét gần như song song/chồng khít (<10px ở ảnh gốc) chạy dọc suốt chiều cao khối, không tách được từng chân riêng dù đã soi ở độ phóng đại 2-3x."
