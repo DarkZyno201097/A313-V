@@ -33,8 +33,9 @@ TAM = [
      'Điều khiển biến đổi: thanh ghi РПР 16 bit (4 cụm Я1–Я4) và РМ (Я5–Я6); điều khiển mã hoá/giải mã [HDSD §2.2.1].'),
     ('Y7', 'Плата согласования', 'ВШ3.031.020', '11', 'ric11', '.01 (◐)',
      'Tấm phối hợp mức tín hiệu vào/ra [HDSD; ric11_mota]. Bản vẽ lắp ráp рис.27.'),
-    ('Y8', 'Преобразователь', 'ЕУ3.036.157', '16', None, '.04 (cùng topo, cùng số hiệu)',
-     'Bộ biến đổi tương tự–số / số–tương tự (so sánh, bộ phối hợp) [HDSD §2.2.2; KE-HOACH §1.4].'),
+    ('Y8', 'Преобразователь', 'ЕУ3.036.157', '16', 'ric16', '.04 (cùng topo, cùng số hiệu)',
+     'Bộ biến đổi tương tự–số / số–tương tự (so sánh, bộ phối hợp) [HDSD §2.2.2; KE-HOACH §1.4]. '
+     'Trang khổ lớn (рис.16); chép PARTIAL 2026-10-25 — xem ric16_mota.md.'),
     ('Y9', 'Интеграторы', 'ЕУ3.072.043', '15', 'ric15', '.03',
      'Các bộ tích phân có nhớ + tầng mux K, tích phân trước mã hoá [HDSD; ric15_mota].'),
     ('Y10', 'Усилители выходные', 'ЕУ2.032.463', '18', 'ric18', '.06 (cùng topo)',

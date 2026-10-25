@@ -1,0 +1,29 @@
+Y8 — «Преобразователь», ЕУ3.036.157Э3, рис.16.
+
+Chép lần đầu, PARTIAL 2026-10-25: dataset `ric16_*` trong `tmp/pdfs/review/a313-3/e3/`.
+Nguồn: 1 tờ sơ đồ khổ rất rộng `RE_tr197_a278.jpg` (9134×3658, trang 197, tỷ lệ ~2,5:1).
+⚠ File này do người dùng tải lên thực chất là HEIC đội lốt đuôi `.jpg` — đã chuyển đổi
+đúng định dạng JPEG thật bằng ffmpeg (giữ nguyên kích thước 9134×3658, không mất dữ
+liệu), coordinator xác nhận lại bằng PIL sau khi convert. Đã xoá 3 ảnh cũ mờ hơn
+(RE_tr197_a195/a196/a199.jpg) và 1 bản tải thử độ phân giải thấp theo xác nhận của
+người dùng. Ảnh `Y8.jpg`/`Y8S.jpg` (PCB thật, mặt trước/sau, upload GitHub trước đó)
+KHÔNG dùng làm nguồn chép, chỉ tham khảo.
+
+BOM 86 ref; net 155 dòng (70 truy trực tiếp, 85 placeholder `НЕ ПРОСЛЕЖЕНО`); bảng đầu
+nối П1 42 dòng (cột pin để "?" toàn bộ — chữ số Конт. viết tay quá nhỏ, dưới ngưỡng đọc
+được dù đã phóng 2×, KHÁC lý do khối lượng linh kiện). `check_ric16.py` PASS (coordinator
+chạy lại độc lập khớp).
+
+Chiến lược PARTIAL có chủ đích (cùng tinh thần рис.10/Y1): đã lần khá đầy đủ 4 "ô mẫu"
+lặp lại theo kênh (Схема узла усилителя/повторителя/цифрового управляемого
+сопротивления/инвертора) + lưới cầu 11 tụ + ghi chú nguồn IC 168КТ2Б/168КТ2В/302НР1Г
+(trùng quy tắc đã gặp ở Y9/ric15). Khối mạch chính (~64% diện tích trang, 16+ vỏ IC)
+CHỈ khảo sát BOM sơ bộ, CHƯA lần netlist — lý do khối lượng linh kiện, không phải ảnh
+hỏng (ảnh này thực ra nét hơn ric10/ric14).
+
+Coordinator spot-check độc lập: xác nhận mã bản vẽ "ЕУ3.036.157Э3" và đọc đúng nguyên
+văn khối ghi chú viết tay 4 dòng (khớp 100% với báo cáo subagent).
+
+2 nhãn mâu thuẫn ("У15" đọc 2 cách khác nhau) và cặp diode Д5/Д7(?) bị LOẠI khỏi BOM vì
+độ tin cậy quá thấp, không đoán. Trùng ref У9 (khung mẫu, đổi tên У9b) vs У9 (khối chính,
+chưa xác nhận có phải cùng vật lý hay không).

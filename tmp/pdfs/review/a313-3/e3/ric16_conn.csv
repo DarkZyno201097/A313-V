@@ -1,0 +1,43 @@
+table,pin,signal,photo,note
+П1,?,ПП,RE_tr197_a278.jpg,"Nhãn trên mũi tên (chữ in đậm) ngay phía trên bảng đầu nối П1, cột 1. Số Конт. vật lý (hàng chữ số nhỏ bên dưới mũi tên) viết tay rất nhỏ, KHÔNG đọc chắc chắn — xem ric16_mota.md §4 về khó khăn đọc bảng này. Trùng khớp với nhãn 'ПП'/'ПП̄' xuất hiện làm input ở khối У10-2 trong khảo sát khối mạch chính."
+П1,?,3Н1,RE_tr197_a278.jpg,"Cột 2. Số Конт. chưa đọc chắc chắn. Trùng khớp với nhãn '3Н1' xuất hiện ở đầu các hộp У11/У16-x trong khối mạch chính."
+П1,?,3Н2,RE_tr197_a278.jpg,"Cột 3. Số Конт. chưa đọc chắc chắn. Trùng khớp với nhãn '3Н2' tương tự 3Н1."
+П1,?,Б,RE_tr197_a278.jpg,"Cột 4, đọc 'Б' hoặc 'б' (hoa/thường không chắc). Số Конт. chưa đọc chắc chắn."
+П1,?,4,RE_tr197_a278.jpg,"Cột 5 — chỉ là số '4', có thể là số nhánh/net chứ không phải tên tín hiệu có nghĩa. Số Конт. chưa đọc chắc chắn."
+П1,?,К,RE_tr197_a278.jpg,Cột 6. Số Конт. chưa đọc chắc chắn.
+П1,?,Ф,RE_tr197_a278.jpg,"Cột 7, ký tự đọc '⊘'/'Θ' hoặc 'Ф' — không chắc chắn 100% (nét viết tay mờ)."
+П1,?,19,RE_tr197_a278.jpg,"Cột 8 — số nhánh. Đây rất có thể là SỐ NHÁNH (net number) giống quy ước «nhánh 28/29/30» đã thấy ở ric14, KHÔNG phải tên tín hiệu có nghĩa."
+П1,?,20,RE_tr197_a278.jpg,Cột 9 — số nhánh (xem ghi chú cột 8).
+П1,?,21,RE_tr197_a278.jpg,Cột 10 — số nhánh.
+П1,?,22,RE_tr197_a278.jpg,Cột 11 — số nhánh.
+П1,?,23,RE_tr197_a278.jpg,Cột 12 — số nhánh.
+П1,?,б(hoặc 36),RE_tr197_a278.jpg,"Cột 13 — đọc được hoặc 'б' hoặc số '36', 2 cách đọc đều có khả năng do chữ viết tay."
+П1,?,24,RE_tr197_a278.jpg,Cột 14 — số nhánh.
+П1,?,25,RE_tr197_a278.jpg,Cột 15 — số nhánh.
+П1,?,26,RE_tr197_a278.jpg,Cột 16 — số nhánh.
+П1,?,27,RE_tr197_a278.jpg,Cột 17 — số nhánh.
+П1,?,б(hoặc d),RE_tr197_a278.jpg,"Cột 18 — ký tự mờ, đọc 'б' hoặc 'd', không chắc chắn."
+П1,?,28,RE_tr197_a278.jpg,"Cột 19 — số nhánh. Trùng với các mũi tên đầu ra '→19' quan sát trong khối У28-1/У28-2 (khảo sát khối chính) — khả năng cao đây là cùng 1 net."
+П1,?,29,RE_tr197_a278.jpg,"Cột 20 — số nhánh. Có thể trùng mũi tên '→26' hoặc '→27' quan sát trong khối У28."
+П1,?,в,RE_tr197_a278.jpg,Cột 21.
+П1,?,8,RE_tr197_a278.jpg,Cột 22.
+П1,?,30,RE_tr197_a278.jpg,Cột 23 — số nhánh.
+П1,?,31,RE_tr197_a278.jpg,Cột 24 — số nhánh.
+П1,?,РСВ,RE_tr197_a278.jpg,"Cột ~25-30 (vùng giữa bảng, đọc từ crop pin_table_right) — chữ in nghiêng, đọc tạm 'РСВ', không chắc chắn."
+П1,?,служ,RE_tr197_a278.jpg,Cột kế tiếp — đọc tạm 'служ' (viết tắt 'служебный'?), không chắc chắn.
+П1,?,"ленс.чол",RE_tr197_a278.jpg,"Cột kế tiếp — chữ rất khó đọc, ghi nguyên văn mảnh đọc được, KHÔNG suy diễn từ đầy đủ."
+П1,?,58,RE_tr197_a278.jpg,Cột kế tiếp — chỉ đọc được số '58'.
+П1,?,"6,3В",RE_tr197_a278.jpg,"Cột kế tiếp — có thể là '-12,6В' hoặc '+6,3В', chữ số đầu bị che/mờ."
+П1,?,5Р,RE_tr197_a278.jpg,"Cột kế tiếp, nhãn dạng 'NР' (N=5). Hậu tố 2 chữ sau 'Р' (đọc tạm 'ЛЛР'/'РЛР') không chắc chắn — có thể là ký hiệu loại tiếp điểm (trụ/lá). Nhóm nhãn 'NР' này khớp với các mũi tên đầu vào phía trên khung mẫu «Схема узла инвертора» (ví dụ '4Р','13Р','12Р' quan sát trực tiếp trên ảnh, xem ric16_mota.md §3) — bằng chứng CHÉO khá mạnh rằng đây là các đường chọn điện trở (Nр) của cụm «цифровое управляемое сопротивление»/«инвертор»."
+П1,?,4Р,RE_tr197_a278.jpg,Cột kế tiếp — xem ghi chú cột 5Р.
+П1,?,7Р,RE_tr197_a278.jpg,Cột kế tiếp.
+П1,?,6Р,RE_tr197_a278.jpg,Cột kế tiếp.
+П1,?,9Р,RE_tr197_a278.jpg,Cột kế tiếp.
+П1,?,8Р,RE_tr197_a278.jpg,Cột kế tiếp.
+П1,?,11Р,RE_tr197_a278.jpg,Cột kế tiếp.
+П1,?,10Р,RE_tr197_a278.jpg,Cột kế tiếp.
+П1,?,13Р,RE_tr197_a278.jpg,Cột kế tiếp.
+П1,?,12Р,RE_tr197_a278.jpg,Cột kế tiếp.
+П1,?,15Р,RE_tr197_a278.jpg,Cột kế tiếp.
+П1,?,14Р,RE_tr197_a278.jpg,Cột cuối trước nhãn 'В'.
+П1,?,В,RE_tr197_a278.jpg,"Mũi tên đứng riêng ở mép phải cùng của dải bảng, trước khi sang vùng ô chú thích tụ С6-С19 — có thể là tên thanh nguồn 'В' (xem rail В trong lưới tụ) chứ không phải 1 cột Конт. riêng; để nguyên vì không chắc chắn."

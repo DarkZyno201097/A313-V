@@ -1,0 +1,87 @@
+ref,name,qty,page,note
+У1,"ИС/блок 12-вывод không ghi loại (панель 2 hàng: trên 10,7,1,2,3,5; dưới 9,11,4,12,6,8)",1,197,"Nằm trong khung MẪU «Схема узла усилителя» (áp dụng kênh 1…2), góc dưới-trái trang. Không có chữ mã linh kiện in trên sơ đồ. Chân 11 xác nhận hở (không nối, chấm rỗng)."
+R1,Резистор (không có trị số in trên sơ đồ),1,197,Trong khung mẫu «Схема узла усилителя»; nối từ У1.4 xuống qua R1 rồi tới C1.
+R2,Резистор (không có trị số),1,197,Trong khung mẫu «Схема узла усилителя»; nối nối tiếp với C1 trên nhánh ngang dưới cùng.
+R3,Резистор (không có trị số),1,197,Trong khung mẫu «Схема узла усилителя»; nhánh dọc giữa, nối xuống C2.
+C1,Конденсатор (không có trị số),1,197,Trong khung mẫu «Схема узла усилителя»; ký hiệu có dấu '+' (phân cực) cạnh R2.
+C2,Конденсатор (không có trị số),1,197,Trong khung mẫu «Схема узла усилителя»; nối dưới R3.
+C3,Конденсатор (không có trị số),1,197,Trong khung mẫu «Схема узла усилителя»; nằm giữa 2 cực ngoài khung «3» và «4» ở mép trên khung.
+У2.2,"Hộp chuyển mạch con, ghi trực tiếp trên ảnh «У2.2» (chân 1,3,2)",1,197,"Trong khung mẫu «Схема узла усилителя»; 1 trong 3 hộp vuông nhỏ vẽ cạnh nhau cùng nhãn gốc «У2» (У2.1/У2.2/У2.3), không có chữ mã linh kiện in trên sơ đồ. Khả năng 3 đoạn này thuộc 1 vỏ vật lý (kiểu 168КТ2), nhưng KHÔNG xác nhận được qua ảnh."
+У2.3,"Hộp chuyển mạch con, ghi trực tiếp trên ảnh «У2.3» (chân 5,7,6)",1,197,"Trong khung mẫu «Схема узла усилителя»; xem ghi chú ở У2.2."
+У2.1,"Hộp chuyển mạch con, ghi trực tiếp trên ảnh «У2.1» (chân 8,10,9)",1,197,"Trong khung mẫu «Схема узла усилителя»; xem ghi chú ở У2.2. Đầu ra chân 9 → cực ngoài khung «5»."
+У3,"Khối cặp transistor (2 ký hiệu transistor vẽ chung 1 khung, chân xung quanh: trái 3/4/8, phải 7/6)",1,197,"Trong khung mẫu «Схема узла повторителя» (áp dụng kênh 3…6). Không có chữ mã linh kiện in trên sơ đồ."
+R4,Резистор (không có trị số),1,197,Trong khung mẫu «Схема узла повторителя»; nhánh dọc trái trên У4.
+R5,Резистор (không có trị số),1,197,Trong khung mẫu «Схема узла повторителя»; nhánh dọc phải cạnh R4.
+У4,"ИС/блок 12-вывод, cùng khuôn mẫu panel với У1 (trên 10,1,7,2,3,5; dưới 9,11,4,12,6,8)",1,197,"Trong khung mẫu «Схема узла повторителя». Không có chữ mã linh kiện in trên sơ đồ."
+R6,Резистор (không có trị số),1,197,Trong khung mẫu «Схема узла повторителя»; nhánh dọc dưới У4, nối xuống C4.
+C4,Конденсатор (không có trị số),1,197,Trong khung mẫu «Схема узла повторителя»; dưới R6, ra cực ngoài «6».
+У6,"ИС/блок chuyển mạch 12-chân (trên 1,5,10,14; dưới 3,2,7,6,8,9,12,13)",1,197,"Trong khung mẫu «Схема узла цифрового управляемого сопротивления» (áp dụng kênh 7…10). Không có chữ mã linh kiện in trên sơ đồ. Chân dưới nối xuống dãy tiếp điểm ngoài đánh số 20,19,18,17,16,15 — xem net.csv (chỉ xác nhận ở mức bó dây, CHƯA tách từng cặp chân-tiếp điểm)."
+У7,"ИС/блок chuyển mạch 12-chân (cùng khuôn mẫu У6)",1,197,"Trong khung mẫu «Схема узла цифрового управляемого сопротивления»; chân dưới nối xuống dãy tiếp điểm 14,13,12,11 (mức bó dây, chưa tách từng chân)."
+У8,"ИС/блок chuyển mạch 12-chân (cùng khuôn mẫu У6)",1,197,"Trong khung mẫu «Схема узла цифрового управляемого сопротивления»; chân dưới nối xuống dãy tiếp điểm 10,9,8,7,6,5,4 (mức bó dây, chưa tách từng chân)."
+У5,"ИС/блок — CHỈ thấy 1 phần (nhãn «У5.1», chân vào «10» → ra cực ngoài «3»)",1,197,"Trong khung mẫu «Схема узла цифрового управляемого сопротивления», góc trên-phải khung; phần còn lại của У5 nằm ngoài vùng crop đã soi, CHƯA xác định đầy đủ chân."
+У9b,"ИС/блок 12-chân CHỈ thấy 1 phần (nhãn trên ảnh ghi đúng «У9»; chân quan sát được: 5,8,12 / 6,10,1,14,13)",1,197,"Trong khung mẫu «Схема узла инвертора» (áp dụng kênh 11…15). QUAN TRỌNG: trên ảnh ref này được viết là «У9» giống hệt một ref khác trong khối mạch chính phía trên trang (xem dòng «У9» ở nhóm khảo sát khối chính bên dưới) — đổi thành «У9b» trong file này CHỈ để tránh trùng khoá ref trong BOM (theo đúng tiền lệ «У44b» của ric10_mota.md), KHÔNG khẳng định đây là 2 chân của cùng 1 linh kiện vật lý hay 2 linh kiện khác nhau trùng số — chưa xác minh được."
+R9,Резистор (không có trị số),1,197,Trong khung mẫu «Схема узла инвертора»; nhánh trái trên У9b.
+R10,Резистор (không có trị số),1,197,Trong khung mẫu «Схема узла инвертора»; nhánh phải trên У9b.
+R48,Резистор (không có trị số),1,197,Trong khung mẫu «Схема узла инвертора»; nhánh trái dưới У9b.
+R49,Резистор (không có trị số),1,197,Trong khung mẫu «Схема узла инвертора»; nhánh giữa dưới У9b.
+R50,Резистор (không có trị số),1,197,Trong khung mẫu «Схема узла инвертора»; nhánh phải dưới У9b.
+C6,Конденсатор (không có trị số),1,197,"Thuộc dãy 11 tụ nối thành lưới cầu giữa 3 thanh nguồn В/Зо/Б, vẽ ở ô chú thích góc dưới-phải trang (cạnh ghi chú chữ viết tay); bản thân tụ rải rác trong khối mạch chính, ô này chỉ là SƠ ĐỒ MINH HOẠ cách bus — xem ric16_net.csv và mota §4."
+C7,Конденсатор (không có trị số),1,197,"Quan sát riêng trong khối mạch chính (gần R41, cụm У26), KHÔNG xuất hiện trong lưới cầu minh hoạ C6/C8-C19 — ref độc lập."
+C8,Конденсатор (không có trị số),1,197,"Xuất hiện ở CẢ 2 nơi: (a) trong lưới cầu minh hoạ 11 tụ cạnh ghi chú (nối giữa Зо-Б), (b) gần R42/У27 trong khối mạch chính — khả năng là CÙNG 1 linh kiện vật lý (một tụ rải trong mạch, lưới cầu chỉ là chú thích cách bus), không chắc chắn 100%."
+C9,Конденсатор có cực tính '+' (không có trị số),1,197,Trong lưới cầu minh hoạ; nhánh dọc trái trên cùng nối В-Зо.
+C10,Конденсатор có cực tính '+' (không có trị số),1,197,Trong lưới cầu minh hoạ; nhánh dọc trái dưới nối Зо-Б.
+C11,Конденсатор (không có trị số),1,197,Trong lưới cầu minh hoạ; đầu tiên của chuỗi ngang 6 tụ nối dọc theo thanh Зо-Б.
+C14,Конденсатор (không có trị số),1,197,Trong lưới cầu minh hoạ; đầu tiên của chuỗi ngang 3 tụ nối dọc theo thanh В-Зо.
+C15,Конденсатор (không có trị số),1,197,Trong lưới cầu minh hoạ; chuỗi ngang Зо-Б (tiếp theo C11).
+C16,Конденсатор (không có trị số),1,197,Trong lưới cầu minh hoạ; chuỗi ngang В-Зо (giữa C14 và C18).
+C17,Конденсатор (không có trị số),1,197,Trong lưới cầu minh hoạ; chuỗi ngang Зо-Б (tiếp theo C15).
+C18,Конденсатор (không có trị số),1,197,Trong lưới cầu minh hoạ; cuối chuỗi ngang В-Зо.
+C19,Конденсатор (không có trị số),1,197,Trong lưới cầu minh hoạ; cuối chuỗi ngang Зо-Б.
+У9,"ИС/блок — chỉ xác nhận vị trí (ký hiệu «У9-1», «У9-3» quan sát được trong khối mạch chính phía trên, chưa soi hết số đoạn)",1,197,"KHẢO SÁT SƠ BỘ khối mạch chính (2 cụm logic dày đặc), CHƯA soi pin — xem mota §5/§6. Lưu ý: trùng tên với «У9b» trong khung mẫu «Схема узла инвертора», khác vị trí, chưa xác minh có cùng linh kiện vật lý hay không."
+У10,"ИС/блок — các đoạn У10-1,У10-2,У10-3,У10-4 quan sát được",1,197,Khảo sát sơ bộ khối mạch chính; chưa soi pin từng chân.
+У11,"ИС/блок 12-chân (panel giống У1/У4)",1,197,Khảo sát sơ bộ khối mạch chính; chưa soi pin.
+У12,"ИС/блок 12-chân (panel giống У1/У4)",1,197,Khảo sát sơ bộ khối mạch chính; chưa soi pin.
+У13,"ИС/блок — các đoạn У13-3,У13-4 quan sát được (У13-1,У13-2 chưa xác nhận)",1,197,Khảo sát sơ bộ khối mạch chính; chưa soi pin.
+У14,"ИС/блок — các đoạn У14-1,У14-2,У14-3,У14-4 quan sát được",1,197,Khảo sát sơ bộ khối mạch chính; chưa soi pin.
+У16,"ИС/блок — các đoạn У16-2,У16-3,У16-4 quan sát được",1,197,Khảo sát sơ bộ khối mạch chính; chưa soi pin.
+У17,"ИС/блок 12-chân (panel giống У1/У4, đầu vào từ diode-bridge А1/А2 qua R21-R24)",1,197,Khảo sát sơ bộ khối mạch chính; chưa soi pin.
+У18,"ИС/блок — các đoạn У18-1,У18-2,У18-3,У18-4 quan sát được",1,197,Khảo sát sơ bộ khối mạch chính; chưa soi pin.
+У19,"ИС/блок — các đoạn У19-1,У19-2,У19-3 quan sát được (У19-4 đọc chưa chắc chắn)",1,197,Khảo sát sơ bộ khối mạch chính; chưa soi pin.
+У24,"ИС/блок — đoạn У24-4 quan sát được",1,197,Khảo sát sơ bộ khối mạch chính; chưa soi pin; phần còn lại (У24-1..3) chưa thấy trong vùng đã crop.
+У25,"ИС/блок — các đoạn У25-1,У25-4 quan sát được",1,197,Khảo sát sơ bộ khối mạch chính; chưa soi pin.
+У26,"ИС/блок — các đoạn У26-2,У26-3,У26-4 quan sát được",1,197,Khảo sát sơ bộ khối mạch chính; chưa soi pin.
+У27,"ИС/блок 12-chân (panel giống У1/У4)",1,197,Khảo sát sơ bộ khối mạch chính; chưa soi pin.
+У28,"ИС/блок — các đoạn У28-1,У28-2,У28-3,У28-4 quan sát được",1,197,"Khảo sát sơ bộ khối mạch chính; đầu ra các đoạn nối tới các mũi tên ngoài trang đánh số 19,26,27,28,29 — mức bó dây, chưa soi pin."
+У29,"ИС/блок — các đoạn У29-1,У29-2,У29-3 quan sát được (có thể còn У29-4/У29-5, chưa xác nhận)",1,197,Khảo sát sơ bộ khối mạch chính; chưa soi pin.
+R8,Резистор (không có trị số),1,197,Khảo sát sơ bộ khối mạch chính (cạnh У14-2/У14-3).
+R11,Резистор (không có trị số),1,197,Khảo sát sơ bộ khối mạch chính (cạnh У11).
+R12,Резистор (không có trị số),1,197,Khảo sát sơ bộ khối mạch chính (phía trên Д1, dẫn lên cực ngoài trang đánh dấu «в»).
+R13,Резистор (không có trị số),1,197,Khảo sát sơ bộ khối mạch chính (nối ngang giữa R12/Д1 và R16).
+R14,Резистор (không có trị số),1,197,Khảo sát sơ bộ khối mạch chính (dưới Д1, dẫn ra «31»).
+R15,Резистор (không có trị số),1,197,Khảo sát sơ bộ khối mạch chính (cạnh У12).
+R16,Резистор (không có trị số),1,197,Khảo sát sơ bộ khối mạch chính (nhánh dọc cạnh R13).
+R18,Резистор (không có trị số),1,197,Khảo sát sơ bộ khối mạch chính (nhánh dọc giữa У13-1 và У13-3).
+R21,Резистор (không có trị số),1,197,"Khảo sát sơ bộ khối mạch chính; đầu vào «А» của dãy diode cầu А2/У17, cùng nhóm với R22,R23,R24."
+R22,Резистор (không có trị số),1,197,Khảo sát sơ bộ khối mạch chính; đầu vào «Б» của dãy diode cầu.
+R23,Резистор (không có trị số),1,197,Khảo sát sơ bộ khối mạch chính; đầu vào «В» của dãy diode cầu.
+R24,Резистор (không có trị số),1,197,Khảo sát sơ bộ khối mạch chính; đầu vào «Г» của dãy diode cầu.
+R25,Резистор (không có trị số),1,197,"Khảo sát sơ bộ khối mạch chính (dưới У17, gần У15 nghi vấn — xem mota về nhãn У15 mâu thuẫn)."
+R28,Резистор (không có trị số),1,197,Khảo sát sơ bộ khối mạch chính (vào base T1).
+R31,Резистор (không có trị số),1,197,Khảo sát sơ bộ khối mạch chính (ra T1, hướng cực ngoài «23»).
+R32,Резистор (không có trị số),1,197,Khảo sát sơ bộ khối mạch chính (cạnh У18-3/У18-4).
+R35,Резистор (không có trị số),1,197,Khảo sát sơ bộ khối mạch chính (cạnh У18-4).
+R41,Резистор (không có trị số),1,197,Khảo sát sơ bộ khối mạch chính (trên C7).
+R42,Резистор (không có trị số),1,197,Khảo sát sơ bộ khối mạch chính (trên C8, cạnh У27).
+R44,Резистор (không có trị số),1,197,"Khảo sát sơ bộ khối mạch chính; nhánh dọc giữa Д8 và Д9 (chuỗi diode-điện trở dẫn xuống Д9, hướng tín hiệu «ПП»)."
+R45,Резистор (không có trị số),1,197,Khảo sát sơ bộ khối mạch chính; cùng chuỗi dọc với R44 (dưới R44, trên Д9).
+R54,Резистор (không có trị số),1,197,Khảo sát sơ bộ khối mạch chính (giữa У19-2 và У19-3).
+Д1,"Diode/zener (ký hiệu tam giác, nhãn «Д1» đọc trực tiếp)",1,197,Khảo sát sơ bộ khối mạch chính (giữa R12 và R13/R14).
+Д3,Диод (trong hộp nhóm vẽ gộp nhãn «А2» cùng Д4),1,197,"Khảo sát sơ bộ khối mạch chính; 2 diode vẽ trong 1 khung nhỏ nhãn «А2», đầu ra nối У17 (đầu vào «В»/«Г» qua R23/R24 — chưa chắc chắn ghép đôi chính xác)."
+Д4,Диод (trong hộp nhóm vẽ gộp nhãn «А2» cùng Д3),1,197,Khảo sát sơ bộ khối mạch chính; xem ghi chú Д3.
+Д5,"Diode — nhãn đọc «Д5», độ tin cậy trung bình (cạnh một ký hiệu diode thứ 2 chưa đọc chắc chắn số, tạm ghi «Д7» nhưng KHÔNG chắc — có thể là Д6)",1,197,"Khảo sát sơ bộ khối mạch chính (gần T4, góc trên khối phải). Số thứ 2 của cặp diode cạnh Д5 đọc KHÔNG chắc chắn — xem mota §6."
+Д8,"Diode (ký hiệu zener, nhãn «Д8» đọc trực tiếp)",1,197,Khảo sát sơ bộ khối mạch chính; đầu chuỗi dọc R44 phía trên.
+Д9,"Diode (ký hiệu zener, nhãn «Д9» đọc trực tiếp)",1,197,Khảo sát sơ bộ khối mạch chính; cuối chuỗi dọc R44/R45 phía dưới, dẫn ra nhãn «ПП».
+T1,Транзистор (ký hiệu khuếch đại, không có chữ loại),1,197,"Khảo sát sơ bộ khối mạch chính; base từ R28, collector/emitter ra R31 và cực ngoài trang «30»."
+T2,Транзистор (ký hiệu khuếch đại, không có chữ loại),1,197,"Khảo sát sơ bộ khối mạch chính; cạnh T3, gần nhãn cực ngoài «6»."
+T3,Транзистор (ký hiệu khuếch đại, không có chữ loại),1,197,Khảo sát sơ bộ khối mạch chính; cạnh T2.
+T4,Транзистор (ký hiệu khuếch đại, không có chữ loại),1,197,Khảo sát sơ bộ khối mạch chính; cạnh Д5/Д7, dẫn xuống cực ngoài «30».

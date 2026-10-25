@@ -1,0 +1,156 @@
+ref,pin,net,note
+У1,10,N_ngoai_2,"Nối thẳng (không qua linh kiện khác) tới cực ngoài khung mẫu đánh số «2» (mép trái khung «Схема узла усилителя»). Cực «2» này CHƯA truy tiếp ra khỏi khung mẫu — xem ghi chú ở cuối file (phần khung mẫu không nối vào khối chính)."
+У1,9,N_ngoai_1,"Nối thẳng tới cực ngoài khung mẫu đánh số «1» (mép trái khung), dưới cực «2». Chưa truy tiếp ra khỏi khung mẫu."
+У1,11,Không nối,"Chấm hở (vòng tròn rỗng, không có dây nối ra) — xác nhận rõ trên ảnh gốc, không phải lỗi đọc."
+У1,7,N_ngoai_3_qua_C3,"Nối lên C3 rồi ra cực ngoài khung đánh số «3» (mép trên khung). Độ tin cậy trung bình: không xác định chắc C3 nối tiếp trên đúng đường này hay chỉ bắc cầu song song với đường chân 1."
+У1,1,N_ngoai_4_qua_C3,"Nối lên C3 rồi ra cực ngoài khung đánh số «4» (mép trên khung, cạnh cực «3»). Độ tin cậy trung bình, xem ghi chú ở У1.7."
+У1,2,N_bus_tren_U2,"Chân 2,3,5 (hàng trên-phải của У1) nối chung vào 1 bó dây đi xuống rồi rẽ phải vào У2.2 chân 1 và У2.3 chân 5. Xác nhận là 1 bus chung, KHÔNG tách được từng chân 2/3/5 ứng với nhánh nào trong bus."
+У1,3,N_bus_tren_U2,Xem ghi chú ở У1.2 (cùng bus chung).
+У1,5,N_bus_tren_U2,Xem ghi chú ở У1.2 (cùng bus chung).
+У1,4,НЕ ПРОСЛЕЖЕНО У1.4,"Chân 4,12,6,8 (hàng dưới-phải của У1) nối chung vào 1 bó dây đi xuống vùng R1/R2/C1/R3/C2 rồi ra 3 cực ngoài 6/7/8 ở đáy khung — xác nhận tồn tại bó dây nhưng KHÔNG tách được chân nào ứng với cực ngoài nào (các đường chồng sát nhau <10px ở độ phân giải ảnh hiện có)."
+У1,12,НЕ ПРОСЛЕЖЕНО У1.12,Xem ghi chú ở У1.4 (cùng bó dây chưa tách được).
+У1,6,НЕ ПРОСЛЕЖЕНО У1.6,Xem ghi chú ở У1.4 (cùng bó dây chưa tách được).
+У1,8,НЕ ПРОСЛЕЖЕНО У1.8,Xem ghi chú ở У1.4 (cùng bó dây chưa tách được).
+R1,a,НЕ ПРОСЛЕЖЕНО R1.a,"Một đầu nối vào bó dây У1.4/12/6/8 (xem ghi chú ở У1.4) — chưa tách được chân cụ thể."
+R1,b,R2_noi_tiep,Đầu còn lại nối tiếp với R2 trên nhánh ngang dưới khung (dẫn tới C1).
+R2,a,R1_noi_tiep,Nối tiếp với R1 — xem R1.b.
+R2,b,C1_a,Nối tiếp với C1 (đầu có dấu '+').
+C1,a,R2_noi_tiep,Nối tiếp với R2.b.
+C1,b,НЕ ПРОСЛЕЖЕНО C1.b,"Đầu còn lại của C1 nối tới 1 trong các cực ngoài 6/7/8 ở đáy khung — chưa xác định cực cụ thể (bó dây chung, xem У1.4)."
+R3,a,НЕ ПРОСЛЕЖЕНО R3.a,"Một đầu nối vào bó dây У1.4/12/6/8 — chưa tách được chân cụ thể."
+R3,b,C2_a,Nối xuống C2.
+C2,a,R3_noi_tiep,Nối với R3.b.
+C2,b,НЕ ПРОСЛЕЖЕНО C2.b,"Đầu còn lại nối tới 1 trong các cực ngoài 6/7/8 — chưa xác định cực cụ thể."
+C3,a,N_ngoai_3_qua_C3,Xem ghi chú ở У1.7.
+C3,b,N_ngoai_4_qua_C3,Xem ghi chú ở У1.1.
+У2.2,1,N_bus_tren_U2,Đầu vào — nối vào bus chung với У1 chân 2/3/5 (xem У1.2).
+У2.2,3,НЕ ПРОСЛЕЖЕНО У2.2.3,Chấm nối không thấy dây dẫn ra ngoài trong vùng ảnh đã soi.
+У2.2,2,N_bus_U2_ra_U21,Đầu ra — nối xuống bus chung dẫn vào У2.1 (chân 8/10).
+У2.3,5,N_bus_tren_U2,Đầu vào — nối vào bus chung với У1 chân 2/3/5 (xem У1.2).
+У2.3,7,НЕ ПРОСЛЕЖЕНО У2.3.7,Chấm nối không thấy dây dẫn ra ngoài trong vùng ảnh đã soi.
+У2.3,6,N_bus_U2_ra_U21,Đầu ra — nối xuống bus chung dẫn vào У2.1 (chân 8/10).
+У2.1,8,N_bus_U2_ra_U21,Đầu vào — nhận từ bus chung У2.2.2/У2.3.6 (chưa tách được chân 8 ứng với У2.2 hay У2.3 cụ thể).
+У2.1,10,N_bus_U2_ra_U21,Đầu vào — xem ghi chú У2.1.8 (cùng bus, chưa tách).
+У2.1,9,N_ngoai_5,"Đầu ra — nối thẳng sang phải, ra cực ngoài khung đánh số «5» (mép phải khung mẫu). Xác nhận rõ trên ảnh."
+У3,3,N_ngoai_2b,"Base/cực vào của transistor trái — nối tới cực ngoài khung mẫu «2» (mép trái khung «Схема узла повторителя», KHÔNG phải cùng cực «2» của khung усилитель — mỗi khung mẫu có đánh số cực ngoài riêng từ 1)."
+У3,7,N_ngoai_1b,Base/cực vào của transistor phải — nối tới cực ngoài khung «1» (mép trái khung повторитель).
+У3,4,N_ngoai_4b,"Cực ra transistor trái — mũi tên đi lên, nối ra cực ngoài khung «4» (mép trên khung)."
+У3,8,НЕ ПРОСЛЕЖЕНО У3.8,"Nhãn chân «8» ở đáy ký hiệu transistor trái — có nét nối xuống vùng R4/R5/У4 nhưng chưa tách được đích đến cụ thể (nhiều đường chéo nhau sát trong vùng hẹp giữa У3 và У4)."
+У3,6,НЕ ПРОСЛЕЖЕНО У3.6,"Cực ra transistor phải (mũi tên xuống) — nối vào vùng R4/R5/У4 nhưng chưa tách được đích đến cụ thể, cùng lý do như У3.8."
+R4,a,НЕ ПРОСЛЕЖЕНО R4.a,"Đầu trên nối vào bus từ cực ngoài «3»/«4» (mép trên khung повторитель) — chưa tách được chính xác do nhiều đường chéo nhau."
+R4,b,НЕ ПРОСЛЕЖЕНО R4.b,"Đầu dưới nối vào У4 (vùng pin hàng trên) — chưa xác định chân У4 cụ thể, nhiều đường chồng sát nhau."
+R5,a,НЕ ПРОСЛЕЖЕНО R5.a,"Đầu trên nối vào bus từ cực ngoài «3»/«4» — chưa tách được chính xác, xem R4.a."
+R5,b,НЕ ПРОСЛЕЖЕНО R5.b,"Đầu dưới nối vào У4 — chưa xác định chân cụ thể, xem R4.b."
+У4,10,НЕ ПРОСЛЕЖЕНО У4.10,"Vùng pin hàng trên (10,1,7) nhận các đường chéo từ У3/R4/R5 — chưa tách được từng chân, xem ghi chú R4.b."
+У4,1,НЕ ПРОСЛЕЖЕНО У4.1,Xem ghi chú У4.10 (cùng vùng chéo nhau).
+У4,7,НЕ ПРОСЛЕЖЕНО У4.7,Xem ghi chú У4.10 (cùng vùng chéo nhau).
+У4,2,НЕ ПРОСЛЕЖЕНО У4.2,Không có crop riêng đủ nét cho 4 chân này (2,3,9,11) của У4.
+У4,3,N_ngoai_5b,"Đọc được dây đi thẳng sang phải ra cực ngoài khung «5» (mép phải khung повторитель) — độ tin cậy trung bình (có thể là chân «5» thay vì «3», 2 pin kề sát nhau trên ảnh gốc)."
+У4,9,НЕ ПРОСЛЕЖЕНО У4.9,Không có crop riêng đủ nét cho chân này.
+У4,11,НЕ ПРОСЛЕЖЕНО У4.11,Không có crop riêng đủ nét cho chân này.
+У4,4,НЕ ПРОСЛЕЖЕНО У4.4,Không có crop riêng đủ nét cho chân này (thuộc hàng dưới 4,12,6,8).
+У4,12,R6_a,"Nối xuống R6 rồi C4 rồi cực ngoài «6» (mép dưới khung) — xác nhận khá rõ, đây là nhánh dọc cô lập ít bị chồng dây."
+У4,6,НЕ ПРОСЛЕЖЕНО У4.6,Không có crop riêng đủ nét cho chân này.
+У4,8,НЕ ПРОСЛЕЖЕНО У4.8,Không có crop riêng đủ nét cho chân này.
+R6,a,У4.12,Nhận từ У4 chân 12.
+R6,b,C4_a,Nối tiếp xuống C4.
+C4,a,R6_noi_tiep,Nối với R6.b.
+C4,b,N_ngoai_6b,"Ra cực ngoài khung «6» (mép dưới khung повторитель)."
+У6,top,НЕ ПРОСЛЕЖЕНО У6.top,"4 chân hàng trên (1,5,10,14) nhận bó dây từ 3 nhánh điện trở không có ký hiệu tham chiếu (đánh số nhánh 27,24,23 — xem ghi chú mota về việc KHÔNG gán ký hiệu R cho các điện trở này) và từ cực ngoài «1»/«2» của khung mẫu; chưa tách được chân nào ứng với nhánh nào."
+У6,bottom,НЕ ПРОСЛЕЖЕНО У6.bottom,"8 chân hàng dưới (3,2,7,6,8,9,12,13) nối xuống dãy 6 tiếp điểm ngoài khung đánh số 20,19,18,17,16,15 (thứ tự trái→phải) — xác nhận tồn tại kết nối và ĐÚNG NHÓM 6 tiếp điểm này thuộc У6 (so khớp vị trí ngang hàng trên ảnh), nhưng CHƯA tách được từng cặp chân-tiếp điểm cụ thể (8 chân vs 6 tiếp điểm, không khớp 1-1, có thể 2 chân dùng chung 1 tiếp điểm hoặc 2 chân không ra ngoài)."
+У7,top,НЕ ПРОСЛЕЖЕНО У7.top,"4 chân hàng trên nhận bó dây từ 2 nhánh điện trở không ký hiệu (đánh số nhánh 22,19) — chưa tách được chân nào ứng với nhánh nào."
+У7,bottom,НЕ ПРОСЛЕЖЕНО У7.bottom,"8 chân hàng dưới nối xuống dãy tiếp điểm ngoài đánh số 14,13,12,11 (4 tiếp điểm) — xác nhận đúng nhóm, chưa tách từng cặp chân-tiếp điểm (8 chân vs 4 tiếp điểm)."
+У8,top,НЕ ПРОСЛЕЖЕНО У8.top,"4 chân hàng trên nhận bó dây từ 2 nhánh điện trở không ký hiệu (đánh số nhánh 17,16) và từ cực ngoài «10» của khung mẫu — chưa tách được chân nào ứng với nhánh nào."
+У8,bottom,НЕ ПРОСЛЕЖЕНО У8.bottom,"8 chân hàng dưới nối xuống dãy tiếp điểm ngoài đánh số 10,9,8,7,6,5,4 (7 tiếp điểm) — xác nhận đúng nhóm, chưa tách từng cặp chân-tiếp điểm."
+У5,10,N_ngoai_3c,"Chân «10» (chỉ phần У5.1 quan sát được) nối thẳng ra cực ngoài khung đánh số «3» (góc trên-phải khung mẫu cấu trúc «цифровое управляемое сопротивление»). Xác nhận khá rõ, đây là đường cô lập ít bị chồng dây."
+У5,?,НЕ ПРОСЛЕЖЕНО У5.?,"Toàn bộ phần còn lại của У5 (У5.2, У5.3... nếu có) nằm ngoài vùng crop đã soi trong phiên này — chỉ thấy nhãn «У5.1» và 1 chân."
+У9b,5,НЕ ПРОСЛЕЖЕНО У9b.5,"Chân thuộc hàng trên (5,8,12) — không có crop riêng đủ nét để xác định đích đến; khung mẫu «Схема узла инвертора» bị cắt ở mép trái ảnh (chân 7 và các chân khác của У9b nằm ngoài khung ảnh đã crop)."
+У9b,8,НЕ ПРОСЛЕЖЕНО У9b.8,Xem ghi chú У9b.5.
+У9b,12,R48_a,"Nối xuống R48 (nhánh trái dưới) — xác nhận khá rõ, đường cô lập."
+У9b,6,НЕ ПРОСЛЕЖЕНО У9b.6,Không có crop riêng đủ nét cho chân này.
+У9b,10,R9_a,"Nối lên R9 (nhánh trái trên) — xác nhận khá rõ."
+У9b,1,R49_a,"Nối xuống R49 (nhánh giữa dưới) — xác nhận khá rõ."
+У9b,14,R10_a,"Nối lên R10 (nhánh phải trên) — xác nhận khá rõ."
+У9b,13,R50_a,"Nối xuống R50 (nhánh phải dưới) — xác nhận khá rõ."
+R9,a,У9b.10,Nhận từ У9b chân 10.
+R9,b,N_ngoai_inv_4,"Ra cực ngoài khung «4» (mép trên khung mẫu инвертор)."
+R10,a,У9b.14,Nhận từ У9b chân 14.
+R10,b,N_ngoai_inv_6,"Ra cực ngoài khung «6» (mép trên khung mẫu инвертор)."
+R48,a,У9b.12,Nhận từ У9b chân 12.
+R48,b,N_ngoai_inv_9,"Ra cực ngoài khung «9» (mép dưới khung mẫu инвертор)."
+R49,a,У9b.1,Nhận từ У9b chân 1.
+R49,b,N_ngoai_inv_8,"Ra cực ngoài khung «8» (mép dưới khung mẫu инвертор)."
+R50,a,У9b.13,Nhận từ У9b chân 13.
+R50,b,N_ngoai_inv_7,"Ra cực ngoài khung «7» (mép dưới khung mẫu инвертор)."
+C6,a,N_rail_Zo,"Thuộc lưới cầu minh hoạ 11 tụ (ô chú thích cạnh ghi chú chữ viết tay); một đầu nối thanh «Зо» (rail giữa)."
+C6,b,N_rail_B,Đầu còn lại nối thanh «Б» (rail dưới) — nối tiếp trong chuỗi ngang cùng C11/C8/C15/C17/C19.
+C7,a,НЕ ПРОСЛЕЖЕНО C7.a,"Quan sát trong khối mạch chính (gần R41), không nằm trong lưới cầu minh hoạ — chưa soi chi tiết 2 đầu."
+C7,b,НЕ ПРОСЛЕЖЕНО C7.b,Xem ghi chú C7.a.
+C8,a,N_rail_Zo,"Thuộc lưới cầu minh hoạ (có thể trùng vật lý với tụ C8 quan sát gần R42/У27 trong khối chính — xem ghi chú bom.csv); một đầu nối thanh «Зо»."
+C8,b,N_rail_B,Đầu còn lại nối thanh «Б», nối tiếp trong chuỗi ngang cùng C6/C11/C15/C17/C19.
+C9,a,N_rail_V,"Đầu có dấu '+' nối thanh «В» (rail trên cùng) — nhánh dọc riêng lẻ, không nối tiếp chuỗi ngang."
+C9,b,N_rail_Zo,Đầu còn lại nối thanh «Зо».
+C10,a,N_rail_Zo,"Đầu có dấu '+' nối thanh «Зо»."
+C10,b,N_rail_B,Đầu còn lại nối thanh «Б» — nhánh dọc riêng lẻ, đầu chuỗi ngang Зо-Б.
+C11,a,N_rail_Zo,Đầu đầu tiên của chuỗi ngang 6 tụ (Зо-Б); nối thanh «Зо» qua C10.
+C11,b,C6_noi_tiep,Nối tiếp sang C6 trong chuỗi ngang.
+C14,a,N_rail_V,Đầu đầu tiên của chuỗi ngang 3 tụ (В-Зо).
+C14,b,C16_noi_tiep,Nối tiếp sang C16.
+C15,a,C6_noi_tiep,Nối tiếp từ C6 (tiếp theo trong chuỗi Зо-Б).
+C15,b,C17_noi_tiep,Nối tiếp sang C17.
+C16,a,C14_noi_tiep,Nối tiếp từ C14.
+C16,b,C18_noi_tiep,Nối tiếp sang C18.
+C17,a,C15_noi_tiep,Nối tiếp từ C15.
+C17,b,C19_noi_tiep,Nối tiếp sang C19 (cuối chuỗi Зо-Б).
+C18,a,C16_noi_tiep,Nối tiếp từ C16.
+C18,b,N_rail_Zo,"Cuối chuỗi ngang В-Зо, nối lại thanh «Зо»."
+C19,a,C17_noi_tiep,Nối tiếp từ C17.
+C19,b,N_rail_B,"Cuối chuỗi ngang Зо-Б, nối lại thanh «Б»."
+У9,?,НЕ ПРОСЛЕЖЕНО У9.?,"Thuộc khối mạch chính (2 cụm logic dày đặc) — khối lượng quá lớn so với ngân sách phiên này (xem mota §5/§6), chưa soi pin cho toàn bộ khối chính."
+У10,?,НЕ ПРОСЛЕЖЕНО У10.?,Thuộc khối mạch chính — chưa soi pin (xem mota §6).
+У11,?,НЕ ПРОСЛЕЖЕНО У11.?,Thuộc khối mạch chính — chưa soi pin.
+У12,?,НЕ ПРОСЛЕЖЕНО У12.?,Thuộc khối mạch chính — chưa soi pin.
+У13,?,НЕ ПРОСЛЕЖЕНО У13.?,Thuộc khối mạch chính — chưa soi pin.
+У14,?,НЕ ПРОСЛЕЖЕНО У14.?,Thuộc khối mạch chính — chưa soi pin.
+У16,?,НЕ ПРОСЛЕЖЕНО У16.?,Thuộc khối mạch chính — chưa soi pin.
+У17,?,НЕ ПРОСЛЕЖЕНО У17.?,Thuộc khối mạch chính — chưa soi pin (chỉ xác nhận đầu vào А/Б/В/Г từ diode cầu qua R21-R24 ở mức khối, chưa tách từng chân).
+У18,?,НЕ ПРОСЛЕЖЕНО У18.?,Thuộc khối mạch chính — chưa soi pin.
+У19,?,НЕ ПРОСЛЕЖЕНО У19.?,Thuộc khối mạch chính — chưa soi pin.
+У24,?,НЕ ПРОСЛЕЖЕНО У24.?,Thuộc khối mạch chính — chưa soi pin.
+У25,?,НЕ ПРОСЛЕЖЕНО У25.?,Thuộc khối mạch chính — chưa soi pin.
+У26,?,НЕ ПРОСЛЕЖЕНО У26.?,Thuộc khối mạch chính — chưa soi pin.
+У27,?,НЕ ПРОСЛЕЖЕНО У27.?,Thuộc khối mạch chính — chưa soi pin.
+У28,?,НЕ ПРОСЛЕЖЕНО У28.?,"Thuộc khối mạch chính; chỉ xác nhận mức khối rằng các đoạn У28-1..4 có đầu ra hướng tới mũi tên ngoài trang 19,26,27,28,29 — chưa tách từng chân."
+У29,?,НЕ ПРОСЛЕЖЕНО У29.?,Thuộc khối mạch chính — chưa soi pin.
+R8,?,НЕ ПРОСЛЕЖЕНО R8.?,Thuộc khối mạch chính — chưa soi 2 đầu.
+R11,?,НЕ ПРОСЛЕЖЕНО R11.?,Thuộc khối mạch chính — chưa soi 2 đầu.
+R12,?,НЕ ПРОСЛЕЖЕНО R12.?,Thuộc khối mạch chính — chưa soi 2 đầu (chỉ thấy hướng chung: phía trên dẫn ra cực ngoài trang «в», phía dưới cạnh Д1).
+R13,?,НЕ ПРОСЛЕЖЕНО R13.?,Thuộc khối mạch chính — chưa soi 2 đầu.
+R14,?,НЕ ПРОСЛЕЖЕНО R14.?,Thuộc khối mạch chính — chưa soi 2 đầu (phía dưới dẫn ra «31»).
+R15,?,НЕ ПРОСЛЕЖЕНО R15.?,Thuộc khối mạch chính — chưa soi 2 đầu.
+R16,?,НЕ ПРОСЛЕЖЕНО R16.?,Thuộc khối mạch chính — chưa soi 2 đầu.
+R18,?,НЕ ПРОСЛЕЖЕНО R18.?,Thuộc khối mạch chính — chưa soi 2 đầu.
+R21,?,НЕ ПРОСЛЕЖЕНО R21.?,"Thuộc khối mạch chính; chỉ xác nhận mức khối: 1 đầu từ cực ngoài trang «А», đầu kia vào dãy diode cầu А2."
+R22,?,НЕ ПРОСЛЕЖЕНО R22.?,Thuộc khối mạch chính; tương tự R21 nhưng từ cực ngoài «Б».
+R23,?,НЕ ПРОСЛЕЖЕНО R23.?,Thuộc khối mạch chính; tương tự R21 nhưng từ cực ngoài «В».
+R24,?,НЕ ПРОСЛЕЖЕНО R24.?,Thuộc khối mạch chính; tương tự R21 nhưng từ cực ngoài «Г».
+R25,?,НЕ ПРОСЛЕЖЕНО R25.?,Thuộc khối mạch chính — chưa soi 2 đầu.
+R28,?,НЕ ПРОСЛЕЖЕНО R28.?,Thuộc khối mạch chính; chỉ xác nhận mức khối: dẫn vào base T1.
+R31,?,НЕ ПРОСЛЕЖЕНО R31.?,"Thuộc khối mạch chính; chỉ xác nhận mức khối: nhận từ T1, dẫn ra cực ngoài trang «23»."
+R32,?,НЕ ПРОСЛЕЖЕНО R32.?,Thuộc khối mạch chính — chưa soi 2 đầu.
+R35,?,НЕ ПРОСЛЕЖЕНО R35.?,Thuộc khối mạch chính — chưa soi 2 đầu.
+R41,?,НЕ ПРОСЛЕЖЕНО R41.?,Thuộc khối mạch chính; chỉ xác nhận mức khối: nối tiếp với C7.
+R42,?,НЕ ПРОСЛЕЖЕНО R42.?,Thuộc khối mạch chính; chỉ xác nhận mức khối: nối tiếp với C8 (bản gần У27).
+R44,?,НЕ ПРОСЛЕЖЕНО R44.?,"Thuộc khối mạch chính; chỉ xác nhận mức khối: giữa Д8 và Д9, hướng tín hiệu «ПП»."
+R45,?,НЕ ПРОСЛЕЖЕНО R45.?,Thuộc khối mạch chính; tương tự R44 (cùng chuỗi dọc).
+R54,?,НЕ ПРОСЛЕЖЕНО R54.?,Thuộc khối mạch chính; chỉ xác nhận mức khối: giữa У19-2 và У19-3.
+Д1,?,НЕ ПРОСЛЕЖЕНО Д1.?,Thuộc khối mạch chính — chưa soi 2 đầu.
+Д3,?,НЕ ПРОСЛЕЖЕНО Д3.?,Thuộc khối mạch chính (trong khung nhóm «А2») — chưa soi 2 đầu.
+Д4,?,НЕ ПРОСЛЕЖЕНО Д4.?,Thuộc khối mạch chính (trong khung nhóm «А2») — chưa soi 2 đầu.
+Д5,?,НЕ ПРОСЛЕЖЕНО Д5.?,Thuộc khối mạch chính — chưa soi 2 đầu.
+Д8,?,НЕ ПРОСЛЕЖЕНО Д8.?,"Thuộc khối mạch chính; chỉ xác nhận mức khối: đầu chuỗi dọc R44/R45 phía trên."
+Д9,?,НЕ ПРОСЛЕЖЕНО Д9.?,"Thuộc khối mạch chính; chỉ xác nhận mức khối: cuối chuỗi dọc R44/R45 phía dưới, hướng «ПП»."
+T1,?,НЕ ПРОСЛЕЖЕНО T1.?,"Thuộc khối mạch chính; chỉ xác nhận mức khối: base nhận R28, ra R31 → cực ngoài «23», emitter/collector thứ 2 → cực ngoài «30»."
+T2,?,НЕ ПРОСЛЕЖЕНО T2.?,Thuộc khối mạch chính — chưa soi 2 đầu.
+T3,?,НЕ ПРОСЛЕЖЕНО T3.?,Thuộc khối mạch chính — chưa soi 2 đầu.
+T4,?,НЕ ПРОСЛЕЖЕНО T4.?,"Thuộc khối mạch chính; chỉ xác nhận mức khối: dẫn xuống cực ngoài trang «30» (cùng nút với T1 — chưa xác nhận có thật là cùng nút hay chỉ đi gần nhau)."
