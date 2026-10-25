@@ -1,52 +1,46 @@
-Y16 — Плата коммутационная (ЕУ3.661.064) — TẤM SƯỜN/BACKPLANE
-================================================================
+Y16 — Плата коммутационная (ЕУ3.661.064) — TẤM CHUYỂN MẠCH (backplane đấu dây), KHÔNG CÓ LINH KIỆN
+================================================================================================
 
-XÁC NHẬN NGƯỜI DÙNG (2026-10-23): Y16 là tấm sườn, chỉ đấu dây giữa đầu cắm
-ngoài (3Ш1/3Ш2/3Ш3/3Ш4/3Ш5/3Ш7) và các tấm khác (cáp bẹ hoặc dây nối trực
-tiếp tuỳ panel) — KHÔNG có linh kiện tích cực nào.
+Y16 LÀ GÌ (chốt 2026-10-25, đối chiếu 3 nguồn):
+- HDSDKT §1.3 bảng 6: «Liên kết điện giữa các tấm mạch Y1–Y16 được thực hiện bằng các băng cáp mềm
+  qua tấm chuyển mạch Y16» (Tấm chuyển mạch, ЕУ3.661.064). → Y16 là tấm in đấu dây; các tấm Y1…Y15
+  cắm/nối vào Y16 qua các đầu nối П1…П15 (không có П6, П14), cáp bẹ đi từ Y16 tới tấm.
+- Người dùng (2026-10-23, quan sát khối thật): dây từ đầu cắm ngoài (3Ш1/3Ш2/3Ш3/3Ш4/3Ш5/3Ш7) tới Y16;
+  cáp bẹ từ Y16 tới các panel khác; có panel dùng dây nối trực tiếp thay cáp bẹ.
+- Tài liệu của Y16 = ЕУ3.661.064 Э3, 5 лист (trang giấy 153–157), dạng MA TRẬN NỐI: đường dọc = đầu nối
+  П1…П15 trên Y16 (П4 У10, П5 У9, П7 У11, П8 У6, П9 У2, П10 У7, П11 У3, П12 У8, П13 У4, П15 У5; П1–П3 = ra
+  bó dây/đầu cắm khối), đường ngang = một tín hiệu (tên ở ô đầu hàng), số ở điểm cắt = SỐ CHÂN trên đầu nối
+  Пn đó. Nét liền = dây thật nối các điểm cắt. Đây KHÔNG phải sơ đồ cáp bẹ (không vẽ sợi/màu/đầu cáp),
+  KHÔNG phải sơ đồ nguyên lý có linh kiện, và KHÔNG phải ЕУ3.048.002 Э4.
+- PHÂN BIỆT 2 TÀI LIỆU hay bị gộp (cả hai cùng nằm trong cuốn giấy, chụp liên tiếp):
+    ЕУ3.048.002 Э4  tr.142–152 (11 лист) = sơ đồ đấu nối KHỐI: bảng chân 3Ш1…3Ш7 + bảng chân từng tấm
+                    (У16КПn, УnП1/П2/П3) → ảnh ở `A313-3_CONTROL/KHOI_So-do-dau-noi/`, dữ liệu `e4_all.csv`.
+    ЕУ3.661.064 Э3  tr.153–157 (5 лист) = ma trận nối của Y16 → ảnh ở thư mục này, dữ liệu `matrix_nets.csv`.
+  File `Excel center control/A313-3_ket-noi-toan-khoi.xlsx` dựng từ CẢ HAI (e4_all.csv + matrix_nets.csv
+  = 622 điểm từ chính 5 trang này), hợp nhất theo (У16КПn, chân).
+- Kiến trúc đấu dây: đầu cắm ngoài → Y16 → {cáp bẹ / dây trực tiếp} → các tấm. Y16 không có linh kiện bán
+  dẫn: mất tín hiệu qua Y16 = đứt mạch in / chân hàn / cáp bẹ lỏng, không phải "cháy linh kiện".
 
-SỬA LẠI 2026-10-24 (quan trọng — đảo ngược kết luận cũ):
-Y16 **CÓ** sơ đồ riêng — mã **ЕУ3.661.064 Э3**, dạng bảng ma trận cross-
-reference (không phải sơ đồ nguyên lý vẽ linh kiện, vì không có linh kiện
-để vẽ — mà là bảng tên tín hiệu × tấm đích, đúng bản chất một tấm sườn).
-Tài liệu này có 5 lист (trang), xác nhận qua khung tên viết tay "ЕУ3.661.064
-Э3 л.N/5" đọc được trực tiếp trên ảnh.
+ẢNH (cập nhật 2026-10-25): người dùng chụp lại 5 лист rõ hơn → xoá 5 ảnh cũ, đổi tên 5 ảnh mới theo
+`RE_tr<TRANG>_a<SỐ>` (giữ số a258…a262 đã cấp, điền số trang đọc từ trang viết tay):
+  RE_tr153_a258.jpg — л.1/5   RE_tr154_a259.jpg — л.2/5   RE_tr155_a260.jpg — л.3/5
+  RE_tr156_a261.jpg — л.4/5   RE_tr157_a262.jpg — л.5/5   (1926×2568, mã «ЕУ3.661.064 Э3 л.N/5» đọc rõ)
+Ảnh cũ RE_tr153_a150…RE_tr157_a154 (4000×3000 / 3000×4000, chụp nghiêng, giấy cong ở л.2) đã xoá khỏi thư mục
+làm việc; bản gốc còn nguyên trong `ЕУ.048.002.РЭ(A313-3)/` (chỉ-đọc, `_DOI-TEN.csv` a150–a154).
+Dữ liệu `p153_157_matrix.csv` ghi nguồn "#150…#154" = chính các ảnh cũ đó (provenance đúng, không sửa).
 
-File trong thư mục này (đổi tên 2026-10-24 theo quy tắc `RE_tr<TRANG>_a<SỐ>`
-ở DANH-MUC_ANH_RE_A-313-3.md §0 — ảnh gốc dùng đúng số `a` từ `_DOI-TEN.csv`,
-ảnh bổ sung dùng số tiếp theo chưa dùng; trước đó dùng tiền tố tự chế
-"E3_matran_lisN-5" — SAI quy tắc, đã sửa):
-  RE_tr153_a150.jpg  — chụp gốc 2026-10-23, л.1/5
-  RE_tr154_a151.jpg  — chụp gốc 2026-10-23, л.2/5
-  RE_tr155_a152.jpg  — chụp gốc 2026-10-23, л.3/5
-  RE_tr156_a153.jpg  — chụp gốc 2026-10-23, л.4/5
-  RE_tr157_a154.jpg  — chụp gốc 2026-10-23, л.5/5
-  RE_trXXX_a258.jpg  — chụp lại 2026-10-24, л.1/5 (mã ký hiệu đọc rõ)
-  RE_trXXX_a259.jpg  — chụp lại 2026-10-24, л.2/5 (mã ký hiệu đọc rõ)
-  RE_trXXX_a260.jpg  — chụp lại 2026-10-24, л.3/5 (mã ký hiệu đọc rõ)
-  RE_trXXX_a261.jpg  — chụp lại 2026-10-24, л.4/5 (mã ký hiệu đọc rõ)
-  RE_trXXX_a262.jpg  — chụp lại 2026-10-24, л.5/5 (mã ký hiệu đọc rõ)
-Mỗi cặp (tr15N_aNNN + trXXX_a25N/26N) là 2 ảnh CÙNG một lист — giữ cả
-hai vì độ phân giải/góc chụp khác nhau, dùng bản nào đọc rõ hơn tại chỗ cần.
+KIỂM LẠI CHÉP (2026-10-25): 5 subagent đọc ĐỘC LẬP số chân từ ảnh mới (không được xem bản chép cũ).
+Kết quả đối chiếu 622 điểm: 616 trùng 100% (không điểm thừa/thiếu, tập đầu nối mọi cột khớp). 6 điểm
+lệch — đều là subagent đọc sai/không chắc, bản cũ đúng (coordinator tự xác minh trên ảnh):
+  153-c24 П9: mới «43» ↔ cũ 49 — П9/43 đã thuộc c30 (Вход F3); dãy П9 c25…c31 = 48,47,46,45,44,43,42.
+  153-c56 П3: mới «43» ↔ cũ 49 — П3/43 đã thuộc «80кГц 1-1»; ¬7р…¬10р АЦП = П3/49…52; số viết có vòng kín như «9».
+  153-c46 П11: mới «12» ↔ cũ 42 — П11/12 đã thuộc КША-13; КП11/42 = РПР⇒М.
+  153-c48 П11: mới «17» ↔ cũ 47 — П11/17 đã thuộc ¬СВК2-1; dãy П11 c47…c49 = 46,47,44.
+  154-c11/c12 П11: mới «80/81» (tự ghi unsure) ↔ cũ 20/21 — П11 không có chân >53; dãy 19,20,21.
+Tên tín hiệu 157-c13/16/19 «Вход К1/К2/К3-РН» và c20 «Выход РК»: đọc lại trên ảnh mới → bản cũ đúng.
+→ KHÔNG cần chép lại. 5 số "đọc chưa chắc" trong matrix_notes.md §4 vẫn do bảng КП chốt (ảnh mới không
+cho thêm bằng chứng độc lập hơn).
+Hai nghi lỗi bản vẽ vẫn nguyên: 157-c40 «Выход 2б ⊓⊔» ghi П3/23 (nghi П3/29), −20В/−23В.
 
-QUAN TRỌNG — SỬA LỖI 2026-10-24: 11 ảnh trước đây đặt tên "E4_01-11_trXXX.jpg"
-từng nằm trong thư mục này **KHÔNG PHẢI của Y16**. Đó là **ЕУ3.048.002 Э4
-"Sơ đồ đấu nối khối"** — tài liệu CHUNG của toàn khối A-313-3 (BOM Y1-Y24,
-linh kiện rời rạc Д1/Др1/Л1/Пр1, bảng chân 3Ш1-3Ш7), xác nhận qua khung tên
-"ЕУ3.048.002 Э4 1/11" đọc trực tiếp trên ảnh gốc. Đã dời sang
-`A313-3_CONTROL/KHOI_So-do-dau-noi/` — xem ghi chú ở đó.
-
-Dữ liệu matrix_nets.csv / matrix_notes.md (dùng để dựng A313-3_ket-noi-toan-khoi.xlsx)
-được chép TỪ 5 trang ma trận này (л.1-5) — dữ liệu kết nối vẫn đúng, chỉ cần
-sửa tên gọi tài liệu nguồn (không còn gọi là "Э4/Y16" mà là "Э3 riêng của Y16").
-
-Kiến trúc đấu dây (vẫn đúng, không đổi): Đầu cắm ngoài (3Ш1/3Ш2/3Ш3/3Ш4/3Ш5/3Ш7)
--> dây -> Y16 -> {cáp bẹ hoặc dây nối trực tiếp} -> các tấm Y1-Y24 khác.
-Khi dò mất tín hiệu giữa đầu cắm ngoài và một tấm bất kỳ, Y16 là điểm trung
-chuyển bắt buộc phải kiểm tra (đứt mạch in, chân hàn xấu, đầu cáp bẹ lỏng) —
-không có linh kiện bán dẫn nào trên đường đó nên không hỏng theo kiểu
-"cháy linh kiện".
-
-Trạng thái: CÓ ĐỦ Э3 (5/5 лист, 2 bộ ảnh mỗi lист) — không cần chụp thêm.
-
-Chi tiết đầy đủ: KE-HOACH_KIEM-TRA_A-313-3.md §1.5, SO-DO-DAU-NOI_E4_A-313-3.md §2 (У16).
+Chi tiết: KE-HOACH_KIEM-TRA_A-313-3.md §1.5, tmp/pdfs/review/a313-3/e4/matrix_notes.md,
+SO-DO-DAU-NOI_E4_A-313-3.md §2 (У16).

@@ -132,7 +132,7 @@ Cột "Thay thế tạm" là bản vẽ khác trong repo có thể dùng tạm:
 1. **Y16 CÓ sơ đồ riêng — mã ЕУ3.661.064 Э3**, dạng bảng ma trận cross-reference (không vẽ linh
    kiện vì không có linh kiện, mà là bảng tên tín hiệu × tấm đích — đúng bản chất một tấm sườn).
    Tài liệu có **5 lист**, xác nhận qua khung tên viết tay "ЕУ3.661.064 Э3 л.N/5" đọc trực tiếp
-   trên ảnh (người dùng chụp lại rõ 2026-10-24). Lưu tại `A313-3_CONTROL/Y16/RE_trXXX_a258.jpg`…`a262.jpg`.
+   trên ảnh (người dùng chụp lại rõ 2026-10-24). Lưu tại `A313-3_CONTROL/Y16/RE_tr153_a258.jpg`…`RE_tr157_a262.jpg` (đổi tên 2026-10-25, đã xoá 5 ảnh cũ a150–a154; đối chiếu độc lập 622 điểm: 616 trùng, 6 lệch đều là đọc sai của lần kiểm — bản chép cũ đúng, không cần chép lại).
    Kết luận cũ "không tồn tại sơ đồ Э3 cho Y16" là **SAI** — do nhầm 11 trang tr.142-152
    (thực ra là Э4 chung của khối) với tài liệu riêng của Y16.
 2. **Tài liệu `ЕУ3.048.002 Э4` "Sơ đồ đấu nối khối" (11 trang, tr.142-152) là tài liệu CHUNG của

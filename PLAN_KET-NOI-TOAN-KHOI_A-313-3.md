@@ -34,7 +34,7 @@
 | `tmp/pdfs/review/a313-3/e4/matrix_notes.md` | Giải thích đầy đủ cách đọc, 5 số chưa chắc, 2 nghi lỗi bản vẽ | Đưa nguyên văn các điểm nghi vấn vào sheet cảnh báo |
 | `SO-DO-DAU-NOI_E4_A-313-3.md` §2 | Danh mục 24 tấm đã chốt | Map tên bảng (У1П1, У2П1…) ↔ tên tấm (Y1, Y2…) ↔ chức năng |
 | `Excel center control/Danh-muc-24-tam_A-313-3.xlsx` | Trạng thái tư liệu từng tấm (đã làm ở phiên trước) | Tham chiếu chéo, không sửa |
-| `A313-3_CONTROL/KHOI_So-do-dau-noi/RE_tr142_a136.jpg`…`RE_tr152_a149.jpg` + `A313-3_CONTROL/Y16/RE_tr153_a150.jpg`…`RE_tr157_a154.jpg` | 16 ảnh gốc (11 trang Э4 khối + 5 trang Э3 ma trận Y16, 2 tài liệu khác nhau — sửa 2026-10-24) | Chỉ xem khi cần đối chiếu trực quan một ô cụ thể, không chép lại hàng loạt |
+| `A313-3_CONTROL/KHOI_So-do-dau-noi/RE_tr142_a136.jpg`…`RE_tr152_a149.jpg` + `A313-3_CONTROL/Y16/RE_tr153_a258.jpg`…`RE_tr157_a262.jpg` (thay a150–a154 từ 2026-10-25) | 16 ảnh gốc (11 trang Э4 khối + 5 trang Э3 ma trận Y16, 2 tài liệu khác nhau — sửa 2026-10-24) | Chỉ xem khi cần đối chiếu trực quan một ô cụ thể, không chép lại hàng loạt |
 
 **Quan trọng — không dẫm lên dữ liệu đã chốt:** 11 chỗ sửa trong `e4_sua.py` và danh mục cấp khối
 trong `SO-DO-DAU-NOI_E4_A-313-3.md` §2 là bản đã người dùng duyệt. Nếu matrix mới phát hiện mâu
