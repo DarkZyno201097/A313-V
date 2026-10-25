@@ -87,50 +87,55 @@ xác nhận chỗ «Hình 13?» trong kế hoạch.
 * Nhóm trùng do dhash báo sai: G003 (#235 = tr.233, #241 = tr.239 — hai trang ПЭ khác nhau).
 * Không phải trang sách: #185 (đồng hồ), #194 (chụp hỏng), #197/#198 (ổ cắm 27 V), #240 (sàn).
 
-## 4. Cần chụp bổ sung (theo ưu tiên)
+## 4. Cần chụp bổ sung (theo ưu tiên) — rà lại 2026-10-25
 
-1. **Tờ gấp chỉ chụp một phần** — đa số tờ Э3 khổ lớn bị cắt mất khung tên và một mép
-   (#156 (`RE_tr159_a156.jpg`), #157 (`RE_tr160_a157.jpg`), #158 (`RE_tr161_a158.jpg`),
-   #161 (`RE_tr164_a161.jpg`), #162 (`RE_tr166_a162.jpg`), #163 (`RE_tr165_a163.jpg`),
-   #171 (`RE_tr175_a171.jpg`), #172 (`RE_tr176_a172.jpg`), #175 (`RE_tr179_a175.jpg`),
-   #180 (`RE_tr184_a180.jpg`), #184 (`RE_trXXX_a184.jpg`), #187 (`RE_trXXX_a187.heic`),
-   #204 (`RE_tr202_a204.jpg`), #205 (`RE_tr203_a205.jpg`), #211 (`RE_tr209_a211.jpg`),
-   #215 (`RE_tr214_a215.jpg`), #219 (`RE_tr218_a219.jpg`), #221 (`RE_tr221_a221.jpg`)).
-   Mở phẳng hết, chụp **từng nửa có chồng lấn ~20 %**, cộng một ảnh khung tên. Ưu tiên:
-   Э4/Y16 (tr.142–157), nguồn рис.20–26, Y24 (рис.19).
-2. **Trang chưa thấy — tên dự kiến cho ảnh bổ sung:**
+Căn cứ: `tmp/pdfs/review/a313-3/k3_anh_mo.py` (độ nét, kích thước ảnh từng tấm, số dòng `?`/placeholder trong
+`ricNN_net.csv`) và mục «chỗ chưa chắc» của từng `ricNN_mota.md`. Chỉ ghi những chỗ **nguyên nhân là ảnh**
+(cắt mép, nếp gấp, vết ố, phân giải thấp, chưa có trang); `?` do chưa hiểu mạch hoặc do người chép chưa lần hết
+thì không cần chụp lại. Cách chụp chung: mở phẳng, chụp thẳng góc, **từng nửa chồng lấn ~20 %** cộng một ảnh khung tên.
 
-   | Trang | Tên dự kiến |
-   |---|---|
-   | 24 | `RE_tr024_a2xx.jpg` |
-   | 27 | `RE_tr027_a2xx.jpg` |
-   | 29 | `RE_tr029_a2xx.jpg` |
-   | 37 | `RE_tr037_a2xx.jpg` |
-   | 42 | `RE_tr042_a2xx.jpg` |
-   | 111 | `RE_tr111_a2xx.jpg` |
-   | 121 | `RE_tr121_a2xx.jpg` |
-   | 135 | `RE_tr135_a2xx.jpg` |
-   | 167 | `RE_tr167_a2xx.jpg` |
-   | 180 | `RE_tr180_a2xx.jpg` |
-   | 188 | `RE_tr188_a2xx.jpg` |
-   | 190 | `RE_tr190_a2xx.jpg` |
-   | 211 | `RE_tr211_a2xx.jpg` |
-   | 220 | `RE_tr220_a2xx.jpg` |
-   | 222 | `RE_tr222_a2xx.jpg` |
-   | 238 | `RE_tr238_a2xx.jpg` |
-   | 240 | `RE_tr240_a2xx.jpg` |
-   | 245 | `RE_tr245_a2xx.jpg` |
-   | 246 | `RE_tr246_a2xx.jpg` |
+### 4.1. Sơ đồ Э3 cần chụp lại
 
-   Trang 24–135 trong danh sách thuộc phần TO (có thể là hình gấp); tr.167 là рис.7 tờ 3;
-   tr.188–190 nghi là ПЭ рис.14. Đây là danh sách cần tìm/chụp, không gán các trang này cho ảnh `trXXX`.
-3. **Sơ đồ chưa thấy:** (рис.5/Y4 và рис.15/Y9 đã có — xem §2). Phụ lục рис.1–4 (nếu có) cần
-   kiểm trên bản giấy. Chưa xác định trang: tên dự kiến `RE_trXXX_a2xx.jpg` (điền trang khi có bằng chứng).
-4. Đọc lại số trang: #75 (`RE_trXXX_a075.jpg`), #137 (`RE_trXXX_a137.jpg`), #138 (`RE_trXXX_a138.jpg`),
-   #139 (`RE_trXXX_a139.jpg`), #181 (`RE_trXXX_a181.jpg`), #184 (`RE_trXXX_a184.jpg`),
-   #187 (`RE_trXXX_a187.heic`), #188 (`RE_trXXX_a188.heic`), #222 (`RE_trXXX_a222.jpg`),
-   #231 (`RE_trXXX_a231.heic`), #246 (`RE_trXXX_a246.heic`), #247 (`RE_trXXX_a247.jpg`),
-   #249 (`RE_trXXX_a249.jpg`).
+| Ưu tiên | Tấm / рис. | Ảnh đang dùng | Vấn đề do ảnh | Cần chụp |
+|---|---|---|---|---|
+| 1 | Y1 / рис.10 | `Y1/RE_tr179_a175.jpg`, `Y1/RE_trXXX_a075.jpg` (ảnh cũ) | Mép phải tờ 2 bị cắt (bảng `П3-right-1/2` cụt chữ, mất designator); mép trên bị nếp giấy che; cụm chéo У1/У2/У14/У15/У17 tờ 1 nét cách nhau < 10 px; số ref У47…У56 nhoè. Net 115 dòng: 58 `?`, 62 placeholder | Cả hai tờ, từng nửa, gần hơn; một ảnh riêng mép phải tờ 2 có khung bảng đầu nối |
+| 2 | Y2 / рис.9 | `Y2/RE_tr175_a171.jpg`, `RE_tr176_a172.jpg` (ảnh cũ) | Tờ gấp chụp một phần, mất khung tên/mã bản vẽ. Net 489 dòng: 106 `?` | Cả hai tờ + khung tên. (BOM `name = ?` là do chưa dùng ПЭ tr.177–178 đã có, không cần chụp) |
+| 3 | Y6 / рис.7 л.2, л.3 | `Y6/RE_trXXX_a256.jpg`, `a257.jpg` (chỉ 1536×2048) | Phân giải thấp; mép dưới л.1 và góc dưới phải л.3 bị cắt/mờ. Net 997 dòng: 188 `?` | л.2, л.3 độ phân giải cao (như a255); mép dưới л.1 |
+| 4 | Y11 / рис.17 | `Y11/RE_tr202_a266.jpg`, `RE_tr203_a267.jpg` | Bảng Я1 và Я4 đọc ra giống hệt (nghi nhầm bảng xếp liền); nhãn Я5 lẫn với Я2/Я4 do chụp nghiêng | Chụp thẳng, gần, riêng vùng bảng Я1…Я6 |
+| 5 | Y12/Y13 / рис.14 | `Y13/RE_tr189_a268.jpg` | Vết ố/nếp gấp giấy thật cắt dải Я1-3 chân 9–16 ↔ У4…У6 | Ảnh gần dải đó, đèn chiếu xiên để giảm bóng nếp |
+| 6 | Y9 / рис.15 | `Y9/RE_tr191_a265.jpg` (2560×1090) | Chữ viết tay bảng П1 quá nhỏ so với phân giải (П1/38 chưa đọc được; dòng B=54 có thể ngoài khung) | Ảnh gần bảng П1 |
+| 7 | Y3 / рис.6 tờ 1 | `Y3/RE_trXXX_a252.jpg` (1536×2048) | Phân giải thấp hơn tờ 2/3. Còn 95 chân «НЕ ПРОСЛЕЖЕНО» chủ yếu ở các thanh dọc tờ 2/3 (ảnh a253/a254 đã rõ, hạn chế là mật độ nét) | Tờ 1 phân giải cao; nếu cần, ảnh gần các thanh dọc tờ 2/3. Bổ sung bằng đo thông mạch trên tấm |
+| 8 | Y4 / рис.5 tờ 1 | `Y4/RE_tr158_a250.jpg` | Ghi chú 1–2 (chân 7/14 nối «а» hay «б») bị cắt ở mép ảnh | Ảnh mép chứa ghi chú 1–2 |
+| 9 | Y18 / рис.20 | `Y18/RE_tr214_a273.jpg` | Khung tên/số «Рис.20» bị cắt (chỉ ảnh hưởng định danh, netlist đủ) | Ảnh khung tên |
+| — | Y8 / рис.16 | `Y8/RE_tr197_a278.jpg` (Hermes đang chép) | File là **HEIC mang đuôi .jpg** — Pillow không mở được; nên đổi đuôi `.heic` hoặc xuất JPEG ra file mới | Đánh giá sau khi Hermes chép xong |
+
+Không cần chụp lại sơ đồ: Y5, Y7, Y10, Y14/Y15, Y16, Y17, Y19…Y24 và bộ Э4 tr.142–152 (các `?` còn lại do
+nội dung, không do ảnh).
+
+### 4.2. Trang перечень (ПЭ) chưa có ảnh
+
+| Trang | Thuộc | Thiếu gì |
+|---|---|---|
+| 220 | ПЭ рис.21 (Y20) | Tên/loại C4…C11, Д1…Д5, Д7, Др1…Др3, Пр1; Т1…Т6, У1 mới đọc qua bóng chữ xuyên giấy |
+| 238, 240 | ПЭ рис.26 (Y22) | Loại T4…T9 (cực tính hiện suy từ mũi tên). `RE_tr238_a240_x.jpg` là ảnh sàn, không phải trang 238 |
+| 222 | ПЭ рис.22 (Y21) | Cần xác nhận có tồn tại (ảnh #222 «Лист 89» không có số trang viết tay) |
+| 211 | ПЭ рис.19 (Y24) | ПЭ tr.210–213 mới có 3 ảnh (#212–#214) |
+| 188–190 | nghi ПЭ рис.14 (Y12/Y13) | Chưa thấy ПЭ riêng; BOM `ric14` hiện chỉ sơ bộ |
+| 234 | ПЭ рис.25 (Y17) | Đã có `RE_tr234_a236.jpg`; chụp lại rõ hơn chỉ khi cần soát cột «Кол.» lệch dòng (C53…C55) |
+
+### 4.3. Trang chưa thấy khác (ưu tiên thấp)
+
+Phần TO (có thể là hình gấp): 24, 27, 29, 37, 42, 111, 121, 135. Phần phụ lục: 180, 245, 246.
+Tên dự kiến `RE_trNNN_a2xx.jpg`; không gán các trang này cho ảnh `trXXX` khi chưa có bằng chứng.
+Phụ lục рис.1–4 (nếu có) cần kiểm trên bản giấy.
+
+### 4.4. Đọc lại số trang
+
+#75 (`RE_trXXX_a075.jpg`), #137 (`RE_trXXX_a137.jpg`), #138 (`RE_trXXX_a138.jpg`),
+#139 (`RE_trXXX_a139.jpg`), #181 (`RE_trXXX_a181.jpg`), #184 (`RE_trXXX_a184.jpg`),
+#187 (`RE_trXXX_a187.heic`), #188 (`RE_trXXX_a188.heic`), #222 (`RE_trXXX_a222.jpg`),
+#231 (`RE_trXXX_a231.heic`), #246 (`RE_trXXX_a246.heic`), #247 (`RE_trXXX_a247.jpg`),
+#249 (`RE_trXXX_a249.jpg`).
 
 ## 5. Ảnh chụp bổ sung (lưu trong `A313-3_CONTROL/`, không chép vào thư mục RE)
 
