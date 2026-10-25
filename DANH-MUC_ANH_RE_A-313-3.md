@@ -92,7 +92,7 @@ xác nhận chỗ «Hình 13?» trong kế hoạch.
 Căn cứ: `tmp/pdfs/review/a313-3/k3_anh_mo.py` (độ nét, kích thước ảnh từng tấm, số dòng `?`/placeholder trong
 `ricNN_net.csv`) và mục «chỗ chưa chắc» của từng `ricNN_mota.md`. Chỉ ghi những chỗ **nguyên nhân là ảnh**
 (cắt mép, nếp gấp, vết ố, phân giải thấp, chưa có trang); `?` do chưa hiểu mạch hoặc do người chép chưa lần hết
-thì không cần chụp lại. Cách chụp chung: mở phẳng, chụp thẳng góc, **từng nửa chồng lấn ~20 %** cộng một ảnh khung tên.
+thì không cần chụp lại. **Người dùng 2026-10-25: tạm hoãn, các ảnh chưa rõ sẽ bổ sung sau.** Cách chụp chung: mở phẳng, chụp thẳng góc, **từng nửa chồng lấn ~20 %** cộng một ảnh khung tên.
 
 ### 4.1. Sơ đồ Э3 cần chụp lại
 
@@ -101,13 +101,12 @@ thì không cần chụp lại. Cách chụp chung: mở phẳng, chụp thẳng
 | 1 | Y1 / рис.10 | `Y1/RE_tr179_a175.jpg`, `Y1/RE_trXXX_a075.jpg` (ảnh cũ) | Mép phải tờ 2 bị cắt (bảng `П3-right-1/2` cụt chữ, mất designator); mép trên bị nếp giấy che; cụm chéo У1/У2/У14/У15/У17 tờ 1 nét cách nhau < 10 px; số ref У47…У56 nhoè. Net 115 dòng: 58 `?`, 62 placeholder | Cả hai tờ, từng nửa, gần hơn; một ảnh riêng mép phải tờ 2 có khung bảng đầu nối |
 | 2 | Y2 / рис.9 | `Y2/RE_tr175_a171.jpg`, `RE_tr176_a172.jpg` (ảnh cũ) | Tờ gấp chụp một phần, mất khung tên/mã bản vẽ. Net 489 dòng: 106 `?` | Cả hai tờ + khung tên. (BOM `name = ?` là do chưa dùng ПЭ tr.177–178 đã có, không cần chụp) |
 | 3 | Y6 / рис.7 л.2, л.3 | `Y6/RE_trXXX_a256.jpg`, `a257.jpg` (chỉ 1536×2048) | Phân giải thấp; mép dưới л.1 và góc dưới phải л.3 bị cắt/mờ. Net 997 dòng: 188 `?` | л.2, л.3 độ phân giải cao (như a255); mép dưới л.1 |
-| 4 | Y11 / рис.17 | `Y11/RE_tr202_a266.jpg`, `RE_tr203_a267.jpg` | Bảng Я1 và Я4 đọc ra giống hệt (nghi nhầm bảng xếp liền); nhãn Я5 lẫn với Я2/Я4 do chụp nghiêng | Chụp thẳng, gần, riêng vùng bảng Я1…Я6 |
-| 5 | Y12/Y13 / рис.14 | `Y13/RE_tr189_a268.jpg` | Vết ố/nếp gấp giấy thật cắt dải Я1-3 chân 9–16 ↔ У4…У6 | Ảnh gần dải đó, đèn chiếu xiên để giảm bóng nếp |
-| 6 | Y9 / рис.15 | `Y9/RE_tr191_a265.jpg` (2560×1090) | Chữ viết tay bảng П1 quá nhỏ so với phân giải (П1/38 chưa đọc được; dòng B=54 có thể ngoài khung) | Ảnh gần bảng П1 |
-| 7 | Y3 / рис.6 tờ 1 | `Y3/RE_trXXX_a252.jpg` (1536×2048) | Phân giải thấp hơn tờ 2/3. Còn 95 chân «НЕ ПРОСЛЕЖЕНО» chủ yếu ở các thanh dọc tờ 2/3 (ảnh a253/a254 đã rõ, hạn chế là mật độ nét) | Tờ 1 phân giải cao; nếu cần, ảnh gần các thanh dọc tờ 2/3. Bổ sung bằng đo thông mạch trên tấm |
-| 8 | Y4 / рис.5 tờ 1 | `Y4/RE_tr158_a250.jpg` | Ghi chú 1–2 (chân 7/14 nối «а» hay «б») bị cắt ở mép ảnh | Ảnh mép chứa ghi chú 1–2 |
-| 9 | Y18 / рис.20 | `Y18/RE_tr214_a273.jpg` | Khung tên/số «Рис.20» bị cắt (chỉ ảnh hưởng định danh, netlist đủ) | Ảnh khung tên |
+| 4 | Y3 / рис.6 tờ 1 | `Y3/RE_trXXX_a252.jpg` (1536×2048) | Phân giải thấp hơn tờ 2/3. Còn 95 chân «НЕ ПРОСЛЕЖЕНО» chủ yếu ở các thanh dọc tờ 2/3 (ảnh a253/a254 đã rõ, hạn chế là mật độ nét) | Tờ 1 phân giải cao; nếu cần, ảnh gần các thanh dọc tờ 2/3. Bổ sung bằng đo thông mạch trên tấm |
+| 5 | Y4 / рис.5 tờ 1 | `Y4/RE_tr158_a250.jpg` | Ghi chú 1–2 (chân 7/14 nối «а» hay «б») bị cắt ở mép ảnh | Ảnh mép chứa ghi chú 1–2 |
+| 6 | Y18 / рис.20 | `Y18/RE_tr214_a273.jpg` | Khung tên/số «Рис.20» bị cắt (chỉ ảnh hưởng định danh, netlist đủ) | Ảnh khung tên |
 | — | Y8 / рис.16 | `Y8/RE_tr197_a278.jpg` (Hermes đang chép) | File là **HEIC mang đuôi .jpg** — Pillow không mở được; nên đổi đuôi `.heic` hoặc xuất JPEG ra file mới | Đánh giá sau khi Hermes chép xong |
+
+**Xem lại 2026-10-25 theo ý người dùng — ảnh đủ rõ, không cần chụp:** Y9 `RE_tr191_a265.jpg` (bảng П1 đọc được, П1/38 ≈ «Упр. Интгр (Вх. НУ)», bảng kết thúc ở 53/21 nên không có dòng 54); Y11 `RE_tr202_a266.jpg` (Я4 ghi rõ «Вых 25а…32а → П2», khác Я1 ⇒ «Я1 = Я4» là lỗi đọc; Я5 «Вых 1б…8б → П1» đọc rõ); Y12/Y13 `RE_tr189_a268.jpg` (nếp gấp chỉ là vệt mờ, các dây У4/У6 ↔ Я1…Я3 tách được). `?` còn lại ở ba tấm này là việc **chép lại trên ảnh hiện có**.
 
 Không cần chụp lại sơ đồ: Y5, Y7, Y10, Y14/Y15, Y16, Y17, Y19…Y24 và bộ Э4 tr.142–152 (các `?` còn lại do
 nội dung, không do ảnh).
@@ -118,7 +117,6 @@ nội dung, không do ảnh).
 |---|---|---|
 | 220 | ПЭ рис.21 (Y20) | Tên/loại C4…C11, Д1…Д5, Д7, Др1…Др3, Пр1; Т1…Т6, У1 mới đọc qua bóng chữ xuyên giấy |
 | 238, 240 | ПЭ рис.26 (Y22) | Loại T4…T9 (cực tính hiện suy từ mũi tên). `RE_tr238_a240_x.jpg` là ảnh sàn, không phải trang 238 |
-| 222 | ПЭ рис.22 (Y21) | Cần xác nhận có tồn tại (ảnh #222 «Лист 89» không có số trang viết tay) |
 | 211 | ПЭ рис.19 (Y24) | ПЭ tr.210–213 mới có 3 ảnh (#212–#214) |
 | 188–190 | nghi ПЭ рис.14 (Y12/Y13) | Chưa thấy ПЭ riêng; BOM `ric14` hiện chỉ sơ bộ |
 | 234 | ПЭ рис.25 (Y17) | Đã có `RE_tr234_a236.jpg`; chụp lại rõ hơn chỉ khi cần soát cột «Кол.» lệch dòng (C53…C55) |

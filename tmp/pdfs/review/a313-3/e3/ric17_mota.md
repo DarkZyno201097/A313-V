@@ -89,7 +89,7 @@ nhãn viết tay, dạng "Уnn.chân" phía trên từng cột bảng đầu n�
    mạch dự phòng 2 kênh thật sự đấu song song trên cùng chân П1 (hợp lý
    về mặt kiến trúc độ tin cậy cao của thiết bị bay), hoặc (b) một
    trong hai lần đọc đã bị nhầm bảng do 2 bảng (Я1 và Я4) xếp liền kề
-   theo chiều dọc trên ảnh gốc. **Chưa chụp lại để phân định.**
+   theo chiều dọc trên ảnh gốc. **Chưa chụp lại để phân định.** **Xem lại 2026-10-25:** ảnh a266 ghi rõ Я4 = «Вых 25а…32а» ra П2/13, 6, 51, 7, 33, …, 10, 25 — khác Я1 ⇒ (b) đúng, cần chép lại Я4 (và Я3, Я5, Я6) trên ảnh hiện có.
 2. **Я3**: hàng Q6 (22а) ghi chân П2/15, hàng Q8 (24а) ghi chân П2/41 —
    nhưng bảng П2 đầy đủ (tờ 2, đọc trực tiếp, xem `ric17_net.csv` không
    lưu bảng này riêng — xem bản ghi gốc trong báo cáo) cho thấy contact
