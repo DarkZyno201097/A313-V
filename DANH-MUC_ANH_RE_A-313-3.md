@@ -43,7 +43,7 @@ không dùng để tự đánh số lại ảnh bổ sung.
 | 139 | #132 | «Приложение, лист 1» — bắt đầu Phụ lục |
 | 140–141 | #133, #134/#135 | Sơ đồ chức năng (Э2) cả khối, 2 tờ |
 | 142–157 | #136, #140–#154 | Sơ đồ đấu nối Э4 / tấm chuyển mạch Y16: bảng chân 3Ш3В, 3Ш4, 3Ш5 (У17), 3Ш7, П1/П2 từng tấm; ma trận П8…П15 |
-| 158–247 | #155–#249 | Sơ đồ nguyên lý Э3 từng tấm (tờ gấp) + Перечень элементов (ПЭ) + bản vẽ lắp ráp |
+| 158–247 | #155–#249 | Sơ đồ nguyên lý Э3 từng tấm (tờ gấp) + Перечень элементов (ПЭ) + bản vẽ bố trí/lắp ráp (chỉ tham khảo vị trí) |
 
 ## 2. Hình trong Phụ lục ↔ tấm
 
@@ -75,7 +75,8 @@ hoặc khung tên tờ sơ đồ. Cột «Tấm» theo `KE-HOACH_KIEM-TRA_A-313-
 | 25 | УЛП 5 В; 15 А (ЕУ3.215.469 Э3) | Y17 | **Chụp lại rõ 2026-10-25:** `A313-3_CONTROL/Y17/RE_tr231_a269.jpg` thay ảnh cũ #233 (mờ/gập góc, đã xoá). Soát lại `ric25_*` bằng ảnh mới: xác nhận Д3/Д4 (trong перечень) THỰC SỰ không vẽ trên trang này; sửa hướng mũi tên T24 (NPN, trước đọc nhầm từ ảnh mờ); xác nhận R16/R17, Д23, Д34…Д40. netlist vẫn 397 dòng, 5 dòng `?` còn lại (node "шина M", do chưa rõ mạch chứ không phải ảnh mờ) | 232–236 (#234–#238) |
 | 26 | УЛП минус 12,6 В; 1 А (ЕУ3.215.470 Э3) | Y22 | 237 (#239) | 239 (#241); 238 thiếu |
 | 27 | Плата согласования, lắp ráp (ВШ3.031.020 Д7) | Y7 | 241 (#242) | — |
-| — | Lắp ráp khác; УЛП 5 В 15 А (ВШ6.730.530 Д7) | Y17 | 244–247 (#245–#249) | — |
+
+**Bỏ khỏi danh mục sơ đồ (2026-10-26):** «УЛП 5 В 15 А (ВШ6.730.530 Д7)» — Y17, tr.247–248 (#248, #249) — chỉ là bản vẽ bố trí. Bản vẽ bố trí/lắp ráp (Рис.27–34, tr.241–248, ảnh `*_bo-tri.jpg`) **không phải sơ đồ để dùng**: chỉ tham khảo vị trí linh kiện khi xem trên tấm thật (người dùng xác nhận 2026-10-26). Dòng рис.27 (Y7, ВШ3.031.020 Д7) ở trên cùng loại; giữ để tra, không tính là sơ đồ.
 
 Hệ quả: Hình 21 và 24 (vắng trong mục lục bản dịch PDF) **có** trên bản giấy; рис.13 = РК I (Y14)
 xác nhận chỗ «Hình 13?» trong kế hoạch.
@@ -132,8 +133,7 @@ Phụ lục рис.1–4 (nếu có) cần kiểm trên bản giấy.
 #75 (`RE_trXXX_a075.jpg`), #137 (`RE_trXXX_a137.jpg`), #138 (`RE_trXXX_a138.jpg`),
 #139 (`RE_trXXX_a139.jpg`), #181 (`RE_trXXX_a181.jpg`), #184 (`RE_trXXX_a184.jpg`),
 #187 (`RE_trXXX_a187.heic`), #188 (`RE_trXXX_a188.heic`), #222 (`RE_trXXX_a222.jpg`),
-#231 (`RE_trXXX_a231.heic`), #246 (`RE_trXXX_a246.heic`), #247 (`RE_trXXX_a247.jpg`),
-#249 (`RE_trXXX_a249.jpg`).
+#231 (`RE_trXXX_a231.heic`). (#246, #247, #249 là bản vẽ bố trí — không cần đọc lại số trang.)
 
 ## 5. Ảnh chụp bổ sung (lưu trong `A313-3_CONTROL/`, không chép vào thư mục RE)
 

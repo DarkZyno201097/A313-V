@@ -2,8 +2,7 @@
 
 Nguồn: ảnh #233 (sơ đồ gập, trang tay 231 — ĐÃ XÓA, thay bằng `A313-3_CONTROL/Y17/RE_tr231_a269.jpg`
 rõ nét hơn, soát lại toàn bộ §4 ngày 2026-10-25, xem ghi chú "ĐÃ XÁC NHẬN" rải trong tài liệu),
-#234–#238 (перечень, trang 232–236, «110.23.03 Приложение лист 99–103»), #248 (сборочный, trang 247),
-#249 (ВШ6.730.530 Д7, рис.34, tấm phụ đầu ra).
+#234–#238 (перечень, trang 232–236, «110.23.03 Приложение лист 99–103»), #248, #249 (bản vẽ BỐ TRÍ trang 247–248, ВШ6.730.530 Д7 — chỉ tham khảo vị trí linh kiện, không phải sơ đồ; 2026-10-26).
 Bảng kê và netlist: `ric25_bom.csv`, `ric25_net.csv` (sinh bởi `ric25_gen.py`).
 Mọi con số dưới đây do `ric25_tinh.py` tính (kèm kiểm tra chéo bom↔net).
 

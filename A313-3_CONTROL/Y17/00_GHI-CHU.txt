@@ -1,6 +1,6 @@
-Ảnh bố trí (lắp ráp) ở trang 247-248 — KHUNG TÊN CHƯA ĐỌC ĐƯỢC trong vùng đã chụp
-(suy luận là Рис.33/34 theo chuỗi số liên tục 27→32, và theo KE-HOACH dự đoán
-mã ВШ6.730.527/530). Cần chụp lại góc khung tên để xác nhận.
+Ảnh bố trí (lắp ráp) ở trang 247-248 (`*_bo-tri.jpg`, mã ВШ6.730.530 Д7) chỉ là bản vẽ bố trí:
+CHỈ DÙNG THAM KHẢO VỊ TRÍ linh kiện khi xem tấm thật, KHÔNG phải sơ đồ để dùng và KHÔNG nằm
+trong danh mục sơ đồ (người dùng xác nhận 2026-10-26). Không cần chụp lại khung tên.
 
 Sơ đồ Э3 (рис.25, ЕУ3.215.469) — chụp lại rõ 2026-10-25: `RE_tr231_a269.jpg`
 thay ảnh cũ `RE_tr231_a233.jpg` (mờ/gập góc, đã xoá khỏi thư mục làm việc,
