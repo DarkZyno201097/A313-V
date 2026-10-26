@@ -390,5 +390,5 @@ Dhash toàn ảnh bỏ sót tờ cắt/xoay; số hình VT28 chạy lại theo p
 
 ## 21. Bản vẽ bố trí không tính là sơ đồ (người dùng, 2026-10-26)
 - Người dùng xác nhận tr.247–248 (`*_bo-tri.jpg`, ВШ6.730.530 Д7 của Y17) chỉ là **bản vẽ bố trí**: dùng định vị linh kiện trên tấm thật, không phải sơ đồ để dùng. Đã bỏ dòng «ВШ6.730.530» khỏi danh mục sơ đồ (`DANH-MUC_ANH_RE_A-313-3.md` §2, ghi chú «Bỏ khỏi danh mục»), bỏ #247/#249 khỏi mục «đọc lại số trang», sửa `Y17/00_GHI-CHU.txt`, `KE-HOACH` (dòng Y17), `ric25_mota/gen/bom` (ghi chú «vị trí theo bản bố trí #249»), kho tri thức `tam/Y17.md`.
-- Excel `Danh-muc-24-tam_A-313-3.xlsx`: dòng «Y17-lắp ráp» (hàng 21) cần xoá — file đang bị Excel khoá lúc sửa, làm khi người dùng đóng file.
+- Excel `Danh-muc-24-tam_A-313-3.xlsx` (sau khi người dùng đóng file): đã xoá dòng «Y17-lắp ráp», 24 tấm Y1…Y24 còn lại ở hàng 4–27, thêm ghi chú bản vẽ bố trí vào G20 (Y17) và phần LƯU Ý; mở lại đọc được, giá trị/màu các hàng khác không đổi (so với bản trước).
 - Dòng рис.27 (Y7, ВШ3.031.020 Д7) cùng loại bản vẽ bố trí, giữ nguyên chờ người dùng quyết.
