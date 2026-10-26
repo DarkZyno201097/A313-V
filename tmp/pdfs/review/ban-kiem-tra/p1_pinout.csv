@@ -1,0 +1,130 @@
+﻿connector,pin,signal,class,dir_from_uut,basis
+3Ш1,1,КОРПУС,gnd,-,-
+3Ш1,2,КШЗП 0Р,data,out,Bảng 5 [A3]
+3Ш1,3,КШЗП 1Р,data,out,Bảng 5 [A3]
+3Ш1,4,КШЗП 2Р,data,out,Bảng 5 [A3]
+3Ш1,5,КШЗП 3Р,data,out,Bảng 5 [A3]
+3Ш1,6,КШЗП 4Р,data,out,Bảng 5 [A3]
+3Ш1,7,КШЗП 5Р,data,out,Bảng 5 [A3]
+3Ш1,8,КШЗП 6Р,data,out,Bảng 5 [A3]
+3Ш1,9,КШЗП 7Р,data,out,Bảng 5 [A3]
+3Ш1,10,КШЗП 8Р,data,out,Bảng 5 [A3]
+3Ш1,11,КШЗП 9Р,data,out,Bảng 5 [A3]
+3Ш1,12,КШЗП 10Р,data,out,Bảng 5 [A3]
+3Ш1,13,КШЗП 11Р,data,out,Bảng 5 [A3]
+3Ш1,14,КШЗП 12Р,data,out,Bảng 5 [A3]
+3Ш1,15,КШЗП 13Р,data,out,Bảng 5 [A3]
+3Ш1,16,КШЗП 14Р,data,out,Bảng 5 [A3]
+3Ш1,17,КШЗП 15Р,data,out,Bảng 5 [A3]
+3Ш1,18,КШЗП 16Р,data,out,Bảng 5 [A3]
+3Ш1,19,КШЗП 17Р,data,out,Bảng 5 [A3]
+3Ш1,20,КОРПУС,gnd,-,-
+3Ш1,21,КША-7Р,addr,out,Bảng 5 [A3]
+3Ш1,22,КША-8Р,addr,out,Bảng 5 [A3]
+3Ш1,23,КША-9Р,addr,out,Bảng 5 [A3]
+3Ш1,24,КША-10Р,addr,out,Bảng 5 [A3]
+3Ш1,25,КША-11Р,addr,out,Bảng 5 [A3]
+3Ш1,26,КША-12Р,addr,out,Bảng 5 [A3]
+3Ш1,27,КША-13Р,addr,out,Bảng 5 [A3]
+3Ш1,28,КША-14Р,addr,out,Bảng 5 [A3]
+3Ш1,29,КША-15Р,addr,out,Bảng 5 [A3]
+3Ш1,30,КОРПУС,gnd,-,-
+3Ш1,31,КОРПУС,gnd,-,-
+3Ш1,32,+20В,power/ctrl,?,rail hoặc điều khiển rail; không nối vào FPGA
+3Ш1,33,"+6,3В",power/ctrl,?,rail hoặc điều khiển rail; không nối vào FPGA
+3Ш1,34,+5В,power/ctrl,?,rail hoặc điều khiển rail; không nối vào FPGA
+3Ш1,35,"+6,3В",power/ctrl,?,rail hoặc điều khiển rail; không nối vào FPGA
+3Ш1,36,+10В,power/ctrl,?,rail hoặc điều khiển rail; không nối vào FPGA
+3Ш1,37,+5В,power/ctrl,?,rail hoặc điều khiển rail; không nối vào FPGA
+3Ш1,38,"-6,3В",power/ctrl,?,rail hoặc điều khiển rail; không nối vào FPGA
+3Ш1,39,-10В,power/ctrl,?,rail hoặc điều khiển rail; không nối vào FPGA
+3Ш1,40,+5В,power/ctrl,?,rail hoặc điều khiển rail; không nối vào FPGA
+3Ш1,41,+5В,power/ctrl,?,rail hoặc điều khiển rail; không nối vào FPGA
+3Ш1,42,-5В,power/ctrl,?,rail hoặc điều khiển rail; không nối vào FPGA
+3Ш1,43,+5В,power/ctrl,?,rail hoặc điều khiển rail; không nối vào FPGA
+3Ш1,44,КОРПУС,gnd,-,-
+3Ш1,45,КОРПУС,gnd,-,-
+3Ш1,46,+5В,power/ctrl,?,rail hoặc điều khiển rail; không nối vào FPGA
+3Ш1,47,КОРПУС,gnd,-,-
+3Ш1,48,+5В,power/ctrl,?,rail hoặc điều khiển rail; không nối vào FPGA
+3Ш1,49,КОРПУС,gnd,-,-
+3Ш1,50,КОРПУС,gnd,-,-
+3Ш2,1,КОРПУС,gnd,-,-
+3Ш2,2,КШЧТ 0Р,data,in,Bảng 4 [A3]
+3Ш2,3,КШЧТ 1Р,data,in,Bảng 4 [A3]
+3Ш2,4,КШЧТ 2Р,data,in,Bảng 4 [A3]
+3Ш2,5,КШЧТ 3Р,data,in,Bảng 4 [A3]
+3Ш2,6,КШЧТ 4Р,data,in,Bảng 4 [A3]
+3Ш2,7,КШЧТ 5Р,data,in,Bảng 4 [A3]
+3Ш2,8,КШЧТ 6Р,data,in,Bảng 4 [A3]
+3Ш2,9,КШЧТ 7Р,data,in,Bảng 4 [A3]
+3Ш2,10,КШЧТ 8Р,data,in,Bảng 4 [A3]
+3Ш2,11,КШЧТ 9Р,data,in,Bảng 4 [A3]
+3Ш2,12,КШЧТ 10Р,data,in,Bảng 4 [A3]
+3Ш2,13,КШЧТ 11Р,data,in,Bảng 4 [A3]
+3Ш2,14,КШЧТ 12Р,data,in,Bảng 4 [A3]
+3Ш2,15,КШЧТ 13Р,data,in,Bảng 4 [A3]
+3Ш2,16,КШЧТ 14Р,data,in,Bảng 4 [A3]
+3Ш2,17,КШЧТ 15Р,data,in,Bảng 4 [A3]
+3Ш2,18,КШЧТ 16Р,data,in,Bảng 4 [A3]
+3Ш2,19,КШЧТ 17Р,data,in,Bảng 4 [A3]
+3Ш2,20,ПРИНУДИТ.ЗАПУСК,ctrl,?,hướng chưa có căn cứ trong [A3] Bảng 4–5
+3Ш2,21,¬ИВЧ,strobe,in,Bảng 4 [A3]; tích cực mức thấp (¬)
+3Ш2,22,¬ИКО,strobe,in,"Bảng 4 [A3]; Bảng 5 cũng liệt kê ИКО ở đầu ra → mâu thuẫn, cần Hình 8"
+3Ш2,23,¬ЧТ. УВВ,strobe,out,Bảng 5 [A3]; tích cực mức thấp (¬)
+3Ш2,24,¬ЗП УВВ,strobe,out,Bảng 5 [A3]; tích cực mức thấp (¬)
+3Ш2,25,¬Вр. М1,time,out,Bảng 5 [A3]
+3Ш2,26,ВРМ2,time,out,Bảng 5 [A3]
+3Ш2,27,СБОЙ,ctrl,?,hướng chưa có căn cứ trong [A3] Bảng 4–5
+3Ш2,28,ВНЕШН.ПРЕРЫВ,ctrl,?,hướng chưa có căn cứ trong [A3] Bảng 4–5
+3Ш2,29,ВНЕШН.ПРЕРЫВ,ctrl,?,hướng chưa có căn cứ trong [A3] Bảng 4–5
+3Ш2,30,ВНЕШН.ПРЕРЫВ,ctrl,?,hướng chưa có căn cứ trong [A3] Bảng 4–5
+3Ш2,31,ВНЕШН.ПРЕРЫВ,ctrl,?,hướng chưa có căn cứ trong [A3] Bảng 4–5
+3Ш2,32,ПРЕДВАРИТ.ОТКАЗ,ctrl,?,hướng chưa có căn cứ trong [A3] Bảng 4–5
+3Ш2,33,+27В,power/ctrl,?,rail hoặc điều khiển rail; không nối vào FPGA
+3Ш2,34,+27В,power/ctrl,?,rail hoặc điều khiển rail; không nối vào FPGA
+3Ш2,35,ИСПР.ПИТАНИЯ ЦВУ,ctrl,?,hướng chưa có căn cứ trong [A3] Bảng 4–5
+3Ш2,36,НАПР.ВЫШЕ НОРМЫ,ctrl,?,hướng chưa có căn cứ trong [A3] Bảng 4–5
+3Ш2,37,НАПР.НИЖЕ НОРМЫ,ctrl,?,hướng chưa có căn cứ trong [A3] Bảng 4–5
+3Ш2,38,КОРПУС,gnd,-,-
+3Ш2,39,ИСПРАВН.ПИТ.ППЗУ,ctrl,?,hướng chưa có căn cứ trong [A3] Bảng 4–5
+3Ш2,40,Рг К1 КПА,ctrl,?,hướng chưa có căn cứ trong [A3] Bảng 4–5
+3Ш2,41,Рг К2 КПА,ctrl,?,hướng chưa có căn cứ trong [A3] Bảng 4–5
+3Ш2,42,Рг М КПА,ctrl,?,hướng chưa có căn cứ trong [A3] Bảng 4–5
+3Ш2,44,ЗП.КПА,ctrl,?,hướng chưa có căn cứ trong [A3] Bảng 4–5
+3Ш2,45,ЗАПРЕТ.ОБРАЩ.,ctrl,?,hướng chưa có căn cứ trong [A3] Bảng 4–5
+3Ш2,46,ЗАПРЕТ.ВРМ,ctrl,?,hướng chưa có căn cứ trong [A3] Bảng 4–5
+3Ш2,47,ЗАПРЕТ.РМ,ctrl,?,hướng chưa có căn cứ trong [A3] Bảng 4–5
+3Ш2,48,"ВХОД ПР.""П"" Т.Т.Л",ctrl,?,hướng chưa có căn cứ trong [A3] Bảng 4–5
+3Ш2,49,КОРПУС,gnd,-,-
+3Ш2,50,КОРПУС,gnd,-,-
+3Ш7,1,КОРПУС,gnd,-,-
+3Ш7,8,СТРОБ1,observe,?,điểm quan sát; hướng chưa xác minh
+3Ш7,9,СТРОБ1-1,observe,?,điểm quan sát; hướng chưa xác minh
+3Ш7,10,СТРОБ2,observe,?,điểm quan sát; hướng chưa xác minh
+3Ш7,11,СТРОБ3,observe,?,điểm quan sát; hướng chưa xác minh
+3Ш7,12,0р. СчК,observe,?,điểm quan sát; hướng chưa xác minh
+3Ш7,13,1р. СчК,observe,?,điểm quan sát; hướng chưa xác minh
+3Ш7,14,2р СчК,observe,?,điểm quan sát; hướng chưa xác minh
+3Ш7,15,3р СчК,observe,?,điểm quan sát; hướng chưa xác minh
+3Ш7,16,4р. СчК,observe,?,điểm quan sát; hướng chưa xác minh
+3Ш7,17,5Р СЧК,observe,?,điểm quan sát; hướng chưa xác minh
+3Ш7,18,6Р СЧК,observe,?,điểm quan sát; hướng chưa xác minh
+3Ш7,19,7Р СЧК,observe,?,điểm quan sát; hướng chưa xác minh
+3Ш7,20,8Р СЧК,observe,?,điểm quan sát; hướng chưa xác minh
+3Ш7,21,9Р СЧК,observe,?,điểm quan sát; hướng chưa xác minh
+3Ш7,22,10Р СЧК,observe,?,điểm quan sát; hướng chưa xác minh
+3Ш7,23,11Р СЧК,observe,?,điểm quan sát; hướng chưa xác minh
+3Ш7,24,12Р СЧК,observe,?,điểm quan sát; hướng chưa xác minh
+3Ш7,26,"Упр.(-6,3В)",power/ctrl,?,rail hoặc điều khiển rail; không nối vào FPGA
+3Ш7,27,Упр.(+5В),power/ctrl,?,rail hoặc điều khiển rail; không nối vào FPGA
+3Ш7,28,УПР. (+20В),power/ctrl,?,rail hoặc điều khiển rail; không nối vào FPGA
+3Ш7,29,"УПР. (+12,6В)",power/ctrl,?,rail hoặc điều khiển rail; không nối vào FPGA
+3Ш7,30,"УПР. (+6,3В)",power/ctrl,?,rail hoặc điều khiển rail; không nối vào FPGA
+3Ш7,31,УПР. (-20В),power/ctrl,?,rail hoặc điều khiển rail; không nối vào FPGA
+3Ш7,32,"УПР. (-12,6В)",power/ctrl,?,rail hoặc điều khiển rail; không nối vào FPGA
+3Ш7,34,УПР. К1,ctrl,?,hướng chưa có căn cứ trong [A3] Bảng 4–5
+3Ш7,35,УПР. К2,ctrl,?,hướng chưa có căn cứ trong [A3] Bảng 4–5
+3Ш7,36,УПР. К3,ctrl,?,hướng chưa có căn cứ trong [A3] Bảng 4–5
+3Ш7,37,УПР. К4,ctrl,?,hướng chưa có căn cứ trong [A3] Bảng 4–5
+3Ш7,40,БЛОКИРОВКА ЗАЩИТЫ,ctrl,?,hướng chưa có căn cứ trong [A3] Bảng 4–5

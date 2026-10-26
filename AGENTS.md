@@ -54,6 +54,8 @@ STM32, JTAG/boundary-scan, reverse engineering FPGA đời cũ.
    `A313 original/`, `File của A313-V/File mach in va mach nguyen ly_A313_V/`,
    `File của A313-V/GIAO AN HLKT A313-V.*`,
    `ЕУ.048.002.РЭ(A313-3)/` (ảnh chụp bản giấy; tra trang ở `DANH-MUC_ANH_RE_A-313-3.md`).
+   `thiet_bi_kiem_tra_a313/` (hồ sơ bàn kiểm Nga ПС17-318/319/320/321, BKT-A313-2A, OrCAD/Layout; 4143 file, 1,2 GB;
+   **copy 2026-10-26** từ `../thiet_bi_kiem_tra_a313/` ở cấp trên, bản cũ còn nguyên; **chỉ-đọc, nằm ngoài git** — xem `.gitignore`).
    **Di chuyển 2026-10-24** (người dùng tự làm ngoài Hermes, đã xác nhận): toàn bộ tài liệu gốc
    A313-V dời từ thư mục gốc repo vào `File của A313-V/`, nội dung không đổi (đã kiểm diff = 0
    khác biệt so với bản cũ trong git HEAD trước khi commit). Thư mục `ЕУ.048.002.РЭ(A313-3)/`
@@ -185,6 +187,14 @@ quát: `KE-HOACH_KIEM-TRA_A-313-3.md`. Tập `A313 original/A-313-3.HDSDKT.pdf` 
 kế hoạch; có sơ đồ mới lập kế hoạch chi tiết từng tấm.
 
 ---
+
+### 4.10. Bàn kiểm tra A-313-3 mới (điều khiển PC, lõi A7-Lite)
+
+Người dùng (2026-10-26): chỉ A-313-3, không kiểm định chính thức, chỉ GUI PC, một bàn, làm **P1** trước (giả lập ЦВУ + đếm TTL).
+Chưa đặt mạch: lập bảng chân + kế hoạch, đủ cổng G1–G5 mới đặt. Tài liệu: `KE-HOACH_BAN-KIEM-TRA-MOI_A-313-3.md` (Rev. B),
+`P1_GIA-LAP-CVU_BAN-KIEM-TRA-A-313-3.md`, `P1_BANG-CHAN_BAN-KIEM-TRA-A-313-3.md` (sinh tự động); script và dữ liệu ở
+`tmp/pdfs/review/ban-kiem-tra/` (`p1_assign.py` → `p1_pin_assignment.csv` → `p1_md.py`). Nguồn bàn Nga ở `thiet_bi_kiem_tra_a313/`.
+Việc tiếp: đọc OrCAD `.DSN` (УСС, đệm), mô hình số ИВЧ/ИКО/КШЧТ, đo thụ động M1–M5 (P1 §10). Số liệu kế hoạch là ước lượng ±40 %, chưa đo.
 
 ## 5. Phương pháp trích netlist từ PDF bản vẽ
 

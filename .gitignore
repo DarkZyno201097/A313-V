@@ -66,3 +66,8 @@ Project Logs*/
 # --- Ảnh tờ liên lạc sinh lại được bằng k3_kiemke.py / k3_goc.py ---
 tmp/pdfs/review/a313-3/kiemke/*.jpg
 tmp/pdfs/review/a313-3/vt/render/
+
+# --- Hồ sơ bàn kiểm Nga (copy 2026-10-26): 4143 file, 1,2 GB (TL Thiet ke PS17-318 một mình 989 MB, ~1150 file .MAX,
+#     ~630 .bmp, ~500 .ERR/.LIS...). Chỉ-đọc, giữ trên máy làm việc như các bản Word; trích nội dung cần dùng ra
+#     tmp/pdfs/review/ban-kiem-tra/ (md/csv) thì mới vào git.
+thiet_bi_kiem_tra_a313/

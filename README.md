@@ -24,6 +24,8 @@ PCB trong khối.
 | `A313 original/`                                   | **gốc**     | HDSD kỹ thuật A-313 (4 PDF, 241 trang); `A-313-2.pdf` có phần tìm hỏng hóc                                               |
 | `File mach in va mach nguyen ly_A313_V/`           | **gốc**     | Altium SchDoc/PcbDoc vẽ lại các tấm của khối; `sodocactam.pdf` mất chữ Cyrillic                                         |
 | `GIAO AN HLKT A313-V.pdf`                          | **gốc**     | Giáo án huấn luyện kỹ thuật A313-V                                                                                          |
+| `thiet_bi_kiem_tra_a313/`                          | **gốc**     | Hồ sơ bàn kiểm Nga ПС17-318/319/320/321, BKT-A313-2A/23, OrCAD/Layout (4143 file, 1,2 GB). **Ngoài git** (xem `.gitignore`); copy 2026-10-26 |
+| `KE-HOACH_BAN-KIEM-TRA-MOI_A-313-3.md`, `P1_*.md`   | ✍ kế hoạch      | Bàn kiểm tra A-313-3 mới (A7-Lite): kế hoạch Rev. B, đặc tả P1, bảng chân P1 (sinh bằng `tmp/pdfs/review/ban-kiem-tra/`) |
 | `PHAN-TICH_A313-V.06_KHUECH-DAI-TIN-HIEU-RA.md`    | ✍ phân tích     | Phân tích đầy đủ tấm .06 — **Rev. C**                                                                               |
 | `PHAN-TICH_TOAN-KHOI_A313-V.md`                    | ✍ phân tích     | Toàn khối: sơ đồ khối, từng tấm, cây chẩn đoán, việc cần đo — **Rev. A**                                    |
 | `KE-HOACH_KIEM-TRA_A-313-3.md`                     | ✍ kế hoạch      | Khối gốc Nga A-313-3: bảng kê 24 vị trí + tình trạng sơ đồ, danh sách cần bổ sung, kế hoạch kiểm tra tổng quát |
